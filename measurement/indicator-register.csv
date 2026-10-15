@@ -1,0 +1,7 @@
+indicator_id,indicator,status,working_definition,frequency,source,next_action
+I-01,Real GDP growth,Draft,Growth in inflation-adjusted GDP,TBD,TBD,Select test economy and source
+I-02,Labor productivity growth,Not started,Define output and labor-input measures,TBD,TBD,Define output and labor-input measures
+I-03,Private-sector credit growth,Not started,Growth in outstanding private-sector credit; consider new lending/net flows separately,TBD,TBD,Define credit series and nominal/real treatment
+I-04,Private-sector credit relative to GDP,Not started,Outstanding private-sector credit relative to nominal GDP,TBD,TBD,"Define numerator, denominator and frequency alignment"
+I-05,Debt-service burden,Not started,Principal and interest obligations relative to a clearly defined income measure,TBD,TBD,Choose sector and income denominator
+I-06,Productive investment,Not started,Define a measurable proxy and limitations; distinguish total from productive-capacity-enhancing investment,TBD,TBD,Define measurable proxy and limitations
