@@ -8078,3 +8078,303 @@ We will keep ChatGPT involved throughout the process as our research and reasoni
 For now, complete Step 1 and tell me when you have opened the folder in VS Code. We'll build the workflow around the actual project files rather than leave our plans scattered across conversations.
 
 
+Good. Your `CURRENT-STATE.md` is already doing its job: it records what we have established, what remains unresolved, and where to resume. We don't need to rewrite it.
+
+I also agree with the instruction not to jump into dashboards, thresholds, or custom software. Our next research task is already clear.
+
+## Step 4 — Let's test the workflow with one real research task
+
+We'll use Real GDP growth, our first indicator, to test how ChatGPT, VS Code, GitHub, Obsidian, Zotero, and spreadsheets can work together.
+
+The aim isn't to install everything immediately. It's to learn what each tool contributes by working on something real.
+
+### Our first indicator: Real GDP growth
+
+Research record to develop
+
+1. Meaning: What real GDP growth measures, and what it doesn't.
+2. Calculation: The formula and a simple numerical example.
+3. Data: Where to obtain the figures and how the data are revised.
+4. Limitations: What the indicator can and cannot tell us about the economy's state.
+5. Record: Save the agreed measurement specification in the repository.
+
+### One decision before we begin
+
+We need an initial economy for our practical data exercise. The underlying model will remain global; this choice is only about where to test our measurement method first.
+
+Which economy should we use first?
+
+Nigeria — familiar context and local relevance
+
+United States — a useful initial case for studying global financial transmission
+
+Compare Nigeria and the United States — test cross-country comparability from the start
+
+Use this starting point
+
+Once we choose, we'll develop the measurement specification first, then use it to test our workflow. We won't classify the economy's current state yet.
+We’ll begin with Nigeria as our first test economy while keeping the Economic State Transition Model global. Our first task is to establish exactly what real GDP growth means, how we measure it, which data we trust, and how we preserve the evidence.
+
+One important discovery from the initial research is that Nigeria’s national accounts were recently rebased to use 2019 as the reference year, replacing the previous 2010 benchmark. That matters because our model must account for changes in statistical methods and historical data, rather than treating every published number as permanently fixed.&#x20;
+
+[image](https://www.google.com/s2/favicons?domain=https://microdata.nigerianstat.gov.ng\&sz=32)
+
+microdata.nigerianstat.gov.ng
+
++2
+
+
+
+# Measurement Protocol 01 — Real GDP Growth
+
+## Indicator specification
+
+Indicator ID
+
+ESTM-IND-001
+
+Initial test economy
+
+Nigeria
+
+Primary frequency
+
+Quarterly and annual
+
+Measurement unit
+
+Percent change
+
+Specification status
+
+Draft — validate before adoption
+
+## 1. Concept: what are we measuring?
+
+Gross Domestic Product (GDP) measures the value of final goods and services produced within a country's economic territory over a defined period, usually a quarter or a year.
+
+Real GDP growth measures how much that production has increased or decreased after accounting for changes in prices.
+
+Why is the adjustment necessary?
+
+Imagine that Nigerian businesses produce the same quantity of goods and services this year as last year, but prices increase by 20%. The money value of production may rise substantially even though the economy has not produced more.
+
+Real GDP attempts to separate changes in production from changes in prices. Nigeria's National Bureau of Statistics (NBS) compiles GDP using national-accounts methods and publishes quarterly and annual economic measures.&#x20;
+
+[image](https://www.google.com/s2/favicons?domain=https://www.nigerianstat.gov.ng\&sz=32)
+
+National Bureau of Statistics
+
++1
+
+
+
+### Why this indicator matters to our model
+
+Real GDP growth gives us an initial measure of the direction and pace of aggregate economic activity.
+
+- Positive growth indicates that measured real output increased over the comparison period.
+- Negative growth indicates that measured real output decreased.
+- Slowing positive growth indicates that output is still increasing, but at a slower rate.
+- Strong growth does not automatically mean that households are becoming wealthier or that the economy is financially healthy.
+
+The key distinction: GDP growth measures aggregate production, not the complete condition of an economy. Credit, debt-service burdens, productivity, productive investment, inflation and other indicators will help us interpret it.
+
+## 2. Operational definition
+
+For the Economic State Transition Model, I propose the following initial definition:
+
+> Real GDP growth is the percentage change in Nigeria's inflation-adjusted GDP between two specified periods, measured using the latest available official national-accounts series, with the comparison period, data vintage, methodology and revision status recorded.
+
+This definition deliberately requires us to identify the comparison period. “GDP growth” without that information is incomplete.
+
+We will maintain two separate measures:
+
+| Measure                       | Calculation                                                      | Primary use                                                 |
+| ----------------------------- | ---------------------------------------------------------------- | ----------------------------------------------------------- |
+| Annual growth                 | This year's real GDP versus the previous year's real GDP         | Longer-term economic direction                              |
+| Quarterly year-on-year growth | This quarter's real GDP versus the same quarter one year earlier | More frequent monitoring with seasonality partly controlled |
+
+Quarter-on-quarter growth can also be recorded, but we must distinguish the raw quarterly rate from a seasonally adjusted and annualized rate. They are not interchangeable.
+
+## 3. Formula and numerical example
+
+The general formula is:
+
+\\[ g_t=\left(\frac{Y_t^{R}}{Y\_{t-1}^{R}}-1\right)\times100 \\]
+
+Where:
+
+- \\(g_t\\) = real GDP growth in percent.
+- \\(Y_t^{R}\\) = real GDP in the current period.
+- \\(Y\_{t-1}^{R}\\) = real GDP in the specified comparison period.
+
+For year-on-year quarterly growth, the comparison period is the same quarter in the previous year.
+
+### Worked example — illustrative numbers only
+
+These are not actual Nigerian GDP figures.
+
+Previous year
+
+# ₦100bn
+
+Real GDP
+
+Current year
+
+# ₦103bn
+
+Real GDP
+
+\\[ \frac{103-100}{100}\times100=3\\% \\]
+
+Interpretation: Measured real output grew by 3% over the comparison period.
+
+Notice that the example uses real GDP values, not current-price GDP. We must not calculate real growth directly from nominal GDP values without an appropriate price adjustment.
+
+## 4. Preferred data sources
+
+We should establish a source hierarchy instead of mixing whichever figures are easiest to find.
+
+Primary source — National Bureau of Statistics (NBS)
+
+Use the latest quarterly GDP report, annual national-accounts data, accompanying tables and methodology documentation. For Nigeria's official historical series, this is our starting point.
+
+[NBS GDP methodology](https://www.nigerianstat.gov.ng/page/gdp-methodology?utm_source=chatgpt.com) · [NBS website](https://www.nigerianstat.gov.ng/?utm_source=chatgpt.com)
+
+Cross-check — International Monetary Fund (IMF)
+
+Use the World Economic Outlook (WEO) database to compare Nigeria's annual growth series with an internationally compiled dataset. Record the database edition and distinguish historical observations from estimates and projections.
+
+[IMF World Economic Outlook database](https://www.imf.org/en/Publications/WEO/weo-database?utm_source=chatgpt.com) · [Data assumptions and conventions](https://www.imf.org/en/publications/weo/weo-database/assumptions-and-data-conventions?utm_source=chatgpt.com)
+
+The IMF is a cross-check, not an automatic replacement for the Nigerian official series. IMF and NBS numbers may differ because of publication dates, source data, estimates, coverage and revisions.&#x20;
+
+[image](https://www.google.com/s2/favicons?domain=https://www.imf.org\&sz=32)
+
+Frequently Asked Questions
+
++1
+
+
+
+Source rule: If the two sources disagree, retain both values, identify their publication dates and investigate the difference. Never silently combine them into one series.
+
+## 5. Data collection and measurement rules
+
+For every observation, we should record:
+
+| Field               | Required rule                                                                   |
+| ------------------- | ------------------------------------------------------------------------------- |
+| Economy             | Nigeria                                                                         |
+| Indicator           | Real GDP growth                                                                 |
+| Period              | Exact year or quarter                                                           |
+| Comparison          | Previous year, same quarter last year, or previous quarter                      |
+| Value and unit      | Percentage growth                                                               |
+| Source              | NBS or IMF, with a direct source reference                                      |
+| Publication date    | When the data were released                                                     |
+| Data vintage        | Which release or database edition supplied the value                            |
+| Status              | Preliminary, revised, final if explicitly designated, or estimate/projection    |
+| Methodology         | Applicable reference year, base/benchmark information and statistical framework |
+| Seasonal adjustment | Record whether the series is adjusted, unadjusted or not specified              |
+| Notes               | Breaks, missing values, revisions and comparability concerns                    |
+
+### An important distinction: reference year and constant-price series
+
+Nigeria's 2019 rebasing is not merely a cosmetic change to a spreadsheet. Rebasing and rebenchmarking can incorporate new surveys, previously underrepresented activities, revised weights and updated statistical methods. NBS documentation describes the use of a 2019 reference year and a broader production and product framework.&#x20;
+
+[image](https://www.google.com/s2/favicons?domain=https://microdata.nigerianstat.gov.ng\&sz=32)
+
+microdata.nigerianstat.gov.ng
+
++1
+
+
+
+For our measurement protocol, we should therefore:
+
+- Prefer the latest internally consistent, rebased official series.
+- Avoid joining older and newer series until their compatibility has been checked.
+- Preserve historical releases when available so we can later reconstruct what an analyst knew at a particular date.
+- Record methodological breaks instead of treating them as economic shocks.
+
+The last point matters greatly. If measured GDP changes because the statistical agency improves its coverage, we must not mistake the entire revision for a sudden change in actual economic activity.
+
+## 6. Revisions and uncertainty
+
+GDP figures are estimates based on surveys, administrative records, national-accounting procedures and other information. They can be revised as better information becomes available.
+
+The IMF also documents that historical series may change, estimates can be used where information is incomplete, and its figures can differ from national sources.&#x20;
+
+[image](https://www.google.com/s2/favicons?domain=https://www.imf.org\&sz=32)
+
+Frequently Asked Questions
+
++1
+
+
+
+Our protocol should distinguish two questions:
+
+1. What is our best current estimate of historical growth? Use the latest appropriate series.
+2. What did we know at the time? Use the historical release or data vintage available on that date, when retrievable.
+
+Both matter. The first helps us understand economic history; the second will eventually help us test whether our model could have identified a transition in real time, without relying on information published later.
+
+## 7. Limitations and interpretation cautions
+
+Real GDP growth is necessary, but insufficient, for identifying economic states.
+
+- Aggregate versus per-person output: Total GDP can grow while real GDP per capita stagnates or falls if population grows faster.
+- Output versus prosperity: GDP growth does not directly establish how income is distributed or whether household purchasing power improved.
+- Output versus financial health: An economy can grow while businesses, households or government face heavy debt-service burdens.
+- Sector differences: Aggregate growth can conceal contraction in important sectors or regions.
+- Measurement uncertainty: Informal activity, incomplete reporting and methodological changes can affect estimates.
+- Causation: A change in GDP does not, by itself, identify whether credit, productivity, government spending, exports or another mechanism caused it.
+
+These are reasons to combine the indicator with our other five foundational indicators and later evidence about economic mechanisms—not reasons to discard GDP growth.
+
+## 8. Proposed specification and unresolved decisions
+
+The definition above is ready for review, but several details still require verification before we adopt it as the final measurement protocol.
+
+Established in this draft
+
+Concept, formula, comparison-period distinction, preliminary source hierarchy, revision discipline and interpretation limits.
+
+Still to verify
+
+Exact current NBS series identifiers and tables, available historical coverage, revision practices, seasonal-adjustment status and an appropriate initial historical test window.
+
+We should not invent these missing details. They are specific research tasks for the next pass.
+
+## 9. Save the measurement protocol in GitHub
+
+Let's turn this work into a durable record instead of leaving it only in our conversation.
+
+In VS Code, create a file named:
+
+`03-measurement/indicator-01-real-gdp-growth.md`
+
+If your folder names differ, use the existing measurement folder rather than restructuring the repository.
+
+Copy the specification into that file. At the top, include the indicator ID, status, date, and source links. Keep it marked Draft until we verify the current NBS data tables and settle the unresolved decisions.
+
+Then:
+
+1. Save the file.
+2. Open Source Control in VS Code.
+3. Review the new file and any other changes.
+4. Commit the change with a message such as `Add draft real GDP growth measurement protocol`.
+5. Push to GitHub.
+
+Do not worry about Obsidian or Zotero yet. This first exercise tests whether we can move from research to a reviewable project record and preserve its history.
+
+## 10. Next action
+
+Our immediate next task is not to classify Nigeria's economic state. It is to verify the current NBS GDP tables and identify the exact real GDP series, quarterly and annual coverage, publication/revision information, and historical comparability after rebasing.
+
+Once that is documented, we can populate a small historical observation register and test whether the measurement rules work consistently.
+
+That will give us our first complete path from concept → operational definition → authoritative data → recorded observation → historical validation.
