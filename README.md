@@ -1,10 +1,19 @@
 # Economic State Transition Model
 
 ## Purpose
-Develop an evidence-based framework for observing economic conditions, explaining transmission mechanisms, and testing transitions between economic states.
+Investigate how economies function, how economic conditions change, how pressures transmit through interconnected economic systems, and how evidence can eventually support an assessment of economic states and transitions. The project is global in scope; Nigeria is an initial test case, not the permanent limit of the model. Remain evidence-based: do not invent thresholds, declare economic states prematurely, or treat hypotheses as established facts.
 
 ## Current position
 The seven candidate states and six foundational indicators have been selected as a working framework. The indicators still need operational definitions, data sources, frequencies, adjustment methods, and limitations. Do not classify the current economy or invent transition thresholds yet.
+
+## Agreed four-layer working framework
+
+1. **Core economic indicators:** The six foundational candidates are real GDP growth, labor productivity growth, private-sector credit growth, private-sector credit relative to GDP, debt-service burden, and productive investment. Keep them distinct; do not expand the core merely because additional statistics are available. Before approving any for formal state classification, establish its operational definition, data sources, formula, historical comparability, and measurement limitations.
+2. **Supporting economic measurements:** Add context to help interpret the core indicators; these are not automatically additional core indicators. For GDP, consider nominal GDP growth; GDP at current prices and sector distribution; broad-sector growth rates and contributions to GDP growth; relevant price measures, including the GDP deflator where appropriate; and other statistics when they materially improve interpretation. Distinguish real GDP growth (volume change after price adjustment), nominal GDP growth (change in monetary value at current prices), GDP composition (activity shares, interpreted with care as relative prices change), sectoral growth (change in a sector's output), and sectoral contribution (how much a sector contributes to aggregate GDP growth). Do not confuse sector growth, GDP share, and contribution to growth, or double-count the same development.
+3. **Economic mechanisms and transmission:** Investigate possible explanations for observed changes and how they affect other parts of the economy. Relevant mechanisms include prices and inflation; credit conditions and financial intermediation; investment and capital formation; government finances and debt-service pressures; production, productivity, and employment; sectoral changes and economic linkages; and external conditions and international pressures. Correlation alone does not establish causation. Distinguish observations, proposed explanations, evidence, assumptions, and unresolved questions.
+4. **Economic state assessment:** Combine evidence from the core indicators, supporting measurements, and transmission mechanisms to investigate economic conditions and possible transitions. Potential future outputs include assessments of conditions, emerging pressures, risks, transition evidence, and confidence. Do not establish formal classifications, numerical thresholds, dashboards, or automated classification rules until measurement definitions, data quality checks, and historical testing justify them.
+
+**Operating logic:** Core indicators → supporting measurements → mechanisms and transmission → evidence-based state assessment. The indicators establish the measurement foundation; supporting measurements add context; mechanism analysis investigates why changes occur and how they spread; and state assessment combines the evidence without jumping to unsupported conclusions. This is an analytical structure, not a claim that every relationship is linear: feedback loops and interactions between mechanisms remain possible.
 
 ## Candidate economic states
 1. Productivity-led expansion
