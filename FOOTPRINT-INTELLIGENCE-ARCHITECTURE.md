@@ -1,6 +1,6 @@
 # Footprint Intelligence Architecture
 
-**Status:** Proposed conceptual direction; not an implemented system.
+**Status:** Workstream D is formally designated in the project's workstream framework. The capabilities described here remain a proposed conceptual direction, not an implemented or validated system.
 
 ## Purpose and scope
 
@@ -20,6 +20,16 @@ Footprints may be digital or non-digital. Examples include:
 - Demographic, behavioral, and population-level measurements, where appropriately sourced and used.
 
 This list is illustrative, not exhaustive. Add footprint categories only when they provide genuine analytical value. Evidence that appears unrelated may justify investigation, but co-occurrence alone does not establish a relationship.
+
+## Role as Workstream D
+
+Footprint Intelligence is a reusable investigation capability that may serve the Global Economic State Transition Model and other domain-intelligence projects. It is distinct from Workstream C: C monitors economic developments and interprets evidence within the economic model; D investigates traces and relationships across relevant domains, whether or not they immediately relate to an economic indicator. C may request a focused D investigation, and D may provide relevant findings, evidence, uncertainty, and limitations to C. C may also use evidence without a dedicated D investigation.
+
+The capability, its biological-related extensions, and any future supporting infrastructure remain proposed. Workstream D's formal designation does not claim these activities are operational, comprehensive, or validated.
+
+Footprint Intelligence as a capability, the domains in which it may be applied, and products or projects that may use its outputs are separate levels. Potential domains include economic, financial, industrial, supply-chain, geographic, environmental, biological, technological, scientific, demographic, and social systems. These are possible application areas, not new workstreams or products to establish automatically. Do not force every finding into the economic model; only relevant, sufficiently assessed evidence should be transferred to Workstream C or another appropriate project.
+
+Workstreams A, B, C, and D have distinct responsibilities and may inform one another through justified feedback. Their authoritative definitions and boundaries are in `RESEARCH-METHODOLOGY.md`.
 
 ## Two complementary investigation paths
 
