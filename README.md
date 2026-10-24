@@ -43,7 +43,7 @@ Long-term debt stress is structural and may overlap cyclical states. The states 
 - Observe first; classify states only after definitions and historical tests are adequate.
 
 ## Research and development framework
-The project is organized around four distinct but interconnected workstreams: **A — Deep Conceptual Foundations**, **B — Measurement**, **C — Evidence-Based Monitoring**, and **D — Footprint Intelligence**. Their authoritative definitions, boundaries, feedback relationships, and the cross-cutting **Reality-First Principle** are documented in [RESEARCH-METHODOLOGY.md](RESEARCH-METHODOLOGY.md). Workstream D is a reusable cross-domain investigation capability; its detailed architecture remains a proposed direction, not an implemented system.
+The project is organized around five distinct but interconnected workstreams: **A — Deep Conceptual Foundations**, **B — Measurement**, **C — Evidence-Based Monitoring**, **D — Footprint Intelligence**, and **E — Opportunity Intelligence and Economic Application**. Their definitions, boundaries, feedback relationships, and the cross-cutting **Reality-First Principle** are documented in [RESEARCH-METHODOLOGY.md](RESEARCH-METHODOLOGY.md). Workstream D is a reusable cross-domain investigation capability; its detailed architecture remains proposed, not implemented. Workstream E evaluates possible trading, investment, business, and intelligence-service opportunities; its full process and specific strategies remain unvalidated. See [WORKSTREAM-E-ARCHITECTURE.md](WORKSTREAM-E-ARCHITECTURE.md).
 
 ## Experimental tool roles
 - ChatGPT: explore questions, challenge explanations, draft and review research.
