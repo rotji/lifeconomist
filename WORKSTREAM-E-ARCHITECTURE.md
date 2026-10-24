@@ -40,7 +40,7 @@ Explore whether research and monitoring capabilities can become useful paid outp
 - **D — Footprint Intelligence:** investigates observable traces, entities, relationships, dependencies, and changes across relevant domains.
 - **E — Opportunity Intelligence and Economic Application:** uses relevant findings from A–D, together with market and customer evidence, to identify, test, compare, and evaluate possible economic actions.
 
-The relationship is iterative, not a compulsory one-way pipeline. E may identify missing concepts for A, measurement needs for B, monitoring requirements for C, or trace-investigation questions for D. Not every finding from A–D needs to produce an opportunity, and not every E investigation requires all four other workstreams.
+The relationship is iterative, bidirectional, and concurrent—not a compulsory one-way pipeline. We may move from A–D into E when concepts, measurements, monitoring, or investigations suggest an opportunity; we may also begin in E when a market event, customer problem, trade outcome, business loss, criticism, or unexpected result raises a question that requires investigation through A, B, C, or D. The starting point is whichever workstream best fits the question. Workstreams can inform one another as evidence develops. Not every finding from A–D needs to produce an opportunity, and not every E investigation requires all four other workstreams.
 
 Workstream E does not replace or redefine the six core economic indicators, the model's four analytical layers, or the responsibilities of A–D. It is an additional application workstream across the project.
 
@@ -55,7 +55,8 @@ Use the following default process, adapting it to the type and scale of opportun
 5. **Economic evaluation:** Estimate benefits, costs, required resources or capital, time horizon, competition, uncertainty, downside, and opportunity cost.
 6. **Low-cost test:** Choose a suitable test before making a substantial commitment.
 7. **Decision:** Proceed, revise, monitor, defer, or reject, recording the reasons and decision conditions.
-8. **Outcome review:** Compare actual results with the original hypothesis and assumptions. Record failures as well as successes and feed lessons back into the appropriate workstreams.
+8. **Outcome review:** Compare actual results with the original hypothesis and assumptions. Record gains, losses, missed opportunities, customer feedback, criticism, surprises, and failures—not only successes.
+9. **System feedback:** Ask what the outcome reveals about our concepts, measurements, monitoring, footprint investigation, assumptions, evidence quality, decision process, and opportunity evaluation. Send the lesson to the relevant workstream(s), update the record, and revise the hypothesis or method when justified.
 
 A candidate may be rejected at any stage. Do not force every observation through to action.
 
@@ -113,9 +114,9 @@ Workstream E is established as a working direction, but its full process and any
 The initial sequence is:
 
 1. Preserve this mandate and its boundaries in the project record.
-2. Continue the existing Workstream A investigation of production; do not interrupt it to finish the GDP measurement draft.
-3. When ready for practical exploration, identify a small set of candidate opportunities and state the evidence needed to evaluate them.
-4. Select a low-cost test based on evidence, feasibility, and learning value—not excitement alone.
-5. Record the result and refine the process before adding automation.
+2. Continue Workstream A's investigation of production and open a connected Workstream E angle alongside it, without forcing an opportunity where none is justified. For each substantial A concept, ask whether there is a practical E implication worth exploring; when an E question arises first, route it back to A–D as needed.
+3. Identify a small set of candidate opportunities and state the evidence needed to evaluate them.
+4. Select a low-cost test based on evidence, feasibility, downside, and learning value—not excitement alone.
+5. Record the result, including gains, losses, criticism, and unexpected outcomes; feed the lessons back into A–D and E before adding automation.
 
 No particular trade, investment, business, or intelligence product is approved by this charter. Opportunity selection remains a separate evidence-based decision.
