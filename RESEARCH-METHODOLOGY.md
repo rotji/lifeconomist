@@ -73,6 +73,26 @@ For a possible factory expansion, A explains production capacity, investment, em
 
 A, B, C, and D remain distinct even when one investigation uses all four. C focuses on economic monitoring and evidence-based interpretation within the economic model; D investigates footprints across relevant domains whether or not they immediately relate to an economic indicator. C may request a D investigation into an unexplained development; D may pass a potentially relevant finding, evidence, uncertainty, and limitations to C; and C may use sources that do not require a dedicated D investigation. These are optional feedback loops, not a compulsory one-way pipeline. Monitoring can reveal measurement gaps, measurement can require conceptual clarification, conceptual work can improve evidence interpretation, and footprint investigations can raise questions for any of the other workstreams. The workstreams may progress concurrently; none must be entirely complete before another can operate.
 
+### Workstream E — Opportunity Intelligence and Economic Application
+
+**Purpose:** Translate knowledge, measurements, monitored developments, and investigated evidence into opportunities to create or capture economic value. E evaluates potential trading opportunities, investments, businesses, and commercial intelligence products or services. Its central question is: *Given what we understand about the world and what we can verify, where might there be an opportunity to create or capture economic value—and what evidence would justify acting on it?*
+
+E is an application and decision-support workstream, not a promise that research will produce profits. A plausible idea is not a validated opportunity, and a validated opportunity can still fail. Its detailed charter and lifecycle are in [WORKSTREAM-E-ARCHITECTURE.md](WORKSTREAM-E-ARCHITECTURE.md).
+
+**Initial opportunity domains:**
+- **E1 — Trading:** Investigate testable market hypotheses, including costs, time horizons, downside scenarios, and invalidation conditions.
+- **E2 — Investing:** Evaluate assets, businesses, sectors, and structural themes with attention to valuation, risk, liquidity, and thesis-invalidating evidence.
+- **E3 — Business:** Investigate unmet needs and customer problems, willingness to pay, alternatives, competition, delivery costs, and feasibility.
+- **E4 — Intelligence products and services:** Explore whether research capabilities can become useful paid reports, monitoring, alerts, due diligence, or data products. These are candidate directions, not commitments.
+
+**Relationship with A–D:** A explains concepts and mechanisms; B establishes defensible measurements; C monitors and interprets economic evidence; D investigates observable traces across relevant domains; E uses relevant findings and additional market/customer evidence to identify, test, compare, and evaluate possible actions. This relationship is iterative, not a compulsory pipeline. E may reveal new questions for A–D; not every finding must produce an opportunity, and not every E investigation requires all other workstreams.
+
+**Default opportunity lifecycle:** observation → explanation → opportunity hypothesis → evidence and verification → economic evaluation → low-cost test → decision (proceed, revise, monitor, defer, or reject) → outcome review and feedback. Adapt this process to the opportunity. Record assumptions, source quality, alternative explanations, costs, resources or capital, uncertainty, downside, time horizon, and invalidation conditions. Reject or defer candidates when evidence or feasibility is inadequate.
+
+**Initial operating posture:** The long-term design is broad, while the practical starting posture favors affordable experiments. Trading hypotheses can first be assessed with historical analysis and paper trading; business ideas can first be tested through a narrowly defined customer problem and a small sample service. These are prudent options, not permanent restrictions. Do not build complex software or automate before a real decision need and a useful method are demonstrated.
+
+**Evidence discipline:** An economic trend is not automatically a profitable trade or business. A price movement does not itself prove mispricing; an announcement or footprint does not establish commercial success; and customer interest does not prove willingness to pay. Consider legal, ethical, privacy, regulatory, and operational constraints. Evaluate downside alongside potential benefit, never imply guaranteed returns, and record failures as well as successes. No specific trade, investment, business, or product is approved merely by establishing E.
+
 ## The Reality-First Principle
 
 Every economic, financial, or system concept must remain connected to observable reality and ordinary human life. Technical terminology, formulas, theories, statistics, financial models, and abstract frameworks describe real-world activities and relationships; they must not replace them. The aim is to understand what a concept represents, why it exists, how it works, what mechanisms drive it, how it connects to a wider system, how it can be measured, and what conclusions the evidence justifies—not merely to memorize definitions or vocabulary.
