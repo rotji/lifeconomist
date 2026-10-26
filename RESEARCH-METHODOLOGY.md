@@ -12,9 +12,9 @@ Investigate what concepts represent in reality, how their mechanisms work, why t
 
 Go beyond surface definitions and textbook summaries. Where appropriate, begin with relatable situations—such as farmers producing and selling maize, parents preparing meals, restaurants selling meals, businesses borrowing, workers earning wages, households paying rent, or traders responding to price changes—before introducing complex terminology.
 
-**Primary outputs:** Clear conceptual explanations, mechanisms, assumptions, relationships, and unresolved questions, preserved in durable research notes and terminology records.
+**Primary outputs:** Clear conceptual explanations, mechanisms, assumptions, relationships, and unresolved questions, preserved in durable research notes and terminology records under `workstream-a/`. The directory index is `workstream-a/README.md`; each substantial concept has its own living note under `workstream-a/concepts/`.
 
-**Initial planned subject:** The concept of production, beginning with everyday examples. This is a plan, not a claim that the investigation is complete.
+**Initial subject:** Concept 1, production, is documented in `workstream-a/concepts/production.md`. The note records the concepts explored so far and remains in progress; it is not a completed measurement specification or exhaustive account of national-accounting rules.
 
 ### Workstream B — Measurement
 
