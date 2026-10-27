@@ -25,3 +25,11 @@
 - **Evidence status:** Calculation method demonstrated with invented data only. No current market discrepancy or trading opportunity was tested.
 - **Key lesson:** A midpoint discrepancy is not proof of executable arbitrage; quote direction, bid/ask, timestamps, transaction size, provider access and all costs matter.
 - **Next action:** Assess accessible historical FX data sources and determine whether they provide bid/ask quotes, timestamps and sufficient pair coverage. Keep reference/mid data distinct from executable quotes.
+
+## 2026-10-27 — FX data source assessment 001
+- **Goal:** Identify accessible historical reference data for cross-rate and network tests while preserving the distinction between reference rates and executable quotes.
+- **Completed:** Added `workstream-e/fx/FX-DATA-SOURCE-ASSESSMENT-001.md`, screening ECB, Bank of Canada, CBN NFEM and FXAPI.
+- **Initial judgement:** ECB and Bank of Canada are candidates for official daily reference-rate analysis; CBN NFEM is useful for Nigeria-specific official-market context; FXAPI may be convenient for low-cost prototyping but provides mid-market reference data, not executable bid/ask quotes.
+- **Key limitation:** These sources, as reviewed, do not establish executable triangular arbitrage. Real execution analysis requires time-aligned bid/ask quotes, trade size, access conditions and all-in costs.
+- **Evidence status:** Desk review of source descriptions only; sample data have not yet been ingested or independently reconciled.
+- **Next action:** Inspect a small overlapping sample of reference rates, verify pair orientation and cross-rate formulas, and separately investigate whether accessible executable bid/ask data can be obtained lawfully from Nigeria.
