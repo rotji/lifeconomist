@@ -272,3 +272,4 @@ Verify the current page, relevant date, definitions and data availability before
 ## 13. Change history
 
 - **2026-10-27:** Initial programme specification created. All tracks are research directions; no FX opportunity or strategy has been validated.
+- **2026-10-27:** Added [FX Cross-Rate Exercise 001](FX-CROSS-RATE-EXERCISE-001.md), a synthetic worked example showing implied cross-rate calculation and both bid/ask conversion-loop directions. No live-market opportunity was established.
