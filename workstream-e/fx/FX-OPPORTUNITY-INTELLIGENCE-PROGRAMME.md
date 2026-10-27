@@ -273,3 +273,4 @@ Verify the current page, relevant date, definitions and data availability before
 
 - **2026-10-27:** Initial programme specification created. All tracks are research directions; no FX opportunity or strategy has been validated.
 - **2026-10-27:** Added [FX Cross-Rate Exercise 001](FX-CROSS-RATE-EXERCISE-001.md), a synthetic worked example showing implied cross-rate calculation and both bid/ask conversion-loop directions. No live-market opportunity was established.
+- **2026-10-27:** Added [FX Data Source Assessment 001](FX-DATA-SOURCE-ASSESSMENT-001.md), a first-pass screening of ECB, Bank of Canada, CBN NFEM and FXAPI reference data. No executable bid/ask source has been selected.
