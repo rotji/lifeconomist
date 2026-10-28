@@ -1,6 +1,6 @@
 # Current Project State
 
-**Last updated:** 2026-10-27  
+**Last updated:** 2026-10-28  
 **Stage:** Foundational framework selected; measurement protocol incomplete; Workstream E now has an initial FX investigation programme specification.
 
 ## Established
