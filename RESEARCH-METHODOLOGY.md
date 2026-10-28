@@ -101,6 +101,29 @@ E is an application and decision-support workstream, not a promise that research
 
 Every economic, financial, or system concept must remain connected to observable reality and ordinary human life. Technical terminology, formulas, theories, statistics, financial models, and abstract frameworks describe real-world activities and relationships; they must not replace them. The aim is to understand what a concept represents, why it exists, how it works, what mechanisms drive it, how it connects to a wider system, how it can be measured, and what conclusions the evidence justifies—not merely to memorize definitions or vocabulary.
 
+### Interconnected Reality and Layered Investigation
+
+**Purpose:** Make interconnectedness an explicit operating rule across Workstreams A–E without creating another workstream or duplicating the detailed Footprint Intelligence architecture.
+
+Begin with the real phenomenon or question, not with an assumption that it belongs to one isolated discipline. Identify the relevant entities and states; the relationships and dependencies between them; the layers or intermediaries through which authority, resources, activity, and information pass; the flows involved; and the mechanisms by which effects may propagate or feed back. Draw on multiple disciplines when they materially improve the explanation, while preserving the distinct methods and evidence standards each discipline requires.
+
+Use this as a shared investigative lens, not as a claim that every conceivable connection is relevant or that all information is complete. Expand the boundary of an investigation when evidence or a plausible, testable mechanism indicates a material dependency. Record why a connection matters and what evidence would support or disconfirm it. Do not treat proximity, co-occurrence, correlation, an incentive, or a possible route of influence as proof of causation, coordination, intent, or control.
+
+A practical investigation should ask, where relevant:
+
+1. **System and boundary:** What phenomenon are we explaining, what is inside the current scope, and which external conditions could materially affect it?
+2. **Entities and roles:** Who or what operates, owns, funds, regulates, supplies, enables, intermediates, benefits, or bears the cost? Do not assume these roles belong to the same actor.
+3. **Layers and dependencies:** What sits between visible activity and its upstream resources, decision-makers, or downstream outcomes? What function does each layer perform, and what can or cannot be inferred about control from the available evidence?
+4. **Flows and mechanisms:** What moves or changes—money, goods, energy, information, people, authority, obligations, risk, or biological/ecological resources—and through which channels?
+5. **Footprints and observability:** Where does the activity become observable or independently testable? Which physical, digital, financial, documentary, statistical, or first-hand traces should exist if the explanation is correct?
+6. **Propagation and feedback:** Which downstream systems may be affected, on what plausible timescale, and how could reactions elsewhere amplify, weaken, delay, redirect, or reverse the effect? Consider reverse transmission as well as forward transmission.
+7. **Verification and alternatives:** Which links are directly observed, inferred, hypothesized, or still unknown? Seek independent corroboration, contradictory evidence, and alternative explanations for each material link.
+8. **Decision relevance:** What does the connected explanation change about measurement, monitoring, investigation, or a practical decision—and what remains too uncertain to act on?
+
+This is a flexible reasoning aid, not a mandatory checklist. Use only the dimensions relevant to the question. Start top-down from a system or question, bottom-up from an observable trace, or at any useful point in between; move iteratively as evidence changes. A system map is a model of selected relationships, not a complete copy of reality.
+
+**Division of responsibility:** This subsection establishes the cross-workstream principle. Workstream A explains concepts and mechanisms; B defines and validates measurements; C monitors and interprets economic developments; D provides the specialized footprint-based investigation capability, including trace inventories, entity/relationship mapping, corroboration, and uncertainty; E evaluates possible economic actions and returns outcomes and lessons to the other workstreams. Their existing definitions remain authoritative. See `FOOTPRINT-INTELLIGENCE-ARCHITECTURE.md` for the detailed proposed D process. This shared principle does not create a new workstream, add core economic indicators, or imply that the proposed D capability is already implemented.
+
 ### Default conceptual investigation sequence
 
 For concepts studied under Workstream A, use this sequence by default:
