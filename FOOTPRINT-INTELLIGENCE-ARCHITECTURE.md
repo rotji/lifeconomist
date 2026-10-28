@@ -47,9 +47,27 @@ In plain language, top-down work starts with a question and seeks evidence; bott
 
 The general conceptual process is:
 
-**Observable footprints → source and evidence assessment → entity identification → relationship and dependency analysis → pattern and anomaly investigation → mechanism and transmission analysis → verification and alternative explanations → implications, scenarios, and decision support.**
+**Question or observation → source and evidence assessment → entity and role identification → layered structure and relationship mapping → flow, dependency, and mechanism analysis → footprint triangulation → transmission and feedback analysis → verification and alternative explanations → implications, scenarios, and decision support.**
 
-This is not a rigid or necessarily linear pipeline. Investigation may move back and forth as evidence changes; relationships may form feedback loops; and hypotheses may be revised or rejected. At each stage, distinguish:
+This is an iterative investigation model, not a rigid or necessarily linear pipeline. Investigators may begin with a known system and seek evidence (top-down), or begin with a trace and reconstruct the system it may reveal (bottom-up). Move between the two directions as evidence changes; relationships may form feedback loops; and hypotheses may be revised or rejected.
+
+### Layered structure, roles, and flows
+
+For a material investigation, distinguish the roles that may be distributed across different entities: operator, owner, funder, decision-maker, supplier, intermediary, regulator, enabler, beneficiary, and party bearing costs or risks. These are analytical roles, not assumptions that each role exists or that one entity necessarily controls another. Identify the layers between an observed activity and its upstream resources or downstream consequences, and investigate the function and evidence for each relevant link.
+
+Trace relevant flows through the structure, such as money, goods, energy, data, information, people, authority, contractual obligations, risk, or biological and ecological resources. Record direction, timing, scale where measurable, source, and important constraints. Where a proposed chain contains multiple links, test each material link separately: evidence for the first and last points does not automatically establish the intermediate steps or the entire causal story.
+
+### Observable points and triangulation
+
+Identify where the underlying activity becomes measurable or independently testable. Depending on the question, useful observations may include physical infrastructure and energy use, transport and shipment records, inventory or production changes, corporate and procurement filings, financial disclosures, market quotes, public communications, scientific records, or other lawful and appropriately sourced evidence. No category is inherently conclusive; a trace supports only the claims its measurement and provenance justify.
+
+Prefer independent sources that illuminate different parts of a proposed explanation over multiple reports repeating the same original claim. Record what each source directly establishes, what it only suggests, whether it is independent, and what evidence is missing. Physical traces can corroborate or challenge accounts, but do not automatically establish identity, intent, ownership, illegality, or causation.
+
+### Transmission, incentives, and feedback
+
+Investigate how conditions or decisions may propagate across connected systems, including delays, bottlenecks, substitution, constraints, and feedback. Examine incentives and costs where they help explain behavior, but do not infer a particular actor's intention or conduct from an incentive alone. Consider both forward and reverse pathways: economic conditions can affect physical activity, and physical, biological, technological, or institutional conditions can in turn affect costs, production, finance, and policy.
+
+At each stage, distinguish:
 
 - Direct observations from interpretations.
 - Established facts from hypotheses.
