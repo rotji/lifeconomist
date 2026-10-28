@@ -1,5 +1,15 @@
 # Research Log
 
+## 2026-10-28 — Global Financial System Exploration Map established
+
+- **Trigger:** The project owner clarified that the intended inquiry is broad: explore global wealth, money, credit, capital, ownership, liabilities, flows, institutions, governments, countries, markets, and possible applications without prematurely selecting one focus.
+- **Repository review:** Re-examined the project overview, current state, methodology, decision register, Workstream A concept note and index, Workstream B real-GDP draft, Footprint Intelligence architecture, Workstream E architecture, and FX programme/source assessment.
+- **Finding:** The project already has a cross-workstream method for concepts, measurement, monitoring, footprint investigation, and economic application. The existing six core indicator candidates and four-layer economic model should remain intact. The new need is a broad exploration index connecting possible domains and questions—not a new workstream or immediate expansion of core indicators.
+- **Change:** Added `GLOBAL-FINANCIAL-SYSTEM-EXPLORATION-MAP.md` as a provisional, open-ended map of financial domains, analytical views, accounting safeguards, candidate source families, research questions, possible applications, and initial milestones. Linked it from `README.md` and recorded it in `CURRENT-STATE.md`.
+- **Scope safeguards:** No current global total is asserted. Candidate source families are not yet a completed source audit. Stocks and flows, money and wealth, assets and liabilities, transactions and valuation changes, commitments and deployed funds must remain distinct. Avoid double-counting and do not force incompatible statistics into one global equation.
+- **Status:** Documentation and research planning only. No new data were ingested and no global financial aggregate or causal model was validated.
+- **Next action:** Build a candidate data-source and measurement register; verify actual series, definitions, coverage, units, dates, revisions, and access conditions before calculating or combining figures.
+
 ## 2026-10-28 — Interconnected Reality and Layered Investigation integrated into shared methodology
 - **Trigger:** The project owner articulated a preference for understanding connected systems and present-day transmission across disciplines, then highlighted layered structures and observable physical evidence as a general investigative insight.
 - **Repository review:** Reviewed `README.md`, `RESEARCH-METHODOLOGY.md`, `FOOTPRINT-INTELLIGENCE-ARCHITECTURE.md`, `WORKSTREAM-E-ARCHITECTURE.md`, `CURRENT-STATE.md`, `DECISION-REGISTER.md`, the Workstream A index and production concept note, the real-GDP measurement draft, and the FX programme.
