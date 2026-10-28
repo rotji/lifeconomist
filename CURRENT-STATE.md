@@ -5,6 +5,7 @@
 
 ## Established
 - The project's research and development framework consists of Workstreams A (Deep Conceptual Foundations), B (Measurement), C (Evidence-Based Monitoring), D (Footprint Intelligence), and E (Opportunity Intelligence and Economic Application); the definitions and boundaries are in `RESEARCH-METHODOLOGY.md`.
+- The shared Reality-First Principle now explicitly includes interconnected-reality and layered-investigation guidance. This is a cross-cutting method, not a new workstream. The specialized D process is documented in `FOOTPRINT-INTELLIGENCE-ARCHITECTURE.md`; its architecture remains proposed rather than implemented or validated.
 - The project is global in scope, with Nigeria as an initial test case rather than a permanent limit.
 - The agreed four-layer working framework is documented in `README.md`: core indicators, supporting measurements, mechanisms and transmission, and evidence-based state assessment.
 - Seven candidate states and six foundational indicators are listed in `README.md`.
