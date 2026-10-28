@@ -1,5 +1,14 @@
 # Research Log
 
+## 2026-10-28 — Interconnected Reality and Layered Investigation integrated into shared methodology
+- **Trigger:** The project owner articulated a preference for understanding connected systems and present-day transmission across disciplines, then highlighted layered structures and observable physical evidence as a general investigative insight.
+- **Repository review:** Reviewed `README.md`, `RESEARCH-METHODOLOGY.md`, `FOOTPRINT-INTELLIGENCE-ARCHITECTURE.md`, `WORKSTREAM-E-ARCHITECTURE.md`, `CURRENT-STATE.md`, `DECISION-REGISTER.md`, the Workstream A index and production concept note, the real-GDP measurement draft, and the FX programme.
+- **Finding:** The project already contains the Reality-First Principle, cross-workstream feedback, top-down and bottom-up footprint investigation, entity/relationship/dependency mapping, transmission mechanisms, triangulation, alternative explanations, and uncertainty rules. A separate new workstream or parallel standalone framework would duplicate existing architecture.
+- **Change:** Integrated interconnected reality and layered investigation into the existing Reality-First section of `RESEARCH-METHODOLOGY.md`; clarified the specialized layer/flow/observable-point process in `FOOTPRINT-INTELLIGENCE-ARCHITECTURE.md`; updated the overview and current-state index to point to these authoritative locations.
+- **Guardrails:** Connections are investigated when relevant, not assumed universally; a trace is not proof; each material causal link needs support; roles such as owner, operator, funder, intermediary, and beneficiary must not be conflated; current evidence is not assumed complete; the future is not treated as perfectly knowable.
+- **Status:** Methodology/documentation change only. This does not mean the proposed Footprint Intelligence capability is implemented, nor does it validate any particular cross-domain hypothesis.
+- **Next action:** Use the shared method in future investigations and revisit it only if practical work reveals a specific gap or duplication.
+
 ## 2026-10-13 — Initial workspace
 - **Goal:** Establish durable records for the Economic State Transition Model.
 - **Completed:** Project overview, current state, methodology, decision register, and measurement templates.
