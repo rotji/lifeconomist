@@ -45,6 +45,10 @@ Long-term debt stress is structural and may overlap cyclical states. The states 
 ## Research and development framework
 The project is organized around five distinct but interconnected workstreams: **A — Deep Conceptual Foundations**, **B — Measurement**, **C — Evidence-Based Monitoring**, **D — Footprint Intelligence**, and **E — Opportunity Intelligence and Economic Application**. Their definitions, boundaries, feedback relationships, and the cross-cutting **Reality-First Principle** are documented in [RESEARCH-METHODOLOGY.md](RESEARCH-METHODOLOGY.md). That methodology makes interconnected reality and layered investigation explicit as a shared reasoning principle, rather than a sixth workstream. Workstream D is the specialized reusable capability for investigating observable traces, entities, relationships, dependencies, and transmission across domains; its detailed architecture remains proposed, not implemented. See [FOOTPRINT-INTELLIGENCE-ARCHITECTURE.md](FOOTPRINT-INTELLIGENCE-ARCHITECTURE.md). Workstream E evaluates possible trading, investment, business, and intelligence-service opportunities; its full process and specific strategies remain unvalidated. See [WORKSTREAM-E-ARCHITECTURE.md](WORKSTREAM-E-ARCHITECTURE.md).
 
+## Broad global financial exploration
+
+The provisional [Global Financial System Exploration Map](GLOBAL-FINANCIAL-SYSTEM-EXPLORATION-MAP.md) preserves a broad research agenda covering wealth, money, credit, capital pools, institutions, governments, countries, financial markets, the real economy, risk, information, distribution, data sources, and possible applications. It is a cross-workstream exploration map—not a sixth workstream, a new set of core indicators, or a claim that global financial quantities have already been measured or reconciled. Use it to organize discovery and source audits while preserving the existing economic model and measurement workflow.
+
 ## Experimental tool roles
 - ChatGPT: explore questions, challenge explanations, draft and review research.
 - VS Code: edit Markdown, inspect data, and later develop reproducible analysis.
