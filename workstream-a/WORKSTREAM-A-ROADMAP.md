@@ -86,6 +86,8 @@ The following groups establish the broad coverage intended for Workstream A. The
 - Information asymmetry, bargaining power and market access
 
 ### Group 6 — National income, GDP and economic accounting
+
+**Completed concept note:** [Concept 13 — National Income, GDP and Economic Accounting](concepts/national-income-gdp-and-economic-accounting.md). The note explains GDP's production boundary, final versus intermediate output, value added, production/expenditure/income approaches, GDP versus GNI and wealth, nominal versus real GDP, sector shares versus growth, and measurement limitations. Workstream B retains responsibility for formal indicator selection and calculations.
 - GDP, gross value added and national output
 - Nominal versus real GDP and growth
 - GDP deflator and consumer-price indices
