@@ -1,3 +1,13 @@
+## 2026-10-29 — Economic Consequence and Agency Intelligence documented
+
+- **Trigger:** The project owner chose to focus on the combined direction: understanding the consequences of people's economic choices, comparing alternatives, and identifying evidence-based ways individuals or groups may influence outcomes.
+- **Repository review:** Reviewed the project overview, current state, research methodology, Footprint Intelligence architecture, Global Financial System Exploration Map, research log, and decision register to preserve the existing A–E architecture and avoid duplicate frameworks.
+- **Finding:** Consumer economics and welfare, political consumerism, collective action, economic networks and supply chains, economic democracy, and impact evaluation provide established foundations. Their integration into one ECAI framework is a proposal, not an established or validated discipline.
+- **Change:** Added `ECAI-FOUNDATION.md` with a provisional definition, operating model, consequence and agency layers, research questions, source and inference safeguards, comparison criteria, relationship to Lifeconomist, staged research programme, and initial source trail. Linked it from `README.md` and recorded the status in `CURRENT-STATE.md`.
+- **Scope safeguards:** ECAI is a cross-cutting research application, not a sixth workstream, product, boycott platform, universal ethical score, or financial trading strategy. Market or valuation effects are not treated as proof of institutional policy change or beneficial social outcomes. No preferred intervention or commercial direction has been selected.
+- **Evidence status:** Initial concept synthesis and source trail only. The sources listed in the document are starting points for review, not a completed literature review or comprehensive verification.
+- **Next action:** Continue Stage 1, the foundational literature synthesis, then develop the consequence-tracing methodology and compare documented cases before recommending a practical direction.
+
 # Research Log
 
 ## 2026-10-28 — Global Financial System Exploration Map established
