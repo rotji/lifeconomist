@@ -1,3 +1,14 @@
+## 2026-10-29 — Workstream A Concept 19: accounting, balance sheets and financial statements
+
+- **Task:** Continue from financial markets into accounting language and the interpretation of financial statements.
+- **Repository review:** Checked the Workstream A roadmap, concept index, current state and preceding concept records before drafting.
+- **Change:** Created `workstream-a/concepts/accounting-balance-sheets-and-financial-statements.md`; indexed it in `workstream-a/README.md`; linked it in `workstream-a/WORKSTREAM-A-ROADMAP.md`; and updated `CURRENT-STATE.md`.
+- **Coverage:** Accounting purposes and boundaries; balance sheet, income statement and cash-flow statement; accounting equation; assets, liabilities and equity; asset measurement; debt, provisions and contingencies; revenue, income, expenses and profit; accrual versus cash basis; profit versus cash flow; working capital and liquidity ratios; cash-flow categories; CapEx/OpEx; depreciation, amortization and impairment; gross/net and book/market value; entity boundaries, consolidation and related parties; audit opinions, estimates and restatements.
+- **Reasoning safeguards:** Accounting values depend on recognition, measurement, reporting period and entity boundary. Equity is not cash; profit is not cash flow; debt is narrower than liabilities; EBITDA is not cash flow; consolidated accounts eliminate specified intra-group items. An audit opinion does not guarantee financial health, fraud-free operations or future performance.
+- **Measurement boundary:** No current company or Nigerian accounting figures are asserted. Applicable accounting standards, official filing requirements and formal indicator specifications remain to be checked for real-world comparisons.
+- **References for later verification:** IFRS/IASB, Financial Reporting Council of Nigeria, SEC Nigeria and IMF resources for government finance and national-accounting distinctions.
+- **Next action:** Proceed to **business structure, ownership and corporate finance**. Distinguish legal entity from brand and business group; shareholder from director, manager, creditor and beneficial owner; ownership from control; equity financing from debt financing; share capital from enterprise value; dividends from operating expenses; mergers/acquisitions from organic growth; and parent/subsidiary accounts from group economic relationships.
+
 ## 2026-10-29 — Workstream A Concept 18: financial markets and market infrastructure
 
 - **Task:** Continue the conceptual sequence from foreign exchange and capital flows to the organization, trading, pricing and settlement of financial claims.
