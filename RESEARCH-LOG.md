@@ -1,3 +1,14 @@
+## 2026-10-29 — Workstream A Concept 15: government finance, taxation and public institutions
+
+- **Task:** Continue the conceptual sequence from household economics to government revenue, taxation, expenditure, deficits, debt and public outcomes.
+- **Repository review:** Checked the Workstream A roadmap, concept index, current state and prior Concept 14 note before drafting.
+- **Change:** Created `workstream-a/concepts/government-finance-taxation-and-public-institutions.md`; indexed it in `workstream-a/README.md`; linked it in `workstream-a/WORKSTREAM-A-ROADMAP.md`; and updated `CURRENT-STATE.md`.
+- **Coverage:** Government/public-sector boundaries; revenue, tax and non-tax receipts; assessed versus collected revenue; tax liability versus incidence; expenditure, purchases and transfers; appropriation, commitment, payment and execution; deficit, surplus and primary balance; debt stocks, borrowing, debt service and stock-flow adjustments; financing versus revenue; money creation and fiscal operations; cash, liquidity, solvency and arrears; guarantees and contingent liabilities; public investment stages and service outcomes; intergovernmental transfers; fiscal policy; transparency and evidence.
+- **Reasoning safeguards:** A budget allocation is not proof of payment; payment is not proof of delivery; delivery is not proof of service outcome. Deficit and debt are distinct flow/stock concepts. Borrowing is financing, not automatically revenue. Fiscal aggregates alone do not prove mismanagement or corruption. Hypothetical example only; no current Nigerian fiscal figure is asserted.
+- **Measurement boundary:** Official Nigerian fiscal series, formal definitions and data validation remain in Workstream B. Institutional boundaries, accounting basis, timing and consolidation must be checked before comparing figures.
+- **References for later verification:** IMF Government Finance Statistics and Fiscal Transparency, UN System of National Accounts, IPSAS, Nigeria's Budget Office, Debt Management Office and NBS.
+- **Next action:** Proceed to **inflation, interest rates and purchasing power**. Distinguish price level from inflation rate, disinflation from deflation, nominal from real interest rates, policy rates from market rates, expected from realized inflation, purchasing power from nominal income, and aggregate price indexes from individual household experience.
+
 ## 2026-10-29 — Workstream A Concept 14: labour, employment and household economics
 
 - **Task:** Continue the conceptual sequence from national accounting to labour-market status, earnings and household resources.
