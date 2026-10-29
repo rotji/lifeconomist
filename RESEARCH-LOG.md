@@ -1,3 +1,12 @@
+## 2026-10-29 — Workstream A Concept 27: natural resources, energy and environmental economics
+
+- **Task:** Continue Workstream A by examining how natural-resource stocks, energy systems and environmental conditions interact with production, prices, public revenue, livelihoods and long-run resilience.
+- **Repository review:** Checked the Workstream A index, current-state record, master terminology inventory and roadmap. Group 20 was the next major unaddressed group in the reconciled sequence; related concepts on productivity, capital formation, GDP accounting, foreign exchange, supply chains, institutions and growth already exist and are cross-linked.
+- **Change:** Created `workstream-a/concepts/natural-resources-energy-and-environmental-economics.md`; indexed Concept 27 in `workstream-a/README.md`; updated `CURRENT-STATE.md`; marked Group 20 covered in `workstream-a/WORKSTREAM-A-ROADMAP.md`; and recorded this entry.
+- **Coverage:** Natural capital and ecosystem services; renewable/non-renewable resources; resource versus reserve; depletion; energy source/conversion/delivery/useful service; capacity versus generation; rents, royalties, taxes and ownership; commodity-price transmission; resource dependence and Dutch disease; externalities and policy instruments; energy transition, physical and transition risks; measurement; evidence chains and a worked example.
+- **Reasoning safeguards:** No current country resource, energy or environmental estimates are asserted. Resource discovery is not treated as proof of commercial production; installed capacity is not treated as delivered service; gross exports are not treated as government revenue; physical measures are kept distinct from monetary valuation; and plausible mechanisms are not treated as causal proof.
+- **Next action:** Reconcile the remaining roadmap groups against the actual concept files and select Concept 28 based on a verified conceptual gap rather than blindly following headings.
+
 ## 2026-10-29 — Workstream A Concept 26: economic growth, development and structural transformation
 
 - **Task:** Continue the conceptual sequence by connecting aggregate growth to productivity, economic structure, distribution and human development.
