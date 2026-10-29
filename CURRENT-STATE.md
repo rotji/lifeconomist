@@ -14,6 +14,7 @@
 - Foundational concepts can be revisited when needed.
 
 ## Workstream position
+- **A — Deep Conceptual Foundations:** The master [Workstream A Conceptual Foundations Roadmap and Terminology Inventory](workstream-a/WORKSTREAM-A-ROADMAP.md) is now documented. It organizes 25 broad terminology groups and a staged investigation sequence, beginning with an audit of the existing production note, continuing through concepts directly connected to production, and then treating money, wealth, capital, assets and liabilities as an integrated foundational set. The roadmap is a plan, not completed research; the concept investigations remain in progress.
 - **A — Deep Conceptual Foundations:** The concept-note directory is established at `workstream-a/`. The first concept, production, is documented in `workstream-a/concepts/production.md` as a living explanation; the investigation remains in progress, with questions for deeper review recorded in the note.
 - **B — Measurement:** Actively developing the draft specification for Indicator 1, Real GDP Growth. Its measurement questions remain unresolved as recorded in `03-measurement/01-real-gdp-growth.md`.
 - **C — Evidence-Based Monitoring:** Designated for evidence-based monitoring and investigation. A complete monitoring system and validated state-classification process are not established.
