@@ -1,3 +1,14 @@
+## 2026-10-29 — Workstream A Concept 21: risk, uncertainty and financial resilience
+
+- **Task:** Continue from business structure and corporate finance into risk, uncertainty, vulnerabilities and the capacity to absorb shocks.
+- **Repository review:** Checked the Workstream A roadmap, concept index, current state and preceding concept records before drafting.
+- **Change:** Created `workstream-a/concepts/risk-uncertainty-and-financial-resilience.md`; indexed it in `workstream-a/README.md`; linked it in `workstream-a/WORKSTREAM-A-ROADMAP.md`; and updated `CURRENT-STATE.md`.
+- **Coverage:** Risk/uncertainty; exposure, likelihood, impact and vulnerability; volatility, drawdown, expected loss, VaR and expected shortfall; liquidity, solvency, profitability and resilience; market/funding liquidity; leverage and exposure; maturity mismatch/refinancing; credit/counterparty and market/operational risks; concentration and correlation; systemic risk and contagion; feedback loops; buffers, redundancy and recovery; stress testing and early-warning indicators; risk transfer, insurance and hedging.
+- **Reasoning safeguards:** A modelled probability is only as good as its assumptions and data. Volatility is not a complete risk measure; liquidity differs from solvency and profitability; a network connection is only a potential transmission channel until evidence supports propagation. Correlation does not prove causation, scenarios are not forecasts, and early-warning indicators do not guarantee an outcome.
+- **Measurement boundary:** No current risk levels, institutional assessments or crisis predictions are asserted. Measures, thresholds and legal/regulatory definitions require context-specific validation.
+- **References for later verification:** BIS/Basel Committee, IMF, Financial Stability Board, ISO 31000 and COSO resources.
+- **Next action:** Proceed to **trade, supply chains and distribution networks**. Distinguish trade flows from logistics and ownership; supply-chain stages from value-chain functions; direct from indirect suppliers; physical goods from services, payments and information; inventory from throughput; bottlenecks from general scarcity; and announced contracts from completed delivery. Trace dependencies and propagation while separating documented links from inferred relationships and avoiding double-counting the same flow at multiple stages.
+
 ## 2026-10-29 — Workstream A Concept 20: business structure, ownership and corporate finance
 
 - **Task:** Continue from accounting into legal/business structure, ownership, control and corporate financing relationships.
