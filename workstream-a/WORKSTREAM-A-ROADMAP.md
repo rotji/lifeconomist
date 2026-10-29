@@ -472,4 +472,4 @@ This roadmap is not “completed” merely because all headings have notes. Prog
 - notes link coherently to one another and to the relevant workstreams;
 - later investigations can use the concepts without repeatedly confusing their meanings.
 
-**Current status:** Roadmap and inventory documented. The concept investigations themselves remain in progress. The next active task is the production-linked concept family; money, wealth and capital follow as a major comparison set.
+**Current status:** The concept investigations are in progress. Concepts 1–10 have been documented, including the production-linked family and the foundational group on money, wealth, capital and financial resources. The next active task is [Concept 10 — Credit, Debt, Banking and Financial Intermediation](concepts/credit-debt-banking-and-financial-intermediation.md), followed by connected concepts on investment, saving, financial markets and national accounting.
