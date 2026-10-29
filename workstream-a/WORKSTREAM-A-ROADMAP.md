@@ -290,17 +290,8 @@ The following groups establish the broad coverage intended for Workstream A. The
 - Valuation limits for non-market environmental benefits
 
 ### Group 21 — Digital, information and intangible economics
-- Data, information, knowledge and intelligence
-- Software, intellectual property and intangible assets
-- Digital services, platforms and network effects
-- Information asymmetry and information quality
-- Verification, provenance, freshness and uncertainty
-- Search costs, coordination costs and decision support
-- Algorithms, automation and AI-enabled production
-- Data access, rights, privacy and governance
-- Digital infrastructure, payment systems and access
-- Measuring value and productivity in intangible activities
 
+**Completed concept note:** [Concept 28 — Digital, Information and Intangible Economics](concepts/digital-information-and-intangible-economics.md). The note connects information and data to decision-making and economic activity; distinguishes intangible usefulness, legal rights, accounting recognition and commercial value; and covers information quality, software/AI, platforms and network effects, data governance, productivity and measurement limitations.
 ### Group 22 — Economic measurement, evidence and inference
 - Concepts versus indicators versus proxies
 - Operational definitions, units and denominators
@@ -485,7 +476,7 @@ The workstreams interact bidirectionally. A concept may expose a measurement pro
 ## 8. Immediate next actions
 
 1. Preserve the existing numbered concept notes as the record of completed investigations; do not restart the sequence from the original production-linked phase.
-2. Reconcile the older 25-group terminology inventory and phase plan against concepts already documented through Concept 27, including the now-covered Groups 19 and 20 and their links to Concepts 7, 8, 13, 17, 22, 23 and 26.
+2. Reconcile the older 25-group terminology inventory and phase plan against concepts already documented through Concept 28, including the now-covered Groups 19–21 and the relevant links to earlier concepts.
 3. Choose the next concept based on the actual gaps and conceptual dependencies, not merely the next unexamined heading in the original inventory.
 4. For each new concept, create a durable note using the established note style, index it in `workstream-a/README.md`, and update `CURRENT-STATE.md` and `RESEARCH-LOG.md`.
 5. Update the roadmap's inventory and sequencing when the reconciliation identifies genuine gaps, duplicates or a better order.
@@ -502,4 +493,4 @@ This roadmap is not “completed” merely because all headings have notes. Prog
 - notes link coherently to one another and to the relevant workstreams;
 - later investigations can use the concepts without repeatedly confusing their meanings.
 
-**Current status (updated 2026-10-29):** Workstream A has durable concept notes through [Concept 27 — Natural Resources, Energy and Environmental Economics](concepts/natural-resources-energy-and-environmental-economics.md), following [Concept 26 — Economic Growth, Development and Structural Transformation](concepts/economic-growth-development-and-structural-transformation.md). Concept 27 addresses Group 20 and connects natural resource and environmental mechanisms to existing productivity, capital formation, GDP accounting, foreign exchange, trade networks and structural transformation notes. Earlier phase descriptions and parts of the broad terminology inventory remain imperfectly reconciled with the actual concept sequence. Use the numbered concept notes, `workstream-a/README.md`, `CURRENT-STATE.md` and `RESEARCH-LOG.md` to establish completed work. Next, reconcile remaining inventory and sequence before selecting Concept 28; do not restart from Concept 1 or assume the older group numbering automatically determines the next topic.
+**Current status (updated 2026-10-29):** Workstream A has durable concept notes through [Concept 28 — Digital, Information and Intangible Economics](concepts/digital-information-and-intangible-economics.md), following [Concept 27 — Natural Resources, Energy and Environmental Economics](concepts/natural-resources-energy-and-environmental-economics.md). Concept 28 addresses Group 21 and connects information quality, intangible resources, digital services, platforms, data governance and productivity to existing concepts. Earlier phase descriptions and parts of the broad terminology inventory remain imperfectly reconciled with the actual concept sequence. Use the numbered concept notes, `workstream-a/README.md`, `CURRENT-STATE.md` and `RESEARCH-LOG.md` to establish completed work. Next, reconcile remaining inventory and sequence before selecting Concept 29; do not restart from Concept 1 or assume the older group numbering automatically determines the next topic.
