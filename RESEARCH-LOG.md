@@ -1,3 +1,12 @@
+## 2026-10-29 — Workstream A Concept 25: capital markets, institutional investors and investment funds
+
+- **Task:** Continue from liquidity into the organizations and fund structures that allocate institutional capital and connect investors to financial claims and operating businesses.
+- **Repository review:** Reviewed the Workstream A index, master terminology inventory, current-state record, roadmap status, research log, and related concepts on investment/capital allocation, financial markets, accounting, ownership, risk and liquidity.
+- **Change:** Created `workstream-a/concepts/capital-markets-institutional-investors-and-investment-funds.md`; indexed Concept 25 in `workstream-a/README.md`; updated the immediate working position in `CURRENT-STATE.md`; and marked Group 18 completed while updating the roadmap status.
+- **Coverage:** Pension funds, insurers, mutual funds, ETFs, sovereign wealth funds, endowments, venture capital, private equity, private credit and alternative funds; LP/GP structures; manager, sponsor, custodian, administrator and beneficiary roles; targets, commitments, calls, paid-in and deployed capital, exits and distributions; AUM versus owned/custodied assets; NAV and valuation; IRR/MOIC and gross/net returns; mandates and benchmarks; investor influence versus ownership/control; primary versus secondary transactions; liquidity mismatch; fees, conflicts, concentration and systemic connections.
+- **Reasoning safeguards:** No current AUM, fund-flow, investor ownership or performance figures are asserted. Announcements are not treated as proof of closed/funded transactions; AUM is not treated as assets owned; commitments are not treated as cash; valuation is not treated as realized proceeds; investor participation is not treated as control; financial investment is not treated as proof of productive or social impact.
+- **Next action:** Reconcile the remaining terminology inventory against completed numbered notes and select Concept 26 based on the actual conceptual gaps, preserving continuity and avoiding duplication.
+
 ## 2026-10-29 — Workstream A Concept 24: banking, market and system-wide liquidity
 
 - **Task:** Continue from Concept 23 by examining liquidity as a distinct constraint linking money, credit, financial markets, accounting, risk and supply-chain payment timing.
