@@ -222,6 +222,8 @@ The following groups establish the broad coverage intended for Workstream A. The
 - Rules, norms, networks and collective action
 
 ### Group 16 — Trade, supply chains and distribution networks
+
+**Completed concept note:** [Concept 22 — Trade, Supply Chains and Distribution Networks](concepts/trade-supply-chains-and-distribution-networks.md). Covers trade and transaction flows; goods, services, payments, information and rights; supply chains versus value chains and logistics; upstream/downstream stages; direct and indirect suppliers; commercial roles; production, shipment, delivery, title, invoicing and payment milestones; inventory, throughput, capacity and bottlenecks; procurement, trade terms, distribution channels, value creation/capture, supplier concentration, disruption, reverse logistics and measurement. No current sector or corridor estimates are asserted.
 - Domestic and international trade
 - Comparative advantage, specialization and trade costs
 - Supply chains, value chains and production networks
