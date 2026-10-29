@@ -113,6 +113,8 @@ The following groups establish the broad coverage intended for Workstream A. The
 - Demographics, dependency and participation rates
 
 ### Group 8 — Government finance, taxation and public institutions
+
+**Completed concept note:** [Concept 15 — Government Finance, Taxation and Public Institutions](concepts/government-finance-taxation-and-public-institutions.md). Covers public-sector boundaries, revenue and tax classifications, tax incidence, expenditure and transfers, budget execution stages, deficits and debt, financing, liquidity and arrears, contingent fiscal risks, public investment outcomes, intergovernmental finance, fiscal policy and transparency. Official Nigerian series and formal indicators remain in Workstream B.
 - Government revenue, taxation and non-tax revenue
 - Public expenditure and fiscal balance
 - Budget deficit/surplus versus public debt
