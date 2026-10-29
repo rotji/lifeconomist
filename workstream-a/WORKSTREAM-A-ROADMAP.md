@@ -355,6 +355,7 @@ The inventory is broad; the investigation should proceed through connected group
 
 ### Phase 1 — Concepts that follow directly from production
 1. **Economic value, usefulness, exchange value and welfare** — distinguish whose value is being considered, the valuation basis, willingness to pay, observed price, national-accounting value added and broader welfare effects.
+2. **Costs and prices** — distinguish resource/economic cost, accounting cost, opportunity cost, market price, marginal cost, price-setting mechanisms, and nominal versus real prices.
 Study the connected family:
 1. Output and intermediate inputs
 2. Economic value, usefulness, exchange value and welfare
