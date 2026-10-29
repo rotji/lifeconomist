@@ -1,3 +1,14 @@
+## 2026-10-29 — Workstream A Concept 7: productivity and productive capacity
+
+- **Task:** Continue the production-linked conceptual sequence after Concept 6 (value added, income distribution and profit).
+- **Repository review:** Re-read Concept 6, the Workstream A roadmap, and current state before drafting. The sequence now connects production, output and intermediate inputs, value/usefulness, costs/prices, revenue/receipts, value added/profit, and productivity.
+- **Change:** Created `workstream-a/concepts/productivity-and-productive-capacity.md`, added it to `workstream-a/README.md`, updated `workstream-a/WORKSTREAM-A-ROADMAP.md`, and updated `CURRENT-STATE.md`.
+- **Coverage:** Labour productivity per hour and per worker, capital productivity, multifactor productivity, unit labour cost, public-service productivity, productive capacity and utilisation; illustrative calculations; quality and measurement boundaries; potential drivers; and implications for costs, prices, profit and living standards.
+- **Evidence and reasoning safeguards:** Productivity is an output/input relationship, not a synonym for total output or worker effort. Labour productivity is a partial measure. Multifactor productivity depends on the input framework and its residual is not automatically pure technology. Higher productivity does not guarantee higher wages, lower prices or more profit. Numerical examples are hypothetical and do not estimate Nigerian productivity.
+- **Research basis:** OECD and ONS productivity guidance and BLS introductory materials are cited in the concept note. Formal indicators require a source-specific definition, data series, units, price/volume basis, coverage, and revision policy.
+- **Documentation maintenance:** Cleaned the Workstream A index entry for Concept 6, which had accumulated descriptions belonging to several preceding concepts; each concept now has a concise entry.
+- **Next action:** Create Concept 8 on capital formation, depreciation, maintenance and replacement. Distinguish investment in produced assets from financial investment and purchases of existing assets; explain gross/net capital formation, fixed assets, inventories, depreciation/consumption of fixed capital, and how capital services relate to productivity.
+
 ## 2026-10-29 — Workstream A Concept 6: value added, income distribution and profit
 
 - **Task:** Continue the production-linked conceptual sequence.
