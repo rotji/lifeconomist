@@ -1,3 +1,14 @@
+## 2026-10-29 — Workstream A Concept 20: business structure, ownership and corporate finance
+
+- **Task:** Continue from accounting into legal/business structure, ownership, control and corporate financing relationships.
+- **Repository review:** Checked the Workstream A roadmap, concept index, current state and preceding concept records before drafting.
+- **Change:** Created `workstream-a/concepts/business-structure-ownership-and-corporate-finance.md`; indexed it in `workstream-a/README.md`; linked it in `workstream-a/WORKSTREAM-A-ROADMAP.md`; and updated `CURRENT-STATE.md`.
+- **Coverage:** Business activity, brand, legal entity and group; common legal forms; owners, shareholders, directors, managers, creditors, guarantors and beneficiaries; legal/beneficial ownership; voting rights and control; corporate governance; equity and debt financing; share capital, equity value, enterprise value and cash; retained earnings and dividends; capital structure; commitment/approval/disbursement/deployment/outcome stages; mergers, acquisitions and restructuring; parent/subsidiary/affiliate/joint venture relationships; related-party transactions, guarantees and intra-group finance; insolvency, limited liability and distributable cash.
+- **Reasoning safeguards:** Ownership, voting power, control, management and economic benefit are not interchangeable. A lender or guarantor is not automatically an owner. Market capitalization and enterprise value are not cash available to owners. Announced commitments do not prove disbursement or productive use. Group structures and related-party transactions are not inherently improper; claims about control, wrongdoing or beneficial ownership require specific evidence.
+- **Measurement boundary:** No claims about any particular company's ownership, legal status, valuation or financing are asserted. Applicable laws, official filings and data coverage must be verified for each jurisdiction and date.
+- **References for later verification:** Corporate Affairs Commission Nigeria, SEC Nigeria, Financial Reporting Council of Nigeria, IFRS and FATF beneficial-ownership guidance.
+- **Next action:** Proceed to **risk, uncertainty and financial resilience**. Distinguish risk from uncertainty, volatility from risk, liquidity from solvency, leverage from exposure, expected loss from tail risk, diversification from correlation breakdown, and resilience from simple profitability. Explain how risks propagate through balance sheets, counterparties, collateral, funding markets and operational dependencies without assuming every connection causes a crisis.
+
 ## 2026-10-29 — Workstream A Concept 19: accounting, balance sheets and financial statements
 
 - **Task:** Continue from financial markets into accounting language and the interpretation of financial statements.
