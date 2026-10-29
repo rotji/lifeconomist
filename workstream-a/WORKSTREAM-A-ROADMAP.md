@@ -358,6 +358,7 @@ The inventory is broad; the investigation should proceed through connected group
 2. **Costs and prices** — distinguish resource/economic cost, accounting cost, opportunity cost, market price, marginal cost, price-setting mechanisms, and nominal versus real prices.
 3. **Revenue, income and receipts** — distinguish sales, revenue recognition, income/earnings, cash receipts, receivables/payables, prepayments, profit and cash flow.
 4. **Value added, income distribution and profit** — distinguish gross/net value added, employee compensation, production taxes/subsidies, operating surplus/mixed income, and company gross/operating/net profit; clarify the relationship to GDP.
+5. **Productivity and productive capacity** — distinguish output per input from output growth, labour productivity from multifactor productivity, measured productivity from worker effort, and actual output from capacity and utilisation.
 Study the connected family:
 1. Output and intermediate inputs
 2. Economic value, usefulness, exchange value and welfare
