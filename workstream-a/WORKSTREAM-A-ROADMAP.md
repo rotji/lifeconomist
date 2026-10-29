@@ -168,6 +168,8 @@ The following groups establish the broad coverage intended for Workstream A. The
 - Market stress, price gaps and market functioning
 
 ### Group 12 — Accounting, balance sheets and financial statements
+
+**Completed concept note:** [Concept 19 — Accounting, Balance Sheets and Financial Statements](concepts/accounting-balance-sheets-and-financial-statements.md). Covers the three core statements, the accounting equation, assets/liabilities/equity, asset measurement, debt/provisions/contingencies, revenue/income/expenses/profit, accrual versus cash basis, profit versus cash flow, CapEx/OpEx, depreciation/impairment, gross/net and book/market value, consolidation, audit and accounting quality. Formal reporting requirements and Nigerian data remain subject to applicable standards and Workstream B.
 - Assets, liabilities and equity
 - Balance sheet versus income statement versus cash-flow statement
 - Revenue recognition, expenses and accruals
