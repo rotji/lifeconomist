@@ -73,6 +73,8 @@ The following groups establish the broad coverage intended for Workstream A. The
 - Opportunity cost and allocation efficiency
 
 ### Group 5 — Markets, prices and exchange
+
+**Completed concept note:** [Concept 12 — Markets, Prices and Exchange](concepts/markets-prices-and-exchange.md). The note covers market boundaries, exchange, price/cost/value, nominal and real prices, supply and demand, equilibrium, competition, financial-market price discovery, market failures and evidence safeguards.
 - Markets, exchange, buyers, sellers and price formation
 - Supply, demand, equilibrium and disequilibrium
 - Market price, transaction price and reference price
