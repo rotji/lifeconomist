@@ -1,3 +1,13 @@
+## 2026-10-29 — Workstream A Concept 10: credit, debt, banking and financial intermediation
+
+- **Task:** Continue from Concept 9 and establish the conceptual base for lending, banking, debt and credit allocation.
+- **Repository review:** Re-read the Workstream A roadmap, concept index, current state and Concept 9 before drafting.
+- **Change:** Created `workstream-a/concepts/credit-debt-banking-and-financial-intermediation.md`, indexed it in `workstream-a/README.md`, updated the current-progress statement in `workstream-a/WORKSTREAM-A-ROADMAP.md`, and updated `CURRENT-STATE.md`.
+- **Coverage:** Credit and debt; debt stock versus borrowing and repayment flows; principal versus interest; loan balance-sheet entries; commercial-bank deposit creation; customer deposits versus central-bank reserves; interbank settlement; repayment and write-off; credit risk, collateral, interest costs, leverage, debt sustainability, intermediation and allocation; household, SME, bank and government examples.
+- **Reasoning safeguards:** Credit creation does not imply unlimited lending. Deposits and reserves are distinct. Borrowing does not automatically increase net worth. A loan balance alone does not establish productive investment or economic benefit. Simplified examples are hypothetical; no Nigerian credit, rate, default or debt-sustainability statistic is asserted.
+- **Research basis:** The note links to BIS credit statistics and Basel materials, Bank of England's explanation of modern money creation, IMF monetary/financial statistics guidance, and CBN as a primary source for later Nigeria-specific verification.
+- **Next action:** Develop the connected concept group **investment, saving, financial markets and capital allocation**. Distinguish saving from investment; financial investment from productive-asset formation; primary issuance from secondary-market trading; investment commitments from deployment; risk, return, valuation and liquidity; and household, firm, fund and national-accounting perspectives.
+
 ## 2026-10-29 — Workstream A Concept 9: money, wealth, capital and financial resources
 
 - **Task:** Establish core distinctions before moving into credit, debt, banking and financial intermediation.
