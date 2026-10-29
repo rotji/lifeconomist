@@ -33,9 +33,10 @@
 - **Status:** Provisional research framework documented in `ECAI-FOUNDATION.md`; not validated as a unified method, product, or intervention system.
 - **Purpose:** Connect analysis of economic consequences with evidence-based assessment of what individuals and groups can realistically influence.
 - **Architecture:** Cross-cutting application of existing Workstreams A–E and the Reality-First methodology, not a new workstream and not a replacement for the Global Financial System Exploration Map.
-- **Current stage:** Foundational literature synthesis. The document sets out the proposed operating model, evidence safeguards, comparison criteria, and staged research programme.
+- **Current stage:** Stage 1 — foundational literature synthesis in progress. [ECAI-LITERATURE-SYNTHESIS-001.md](ECAI-LITERATURE-SYNTHESIS-001.md) records the initial source-backed synthesis across consumer welfare, political consumerism, boycotts, collective action, production networks, and evaluation. This is a selective initial synthesis, not a systematic review.
 - **Not established:** A complete literature review, validated consequence-tracing protocol, comparative case register, or preferred practical application.
-- **Next action:** Continue the source-backed foundational synthesis, then specify a repeatable consequence-tracing methodology and examine documented cases before selecting an implementation direction.
+- **Initial synthesis findings:** Keep participation, market effects, institutional response, social outcomes, and durability separate; distinguish boycotts from buycotts; match supply-chain claims to data resolution; assess unintended and distributional effects; treat collective-action principles as context-dependent.
+- **Next action:** Expand and verify the literature, then specify a repeatable consequence-tracing methodology and examine documented cases before selecting an implementation direction.
 
 ## Immediate working position
 Workstream A is continuing Concept 1, **production**, using `workstream-a/concepts/production.md` as the durable reference. The current investigation distinguishes production and usefulness from GDP's production boundary, prices, costs, value added, profit, services, and productivity. Continue expanding the note when understanding advances; do not treat it as a finished national-accounts specification. The draft GDP measurement specification remains open in Workstream B and is not the immediate conversational task.
