@@ -189,3 +189,33 @@ A productivity improvement is not identical to an increase in total output, and 
 Production is the creation of goods and provision of services. It can involve physical transformation, moving goods, storing them, or providing information and other services. Useful activity, GDP-counted production, transaction price, value added, profit, and productivity are related but distinct. We must begin with what happens in reality, then identify how it is measured and what conclusions the evidence permits.
 
 **Status:** This is a living conceptual note. Extend it as learning continues; do not treat it as a completed national-accounts or measurement specification.
+
+
+## 13. Roadmap audit — coverage and remaining gaps
+
+**Review date:** 2026-10-29  
+**Purpose:** Identify what this living note already establishes before moving to the next concept; preserve the existing explanation rather than restarting it.
+
+### Adequately established for the current stage
+
+- Production can involve goods or services and need not create a new physical object.
+- Everyday usefulness, broad production activity, and the GDP production boundary are different questions.
+- Market and certain non-market or imputed production receive different treatment under national-accounting rules.
+- The farmer–transporter–warehouse–trader examples show how different activities can contribute to an overall process.
+- Transaction prices, sales/resale price differences, output, intermediate consumption, value added, profit, and productivity are distinct.
+- The worked examples are explicitly hypothetical and do not establish real market prices or a validated information service.
+- Workstream B is responsible for formal GDP and labour-productivity measurement choices.
+
+### Gaps to keep open rather than silently treating as settled
+
+1. **Output needs its own precise treatment.** The note sometimes uses output and revenue together for an accessible explanation. Their relationship depends on the context; output is not always identical to cash received or sales during the period.
+2. **Intermediate inputs need a clearer boundary.** Goods and services used up or transformed in production should be distinguished from fixed assets that support production over multiple periods. The national-accounts concept of intermediate consumption has specific rules and is not simply every business expense.
+3. **Inventory and timing require deeper treatment.** Production, sales, purchases, and cash receipts may occur in different periods. Work-in-progress and changes in inventories can matter when output is measured.
+4. **Valuation rules need a sourced follow-up.** National accounts distinguish valuation bases and account for product taxes/subsidies and trade margins under defined rules. A simple market example should not imply that every industry is measured identically.
+5. **Gross versus net value added is still only touched on.** The distinction depends on whether consumption of fixed capital is deducted.
+6. **Examples should remain conceptually useful but not substitute for official definitions.** When the note makes technical claims about national accounting, it should be supported by authoritative sources; formal operational decisions remain in Workstream B.
+
+### Audit conclusion
+
+The note is a useful conceptual foundation and does not need a wholesale rewrite. The next note should clarify **output and intermediate inputs**, then link back to production. Later, update the production note only where the new understanding materially improves it. The next concept is a conceptual follow-on, not a claim that the production note is finished.
+
