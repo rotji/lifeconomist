@@ -478,11 +478,11 @@ The workstreams interact bidirectionally. A concept may expose a measurement pro
 
 ## 8. Immediate next actions
 
-1. Use `concepts/production.md` as the baseline and audit it against Phase 0.
-2. Continue with **output and intermediate inputs**, then economic value/usefulness, costs/prices, revenue/income/receipts, value added, profit, productivity, and capital formation.
-3. Once the production-linked family is sufficiently clear, investigate **money, wealth, capital, assets, liabilities and equity/net worth** as an integrated foundational set.
-4. Add durable concept notes and links to `workstream-a/README.md` as work is completed; do not create empty files for every inventory item in advance.
-5. Update `CURRENT-STATE.md` and `RESEARCH-LOG.md` when material progress occurs; record major scope decisions in `DECISION-REGISTER.md`.
+1. Preserve the existing numbered concept notes as the record of completed investigations; do not restart the sequence from the original production-linked phase.
+2. Reconcile the older 25-group terminology inventory and phase plan against concepts already documented through Concept 23.
+3. Choose the next concept based on the actual gaps and conceptual dependencies, not merely the next unexamined heading in the original inventory.
+4. For each new concept, create a durable note using the established note style, index it in `workstream-a/README.md`, and update `CURRENT-STATE.md` and `RESEARCH-LOG.md`.
+5. Update the roadmap's inventory and sequencing when the reconciliation identifies genuine gaps, duplicates or a better order.
 
 ## 9. Completion criteria
 
@@ -496,4 +496,4 @@ This roadmap is not “completed” merely because all headings have notes. Prog
 - notes link coherently to one another and to the relevant workstreams;
 - later investigations can use the concepts without repeatedly confusing their meanings.
 
-**Current status:** The concept investigations are in progress. Concepts 1–10 have been documented, including the production-linked family and the foundational group on money, wealth, capital and financial resources. The next active task is [Concept 10 — Credit, Debt, Banking and Financial Intermediation](concepts/credit-debt-banking-and-financial-intermediation.md), followed by connected concepts on investment, saving, financial markets and national accounting.
+**Current status (reconciled 2026-10-29):** Workstream A has durable concept notes through [Concept 23 — Economic Systems, Institutions and Structural Change](concepts/economic-systems-institutions-and-structural-change.md), following [Concept 22 — Trade, Supply Chains and Distribution Networks](concepts/trade-supply-chains-and-distribution-networks.md). Earlier phase descriptions and parts of this broad terminology inventory preserve the original planned sequence and are not a reliable statement of the actual latest completed concept. Use the numbered concept notes, `workstream-a/README.md`, `CURRENT-STATE.md` and `RESEARCH-LOG.md` to establish completed work. The next concept should be selected after reconciling the remaining inventory with concepts already documented; do not restart from Concept 1 or assume the older Group 17–25 numbering automatically determines the next concept number.
