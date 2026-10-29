@@ -1,3 +1,14 @@
+## 2026-10-29 — Workstream A Concept 22: trade, supply chains and distribution networks
+
+- **Task:** Continue from risk and resilience into the organization of trade, sourcing, distribution and dependencies across economic networks.
+- **Repository review:** Checked the Workstream A roadmap, concept index, current state and preceding concept record before drafting.
+- **Change:** Created `workstream-a/concepts/trade-supply-chains-and-distribution-networks.md`; indexed it in `workstream-a/README.md`; linked it in `workstream-a/WORKSTREAM-A-ROADMAP.md`; and updated `CURRENT-STATE.md`.
+- **Coverage:** Trade and transactions; physical goods, services, payments, information and rights; supply chain/value chain/distribution/logistics; upstream/downstream stages; direct/indirect suppliers; producer, supplier, manufacturer, distributor, wholesaler, retailer, agent and logistics roles; order/production/shipment/delivery/acceptance/title/invoice/payment milestones; inventory/throughput/capacity/lead time; bottlenecks and shortages; procurement, trade terms, distribution channels, value creation/capture, concentration, disruption, reverse logistics, digital dependencies and measurement.
+- **Reasoning safeguards:** A supplier role does not prove manufacturing or ownership; shipment does not prove acceptance or payment; inventory stock differs from flow; a price spread is not automatically profit; gross sales across stages cannot be summed as new value added. A potential dependency is not proof of realized disruption or contagion.
+- **Measurement boundary:** No current sector, company, product or trade-corridor estimates are asserted. Data require explicit units, boundaries, timing, valuation and source provenance.
+- **References for later verification:** UN Statistics Division, WTO, UNCTAD, OECD, World Customs Organization and ICC Incoterms resources.
+- **Next action:** Proceed to **economic systems, institutions and structural change**. Define systems, institutions, rules, incentives, governance, path dependence, structural transformation, formal/informal activity, market power, coordination failures and institutional capacity. Distinguish a formal rule from its implementation, an incentive from observed behavior, a correlation from a causal institutional effect, and a change in economic composition from an improvement in welfare. Keep the analysis conceptual unless a specific jurisdiction, period and evidence base are selected.
+
 ## 2026-10-29 — Workstream A Concept 21: risk, uncertainty and financial resilience
 
 - **Task:** Continue from business structure and corporate finance into risk, uncertainty, vulnerabilities and the capacity to absorb shocks.
