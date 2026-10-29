@@ -182,6 +182,8 @@ The following groups establish the broad coverage intended for Workstream A. The
 - Accounting profit versus taxable profit versus cash generated
 
 ### Group 13 — Business structure, ownership and corporate finance
+
+**Completed concept note:** [Concept 20 — Business Structure, Ownership and Corporate Finance](concepts/business-structure-ownership-and-corporate-finance.md). Covers legal forms, brands and legal entities, owners/directors/managers/creditors, legal and beneficial ownership, control and governance, equity/debt financing, share capital, equity value and enterprise value, dividends and retained earnings, funding stages, acquisitions and restructuring, parent/subsidiary groups, related-party transactions, guarantees, insolvency and valuation versus distributable cash. Legal definitions and company-specific claims require jurisdiction- and date-appropriate verification.
 - Firms, enterprises, legal entities and business models
 - Ownership, control, governance and beneficial ownership
 - Equity, shares, dilution and shareholder claims
