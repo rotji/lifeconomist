@@ -1,3 +1,13 @@
+## 2026-10-29 — Workstream A Concept 4: costs and prices
+
+- **Task:** Continue the production-linked conceptual sequence and record the next obvious actions.
+- **Repository check:** The existing production note and Concepts 2–3 remain present. Concept 3 covers usefulness, willingness to pay, observed price, exchange value, value added and welfare valuation.
+- **Change:** Created `workstream-a/concepts/costs-and-prices.md`, indexed it in `workstream-a/README.md`, updated `workstream-a/WORKSTREAM-A-ROADMAP.md`, and updated `CURRENT-STATE.md`.
+- **Conceptual coverage:** Resource/economic cost, accounting cost, explicit/implicit cost, opportunity cost, private/social cost, fixed/variable, total/average/marginal, direct/indirect, sunk/avoidable/incremental, replacement and financing costs; price types and comparability; retailer example; price formation; nominal versus real prices.
+- **Reasoning safeguards:** Cost categories depend on perspective, decision and time horizon. Price is not automatically cost, usefulness, profit or social cost. A listed/reference price is not automatically an executable transaction price. Examples use hypothetical figures and do not estimate actual Nigerian market conditions.
+- **Research basis:** Introductory references include OpenStax Principles of Economics 3e, OECD Understanding National Accounts, and the UN System of National Accounts. The note distinguishes general economic cost concepts from national-accounting concepts.
+- **Next action:** Create Concept 5 on revenue, income and receipts, explicitly separating sales, revenue recognition, income earned, cash receipts, receivables/payables, prepayments, profit and cash flow. Then deepen value added versus profit, productivity, and capital formation.
+ 
 ## 2026-10-29 — Workstream A Concept 3: economic value, usefulness and exchange value
 
 - **Task:** Continue the production-linked sequence and document the next concept plus the next actions on GitHub.
