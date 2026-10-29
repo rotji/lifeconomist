@@ -1,3 +1,13 @@
+## 2026-10-29 — Workstream A Concept 8: capital formation, depreciation, maintenance and replacement
+
+- **Task:** Continue the concept sequence from productivity and productive capacity.
+- **Repository review:** Re-read the Concept 7 note, Workstream A index and roadmap, and current state before drafting.
+- **Change:** Created `workstream-a/concepts/capital-formation-depreciation-maintenance-and-replacement.md`, indexed it in `workstream-a/README.md`, extended `workstream-a/WORKSTREAM-A-ROADMAP.md`, and updated `CURRENT-STATE.md`.
+- **Coverage:** Capital formation and GFCF; gross versus net capital formation; produced assets versus financial claims; business capital expenditure and operating expenditure; depreciation versus national-accounts consumption of fixed capital; maintenance, repairs, replacement and expansion; inventory; existing-asset transfers; savings, financing and financial investment; capital stock and capital services.
+- **Reasoning safeguards:** A purchase of shares, a loan, saving, and productive-asset creation are different transactions. Business depreciation is not a cash reserve and need not equal national-accounts CFC. Buying an existing asset may change ownership without adding an equivalent amount of new productive assets to the economy. An investment announcement is not proof of delivery or productive operation. Numerical examples are hypothetical; no Nigerian capital-formation estimate is made.
+- **Research basis:** The concept note references the UN System of National Accounts, OECD definitions and capital-measurement material, and IFRS IAS 16 and IAS 2. Formal classification must follow the applicable accounting or national-accounting framework.
+- **Next action:** Begin the core group **money, wealth, capital and financial resources**. Establish careful distinctions among money/currency/deposits, assets/liabilities, wealth/net worth, productive capital, financial capital, income, saving, financing and liquidity. Use household, SME, bank and national-accounting examples without assuming that every measure can be summed into one total.
+
 ## 2026-10-29 — Workstream A Concept 7: productivity and productive capacity
 
 - **Task:** Continue the production-linked conceptual sequence after Concept 6 (value added, income distribution and profit).
