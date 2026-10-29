@@ -1,3 +1,13 @@
+## 2026-10-29 — Workstream A Concept 3: economic value, usefulness and exchange value
+
+- **Task:** Continue the production-linked sequence and document the next concept plus the next actions on GitHub.
+- **Repository check:** Re-read the existing production concept and Concept 2 (Output and Intermediate Inputs) before adding a new note. The production note and its audit remain present; Concept 2 distinguishes output from sales/revenue/cash receipts, intermediate consumption from fixed assets, and gross value added from profit.
+- **Change:** Created `workstream-a/concepts/economic-value-usefulness-and-exchange-value.md`, indexed it in `workstream-a/README.md`, added the next action to `workstream-a/WORKSTREAM-A-ROADMAP.md`, and updated `CURRENT-STATE.md`.
+- **Conceptual focus:** Separate usefulness, willingness to pay, observed transaction price, exchange value, accounting value, value added, asset valuation and welfare value. Clarify that price does not automatically measure full customer benefit, profit or wider social effects, and that welfare values should not be added to national-accounting measures without a defensible framework.
+- **Research basis:** The concept note references the UN 2025 System of National Accounts, OECD material on national accounts and economic welfare, and UK ONS natural-capital accounting principles. Claims are scoped to the stated valuation framework; examples are illustrative rather than empirical.
+- **Evidence boundary:** This is a conceptual note, not a complete theory of value, a universal monetary valuation method, proof of demand for an information service, or a Workstream B indicator specification.
+- **Next action:** Investigate costs and prices: distinguish resource cost, accounting cost, opportunity cost, market price, marginal cost and price-setting mechanisms. Then proceed to revenue, income and receipts, followed by deeper value-added/profit distinctions, productivity and capital formation.
+
 ## 2026-10-29 — Workstream A production audit and Concept 2 added
 
 - **Task:** Continue the documented Conceptual Foundations Roadmap from the existing production note.
