@@ -11,7 +11,8 @@ The goal is not merely to store short definitions. Each concept note should conn
 ## Concept notes
 
 - [Production](concepts/production.md)
-- [Output and Intermediate Inputs](concepts/output-and-intermediate-inputs.md) — distinguishes output from sales, revenue and cash receipts; clarifies intermediate consumption, fixed assets, inventory timing, gross value added and trade margins. — what production means in everyday reality, goods and services, production and GDP, value added, prices and costs, and the link to productivity.
+- [Output and Intermediate Inputs](concepts/output-and-intermediate-inputs.md)
+- [Economic Value, Usefulness and Exchange Value](concepts/economic-value-usefulness-and-exchange-value.md) — distinguishes usefulness, willingness to pay, price, exchange value, value added, asset value and welfare value. — distinguishes output from sales, revenue and cash receipts; clarifies intermediate consumption, fixed assets, inventory timing, gross value added and trade margins. — what production means in everyday reality, goods and services, production and GDP, value added, prices and costs, and the link to productivity.
 
 ## How to use this directory
 
