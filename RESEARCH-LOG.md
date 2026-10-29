@@ -1,3 +1,14 @@
+## 2026-10-29 — Workstream A Concept 18: financial markets and market infrastructure
+
+- **Task:** Continue the conceptual sequence from foreign exchange and capital flows to the organization, trading, pricing and settlement of financial claims.
+- **Repository review:** Checked the Workstream A roadmap, concept index, current state and preceding concept records before drafting.
+- **Change:** Created `workstream-a/concepts/financial-markets-and-market-infrastructure.md`; indexed it in `workstream-a/README.md`; linked it in `workstream-a/WORKSTREAM-A-ROADMAP.md`; and updated `CURRENT-STATE.md`.
+- **Coverage:** Financial claims, instruments and securities; primary issuance and secondary trading; trading versus financing and productive investment; exchange and OTC markets; market participants/intermediaries; orders, bids, asks and order books; price discovery and valuation; market, funding and asset liquidity; turnover, depth, volume and market capitalization; execution, clearing and settlement; CCPs and netting; custody, legal/beneficial ownership and economic exposure; derivatives and leverage; infrastructure resilience and stress feedback.
+- **Reasoning safeguards:** Secondary trading usually transfers existing claims rather than directly providing new cash to the issuer. Market capitalization is not cash available to a company. Trading activity does not itself prove new productive investment. Market liquidity differs from funding liquidity and solvency. Execution, clearing, settlement, custody and ownership are distinct roles or stages. Derivative notional is not automatically exposure or potential loss.
+- **Measurement boundary:** No current Nigerian market capitalization, turnover, issuance, liquidity or trading values are asserted. Official market series, definitions and validation remain in Workstream B.
+- **References for later verification:** IOSCO, BIS/CPMI, IFRS, Nigerian Exchange Group and Securities and Exchange Commission Nigeria.
+- **Next action:** Proceed to **accounting, balance sheets and financial statements**. Distinguish assets from expenses, liabilities from costs, equity from cash, profit from cash flow, accrual from cash accounting, book value from market value, gross from net, and consolidated group accounts from separate-entity accounts. Explain how balance sheets, income statements and cash-flow statements relate without treating accounting measures as direct measures of economic welfare.
+
 ## 2026-10-29 — Workstream A Concept 17: foreign exchange, international money and global capital flows
 
 - **Task:** Continue the conceptual sequence from inflation and interest rates to currencies, cross-border transactions and external balance sheets.
