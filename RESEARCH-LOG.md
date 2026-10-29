@@ -1,3 +1,12 @@
+## 2026-10-29 — ECAI foundational literature synthesis 001
+
+- **Task:** Continue Stage 1 of the ECAI research programme.
+- **Change:** Created `ECAI-LITERATURE-SYNTHESIS-001.md` and linked it from `README.md`; updated `CURRENT-STATE.md`.
+- **Research areas reviewed:** Consumer detriment and consumer-policy measurement; political consumerism; boycott versus buycott; shareholder-wealth effects of boycotts; collective action and institutional design; input-output / global value-chain analysis limitations; evaluation criteria and causal contribution.
+- **Initial evidence-based conclusions:** (1) Political consumerism research documents participation but does not by itself establish final institutional impact. (2) One US study of 125 boycotts reports negative average target shareholder-wealth effects, which must not be equated with policy or social outcomes. (3) Boycott and buycott behaviour should be measured separately. (4) Collective action is context-dependent and requires attention to governance, incentives, monitoring, and fairness. (5) Input-output tables can support aggregate tracing but not every firm- or transaction-level claim. (6) Evaluation should distinguish inputs, outputs, outcomes, broader impacts, unintended effects, and distribution across groups.
+- **Limitations:** This is a selective, targeted initial synthesis—not a systematic review, exhaustive bibliography, or validation of ECAI as a unified framework. International evidence transfer to Nigeria remains an open question.
+- **Next action:** Expand and verify literature on campaign effectiveness, political economy and market power, collective institutions, economic-network tracing, and causal evaluation; then develop the Stage 2 consequence-tracing methodology.
+
 ## 2026-10-29 — Economic Consequence and Agency Intelligence documented
 
 - **Trigger:** The project owner chose to focus on the combined direction: understanding the consequences of people's economic choices, comparing alternatives, and identifying evidence-based ways individuals or groups may influence outcomes.
