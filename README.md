@@ -51,7 +51,7 @@ The provisional [Global Financial System Exploration Map](GLOBAL-FINANCIAL-SYSTE
 
 ## Economic Consequence and Agency Intelligence (ECAI)
 
-The provisional [ECAI foundation and research programme](ECAI-FOUNDATION.md) explores how economic participation produces consequences and how individuals or groups may influence those outcomes. It connects consequence tracing, comparison of alternatives, plausible leverage, and evaluation of results. ECAI is a cross-cutting research application of the existing A–E architecture—not a new workstream, validated discipline, product, or claim that collective action reliably changes institutions. Its integrated model and practical direction remain unvalidated; see the document for scope, safeguards, research stages, and initial source trail.
+The provisional [ECAI foundation and research programme](ECAI-FOUNDATION.md) explores how economic participation produces consequences and how individuals or groups may influence those outcomes. The first [foundational literature synthesis](ECAI-LITERATURE-SYNTHESIS-001.md) records initial evidence, source limitations, and methodological implications. It connects consequence tracing, comparison of alternatives, plausible leverage, and evaluation of results. ECAI is a cross-cutting research application of the existing A–E architecture—not a new workstream, validated discipline, product, or claim that collective action reliably changes institutions. Its integrated model and practical direction remain unvalidated; see the document for scope, safeguards, research stages, and initial source trail.
 
 ## Experimental tool roles
 - ChatGPT: explore questions, challenge explanations, draft and review research.
