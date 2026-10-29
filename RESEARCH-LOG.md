@@ -1,3 +1,13 @@
+## 2026-10-29 — Workstream A Concept 9: money, wealth, capital and financial resources
+
+- **Task:** Establish core distinctions before moving into credit, debt, banking and financial intermediation.
+- **Repository review:** Re-read the Workstream A roadmap and concept index, current state, and prior concept on capital formation before drafting.
+- **Change:** Created `workstream-a/concepts/money-wealth-capital-and-financial-resources.md`, indexed it in `workstream-a/README.md`, marked it in `workstream-a/WORKSTREAM-A-ROADMAP.md`, and updated `CURRENT-STATE.md`.
+- **Coverage:** Functions of money; currency, cash, deposits, payment instruments and reserves; wealth/net worth and balance sheets; assets and liabilities; income, saving and wealth; productive, financial, regulatory, human, social and natural capital; funding, financing, investment, commitments, disbursements and deployment; liquidity versus solvency; household, SME, bank and national-economy examples; common confusions and measurement checklist.
+- **Reasoning safeguards:** Money, wealth, income and capital are not interchangeable. A bank deposit is an asset for a depositor and a liability for a bank. Borrowing is not automatically income or net-wealth creation. Buying a secondary-market share does not by itself create a productive asset. Financial claims and counterpart liabilities must be handled carefully when aggregating sectors. Liquidity and solvency answer different questions. Examples are hypothetical; no Nigerian monetary or national-wealth estimate is asserted.
+- **Research basis:** The note points to BIS monetary/financial statistics, IMF monetary and financial statistics guidance, the UN System of National Accounts, the IFRS Conceptual Framework and the CBN as primary references for later series-specific verification.
+- **Next action:** Develop the connected concept group **credit, debt, banking and financial intermediation**. Distinguish credit from money, loans from deposits, debt stocks from new borrowing and debt-service flows, bank balance-sheet expansion from net wealth creation, interest from principal repayment, and credit allocation from productive investment. Treat commercial-bank money creation and central-bank reserves with careful institutional definitions rather than simplified “banks lend out deposits” explanations.
+
 ## 2026-10-29 — Workstream A Concept 8: capital formation, depreciation, maintenance and replacement
 
 - **Task:** Continue the concept sequence from productivity and productive capacity.
