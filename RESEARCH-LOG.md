@@ -1,3 +1,13 @@
+## 2026-10-29 — Workstream A Concept 12: markets, prices and exchange
+
+- **Task:** Continue the conceptual sequence by explaining how markets organize exchange and how prices function, without treating price, value, cost, supply and demand as interchangeable.
+- **Repository review:** Checked the Workstream A concept index, master roadmap, current state and Concept 11 before drafting.
+- **Change:** Created `workstream-a/concepts/markets-prices-and-exchange.md`; indexed it in `workstream-a/README.md`; linked it in `workstream-a/WORKSTREAM-A-ROADMAP.md`; and updated `CURRENT-STATE.md`.
+- **Coverage:** Market boundaries and exchange; transaction, quoted and reference prices; price versus cost/value; nominal, real and relative prices; supply versus quantity supplied; demand versus quantity demanded; curve movements versus shifts; equilibrium and disequilibrium; competition, market power and bargaining; financial-market price discovery, bid/ask, spreads and liquidity; market failures, externalities and price-signal limitations.
+- **Reasoning safeguards:** A price movement alone does not identify its cause. Market concentration alone does not prove abusive conduct. Model equilibrium does not establish fairness or social optimality. Financial asset prices do not directly measure current output or productive capacity. No current Nigerian price, inflation, concentration or FX arbitrage claim is asserted.
+- **References for later verification:** OpenStax Principles of Economics, OECD Competition, CPI methodology resources, SEC Nigeria, CBN and NBS Nigeria.
+- **Next action:** Proceed to **national income, GDP and economic accounting**, beginning with the difference between output, value added, GDP, income and expenditure; nominal versus real GDP; final versus intermediate goods; and the production, expenditure and income approaches. Keep the conceptual note separate from Workstream B's formal indicator definitions and selected Nigerian series.
+
 ## 2026-10-29 — Workstream A Concept 11: investment, saving, financial markets and capital allocation
 
 - **Task:** Continue from Concept 10 to distinguish saving, financial investment, real investment, capital formation and the stages of capital allocation.
