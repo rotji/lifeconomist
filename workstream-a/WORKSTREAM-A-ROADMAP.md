@@ -100,6 +100,8 @@ The following groups establish the broad coverage intended for Workstream A. The
 - Informal activity, imputed output and non-market production boundaries
 
 ### Group 7 — Labour, employment and household economics
+
+**Completed concept note:** [Concept 14 — Labour, Employment and Household Economics](concepts/labour-employment-and-household-economics.md). The note distinguishes labour-force statuses, employment quality, hours, wages/earnings/compensation, nominal versus real pay, household income and disposable income, consumption/saving, poverty/inequality, informality and productivity. Formal Nigerian indicator selection remains in Workstream B.
 - Labour force, employment, unemployment and underemployment
 - Wages, salaries, compensation and labour income
 - Hours worked, skills, human capital and experience
