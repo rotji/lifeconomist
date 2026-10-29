@@ -481,7 +481,7 @@ The workstreams interact bidirectionally. A concept may expose a measurement pro
 ## 8. Immediate next actions
 
 1. Preserve the existing numbered concept notes as the record of completed investigations; do not restart the sequence from the original production-linked phase.
-2. Reconcile the older 25-group terminology inventory and phase plan against concepts already documented through Concept 23.
+2. Reconcile the older 25-group terminology inventory and phase plan against concepts already documented through Concept 25, including the newly completed Group 18.
 3. Choose the next concept based on the actual gaps and conceptual dependencies, not merely the next unexamined heading in the original inventory.
 4. For each new concept, create a durable note using the established note style, index it in `workstream-a/README.md`, and update `CURRENT-STATE.md` and `RESEARCH-LOG.md`.
 5. Update the roadmap's inventory and sequencing when the reconciliation identifies genuine gaps, duplicates or a better order.
