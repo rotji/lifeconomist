@@ -1,3 +1,14 @@
+## 2026-10-29 — Workstream A Concept 16: inflation, interest rates and purchasing power
+
+- **Task:** Continue the conceptual sequence from government finance to prices, inflation, interest rates and real purchasing power.
+- **Repository review:** Checked the Workstream A roadmap, concept index, current state and preceding concept records before drafting.
+- **Change:** Created `workstream-a/concepts/inflation-interest-rates-and-purchasing-power.md`; indexed it in `workstream-a/README.md`; linked it in `workstream-a/WORKSTREAM-A-ROADMAP.md`; and updated `CURRENT-STATE.md`.
+- **Coverage:** Price versus price level and price index; inflation measures; inflation, disinflation and deflation; CPI, headline/core inflation and cost-of-living limitations; weights, substitution and quality; nominal versus real income; purchasing power; nominal, real, ex-ante and ex-post interest rates; expected versus realized inflation; policy versus market rates; borrowing-cost comparisons; possible inflation mechanisms; household, fiscal and financial-market transmission; calculation relationships and evidence checklist.
+- **Reasoning safeguards:** A lower positive inflation rate does not mean prices have fallen. A national CPI is not every household's cost of living. Policy rates do not mechanically determine all market rates. A coincident price change does not establish its cause. Illustrative calculations only; no current Nigerian inflation, interest-rate or wage figures are asserted.
+- **Measurement boundary:** Official Nigerian CPI, inflation, wage and interest-rate series, formal definitions and data validation remain in Workstream B.
+- **References for later verification:** IMF price-statistics resources, BIS statistics, Central Bank of Nigeria, NBS Nigeria and OECD price/purchasing-power resources.
+- **Next action:** Proceed to **foreign exchange, international money and global capital flows**. Distinguish exchange rate from currency value and purchasing power; nominal from real effective exchange rates; appreciation from depreciation and revaluation/devaluation; spot from forward rates; currency denomination from residency; gross from net capital flows; and cross-border flows from stock holdings and valuation changes.
+
 ## 2026-10-29 — Workstream A Concept 15: government finance, taxation and public institutions
 
 - **Task:** Continue the conceptual sequence from household economics to government revenue, taxation, expenditure, deficits, debt and public outcomes.
