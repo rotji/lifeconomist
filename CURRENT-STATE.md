@@ -28,6 +28,15 @@
 - Evidence-based transition criteria.
 - A validated FX trading strategy, executable FX arbitrage opportunity, or FX intelligence business.
 
+## ECAI — Economic Consequence and Agency Intelligence
+
+- **Status:** Provisional research framework documented in `ECAI-FOUNDATION.md`; not validated as a unified method, product, or intervention system.
+- **Purpose:** Connect analysis of economic consequences with evidence-based assessment of what individuals and groups can realistically influence.
+- **Architecture:** Cross-cutting application of existing Workstreams A–E and the Reality-First methodology, not a new workstream and not a replacement for the Global Financial System Exploration Map.
+- **Current stage:** Foundational literature synthesis. The document sets out the proposed operating model, evidence safeguards, comparison criteria, and staged research programme.
+- **Not established:** A complete literature review, validated consequence-tracing protocol, comparative case register, or preferred practical application.
+- **Next action:** Continue the source-backed foundational synthesis, then specify a repeatable consequence-tracing methodology and examine documented cases before selecting an implementation direction.
+
 ## Immediate working position
 Workstream A is continuing Concept 1, **production**, using `workstream-a/concepts/production.md` as the durable reference. The current investigation distinguishes production and usefulness from GDP's production boundary, prices, costs, value added, profit, services, and productivity. Continue expanding the note when understanding advances; do not treat it as a finished national-accounts specification. The draft GDP measurement specification remains open in Workstream B and is not the immediate conversational task.
 
