@@ -360,7 +360,7 @@ The inventory is broad; the investigation should proceed through connected group
 4. **Value added, income distribution and profit** — distinguish gross/net value added, employee compensation, production taxes/subsidies, operating surplus/mixed income, and company gross/operating/net profit; clarify the relationship to GDP.
 5. **Productivity and productive capacity** — distinguish output per input from output growth, labour productivity from multifactor productivity, measured productivity from worker effort, and actual output from capacity and utilisation.
 6. **Capital formation, depreciation, maintenance and replacement** — distinguish investment in produced non-financial assets from financial investment and transfers of existing assets; explain gross/net capital formation, fixed assets, inventories, consumption of fixed capital and capital services.
-7. **Money, wealth, capital and financial resources** — distinguish money and deposits, wealth/net worth, productive and financial capital, assets/liabilities, income, savings, funding and liquidity across household, business, banking and national-accounting contexts.
+7. **Money, wealth, capital and financial resources** — distinguish money and deposits, wealth/net worth, productive and financial capital, assets/liabilities, income, savings, funding and liquidity across household, business, banking and national-accounting contexts. [Concept note completed](concepts/money-wealth-capital-and-financial-resources.md).
 Study the connected family:
 1. Output and intermediate inputs
 2. Economic value, usefulness, exchange value and welfare
