@@ -1,3 +1,12 @@
+## 2026-10-29 — Workstream A Concept 30: time, cycles and economic transmission
+
+- **Task:** Continue Workstream A with the temporal dynamics needed to interpret changes, lags, cycles, feedback and economic transmission.
+- **Repository review:** Checked the concept index, current-state checkpoint, roadmap and research log. Group 23 is the next terminology group after measurement/evidence/inference. Related notes on productivity, capital, GDP/accounting, risk, supply chains and structural transformation are linked rather than repeated.
+- **Change:** Created `workstream-a/concepts/time-cycles-and-economic-transmission.md`; indexed Concept 30 in `workstream-a/README.md`; updated `CURRENT-STATE.md`; recorded Group 23 coverage and the next concept reference in `workstream-a/WORKSTREAM-A-ROADMAP.md`; and added this research-log entry.
+- **Coverage:** Event/observation/publication/decision timing; stocks and flows; lag types; transmission channels; reinforcing and balancing feedback; cycles, trends, seasonality, shocks and structural breaks; credit/business cycle mechanisms; persistence, hysteresis and path dependence; expectations; timing and coordination; monitoring frequency and latency; leading/lagging indicators; and a reusable time-and-transmission evidence record.
+- **Reasoning safeguards:** No current cycle phase or forecast is asserted. The note distinguishes sequence from causation, leading relationships from validated prediction, illustrative mechanisms from demonstrated pathways, and revised historical data from real-time information.
+- **Next action:** Reconcile the remaining terminology inventory before selecting Concept 31, without restarting from earlier concepts or assuming the roadmap is already fully reconciled.
+
 ## 2026-10-29 — Workstream A Concept 29: economic measurement, evidence and inference
 
 - **Task:** Continue the documented concept sequence with the measurement and inference principles that recur across the Lifeconomist workstreams.
