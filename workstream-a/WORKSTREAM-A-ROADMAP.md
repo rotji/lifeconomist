@@ -262,6 +262,8 @@ The following groups establish the broad coverage intended for Workstream A. The
 - Investor influence versus legal ownership and operational control
 
 ### Group 19 — Economic growth, development and productivity
+
+**Completed concept note:** [Concept 26 — Economic Growth, Development and Structural Transformation](concepts/economic-growth-development-and-structural-transformation.md). This note complements existing Concept 7 on productivity, Concept 13 on GDP and Concept 23 on institutions and structural change rather than replacing them. It covers real growth versus per-capita growth and development; sources of growth; growth accounting and causal limits; capital deepening, skills and technology; structural transformation; convergence; distribution; potential output; sustainability; and measurement safeguards.
 - Economic growth versus economic development
 - Output per person and productivity growth
 - Capital deepening, skills and technological progress
@@ -481,7 +483,7 @@ The workstreams interact bidirectionally. A concept may expose a measurement pro
 ## 8. Immediate next actions
 
 1. Preserve the existing numbered concept notes as the record of completed investigations; do not restart the sequence from the original production-linked phase.
-2. Reconcile the older 25-group terminology inventory and phase plan against concepts already documented through Concept 25, including the newly completed Group 18.
+2. Reconcile the older 25-group terminology inventory and phase plan against concepts already documented through Concept 26, including the now-covered Group 19 and its links to Concepts 7, 13 and 23.
 3. Choose the next concept based on the actual gaps and conceptual dependencies, not merely the next unexamined heading in the original inventory.
 4. For each new concept, create a durable note using the established note style, index it in `workstream-a/README.md`, and update `CURRENT-STATE.md` and `RESEARCH-LOG.md`.
 5. Update the roadmap's inventory and sequencing when the reconciliation identifies genuine gaps, duplicates or a better order.
@@ -498,4 +500,4 @@ This roadmap is not “completed” merely because all headings have notes. Prog
 - notes link coherently to one another and to the relevant workstreams;
 - later investigations can use the concepts without repeatedly confusing their meanings.
 
-**Current status (updated 2026-10-29):** Workstream A has durable concept notes through [Concept 25 — Capital Markets, Institutional Investors and Investment Funds](concepts/capital-markets-institutional-investors-and-investment-funds.md), following [Concept 24 — Banking Liquidity, Market Liquidity and System-Wide Liquidity](concepts/banking-liquidity-market-liquidity-and-system-wide-liquidity.md). Concept 25 addresses the next substantial gap in the original inventory: how institutional capital is organized, managed, measured and allocated. Earlier phase descriptions and parts of the broad terminology inventory remain imperfectly reconciled with the actual concept sequence. Use the numbered concept notes, `workstream-a/README.md`, `CURRENT-STATE.md` and `RESEARCH-LOG.md` to establish completed work. Next, reconcile remaining inventory and sequence before selecting Concept 26; do not restart from Concept 1 or assume the older group numbering automatically determines the next topic.
+**Current status (updated 2026-10-29):** Workstream A has durable concept notes through [Concept 26 — Economic Growth, Development and Structural Transformation](concepts/economic-growth-development-and-structural-transformation.md), following [Concept 25 — Capital Markets, Institutional Investors and Investment Funds](concepts/capital-markets-institutional-investors-and-investment-funds.md). Concept 26 addresses the growth/development portion of Group 19 and connects it to existing productivity, GDP-accounting and institutional-change notes. Earlier phase descriptions and parts of the broad terminology inventory remain imperfectly reconciled with the actual concept sequence. Use the numbered concept notes, `workstream-a/README.md`, `CURRENT-STATE.md` and `RESEARCH-LOG.md` to establish completed work. Next, reconcile remaining inventory and sequence before selecting Concept 27; do not restart from Concept 1 or assume the older group numbering automatically determines the next topic.
