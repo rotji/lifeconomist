@@ -59,6 +59,8 @@ The following groups establish the broad coverage intended for Workstream A. The
 - Refinancing, rollover risk, restructuring and deleveraging
 
 ### Group 4 — Investment, savings and capital allocation
+
+**Completed concept note:** [Concept 11 — Investment, Saving, Financial Markets and Capital Allocation](concepts/investment-saving-financial-markets-and-capital-allocation.md). This note is a foundational conceptual treatment; detailed Nigeria-specific series and formal measurement specifications remain for Workstream B.
 - Saving versus investment
 - Investment expenditure versus financial-asset purchases
 - Productive investment and capital formation
