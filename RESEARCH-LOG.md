@@ -1,3 +1,14 @@
+## 2026-10-29 — Workstream A Concept 14: labour, employment and household economics
+
+- **Task:** Continue the conceptual sequence from national accounting to labour-market status, earnings and household resources.
+- **Repository review:** Checked the Workstream A roadmap, concept index, current state and Concept 13 before drafting.
+- **Change:** Created `workstream-a/concepts/labour-employment-and-household-economics.md`; indexed it in `workstream-a/README.md`; linked it in `workstream-a/WORKSTREAM-A-ROADMAP.md`; and updated `CURRENT-STATE.md`.
+- **Coverage:** Work versus employment; working-age population and labour force; unemployment, underemployment and labour underutilization; unemployment, participation and employment-to-population ratios; employment types and job quality; hours; wages, earnings, compensation and labour income; nominal versus real pay; household income and disposable income; consumption, saving, assets and debt; poverty, deprivation, inequality and median versus mean; unpaid care, informality and productivity/pay relationships.
+- **Reasoning safeguards:** A falling unemployment rate does not necessarily mean more people found work; interpret it with participation and employment-to-population ratios. Employment does not establish job quality. Loans and asset sales can generate cash without being income. Nominal wage growth does not guarantee higher purchasing power. Productivity gains do not mechanically determine wages. No current Nigerian labour, wage or poverty figure is asserted.
+- **Measurement boundary:** Official Nigerian series selection, calculations, comparability and validation remain in Workstream B. The note distinguishes statistical definitions from everyday language and flags framework changes.
+- **References for later verification:** ILO labour statistics, OECD income distribution, World Bank Poverty and Inequality Platform, UN System of National Accounts and Nigeria's NBS.
+- **Next action:** Proceed to **government finance, taxation and public institutions**. Distinguish government revenue from tax revenue, expenditure from transfers, deficit from debt, borrowing from financing, fiscal balance from cash position, public debt from contingent liabilities, and budget appropriations from actual spending and service outcomes.
+
 ## 2026-10-29 — Workstream A Concept 13: national income, GDP and economic accounting
 
 - **Task:** Continue the conceptual sequence from markets and prices into national output and economic accounting.
