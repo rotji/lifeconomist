@@ -140,6 +140,8 @@ The following groups establish the broad coverage intended for Workstream A. The
 - Monetary tightening/easing and transmission mechanisms
 
 ### Group 10 — Foreign exchange, international money and global capital flows
+
+**Completed concept note:** [Concept 17 — Foreign Exchange, International Money and Global Capital Flows](concepts/foreign-exchange-international-money-and-global-capital-flows.md). Covers exchange-rate conventions, purchasing power, appreciation/depreciation and official parity changes, effective exchange-rate indexes, spot/forward transactions, residence versus currency denomination, balance-of-payments accounts, gross/net flows, stock-flow reconciliation, investment categories, external positions, reserves, exchange-rate pass-through and currency mismatch. Official Nigerian series remain in Workstream B.
 - Currency, exchange rates and quote conventions
 - Spot, forward, swap and other FX transactions
 - Nominal, real, bilateral and effective exchange rates
