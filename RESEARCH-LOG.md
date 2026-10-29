@@ -1,3 +1,14 @@
+## 2026-10-29 — Workstream A Concept 13: national income, GDP and economic accounting
+
+- **Task:** Continue the conceptual sequence from markets and prices into national output and economic accounting.
+- **Repository review:** Checked the Workstream A roadmap, concept index, current state and Concept 12 before drafting.
+- **Change:** Created `workstream-a/concepts/national-income-gdp-and-economic-accounting.md`; indexed it in `workstream-a/README.md`; linked it in `workstream-a/WORKSTREAM-A-ROADMAP.md`; and updated `CURRENT-STATE.md`.
+- **Coverage:** GDP and the production boundary; final versus intermediate goods; value added and double counting; production, expenditure and income approaches; GDP versus GNI, NNI, household income, money stocks and wealth; nominal versus real GDP and GDP deflator versus CPI; per-capita GDP; expenditure components; sector shares versus growth and contributions; revisions and uncertainty; welfare limitations.
+- **Reasoning safeguards:** GDP is a production flow, not national wealth or money supply. “Investment” in the expenditure identity means national-accounting capital formation, not every financial asset purchase. GDP is not a complete welfare measure. A statistical revision does not itself establish manipulation. The illustrative bakery example is not empirical data.
+- **Measurement boundary:** The note explicitly leaves official Nigerian series selection, operational definitions and calculation rules to Workstream B's Real GDP Growth specification. No current Nigerian GDP figure or growth rate is asserted.
+- **References for later verification:** UN System of National Accounts, OECD National Accounts, IMF data resources, World Bank World Development Indicators and Nigeria's National Bureau of Statistics.
+- **Next action:** Proceed to **labour, employment and household economics**. Distinguish labour force, employment, unemployment, underemployment, participation, working hours, wages, compensation, labour income, household disposable income, consumption, poverty and informal work. Keep conceptual definitions separate from Workstream B's indicator choices and official Nigerian series.
+
 ## 2026-10-29 — Workstream A Concept 12: markets, prices and exchange
 
 - **Task:** Continue the conceptual sequence by explaining how markets organize exchange and how prices function, without treating price, value, cost, supply and demand as interchangeable.
