@@ -1,3 +1,12 @@
+## 2026-10-29 — Workstream A Concept 24: banking, market and system-wide liquidity
+
+- **Task:** Continue from Concept 23 by examining liquidity as a distinct constraint linking money, credit, financial markets, accounting, risk and supply-chain payment timing.
+- **Repository review:** Reviewed the Concept 3 note's established reality-first structure, Concept 22, Concept 23, the Workstream A index and roadmap, current-state documentation, and research log.
+- **Change:** Created `workstream-a/concepts/banking-liquidity-market-liquidity-and-system-wide-liquidity.md`; indexed Concept 24 in `workstream-a/README.md`; updated `CURRENT-STATE.md`; and updated the roadmap's current status and next action.
+- **Coverage:** Payment/cash, funding, market, collateral and system-wide liquidity; liquidity versus wealth, profitability, cash flow and solvency; working-capital and cash-conversion timing; bank assets and liabilities; deposits versus central-bank reserves; market depth, tightness, immediacy and price impact; collateral eligibility, haircuts and margin; funding-market feedback; payment-network propagation; liquidity indicators and limitations; worked business example; cross-workstream links.
+- **Reasoning safeguards:** No current bank, market, country or currency liquidity assessment is asserted. A possible feedback loop is not treated as inevitable; an asset's stated value is not equated with immediately usable cash; a quote is not treated as an executable price; and a liquidity signal is not treated as proof of insolvency or causation.
+- **Next action:** Reconcile the remaining roadmap inventory against the existing numbered notes before selecting Concept 25, avoiding duplication and preserving the actual investigation sequence.
+
 ## 2026-10-29 — Workstream A Concept 23: economic systems, institutions and structural change
 
 - **Task:** Continue from Concept 22 into the arrangements, rules and mechanisms that organize economic activity and explain structural persistence or change.
