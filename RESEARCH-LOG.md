@@ -1,3 +1,14 @@
+## 2026-10-29 — Workstream A Concept 5: revenue, income and receipts
+
+- **Task:** Continue the production-linked conceptual sequence and record the next actions on GitHub.
+- **Repository check:** Re-read Concept 4 and the Workstream A roadmap before adding the next concept. The current sequence distinguishes production/output, value/usefulness, costs/prices, and now the timing and accounting of sales and cash.
+- **Change:** Created `workstream-a/concepts/revenue-income-and-receipts.md`, indexed it in `workstream-a/README.md`, added it to `workstream-a/WORKSTREAM-A-ROADMAP.md`, and updated `CURRENT-STATE.md`.
+- **Conceptual coverage:** Sales, revenue recognition, income and earnings, cash receipts, receivables, payables, prepayments, profit, gross margin, cash flow, cash balances, household income and national-accounting aggregates.
+- **Key safeguards:** A loan receipt is not ordinary sales revenue; collecting a receivable is not automatically a second sale; profit is not cash in the bank; a profitable entity may still face a liquidity problem; national-income aggregates cannot be inferred by summing arbitrary business revenue or cash inflows.
+- **Research basis:** References include IFRS 15, the IFRS Conceptual Framework, IAS 7, the UN System of National Accounts, and Nigeria NBS GDP methodology. Specific recognition depends on the applicable standard, contract and transaction.
+- **Evidence boundary:** All numerical examples are hypothetical. The note is conceptual and does not provide accounting advice or formal Workstream B indicator specifications.
+- **Next action:** Develop a dedicated note distinguishing value added from profit and income distribution, then examine productivity and capital formation. Preserve links among these concepts rather than treating each as an isolated glossary entry.
+
 ## 2026-10-29 — Workstream A Concept 4: costs and prices
 
 - **Task:** Continue the production-linked conceptual sequence and record the next obvious actions.
