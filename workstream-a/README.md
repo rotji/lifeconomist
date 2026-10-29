@@ -18,6 +18,7 @@ The goal is not merely to store short definitions. Each concept note should conn
 - [Productivity and Productive Capacity](concepts/productivity-and-productive-capacity.md) — distinguishes output per input from total production, partial and multifactor productivity, capacity, quality, and causal interpretation.
 - [Capital Formation, Depreciation, Maintenance and Replacement](concepts/capital-formation-depreciation-maintenance-and-replacement.md) — distinguishes productive assets, financial investment, capital formation, gross/net measures, depreciation, CFC, maintenance, replacement and capacity.
 - [Money, Wealth, Capital and Financial Resources](concepts/money-wealth-capital-and-financial-resources.md) — distinguishes money, currency, deposits, wealth/net worth, income, productive and financial capital, financing, liquidity and solvency.
+- [Credit, Debt, Banking and Financial Intermediation](concepts/credit-debt-banking-and-financial-intermediation.md) — distinguishes credit from money, debt stocks from borrowing flows, principal from interest, deposits from reserves, bank lending and deposit creation, credit risk, leverage and productive outcomes.
 - [Value Added, Income Distribution and Profit](concepts/value-added-income-distribution-and-profit.md) — separates gross/net value added, national-accounting income components, company profit measures and GDP.
 
 ## How to use this directory
