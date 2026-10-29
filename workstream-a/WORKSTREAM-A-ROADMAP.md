@@ -154,6 +154,8 @@ The following groups establish the broad coverage intended for Workstream A. The
 - Carry trades, currency risk and settlement constraints
 
 ### Group 11 — Financial markets and market infrastructure
+
+**Completed concept note:** [Concept 18 — Financial Markets and Market Infrastructure](concepts/financial-markets-and-market-infrastructure.md). Covers financial claims and instruments, primary issuance versus secondary trading, exchanges versus OTC markets, participants and intermediaries, order books and price discovery, market/funding liquidity, volume and capitalization, execution/clearing/settlement, custody and ownership, derivatives, leverage, market infrastructure resilience and stress feedback. Official Nigerian market indicators remain in Workstream B.
 - Money markets and capital markets
 - Government bonds, corporate bonds and equities
 - Primary versus secondary markets
