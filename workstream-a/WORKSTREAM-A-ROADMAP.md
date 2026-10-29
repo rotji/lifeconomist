@@ -359,6 +359,7 @@ The inventory is broad; the investigation should proceed through connected group
 3. **Revenue, income and receipts** — distinguish sales, revenue recognition, income/earnings, cash receipts, receivables/payables, prepayments, profit and cash flow.
 4. **Value added, income distribution and profit** — distinguish gross/net value added, employee compensation, production taxes/subsidies, operating surplus/mixed income, and company gross/operating/net profit; clarify the relationship to GDP.
 5. **Productivity and productive capacity** — distinguish output per input from output growth, labour productivity from multifactor productivity, measured productivity from worker effort, and actual output from capacity and utilisation.
+6. **Capital formation, depreciation, maintenance and replacement** — distinguish investment in produced non-financial assets from financial investment and transfers of existing assets; explain gross/net capital formation, fixed assets, inventories, consumption of fixed capital and capital services.
 Study the connected family:
 1. Output and intermediate inputs
 2. Economic value, usefulness, exchange value and welfare
