@@ -15,7 +15,8 @@ The goal is not merely to store short definitions. Each concept note should conn
 - [Economic Value, Usefulness and Exchange Value](concepts/economic-value-usefulness-and-exchange-value.md)
 - [Costs and Prices](concepts/costs-and-prices.md)
 - [Revenue, Income and Receipts](concepts/revenue-income-and-receipts.md)
-- [Value Added, Income Distribution and Profit](concepts/value-added-income-distribution-and-profit.md) — separates gross/net value added, national-accounting income components, company profit measures and GDP. — distinguishes sales, recognized revenue, income, cash receipts, receivables, payables, prepayments, profit and cash flow. — distinguishes economic and accounting cost, opportunity cost, fixed/variable, average/marginal, sunk/incremental costs, price formation, and nominal versus real prices. — distinguishes usefulness, willingness to pay, price, exchange value, value added, asset value and welfare value. — distinguishes output from sales, revenue and cash receipts; clarifies intermediate consumption, fixed assets, inventory timing, gross value added and trade margins. — what production means in everyday reality, goods and services, production and GDP, value added, prices and costs, and the link to productivity.
+- [Productivity and Productive Capacity](concepts/productivity-and-productive-capacity.md) — distinguishes output per input from total production, partial and multifactor productivity, capacity, quality, and causal interpretation.
+- [Value Added, Income Distribution and Profit](concepts/value-added-income-distribution-and-profit.md) — separates gross/net value added, national-accounting income components, company profit measures and GDP.
 
 ## How to use this directory
 
