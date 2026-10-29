@@ -1,3 +1,14 @@
+## 2026-10-29 — Workstream A Concept 23: economic systems, institutions and structural change
+
+- **Task:** Continue from Concept 22 into the arrangements, rules and mechanisms that organize economic activity and explain structural persistence or change.
+- **Repository review:** Read Concept 3's established structure, the Concept 22 note, the Workstream A index, the roadmap and current-state documentation before editing.
+- **Change:** Created `workstream-a/concepts/economic-systems-institutions-and-structural-change.md`; indexed Concept 23 in `workstream-a/README.md`; updated `CURRENT-STATE.md`; and reconciled the roadmap's stale end-of-file status and next actions.
+- **Coverage:** Economic systems and coordination mechanisms; institutions versus organizations; formal rules versus effective practice; ownership, control, operation, financing, benefit and risk; institutional incentives and constraints; structural change versus growth and development; diversification, industrialization, formalization and upgrading; path dependence, lock-in, sunk costs and hysteresis; institutional feedback; market power and access; worked example; evidence standards and cross-workstream links.
+- **Reasoning safeguards:** No country is classified or ranked; no current Nigerian institutional or structural indicators are asserted; formal policy is not treated as implementation; benefit is not treated as proof of causation or intent; a plausible mechanism is not treated as causal proof.
+- **Roadmap correction:** The older roadmap still contains planned phase descriptions that do not match the actual completed sequence. Its status and next actions now flag this discrepancy instead of claiming that Concept 10 is the active task. A full inventory reconciliation remains open.
+- **References for further verification:** Douglass North, World Bank WDR 2017, UN System of National Accounts, OECD and ILO resources.
+- **Next action:** Reconcile the original terminology inventory against completed concept notes before selecting Concept 24.
+
 ## 2026-10-29 — Workstream A Concept 22: trade, supply chains and distribution networks
 
 - **Task:** Continue from risk and resilience into the organization of trade, sourcing, distribution and dependencies across economic networks.
