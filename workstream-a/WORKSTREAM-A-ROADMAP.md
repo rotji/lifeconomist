@@ -196,6 +196,8 @@ The following groups establish the broad coverage intended for Workstream A. The
 - Business survival, reinvestment and distributions
 
 ### Group 14 — Risk, uncertainty and financial resilience
+
+**Completed concept note:** [Concept 21 — Risk, Uncertainty and Financial Resilience](concepts/risk-uncertainty-and-financial-resilience.md). Covers risk and uncertainty, exposure/likelihood/impact/vulnerability, volatility and tail risk, expected loss/VaR/expected shortfall, liquidity/solvency/profitability, market and funding liquidity, leverage, maturity and refinancing risk, credit/counterparty and market/operational risks, concentration and correlation, systemic risk, contagion mechanisms, buffers, resilience, stress testing and early-warning indicators. No current risk levels or crisis predictions are asserted; measures and thresholds require context-specific validation.
 - Risk versus uncertainty
 - Volatility, drawdown and tail risk
 - Credit, market, liquidity, operational and counterparty risk
