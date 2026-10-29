@@ -1,3 +1,14 @@
+## 2026-10-29 — Workstream A Concept 17: foreign exchange, international money and global capital flows
+
+- **Task:** Continue the conceptual sequence from inflation and interest rates to currencies, cross-border transactions and external balance sheets.
+- **Repository review:** Checked the Workstream A roadmap, concept index, current state and preceding concept records before drafting.
+- **Change:** Created `workstream-a/concepts/foreign-exchange-international-money-and-global-capital-flows.md`; indexed it in `workstream-a/README.md`; linked it in `workstream-a/WORKSTREAM-A-ROADMAP.md`; and updated `CURRENT-STATE.md`.
+- **Coverage:** Currency and exchange-rate conventions; currency value versus purchasing power; appreciation/depreciation versus revaluation/devaluation; bilateral, nominal effective and real effective exchange rates; spot and forward transactions; currency denomination, residence and ownership; current, capital and financial accounts; gross/net flows; flow/stock reconciliation; direct, portfolio and other investment; BOP and IIP; NIIP; reserve definitions; exchange-rate pass-through; interest differentials and carry; currency mismatch; exchange-rate regimes and controls.
+- **Reasoning safeguards:** A cross-border flow is not an accumulated stock. External stock changes can reflect transactions, valuation changes and other adjustments. Currency denomination, residence and nationality/ownership are separate. Forward rates are not automatically forecasts. A reserve headline or exchange-rate movement alone does not establish cause, adequacy or vulnerability.
+- **Measurement boundary:** No current Nigerian exchange-rate, reserve, external-debt, capital-flow or balance-of-payments values are asserted. Official series and formal definitions remain in Workstream B.
+- **References for later verification:** IMF balance-of-payments and international investment position resources, BIS statistics, CBN, NBS Nigeria and World Bank International Debt Statistics.
+- **Next action:** Proceed to **financial markets and market infrastructure**. Distinguish primary issuance from secondary trading; exchanges from OTC markets; securities from intermediaries; market price from fundamental value; order flow from liquidity; clearing from settlement; custody from ownership; and market capitalization or trading turnover from new financing or productive investment.
+
 ## 2026-10-29 — Workstream A Concept 16: inflation, interest rates and purchasing power
 
 - **Task:** Continue the conceptual sequence from government finance to prices, inflation, interest rates and real purchasing power.
