@@ -1,3 +1,12 @@
+## 2026-10-29 — Workstream A Concept 28: digital, information and intangible economics
+
+- **Task:** Continue the concept sequence by investigating the economic role of data, information, software, intangible resources, platforms and decision-support services.
+- **Repository review:** Checked the Workstream A index, current-state record, roadmap and prior concepts. Group 21 was the next unaddressed terminology group after natural resources and growth/development; existing concepts on value added, productivity, capital, GDP, accounting, ownership, supply chains and institutional investors were linked rather than duplicated.
+- **Change:** Created `workstream-a/concepts/digital-information-and-intangible-economics.md`; indexed Concept 28 in `workstream-a/README.md`; updated `CURRENT-STATE.md`; recorded Group 21 coverage in `workstream-a/WORKSTREAM-A-ROADMAP.md`; and added this research-log entry.
+- **Coverage:** Data/information/knowledge/intelligence; information quality and provenance; data products and intelligence services; intangible economic resources versus legal rights and accounting assets; software and AI-enabled production; network effects and platform power; verification and information asymmetry; decision value and coordination costs; data rights and governance; intangible value and digital productivity measurement.
+- **Reasoning safeguards:** No current digital-economy, market-size, productivity or company valuation estimates are asserted. Data volume is not equated with quality; access is not equated with rights; software use is not equated with productivity gains; and network size is not treated as proof of market power. The worked retailer example is explicitly hypothetical.
+- **Next action:** Reconcile the remaining terminology groups and existing concept notes before selecting Concept 29, avoiding duplication and maintaining the established documentation workflow.
+
 ## 2026-10-29 — Workstream A Concept 27: natural resources, energy and environmental economics
 
 - **Task:** Continue Workstream A by examining how natural-resource stocks, energy systems and environmental conditions interact with production, prices, public revenue, livelihoods and long-run resilience.
