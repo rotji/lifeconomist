@@ -1,3 +1,12 @@
+## 2026-10-29 — Workstream A Concept 26: economic growth, development and structural transformation
+
+- **Task:** Continue the conceptual sequence by connecting aggregate growth to productivity, economic structure, distribution and human development.
+- **Repository review:** Checked the concept index, current state, master terminology inventory and roadmap; identified Group 19 as a substantive gap but noted that productivity (Concept 7), GDP accounting (Concept 13) and institutions/structural change (Concept 23) already exist.
+- **Change:** Created `workstream-a/concepts/economic-growth-development-and-structural-transformation.md`; indexed Concept 26 in `workstream-a/README.md`; updated `CURRENT-STATE.md`; marked Group 19 covered with cross-links in `workstream-a/WORKSTREAM-A-ROADMAP.md`; and recorded this work in the research log.
+- **Coverage:** Real output growth and per-capita growth; growth versus development; inputs, productivity and reallocation; growth accounting and causal limits; capital deepening, skills, technology and organization; structural transformation; convergence; distribution and well-being; actual versus potential output; sustainability; measurement safeguards and worked example.
+- **Reasoning safeguards:** No current country growth/development estimates or causal effects are asserted. GDP growth is not equated with welfare, sector share changes are not equated with falling output, growth-accounting residuals are not treated as directly observed technology, and plausible mechanisms are not treated as causal proof.
+- **Next action:** Reconcile the remaining roadmap groups against existing notes and select Concept 27 based on genuine gaps, avoiding duplication of the detailed notes already covering productivity, GDP accounting and institutional change.
+
 ## 2026-10-29 — Workstream A Concept 25: capital markets, institutional investors and investment funds
 
 - **Task:** Continue from liquidity into the organizations and fund structures that allocate institutional capital and connect investors to financial claims and operating businesses.
