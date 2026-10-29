@@ -1,3 +1,13 @@
+## 2026-10-29 — Workstream A Concept 11: investment, saving, financial markets and capital allocation
+
+- **Task:** Continue from Concept 10 to distinguish saving, financial investment, real investment, capital formation and the stages of capital allocation.
+- **Repository review:** Re-read the Workstream A roadmap, concept index, current state and Concepts 9–10 before drafting.
+- **Change:** Created `workstream-a/concepts/investment-saving-financial-markets-and-capital-allocation.md`, indexed it in `workstream-a/README.md`, linked it in `workstream-a/WORKSTREAM-A-ROADMAP.md`, and updated `CURRENT-STATE.md`.
+- **Coverage:** Saving as a flow versus accumulated savings as a stock; financial investment versus national-accounting capital formation; primary versus secondary markets; capital allocation; commitment, approval, financial close, disbursement, deployment and outcome; financial instruments; return, yield, risk, valuation, liquidity and time horizon; household, SME, fund and government examples.
+- **Reasoning safeguards:** Buying an existing financial claim does not automatically create new productive assets. Commitments and disbursements are not proof of deployment or impact. Asset-price increases do not by themselves establish growth in productive capacity. Definitions of investment vary across finance, business practice and national accounts. No Nigerian investment flow, savings rate, market return or capital-formation estimate is asserted.
+- **Research basis:** The note links to UN System of National Accounts, OECD national accounts, IMF balance-of-payments guidance, SEC Nigeria, NGX and CBN resources for later source-specific verification.
+- **Next action:** Develop the connected concept group **markets, prices and exchange**. Distinguish market from marketplace, price from value, nominal from real price, supply from quantity supplied, demand from quantity demanded, market clearing from equilibrium, competition from market power, and financial-asset prices from prices of goods and services.
+
 ## 2026-10-29 — Workstream A Concept 10: credit, debt, banking and financial intermediation
 
 - **Task:** Continue from Concept 9 and establish the conceptual base for lending, banking, debt and credit allocation.
