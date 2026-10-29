@@ -1,3 +1,13 @@
+## 2026-10-29 — Workstream A production audit and Concept 2 added
+
+- **Task:** Continue the documented Conceptual Foundations Roadmap from the existing production note.
+- **Review:** Audited `workstream-a/concepts/production.md`. It already explains goods/services, usefulness versus GDP inclusion, production-chain examples, output/value added/profit distinctions, and labour productivity. Its main open gaps include a sharper treatment of output versus sales/revenue, intermediate inputs versus fixed assets, inventory timing, gross versus net value added, and sourced national-accounting valuation rules.
+- **Change:** Added a roadmap audit section to the production note rather than rewriting it. Created `workstream-a/concepts/output-and-intermediate-inputs.md` and indexed it from `workstream-a/README.md`.
+- **Research basis:** Consulted the UN Statistics Division's System of National Accounts material, OECD explanation of value added and intermediate consumption, and Nigeria NBS GDP methodology. These sources support the distinction between output and intermediate consumption, the role of fixed assets and consumption of fixed capital, and Nigeria's use of trade margins for trade-sector output. Sector-specific rules and full valuation treatment still require care.
+- **Key conceptual conclusions:** Output is not automatically the same as sales or cash received; purchases do not equal intermediate consumption in every period; fixed assets differ from inputs used up in production; gross value added equals output less intermediate consumption under the applicable valuation conventions; retailer resale value is not all newly produced output by the retailer.
+- **Evidence boundary:** The worked bakery, retailer and production-chain figures are hypothetical. This is a conceptual note, not a formal Workstream B measurement specification or business accounting guide.
+- **Next action:** Continue the production-linked sequence with economic value/usefulness and then costs/prices, followed by revenue/income/receipts, value added, profit, productivity, and capital formation.
+
 ## 2026-10-29 — Workstream A conceptual foundations roadmap documented
 
 - **Trigger:** The project owner asked to preserve the full terminology inventory and staged investigation roadmap on GitHub before continuing the conceptual work.
