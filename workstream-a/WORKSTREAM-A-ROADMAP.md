@@ -354,6 +354,7 @@ The inventory is broad; the investigation should proceed through connected group
 4. Keep Workstream B's formal GDP and productivity measurement choices separate from Workstream A's conceptual explanation.
 
 ### Phase 1 — Concepts that follow directly from production
+1. **Economic value, usefulness, exchange value and welfare** — distinguish whose value is being considered, the valuation basis, willingness to pay, observed price, national-accounting value added and broader welfare effects.
 Study the connected family:
 1. Output and intermediate inputs
 2. Economic value, usefulness, exchange value and welfare
