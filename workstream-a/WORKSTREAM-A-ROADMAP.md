@@ -357,6 +357,7 @@ The inventory is broad; the investigation should proceed through connected group
 1. **Economic value, usefulness, exchange value and welfare** — distinguish whose value is being considered, the valuation basis, willingness to pay, observed price, national-accounting value added and broader welfare effects.
 2. **Costs and prices** — distinguish resource/economic cost, accounting cost, opportunity cost, market price, marginal cost, price-setting mechanisms, and nominal versus real prices.
 3. **Revenue, income and receipts** — distinguish sales, revenue recognition, income/earnings, cash receipts, receivables/payables, prepayments, profit and cash flow.
+4. **Value added, income distribution and profit** — distinguish gross/net value added, employee compensation, production taxes/subsidies, operating surplus/mixed income, and company gross/operating/net profit; clarify the relationship to GDP.
 Study the connected family:
 1. Output and intermediate inputs
 2. Economic value, usefulness, exchange value and welfare
