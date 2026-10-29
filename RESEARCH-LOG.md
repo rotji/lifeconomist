@@ -1,3 +1,13 @@
+## 2026-10-29 — Workstream A Concept 6: value added, income distribution and profit
+
+- **Task:** Continue the production-linked conceptual sequence.
+- **Repository check:** Re-read Concept 5 and the Workstream A roadmap before drafting the next concept.
+- **Change:** Created `workstream-a/concepts/value-added-income-distribution-and-profit.md`, indexed it in `workstream-a/README.md`, updated `workstream-a/WORKSTREAM-A-ROADMAP.md`, and updated `CURRENT-STATE.md`.
+- **Conceptual coverage:** Gross and net value added; output minus intermediate consumption; consumption of fixed capital; trade-margin treatment for retailers; compensation of employees; production taxes less subsidies; operating surplus and mixed income; company profit measures; supply-chain contributions; and the relationship between value added and GDP.
+- **Key safeguards:** Revenue, GVA, NVA, gross profit, operating surplus, operating profit, net profit and cash flow are not interchangeable. Company revenue should not simply be summed to estimate GDP. Measurement of income distribution does not itself establish fairness, market power or causation.
+- **Research basis:** UN System of National Accounts, OECD Understanding National Accounts, Nigeria NBS GDP methodology, and IFRS Conceptual Framework. Numerical examples are hypothetical; this note is not a complete national-accounts reconciliation or formal indicator specification.
+- **Next action:** Develop Concept 7 on productivity: distinguish labour productivity, capital productivity, multifactor/total factor productivity, output per worker versus per hour, levels versus growth, and measurement limitations. Then investigate capital formation and the difference between investment expenditure, capital stock and financial investment.
+
 ## 2026-10-29 — Workstream A Concept 5: revenue, income and receipts
 
 - **Task:** Continue the production-linked conceptual sequence and record the next actions on GitHub.
