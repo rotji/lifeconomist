@@ -1,3 +1,12 @@
+## 2026-10-29 — Workstream A Concept 29: economic measurement, evidence and inference
+
+- **Task:** Continue the documented concept sequence with the measurement and inference principles that recur across the Lifeconomist workstreams.
+- **Repository review:** Checked the Workstream A index, current-state record, roadmap, research log and existing GDP/accounting note. The earlier suggested filename `economic-measurement-inference-and-uncertainty.md` was not present; the new note uses the explicit filename `economic-measurement-evidence-and-inference.md`. Concept 13 already covers national accounting in detail, so this note focuses on cross-domain methodology and does not duplicate the GDP protocol.
+- **Change:** Created `workstream-a/concepts/economic-measurement-evidence-and-inference.md`; indexed Concept 29 in `workstream-a/README.md`; added a current checkpoint to `CURRENT-STATE.md`; recorded Group 22 coverage and updated the next concept reference in `workstream-a/WORKSTREAM-A-ROADMAP.md`; and added this research-log entry.
+- **Coverage:** Concepts, constructs, variables, measures, indicators, proxies, estimates and targets; operational definitions; units, denominators, stocks and flows; nominal/real and gross/net distinctions; error, missingness and revisions; comparability; description, association, prediction, mechanisms and causal inference; source independence and triangulation; uncertainty and model risk; aggregation; leading/lagging indicators; decision thresholds; and a reusable evidence record.
+- **Reasoning safeguards:** No current economic estimate or state declaration is made. The note distinguishes observation from inference, mechanism from proof, source repetition from independent corroboration, uncertainty from variability, and evidence assessment from recommendations. Examples are illustrative only.
+- **Next action:** Continue reconciling the remaining terminology inventory before selecting Concept 30, and keep formal indicator definitions and protocols in Workstream B.
+
 ## 2026-10-29 — Workstream A Concept 28: digital, information and intangible economics
 
 - **Task:** Continue the concept sequence by investigating the economic role of data, information, software, intangible resources, platforms and decision-support services.
