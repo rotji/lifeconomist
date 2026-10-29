@@ -127,6 +127,8 @@ The following groups establish the broad coverage intended for Workstream A. The
 - Fiscal federalism, public accounts and institutional mandates
 
 ### Group 9 — Inflation, interest rates and purchasing power
+
+**Completed concept note:** [Concept 16 — Inflation, Interest Rates and Purchasing Power](concepts/inflation-interest-rates-and-purchasing-power.md). Covers price indexes, inflation/disinflation/deflation, CPI and cost-of-living limits, nominal versus real income and interest rates, expected versus realized inflation, policy versus market rates, inflation mechanisms, distributional effects and evidence safeguards. Official Nigerian series remain in Workstream B.
 - Inflation, disinflation and deflation
 - Price levels, relative prices and cost of living
 - Nominal and real interest rates
