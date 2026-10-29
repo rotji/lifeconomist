@@ -16,6 +16,7 @@ The goal is not merely to store short definitions. Each concept note should conn
 - [Costs and Prices](concepts/costs-and-prices.md)
 - [Revenue, Income and Receipts](concepts/revenue-income-and-receipts.md)
 - [Productivity and Productive Capacity](concepts/productivity-and-productive-capacity.md) — distinguishes output per input from total production, partial and multifactor productivity, capacity, quality, and causal interpretation.
+- [Capital Formation, Depreciation, Maintenance and Replacement](concepts/capital-formation-depreciation-maintenance-and-replacement.md) — distinguishes productive assets, financial investment, capital formation, gross/net measures, depreciation, CFC, maintenance, replacement and capacity.
 - [Value Added, Income Distribution and Profit](concepts/value-added-income-distribution-and-profit.md) — separates gross/net value added, national-accounting income components, company profit measures and GDP.
 
 ## How to use this directory
