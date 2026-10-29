@@ -1,3 +1,12 @@
+## 2026-10-29 — Workstream A conceptual foundations roadmap documented
+
+- **Trigger:** The project owner asked to preserve the full terminology inventory and staged investigation roadmap on GitHub before continuing the conceptual work.
+- **Repository review:** Reviewed the project overview, current state, research log, decision register, Workstream A index, and existing `workstream-a/concepts/production.md`.
+- **Baseline:** Production is already documented as a living concept note covering goods and services, usefulness versus GDP inclusion, costs/prices, output, intermediate consumption, value added, profit, and labour productivity. Its questions remain open; it should be extended rather than rewritten from scratch.
+- **Change:** Created `workstream-a/WORKSTREAM-A-ROADMAP.md`, documenting the purpose, 25-group master terminology inventory, staged investigation sequence, concept-note documentation standard, reasoning safeguards, links to Workstreams A–E, immediate next actions, and completion criteria. Linked the roadmap from `workstream-a/README.md` and recorded the status in `CURRENT-STATE.md`.
+- **Scope safeguards:** The inventory is a planning map, not 25 new workstreams or a claim that all terms have been researched. Workstream B retains responsibility for formal measurement specifications. The Global Financial System Exploration Map remains a complementary cross-workstream index; no global aggregate is calculated by this roadmap. ECAI remains set aside unless explicitly resumed.
+- **Next action:** Audit the existing production note for gaps, then continue with output and intermediate inputs, economic value/usefulness, costs and prices, revenue/income/receipts, value added, profit, productivity, and capital formation. After that, study money, wealth, capital, assets, liabilities and equity/net worth as a connected foundational set.
+
 ## 2026-10-29 — ECAI foundational literature synthesis 001
 
 - **Task:** Continue Stage 1 of the ECAI research programme.
