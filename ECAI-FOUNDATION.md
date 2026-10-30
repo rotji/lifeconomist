@@ -174,6 +174,8 @@ At this stage ECAI is **not**:
 
 ## 11. Research programme and stage gates
 
+The stages below are a dependency-aware research plan, not a promise that every stage must be completed before attention can move elsewhere. Pause, reorder, narrow, or revisit a stage when the evidence, feasibility, or value of learning warrants it. Preserve the stopping point and next useful action. New findings should trigger a proportionate review of connected ECAI claims, source interpretations, case comparisons, and proposed applications under the [project-wide Continuity, Pause, and Revision Principle](RESEARCH-METHODOLOGY.md#continuity-pause-and-revision-principle). A stage exit condition is a standard for claiming that stage's specified output is complete, not a deadline or obligation to finish the whole programme.
+
 ### Stage 1 — Foundational literature synthesis
 Map the established fields, core terminology, leading methods, disagreements, and evidence gaps. Distinguish established findings from ECAI's proposed synthesis.
 
@@ -222,4 +224,4 @@ For each source used in a substantive conclusion, record the precise claim suppo
 
 ## 14. Immediate next task
 
-Continue with **Stage 1: Foundational literature synthesis**, then build the consequence-tracing methodology. Prioritize source-backed definitions and documented findings over proposing new concepts. Preserve the distinction between established research, ECAI's synthesis, and unresolved hypotheses.
+**Next useful action when resumed:** Review the existing [foundational literature synthesis](ECAI-LITERATURE-SYNTHESIS-001.md) against any new sources or questions, then decide whether to extend Stage 1, begin a bounded part of Stage 2, or pause/reprioritize. Do not repeat the synthesis without a clear evidence or coverage reason. Prioritize source-backed definitions and documented findings over proposing new concepts. Preserve the distinction between established research, ECAI's synthesis, and unresolved hypotheses.
