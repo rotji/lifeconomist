@@ -156,6 +156,18 @@ Important distinctions:
 
 A falling agricultural share of GDP does not necessarily mean agricultural output is falling. Its share may decline because other sectors grow faster. Similarly, a service-heavy economy is not automatically more or less developed: services range from high-productivity professional activities to low-productivity, insecure work, and national classifications may obscure this variety.
 
+## 8.1 Employment absorption, job quality and productivity
+
+Output growth and employment growth can move at different rates. **Employment absorption** asks how much additional employment an economy creates as output expands; the answer depends on sector mix, technology, hours worked, labor-force participation, firm entry and exit, and the skills demanded by expanding activities. **Jobless growth** is a descriptive term for output growth accompanied by weak employment growth; it does not by itself explain why the pattern occurred.
+
+Labour productivity is output relative to a defined measure of labour input, such as workers or hours. Output per worker can rise because each worker produces more, because average hours change, or because the composition of workers and sectors changes. Output per hour and output per employed person therefore answer different questions. Higher measured productivity can support higher wages and living standards, but the gains are not automatically shared and may coexist with displacement or weak job creation.
+
+A useful employment assessment combines real output and value added with employment, hours worked, wages, job security, informality, underemployment and labor-force participation. Disaggregate by sector, region, gender and relevant worker groups where reliable data permit. A single jobs-created total can conceal low hours, poor job quality, displacement elsewhere or changes in measurement coverage.
+
+**Output growth → changes in sector demand and production methods → labor demand, hours and skills requirements → employment and wage outcomes.**
+
+In plain language, a growing sector may use more workers, automate tasks, raise output per worker or rely on a different skill mix. Whether growth improves livelihoods depends not only on how much is produced, but also on how many people can access the new work, the quality of that work and how the resulting income is distributed.
+
 ## 9. Why sector shares, employment shares and productivity need separate analysis
 
 Suppose a fictional economy has three sectors. Manufacturing output grows, but services grow faster; manufacturing's share of GDP can fall despite increasing manufacturing output. If workers leave agriculture for services, average measured productivity may rise or fall depending on the productivity of the destination jobs and changes within each sector.
