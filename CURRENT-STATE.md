@@ -57,3 +57,8 @@ Workstream A now has durable concept notes through **Concept 32 — Commonly Con
 ### Workstream A — inventory reconciliation checkpoint (2026-10-30)
 
 The first crosswalk of the 25 planned terminology groups against Concepts 1–32 is documented in [CONCEPT-INVENTORY-RECONCILIATION.md](workstream-a/CONCEPT-INVENTORY-RECONCILIATION.md). All 25 groups have identifiable concept-level coverage or a comparison-register entry; this does not mean every subtopic is complete or empirically validated. The review found and fixed two index defects: Concept 6 was missing from the Workstream A index, and Concept 25 was duplicated. No Concept 33 is selected yet. Next is a bullet-by-bullet depth audit that distinguishes explicitly covered, partial, cross-linked and missing roadmap topics, starting with Groups 1–3.
+
+
+### Workstream A — depth audit checkpoint (2026-10-30)
+
+Completed the first bullet-by-bullet depth audit for Groups 1–3, reviewing Concepts 1–11 against every roadmap bullet. See [DEPTH-AUDIT-GROUPS-1-3.md](workstream-a/DEPTH-AUDIT-GROUPS-1-3.md). Targeted improvements were committed to Concept 9 (monetary aggregates and the currency/deposit/reserve boundary) and Concept 10 (maturity transformation, mismatch, rollover/refinancing risk, repricing, arrears, restructuring and deleveraging). The audit found no justification for a new Concept 33 at this stage. Continue with Groups 4–6; distinguish conceptual omissions from Workstream B measurement requirements and jurisdiction-specific classifications.
