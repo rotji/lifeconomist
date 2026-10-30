@@ -118,6 +118,22 @@ For institutional analysis, distinguish:
 
 This distinction prevents an official announcement from being treated as proof of implementation or success.
 
+## 5.1 Property rights, contract enforcement, regulation and collective action
+
+**Property rights** are the rights and restrictions recognized by a particular legal and institutional system over the use, control, transfer, income and exclusion associated with an asset or resource. They are not simply the name recorded on a document: the practical ability to exercise a right can depend on registration, competing claims, enforcement, physical access, social legitimacy and the costs of asserting it.
+
+**Contract enforcement** concerns the mechanisms through which agreed obligations are performed, renegotiated or remedied when breached. Courts are one mechanism, but enforcement can also depend on arbitration, administrative processes, reputation, repeated dealings, collateral, intermediaries and the practical ability to obtain a remedy. A contract's written terms alone do not reveal how predictable, affordable or timely enforcement will be.
+
+**Regulation** establishes or changes rules that shape permissible conduct, incentives, information, standards, entry, competition and risk. Deregulation removes or relaxes some constraints, but does not necessarily mean the absence of rules; other rules may remain or new ones may be introduced. The consequences depend on the specific rule changed, implementation capacity, market structure, transition period, enforcement and responses by affected parties. Neither regulation nor deregulation has a uniform effect across all sectors.
+
+**Collective action** occurs when multiple actors must coordinate to provide a shared benefit, manage a common resource or change an institutional arrangement, but each actor's incentives may differ. Free-riding, coordination costs, unequal bargaining power, distrust and disagreement over cost-sharing can block cooperation. Rules, monitoring, credible sanctions, representation and dispute-resolution mechanisms can help, but their effectiveness depends on legitimacy and implementation.
+
+**Formal rule or right → enforcement and coordination arrangements → participant incentives and behavior → distribution of benefits, costs and power.**
+
+In plain language, writing a rule does not automatically change what people can do. The rule needs an authority or social mechanism capable of applying it, people need to believe that the process is sufficiently predictable, and the costs of compliance or challenge must be considered. The resulting benefits may still be unevenly distributed, so an institutional assessment should ask not only whether the rule works, but for whom, at whose cost and under whose control.
+
+For evidence, separate the text of a law or contract, actual enforcement practices, access to remedies, compliance behavior and measured outcomes. Use jurisdiction- and date-specific legal sources for legal claims. Do not infer that a rule is effective, ineffective, corrupt or captured solely from its written text or from one observed outcome.
+
 ## 6. How institutions affect economic decisions
 
 Institutions do not mechanically determine outcomes. They change the incentives, constraints, information and risks under which people and organizations make decisions.
