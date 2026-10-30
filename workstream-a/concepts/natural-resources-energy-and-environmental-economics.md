@@ -109,6 +109,20 @@ Important distinctions:
 
 Energy productivity also depends on how energy is used. A factory can consume more electricity because it produces more, because equipment is inefficient, because processes change or because energy-intensive production shifts into the measured boundary. Energy consumption alone does not reveal productive performance.
 
+## 5.1 Energy affordability, tariffs and full system costs
+
+**Energy affordability** concerns whether households, firms and public services can obtain the energy services they need at a cost they can sustain. It is not identical to the posted tariff or pump price. The effective burden can include connection charges, fixed fees, fuel and transport costs, backup generation, equipment, outages, spoilage, lost working time and the cost of unreliable service. Affordability should be assessed alongside reliability, access, safety and the quantity or quality of service received.
+
+The **full system cost** of energy can include fuel or primary energy, generation or conversion, transmission and distribution, balancing and reserves, storage, maintenance, financing, losses and environmental costs. Which items are included depends on the question and accounting boundary. A low administered tariff may shift costs to taxpayers, utilities, suppliers, future investment or service quality rather than eliminate them. Conversely, a higher tariff does not by itself prove that the system is efficient or that service is adequate.
+
+Subsidies and tariff reforms can affect consumers differently. Incidence depends on who consumes which energy services, household income, business input use, pass-through into other prices, eligibility rules, supply response and whether compensation is delivered effectively. Aggregate subsidy spending or average tariff changes do not reveal distributional effects on their own.
+
+**Energy input or tariff shock → direct household and business costs → pass-through into transport and goods prices → changes in real purchasing power, production costs and demand.**
+
+In plain language, a rise in energy cost can affect people directly through electricity or fuel bills and indirectly through transport, refrigeration, production and service prices. The final impact depends on how much energy different users consume, whether suppliers absorb or pass on the increase, whether substitutes exist and how incomes or public support change. A tariff announcement alone does not measure the realized cost or welfare effect.
+
+For analysis, specify the energy carrier, customer class, tariff and subsidy rules, period, unit of consumption, reliability level and whether the measure is a posted price, effective paid price or total cost of obtaining a dependable service.
+
 ## 6. Resource rents, royalties, taxes and ownership
 
 Natural resources can generate **economic rents** because access to a scarce, high-quality or strategically located resource may produce returns above the relevant costs and required returns. The calculation depends on the resource, prices, extraction costs, risk, capital costs, timing and definition used.
