@@ -36,6 +36,18 @@ People outside the labour force may include students not seeking work, retirees,
 
 The **labour-force participation rate** is the labour force divided by the relevant working-age population, multiplied by 100. The denominator and age range matter. A rate can fall because employment opportunities deteriorate, because more people enter education, because demographics change, because care constraints change, or because survey definitions and measurement change. The rate alone does not identify the cause.
 
+## 3.1 Demographics, dependency and the demographic dividend
+
+**Age dependency ratios** compare population groups conventionally described as dependants—often children and older people—with a working-age population. The exact age cutoffs and numerator/denominator must be stated. These ratios are demographic indicators, not a direct count of people who are economically dependent: some working-age people do not earn income, and some children or older people work or receive substantial resources.
+
+**Economic dependency** concerns the relationship between people supported by others or by public systems and those supplying income or resources. It depends on employment, earnings, unpaid care, taxes, transfers, health, household structure and institutional arrangements, not age alone. A population with a high share of working-age people can still have low employment or low productivity.
+
+A **demographic dividend** is the potential economic benefit that can arise when the share of working-age people rises relative to dependants. It is a potential, not an automatic outcome. Realizing it depends on health, education and skills, job creation, productive investment, women's participation, infrastructure, institutional capacity and the ability of workers to find productive employment.
+
+**Population ageing** can change labour supply, care needs, pension systems, health spending, saving patterns and demand. These effects vary with productivity, retirement arrangements, migration, household support and public policy. A demographic trend alone does not determine the fiscal or economic result.
+
+When using a dependency or participation statistic, document the age bands, population denominator, source, reference date and whether the measure is demographic or economic. Do not infer employment, household dependence or fiscal sustainability from an age ratio alone.
+
 ## 4. Employment, unemployment and underemployment
 
 ### Employment
