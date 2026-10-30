@@ -54,3 +54,28 @@ The goal is not merely to store short definitions. Each concept note should conn
 - [Commonly Confused Economic and Financial Terms: Comparison Register](concepts/commonly-confused-economic-and-financial-terms-comparison-register.md) — cross-references high-impact distinctions across money, wealth, capital, revenue, profit, cash flow, GDP, debt, liquidity, finance, markets, ownership, evidence and process stages.
 
 
+## Documentation standard
+
+Concept notes should be detailed enough to explain the real-world phenomenon, not merely define terminology. Adapt the structure to the topic rather than forcing every heading into every note.
+
+A useful note may include:
+1. Core question and why it matters
+2. Plain-language explanation
+3. Key terms and distinctions
+4. Mechanism and causal pathways
+5. Real-world examples (label hypothetical examples as illustrative)
+6. Relationships to other concepts
+7. Measurement and evidence considerations
+8. What is established, illustrative, inferred, or unresolved
+9. Questions to revisit and change history
+
+## Documentation discipline
+
+- Explain the real-world phenomenon before relying on technical language.
+- Keep everyday usefulness, broad economic production, and the GDP production boundary distinct.
+- Distinguish output, revenue, costs, profit, price differences, and value added.
+- Label hypothetical numbers and examples as illustrative.
+- Do not turn an example into evidence about an actual market or event.
+- Record important corrections and uncertainties instead of silently erasing them.
+- Link to Workstream B when a concept requires a formal measurement specification; conceptual notes do not replace measurement protocols.
+- Consider Workstream E implications when justified, without forcing every concept to produce a commercial idea.
