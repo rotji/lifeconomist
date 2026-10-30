@@ -1,3 +1,12 @@
+## 2026-10-30 — Workstream A Concept 32: commonly confused economic and financial terms
+
+- **Task:** Continue from Concept 31 and close the planned Group 25 comparison-register layer without replacing the underlying concept notes.
+- **Repository review:** Checked the Workstream A index, roadmap, current-state checkpoint and research log. Confirmed Group 25's planned distinctions and linked the register to existing notes for money and wealth, credit and debt, accounting, GDP, public finance, markets, investment, measurement and distribution.
+- **Changes:** Created `workstream-a/concepts/commonly-confused-economic-and-financial-terms-comparison-register.md`; indexed Concept 32 in `workstream-a/README.md`; updated the Workstream A checkpoint in `CURRENT-STATE.md`; recorded Group 25 completion and revised next actions in `workstream-a/WORKSTREAM-A-ROADMAP.md`; and added this entry to `RESEARCH-LOG.md`.
+- **Coverage:** Money/wealth/capital; saving/investment; revenue/receipts/income/profit/cash flow; price/value/cost; output/productivity/GDP; nominal/real and stock/flow; debt/deficit/debt service; public revenue/financing and budget stages; liquidity/solvency; funding/financing; reserves/deposits and market/funding liquidity; ownership/control/beneficial ownership; AUM/ownership; commitments/approvals/disbursements/deployment; inflation/price level; FX and capital-flow concepts; observation/indicator/proxy/estimate/forecast; description/explanation/mechanism/causal proof.
+- **Safeguards:** The register identifies context-sensitive definitions and directs readers to relevant detailed notes and primary standards. It does not claim universal definitions, replace formal standards, or assert facts about a current actor or transaction.
+- **Next action:** Reconcile the older 25-group inventory against Concepts 1–32 and mark coverage, partial coverage, duplication and remaining gaps before choosing Concept 33.
+
 ## 2026-10-30 — Workstream A Concept 31: distribution of economic power and opportunity
 
 - **Task:** Continue the documented concept sequence through Group 24, examining how income, wealth, control, influence, opportunity, costs, benefits and risks are distributed.
