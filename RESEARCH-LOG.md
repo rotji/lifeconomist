@@ -1,3 +1,12 @@
+## 2026-10-30 — Workstream A depth audit: Groups 13–15
+
+- **Task:** Review Groups 13–15 bullet by bullet against Concepts 20, 21 and 23 and related notes.
+- **New artifact:** Created [workstream-a/DEPTH-AUDIT-GROUPS-13-15.md](workstream-a/DEPTH-AUDIT-GROUPS-13-15.md), with coverage tables, conclusions, limitations and next action.
+- **Concept 20 change:** Added revenue models, gross/operating/net margins, operating leverage, unit economics and their limitations; distinguished contribution per unit from whole-business profitability and cash outcomes.
+- **Concept 21 change:** Added risk appetite, tolerance, limits and capacity; clarified escalation/response logic and context-sensitive loss-given-default recovery assumptions.
+- **Concept 23 change:** Added property rights and practical enforcement, regulation versus deregulation, and collective-action problems such as free-riding, coordination costs and legitimacy.
+- **Findings:** Groups 13–15 are conceptually covered. Remaining work is case-specific verification and formal measurement; no new numbered concept is justified.
+- **Next action:** Audit Groups 16–18 using the same four coverage labels.
 ## 2026-10-30 — Workstream A depth audit: Groups 10–12
 
 - **Task:** Review Groups 10–12 bullet by bullet against Concepts 17–19 and related notes.
