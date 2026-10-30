@@ -335,6 +335,8 @@ The following groups establish the broad coverage intended for Workstream A. The
 - Agency, collective action and limits of individual influence
 
 ### Group 25 — Commonly confused terms: comparison register
+
+**Completed comparison register:** [Concept 32 — Commonly Confused Economic and Financial Terms: Comparison Register](concepts/commonly-confused-economic-and-financial-terms-comparison-register.md). This is a cross-reference layer across detailed notes, covering money/wealth/capital, saving/investment, revenue/profit/cash flow, output/productivity/GDP, debt/deficit, liquidity/solvency, funding/financing, financial markets, public finance, ownership/roles, evidence and process stages. It does not replace context-specific standards or the underlying concept notes.
 The following pairs and clusters must be explicitly distinguished where relevant:
 - Money vs wealth
 - Wealth vs income
@@ -482,10 +484,10 @@ The workstreams interact bidirectionally. A concept may expose a measurement pro
 ## 8. Immediate next actions
 
 1. Preserve the existing numbered concept notes as the record of completed investigations; do not restart the sequence from the original production-linked phase.
-2. Reconcile the older 25-group terminology inventory and phase plan against concepts already documented through Concept 28, including the now-covered Groups 19–21 and the relevant links to earlier concepts.
-3. Choose the next concept based on the actual gaps and conceptual dependencies, not merely the next unexamined heading in the original inventory.
-4. For each new concept, create a durable note using the established note style, index it in `workstream-a/README.md`, and update `CURRENT-STATE.md` and `RESEARCH-LOG.md`.
-5. Update the roadmap's inventory and sequencing when the reconciliation identifies genuine gaps, duplicates or a better order.
+2. Reconcile the older 25-group terminology inventory and phase plan against concepts documented through Concept 32, marking which distinctions are adequately covered, partially covered, duplicated or still open.
+3. Use the comparison register as a navigation layer, then identify remaining conceptual gaps that require a dedicated note rather than duplicating existing coverage.
+4. Choose Concept 33 from the verified gaps and dependencies, not merely from the next unexamined heading in the original inventory.
+5. For each new concept, create a durable note, index it in `workstream-a/README.md`, and update `CURRENT-STATE.md`, the roadmap and `RESEARCH-LOG.md`.
 
 ## 9. Completion criteria
 
@@ -499,4 +501,4 @@ This roadmap is not “completed” merely because all headings have notes. Prog
 - notes link coherently to one another and to the relevant workstreams;
 - later investigations can use the concepts without repeatedly confusing their meanings.
 
-**Current status (updated 2026-10-29):** Workstream A has durable concept notes through [Concept 31 — Distribution of Economic Power and Opportunity](concepts/distribution-of-economic-power-and-opportunity.md), following [Concept 30 — Time, Cycles and Economic Transmission](concepts/time-cycles-and-economic-transmission.md), [Concept 29 — Economic Measurement, Evidence and Inference](concepts/economic-measurement-evidence-and-inference.md), and [Concept 28 — Digital, Information and Intangible Economics](concepts/digital-information-and-intangible-economics.md). Concept 31 covers Group 24 and distinguishes distributional outcomes from the mechanisms that may explain them. It does not assert current inequality estimates or wrongdoing by named actors. Earlier phase descriptions and parts of the broad terminology inventory remain imperfectly reconciled with the actual concept sequence. Use the numbered concept notes, `workstream-a/README.md`, `CURRENT-STATE.md` and `RESEARCH-LOG.md` to establish completed work. Next, reconcile the remaining inventory and sequence before selecting Concept 32; do not restart from Concept 1 or assume the older group numbering automatically determines the next topic.
+**Current status (updated 2026-10-30):** Workstream A has durable concept notes through [Concept 32 — Commonly Confused Economic and Financial Terms: Comparison Register](concepts/commonly-confused-economic-and-financial-terms-comparison-register.md). Concept 32 covers Group 25 as a cross-reference layer and links the major terminology distinctions to detailed notes. Concepts 29–31 cover measurement and inference, time and transmission, and distribution of economic power and opportunity. The older phase descriptions and broader terminology inventory remain imperfectly reconciled with the completed concept notes. Next, reconcile the inventory against Concepts 1–32, mark coverage and gaps, then select Concept 33 based on verified dependencies. Do not restart from Concept 1 or assume the original heading order alone determines the next topic.
