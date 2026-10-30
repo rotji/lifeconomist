@@ -135,6 +135,22 @@ Effects depend on the timing and composition of measures, economic slack, import
 
 Fiscal policy interacts with inflation, interest rates, exchange rates, public debt markets and financial-system liquidity. A deficit alone does not establish the direction or magnitude of these effects.
 
+## 14.1 Fiscal space, sustainability and sovereign wealth funds
+
+**Fiscal space** is the government's practical capacity to increase spending, reduce taxes or absorb a shock without undermining its fiscal sustainability or other policy objectives. It is not a single universally defined number. Assessment may consider revenue capacity, borrowing terms, debt-service burdens, maturity and currency structure, liquid financial assets, spending commitments, economic conditions, institutional credibility and the likely consequences of adjustment.
+
+**Debt sustainability** asks whether a government can meet its obligations over time under plausible assumptions about growth, interest rates, primary balances, exchange rates, maturities and contingent liabilities. A debt-to-GDP ratio is one indicator, not a standalone verdict. A government can have a moderate debt ratio but acute cash or refinancing pressure; a higher ratio may be more manageable under different financing, currency, maturity and revenue conditions. The analysis must specify assumptions and stress scenarios.
+
+A **sovereign wealth fund (SWF)** is a state-owned investment vehicle established under a particular mandate. Funds may have different objectives, including stabilization against revenue volatility, saving for future generations, development financing or managing public assets. These objectives can conflict if the mandate, funding rules, withdrawal conditions and governance are unclear.
+
+A fund's headline asset value is not automatically money available to the budget. The assets may be illiquid, encumbered, held in foreign currency, subject to withdrawal rules or intended for a different purpose. To assess the public-sector position, distinguish the fund's assets and liabilities, the government's direct debt, guarantees and other contingent claims, and any transfers between the fund and the budget. Consolidation can prevent internal public-sector claims from being counted twice, while separate entity accounts remain useful for accountability.
+
+**Fiscal space → feasible policy choices → budget decisions → actual execution and outcomes.**
+
+In plain language, the resources a government appears to have on paper do not necessarily translate into funds it can spend immediately or use without consequences. Debt maturities, cash availability, legal mandates, revenue volatility and implementation capacity can constrain the choices. Even when funding is available, the eventual public benefit depends on procurement, delivery, operation and service quality.
+
+For applied work, state whether fiscal space is being assessed as a conceptual judgement, a debt-sustainability scenario, a cash/liquidity measure, a borrowing-capacity estimate or a specific official indicator. These are related but not interchangeable.
+
 ## 15. Transparency, accountability and evidence
 
 Fiscal evidence can come from budget laws, execution reports, treasury statements, debt reports, audited accounts, procurement records, legislative oversight and public-enterprise statements. Sources may differ in timing, coverage, accounting basis and reliability.
