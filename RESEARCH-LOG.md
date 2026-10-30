@@ -505,3 +505,14 @@
 - **Key limitation:** These sources, as reviewed, do not establish executable triangular arbitrage. Real execution analysis requires time-aligned bid/ask quotes, trade size, access conditions and all-in costs.
 - **Evidence status:** Desk review of source descriptions only; sample data have not yet been ingested or independently reconciled.
 - **Next action:** Inspect a small overlapping sample of reference rates, verify pair orientation and cross-rate formulas, and separately investigate whether accessible executable bid/ask data can be obtained lawfully from Nigeria.
+
+
+## 2026-10-30 — Workstream B follow-up: Q2 2026 GDP release access and headline cross-check
+
+- **Task:** Continue the ordered Real GDP Growth evidence audit by attempting direct inspection of the NBS Q2 2026 release package before comparing quarterly vintages.
+- **Catalogue check:** Reconfirmed the NBS catalogue lists a 1.07 MB ZIP dated 2026-08-31 containing `Q2_2026_GDP_Report_.pdf` and `Q2 2026 GDP_w.xlsx`.
+- **Access limitation:** Direct retrieval of the ZIP failed in the available execution environment, and the web-open route could not retrieve the binary file. No claim is made that the workbook was inspected; workbook-level validation remains incomplete.
+- **Headline cross-check:** Public reporting of the NBS release gives Q2 2026 real GDP growth of 4.43% year-on-year, compared with 3.89% in Q1 2026 and 4.23% in Q2 2025. The 0.54 percentage-point rise from Q1 to Q2 is a change in the year-on-year growth rate, not quarter-on-quarter output growth. These reported values do not replace a direct workbook check.
+- **Change:** Added an interim validation table and explicit retrieval limitation to [the GDP evidence audit](03-measurement/01-real-gdp-growth-evidence-audit.md), and updated [CURRENT-STATE.md](CURRENT-STATE.md).
+- **Sources:** [NBS GDP catalogue and release package](https://microdata.nigerianstat.gov.ng/index.php/catalog/147/related-materials); [Voice of Nigeria, 1 September 2026](https://von.gov.ng/nigerias-gdp-growth-accelerates-to-4-43-in-q2-2026/); [Reuters, 31 August 2026](https://www.reuters.com/world/africa/nigerias-q2-gdp-growth-443-yy-stats-office-2026-08-31/).
+- **Next action:** Obtain the actual workbook through a retrievable route, inspect sheets/labels/period coverage/blank cells/units/notes, reconcile the 4.43% headline, and only then compare historical observations across the Q1 2026 and earlier release vintages.
