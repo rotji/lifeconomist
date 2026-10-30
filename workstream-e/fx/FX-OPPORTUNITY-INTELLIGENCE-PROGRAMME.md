@@ -155,6 +155,8 @@ Potential starting sources include the Central Bank of Nigeria (CBN) for officia
 
 These phases reflect dependencies, not a requirement to complete every track before moving to a more useful question. Work can pause, resume, or be narrowed deliberately. On return, check the programme, source assessment, exercise records, and research log; repeat a calculation or source check only when reproducibility, changed data, a method change, or another clear reason warrants it. Material findings must be reviewed for effects on earlier hypotheses, data-source choices, execution assumptions, scorecards, and recommendations under the [project-wide Continuity, Pause, and Revision Principle](../../RESEARCH-METHODOLOGY.md#continuity-pause-and-revision-principle).
 
+These phases reflect dependencies, not a requirement to complete every track before moving to a more useful question. Work can pause, resume, or be narrowed deliberately. On return, check the programme, source assessment, exercise records, and research log; repeat a calculation or source check only when reproducibility, changed data, a method change, or another clear reason warrants it. Material findings must be reviewed for effects on earlier hypotheses, data-source choices, execution assumptions, scorecards, and recommendations under the [project-wide Continuity, Pause, and Revision Principle](../../RESEARCH-METHODOLOGY.md#continuity-pause-and-revision-principle).
+
 ### Phase 0 — Set up the research record
 - Preserve this programme plan in GitHub.
 - Maintain a question register, hypothesis register, source register, experiment log and decision log.
