@@ -15,6 +15,7 @@ The goal is not merely to store short definitions. Each concept note should conn
 - [Depth Audit — Groups 13–15](DEPTH-AUDIT-GROUPS-13-15.md) — audits business/corporate finance, risk/resilience and economic systems/institutions against Concepts 20, 21 and 23.
 - [Depth Audit — Groups 16–18](DEPTH-AUDIT-GROUPS-16-18.md) — audits trade/supply chains, liquidity and institutional investors against Concepts 22, 24 and 25.
 - [Depth Audit — Groups 22–24](DEPTH-AUDIT-GROUPS-22-24.md) — audits measurement/evidence, time/cycles, and distribution of economic power against Concepts 29–31.
+- [Depth Audit — Group 25 / Concept 32](DEPTH-AUDIT-GROUP-25-CONCEPT-32.md) — audits every required comparison in the commonly confused terms register.
 - [Depth Audit — Groups 19–21](DEPTH-AUDIT-GROUPS-19-21.md) — audits growth/development, resources/energy/environment and digital/intangible economics against Concepts 26–28.
 
 ## Concept notes
