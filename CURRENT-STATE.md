@@ -72,3 +72,8 @@ Completed the second bullet-by-bullet depth audit, covering Concepts 11–13. Se
 ### Workstream A — depth audit checkpoint: Groups 7–9 (2026-10-30)
 
 Completed the third bullet-by-bullet audit of Workstream A, covering Groups 7–9 against Concepts 14–16. See [DEPTH-AUDIT-GROUPS-7-9.md](workstream-a/DEPTH-AUDIT-GROUPS-7-9.md). Targeted additions: Concept 14 now distinguishes demographic from economic dependency and explains the conditional nature of a demographic dividend; Concept 15 adds fiscal space, debt sustainability and sovereign wealth fund boundaries; Concept 16 expands wage-price dynamics, indexation and administered-price effects. Groups 7–9 are conceptually covered; current NBS/CBN definitions and causal measurement remain separate validation tasks. No new concept is justified by this audit. Next: Groups 10–12.
+
+
+### Workstream A — depth audit checkpoint: Groups 10–12 (2026-10-30)
+
+Completed the fourth bullet-by-bullet audit, covering Groups 10–12 against Concepts 17–19. See [DEPTH-AUDIT-GROUPS-10-12.md](workstream-a/DEPTH-AUDIT-GROUPS-10-12.md). Targeted additions: Concept 17 clarifies cross rates versus executable FX conversions, remittances, capital-flight claims and settlement constraints; Concept 18 expands bond yield/duration/convexity/term-structure and repo/collateral-reuse mechanics; Concept 19 clarifies working-capital cash conversion, accounting versus taxable profit/cash generated, and contingent/off-balance-sheet exposures. Groups 10–12 are conceptually covered; current Nigerian data, instrument terms and applicable reporting rules require separate verification. No new concept is justified. Next: Groups 13–15.
