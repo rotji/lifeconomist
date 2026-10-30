@@ -184,6 +184,32 @@ Exchange-rate arrangements range from hard pegs and currency boards through conv
 
 Multiple exchange-rate windows or official and parallel-market quotations may reflect different access rules, eligible transactions, liquidity, timing and transaction costs. A reported rate is meaningful only when its market, transaction type, date and quote convention are known. Rates from different market segments should not be combined as if they were one freely accessible price.
 
+## 17.1 Cross rates, executable spreads and conversion friction
+
+A **cross rate** is an exchange rate between two currencies derived directly from a quoted pair or calculated through a third currency. For example, if a currency is quoted against the US dollar, the two dollar quotes can be combined to estimate the cross rate between those currencies. The pair orientation must be consistent: a quote of units of currency B per unit of currency A is the reciprocal of units of A per unit of B.
+
+A cross rate calculated from reference or mid-market rates is a **theoretical reference**, not necessarily a rate at which a participant can trade. An executable conversion depends on the bid and ask available to that participant, transaction size, timing, dealer/platform access, settlement arrangements, fees, limits and any legal or operational restrictions.
+
+**Conversion friction** is the collection of costs and constraints that prevent a quoted exchange rate from being a frictionless, costless conversion. It can include the bid–ask spread, explicit commissions, bank or transfer charges, delays, minimum amounts, cash availability, compliance checks, counterparty risk and settlement risk. In markets with restricted access or multiple exchange-rate windows, the relevant quote must match the transaction's eligibility and route.
+
+A simple two-leg conversion may be represented as:
+
+**Currency A → intermediary currency → Currency B**
+
+In plain language, converting through a third currency means executing two conversions, not one magical conversion at the displayed cross rate. Each leg may have a different bid or ask, fee, timing and access constraint. The result can differ materially from a calculation using reference rates alone.
+
+A triangular price discrepancy is therefore only a candidate arbitrage signal. To establish an executable opportunity, verify simultaneous or sufficiently synchronized quotes, correct pair orientation, available size, transaction sequence, fees, funding, access, settlement finality and the risk that prices move before all legs complete. Never describe a theoretical cross-rate difference as guaranteed profit.
+
+## 17.2 Remittances, capital flight and settlement constraints
+
+**Remittances** are cross-border transfers commonly associated with individuals sending resources to households or other recipients. The exact statistical category depends on the balance-of-payments framework and can differ from total money-transfer activity, foreign-exchange turnover or all transfers between related parties. A transfer channel, a payment instruction and a completed transfer are different events.
+
+**Capital flight** is a term used for certain forms of resident capital outflow or asset acquisition abroad, often with an implication of avoidance, instability or loss of domestic confidence. It is not one universally defined statistical category. Legitimate outward investment, portfolio diversification, trade payments, repayment of external debt, errors and omissions, unrecorded flows and illicit transfers are not interchangeable explanations. A rise in gross outflows or a fall in reserves alone does not establish capital flight.
+
+**Settlement constraints** arise when a participant cannot complete a currency or financial transaction at the expected time or in the expected form. Causes can include insufficient currency liquidity, correspondent-bank limits, payment-system cutoffs, compliance review, counterparty failure, mismatched operating hours, capital controls, documentation requirements or restrictions on repatriation. A transaction may be agreed or recorded but still be delayed, rejected or unsettled.
+
+When investigating cross-border movements, distinguish the order or agreement, payment initiation, currency conversion, settlement, receipt by the beneficiary, and the statistical recording of the underlying economic event. These stages may occur at different times and may be recorded by different systems.
+
 ## 18. Commonly confused terms
 
 | Terms | Core distinction |
