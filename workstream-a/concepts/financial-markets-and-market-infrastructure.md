@@ -182,6 +182,34 @@ The distinction between a price loss and a cash-flow obligation matters: a mark-
 
 Stress analysis should consider position concentration, leverage, maturity mismatch, collateral, market depth, common holdings, settlement dependencies and the timing of cash obligations. Do not infer systemic risk from market volatility alone without evidence about connections and exposures.
 
+## 17.1 Bond yields, duration, convexity and term structure
+
+A bond's **yield** is a return measure calculated from its price and specified cash flows under stated assumptions. It is not necessarily the investor's realized return: realized results depend on purchase and sale prices, coupon reinvestment, default or restructuring, taxes, fees and holding period. Coupon rate, current yield and yield to maturity are distinct measures.
+
+**Duration** summarizes a bond's sensitivity to interest-rate changes under a defined method and set of assumptions. Macaulay duration is a weighted timing measure for cash flows; modified duration approximates percentage price sensitivity to a small yield change under the relevant convention. Effective duration is often used where cash flows may change, such as for callable or mortgage-related instruments. Duration is an approximation, not a guarantee.
+
+**Convexity** describes how the price-yield relationship curves and helps improve a duration-based approximation for larger yield movements, subject to the instrument and method. Embedded options can change the relationship, so a simple positive-convexity intuition does not apply to every bond or market condition.
+
+The **term structure of interest rates** describes yields across maturities for a defined class of instruments or curve-construction method. A yield curve may reflect expectations about future short rates, term premiums, inflation and growth expectations, liquidity, supply/demand and instrument-specific risks. A curve's shape alone does not uniquely reveal which mechanism dominates.
+
+For any comparison, state the instrument, issuer/credit quality, currency, maturity, yield convention, price date, curve source and whether the yield is observed or model-derived. Government-bond yields, swap rates and corporate yields are not interchangeable.
+
+## 17.2 Repo, collateral reuse and securities lending
+
+A **repurchase agreement (repo)** is economically a secured funding transaction commonly structured as a sale of securities with an agreement to repurchase them later at an agreed price. In a reverse repo, the same transaction is described from the other party's perspective. Legal characterization, accounting treatment, title transfer and close-out rights depend on the agreement and jurisdiction.
+
+**Haircuts** reduce the collateral value recognized against a transaction to provide a buffer against price changes, liquidation costs and other risks. A larger haircut generally means the borrower must provide more collateral for the same funding amount. Haircuts can rise during stress, creating additional funding needs even when the borrower has not increased its desired position.
+
+**Securities lending** temporarily transfers securities to a borrower under agreed collateral and return conditions, often to support settlement, short selling or other market activity. **Collateral reuse** or rehypothecation refers to collateral being reused or re-pledged where the contract and rules permit. Reuse can support funding and market activity, but it can also create chains of claims and dependencies across institutions.
+
+A simplified secured-funding chain:
+
+**Securities supplied as collateral → funding obtained → collateral or proceeds reused where permitted → interconnected return and settlement obligations**
+
+In plain language, one institution may obtain cash by pledging securities, while the counterparty may be able to reuse the collateral under the contract. This can make funding more efficient, but it also means stress at one institution or in one collateral market can affect other participants. The actual risk depends on legal rights, collateral quality, haircuts, maturity, concentration, settlement systems and the ability to return securities or cash when due.
+
+Repo volume or securities-lending activity is not by itself proof of excessive leverage or systemic risk. To assess risk, examine the counterparties, collateral, maturity, margining, reuse rights, concentration, legal enforceability and what happens if a participant defaults.
+
 ## 18. Commonly confused terms
 
 | Terms | Core distinction |
