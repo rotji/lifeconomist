@@ -1,3 +1,12 @@
+## 2026-10-30 — Workstream A depth audit: Groups 1–3
+
+- **Task:** Execute the next step from the inventory reconciliation by auditing every roadmap bullet in Groups 1–3 against the bodies of Concepts 1–11.
+- **New artifact:** Created [workstream-a/DEPTH-AUDIT-GROUPS-1-3.md](workstream-a/DEPTH-AUDIT-GROUPS-1-3.md), with explicit/partial/cross-linked status, rationale for each bullet, conclusions and next actions.
+- **Concept 9 change:** Added a section on monetary aggregates, definition boundaries, currency held by the public, eligible bank deposits and central-bank reserves; documented why reserve balances do not mechanically translate one-for-one into lending or broad money; specified metadata needed before using a country-specific series.
+- **Concept 10 change:** Added an expanded treatment of maturity transformation and mismatch, liquidity/rollover/refinancing/repricing risk, arrears, restructuring and deleveraging, including a plain-language mechanism and investigation checklist.
+- **Coverage findings:** Group 1 is broadly covered, with formal productivity/capacity and inventory applications still requiring specified methods. Group 2 is broadly covered; current CBN series definitions must be verified before measurement. Group 3 is broadly covered; classification of arrears, default, non-performing exposures, impairment, guarantees and contingent liabilities remains framework-specific.
+- **No new concept:** No coherent gap currently justifies Concept 33 from this first audit. Prefer scoped edits to existing notes and formal definitions in Workstream B where appropriate.
+- **Next action:** Audit Groups 4–6 bullet by bullet, preserving the same four coverage labels.
 ## 2026-10-30 — Workstream A concept inventory reconciliation
 
 - **Task:** Follow Concept 32's recorded next action by reconciling the 25-group terminology inventory against the existing concept notes before selecting Concept 33.
