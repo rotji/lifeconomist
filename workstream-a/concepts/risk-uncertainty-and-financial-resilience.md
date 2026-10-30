@@ -60,6 +60,18 @@ An expected value can hide the distribution of outcomes. Two portfolios can have
 
 Rare-event estimates are especially sensitive to limited observations, non-stationarity and structural change. Stress testing and scenario analysis can complement statistical models but also depend on scenario choice and assumptions.
 
+## 5.1 Risk appetite, tolerance, limits and recovery
+
+**Risk appetite** describes the types and amount of risk an organization is willing to take in pursuit of its objectives. **Risk tolerance** describes acceptable variation or deviation around objectives; **risk limits** translate selected constraints into operational thresholds, while **risk capacity** concerns the losses or exposures the organization can absorb without threatening its continued operation or obligations. These terms are used differently across frameworks, so a specific organization should state its definitions.
+
+Appetite, tolerance, limits and capacity are not interchangeable. An organization may be willing to accept a particular risk strategically but lack the capital, liquidity, legal permission or operational capability to bear it. Conversely, a numerical limit may be breached without immediate failure, although it can indicate a need to reduce exposure or escalate a decision.
+
+**Risk capacity → appetite and tolerance choices → limits and controls → monitoring and escalation → response or recovery.**
+
+In plain language, a business first needs to understand what loss or disruption it could survive, then decide which risks are acceptable, set practical limits, monitor whether those limits are being approached, and define who must act when conditions deteriorate. A policy statement without ownership, thresholds, monitoring and response procedures is not an operating risk-control system.
+
+Recovery assumptions must also be explicit. In credit analysis, **loss given default (LGD)** depends on the exposure, collateral value, enforceability, priority, costs, recovery timing and the conditions under which assets are sold or claims enforced. A quoted recovery rate from one period or jurisdiction should not be transferred mechanically to another. Expected recovery is uncertain, and recoveries can fall precisely when many counterparties fail together.
+
 ## 6. Liquidity, solvency and profitability
 
 These are distinct dimensions:
