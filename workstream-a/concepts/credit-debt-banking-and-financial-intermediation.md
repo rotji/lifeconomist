@@ -129,6 +129,39 @@ Debt sustainability depends on more than the debt amount. Consider debt relative
 
 Debt-to-income, debt-to-equity, interest-coverage and debt-service ratios answer different questions. The denominator, time period, sector and accounting definition must be explicit. Government analysis may also need to distinguish domestic from external debt, local-currency from foreign-currency obligations, central government from general government, gross from net debt, and debt stock from annual deficit and debt service.
 
+## 12.1 Maturity transformation, mismatch and rollover risk
+
+Banks and other intermediaries can fund assets that mature later with liabilities that can be withdrawn, repriced or mature sooner. This is commonly called **maturity transformation**. It supports useful functions—such as providing depositors access to funds while financing longer-term loans—but it creates timing exposure.
+
+- **Maturity transformation:** an intermediary's assets and liabilities have different maturity profiles. It is a business-model feature, not automatically evidence of misconduct or failure.
+- **Maturity mismatch:** a more specific gap between the timing of expected asset cash flows and the timing of liability payments or withdrawals. The size and significance of the mismatch depend on contractual terms, behavioural assumptions, liquidity buffers and available funding.
+- **Liquidity risk:** the possibility that cash or settlement resources will not be available when obligations fall due without unacceptable cost or loss.
+- **Rollover risk:** the possibility that maturing borrowing cannot be renewed, or can be renewed only at a much higher cost or on materially worse terms.
+- **Refinancing risk:** the broader risk that replacement financing is unavailable, delayed, more expensive or less favourable. Refinancing can address a maturity wall, but it can also move the problem forward rather than remove it.
+- **Repricing risk:** the possibility that rates on liabilities reset sooner or differently from rates earned on assets, squeezing margins or increasing debt-service costs.
+- **Arrears:** amounts past due under the relevant contractual or reporting definition. Arrears are a status of an unpaid obligation; they do not always mean the same thing as a formally declared default.
+- **Restructuring:** changing the terms of an existing obligation, such as maturity, interest, principal or payment schedule, under an agreement or applicable process.
+- **Deleveraging:** reducing leverage, for example by repaying debt, raising equity, selling assets or allowing liabilities to shrink relative to the relevant base. Forced asset sales can lower prices and make deleveraging costly.
+
+**Short-term liabilities funding longer-term assets → a need to renew funding or meet withdrawals before asset cash arrives → pressure if replacement funding or liquid assets are insufficient.**
+
+In plain language, a lender may have a valuable loan that will be repaid over several years but owe depositors or wholesale funders money much sooner. If many funders withdraw or refuse to renew at once, the lender may be unable to turn its assets into cash quickly without borrowing, selling assets at a discount, or seeking eligible support. The problem can arise from timing even when the institution's assets may ultimately be worth more than its liabilities. Conversely, having long-term funding does not guarantee solvency if assets lose value or borrowers fail to repay.
+
+The same logic applies to companies and governments. A firm can rely on a short-term facility to finance inventory or long-lived assets; a government can face a concentration of bond maturities; a borrower may need to refinance a loan before the financed asset generates sufficient cash. These cases should not be treated as identical: legal rights, funding sources, currency, collateral, access to markets and policy arrangements differ.
+
+A practical maturity-risk investigation should record:
+
+1. Contractual maturity dates and any demand-withdrawal or early-repayment terms.
+2. Expected asset cash flows and the assumptions behind them.
+3. The amount that must be refinanced over each horizon.
+4. Currency, interest-rate reset terms and concentration of funders.
+5. Liquid assets available after realistic haircuts and operational constraints.
+6. Collateral encumbrance, guarantees and any conditional support.
+7. Stress scenarios, including delayed receipts, deposit outflows, market closure and higher refinancing costs.
+8. Whether arrears, restructuring or asset sales have actually occurred, rather than merely being possible.
+
+A maturity mismatch is a source of exposure, not proof that a crisis will occur. Rollover risk is not the same as credit risk: a borrower can be willing and ultimately able to repay but still be unable to refinance on the required date. Liquidity and solvency can interact, but must be assessed separately using explicit assumptions and balance-sheet boundaries.
+
 ## 13. Banks as financial intermediaries
 
 Banks connect depositors, borrowers, payment users and markets. They commonly transform:
