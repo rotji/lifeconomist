@@ -159,6 +159,16 @@ Performance terms also differ:
 
 A high IRR on a small early distribution may not imply a high total cash multiple. A high unrealized valuation may not yet be monetizable. Comparisons across funds need aligned inception dates, vintage years, fee treatment, currency, cash-flow conventions, leverage and asset strategy. Reported performance should not be treated as a promise of future results.
 
+## 7.1 Valuation frequency, stale prices and realizable value
+
+**Valuation frequency** is how often a holding or portfolio is formally valued. **Stale pricing** occurs when a reported price or valuation does not reflect all relevant current information, often because the asset trades infrequently, comparable transactions are limited or valuation inputs update slowly. A stale price may be a reasonable estimate under a disclosed method, but it should not be mistaken for a fresh executable quote.
+
+**Realizable value** is the amount that could actually be obtained in a specified sale or exit under stated conditions. It can differ from a reported mark or net asset value because of transaction size, market depth, selling time, transfer restrictions, fees, taxes, financing terms and stressed market conditions. A forced sale can produce a different result from an orderly transaction; the appropriate comparison depends on the question being asked.
+
+For private assets, a financing round, appraisal or model-based estimate is evidence about a valuation process, not proof that all holdings could be sold at that price. The date, methodology, assumptions, independence of the valuation, comparable transactions and subsequent events matter. Do not assume every valuation is wrong because it is infrequent, but do record the uncertainty and lag.
+
+A sound comparison records valuation date, method, price source, currency, leverage, fees, liquidity restrictions and whether the value is observed, modelled or actually realized. For fund-level analysis, distinguish unrealized appreciation from cash distributions and realized proceeds.
+
 ## 8. Mandates, benchmarks and allocation decisions
 
 An investment mandate specifies what the manager is permitted or expected to do. It may define eligible assets, risk limits, geography, sector, liquidity, leverage, responsible-investment restrictions, return objectives and reporting requirements. A benchmark provides a comparison or reference, but does not necessarily define the whole mandate.
