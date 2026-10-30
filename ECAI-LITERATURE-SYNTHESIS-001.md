@@ -215,6 +215,8 @@ These should be answered through additional source review and case comparison ra
 
 ## 8. Next step
 
+This synthesis is a dated, scoped literature checkpoint—not a closed or immutable account of the field. On return, compare new sources against the current source-quality register and identified disagreements before repeating searches. New literature may confirm, qualify, contradict, or leave the synthesis unchanged; review affected claims, methods, and ECAI implications proportionately, and record consequential changes. The project-wide [Continuity, Pause, and Revision Principle](RESEARCH-METHODOLOGY.md#continuity-pause-and-revision-principle) governs how this artifact is resumed and revised.
+
 Continue Stage 1 by expanding and checking the literature on:
 - consumer activism and the conditions of campaign effectiveness;
 - political economy, market power, and corporate response;
