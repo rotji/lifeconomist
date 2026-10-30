@@ -71,6 +71,8 @@ A useful note may include:
 
 ## Documentation discipline
 
+Workstream A inherits the [project-wide Continuity, Pause, and Revision Principle](../RESEARCH-METHODOLOGY.md#continuity-pause-and-revision-principle). Before continuing a concept, check its current note, relevant roadmap/audit checkpoint, and research-log record. Do not rewrite or repeat adequate work merely to make progress visible; pause with an explicit unresolved question and next useful action. New evidence or a better conceptual distinction should trigger a proportionate review of linked notes and dependent measurements, not an automatic rewrite of the entire inventory.
+
 - Explain the real-world phenomenon before relying on technical language.
 - Keep everyday usefulness, broad economic production, and the GDP production boundary distinct.
 - Distinguish output, revenue, costs, profit, price differences, and value added.
