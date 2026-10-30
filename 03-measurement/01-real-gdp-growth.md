@@ -110,3 +110,14 @@ The reviewed workbooks and reports do not establish the earliest observation in 
 
 ## Next action
 Continue verifying the NBS series and resolve the open questions above, beginning with full rebased quarterly coverage, seasonal adjustment, revisions, and comparability. Do not classify Nigeria's economic state until measurement and historical testing are sufficiently established.
+
+
+## Evidence audit update (2026-10-30)
+
+A separate [Indicator 1 evidence audit](01-real-gdp-growth-evidence-audit.md) now records the current evidence status and the ordered work plan. The NBS GDP collection lists a Q2 2026 release package dated 2026-08-31, containing a PDF report and Excel workbook. The NBS 2025 rebasing summary identifies 2019 as the new reference year and reports annual real GDP growth of -6.96% (2020), 0.95% (2021), 4.32% (2022), 3.04% (2023), and 3.38% (2024). Preserve these as source-reported values with their source vintage, not as immutable values.
+
+The NBS public methodology page still describes constant 2010 prices, while the newer rebased release material uses 2019. Treat the static page as background rather than a sufficient specification of the current series. The current audit has not independently re-extracted every cell of the Q2 2026 workbook; catalogue availability is not equivalent to workbook validation.
+
+**Provisional specification decision:** retain NBS-published annual real GDP growth as the primary measure and quarterly year-on-year growth as a separate companion series, both with release-vintage metadata. Do not include quarter-on-quarter growth until seasonal-adjustment status and calculation basis are confirmed. Do not splice 2010- and 2019-price series or silently merge IMF and NBS data.
+
+**Next action:** extract and validate the Q2 2026 workbook, then compare overlapping quarterly observations across releases to establish coverage and revisions. Indicator 1 remains a draft and is not approved for economic-state classification.
