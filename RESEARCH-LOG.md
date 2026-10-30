@@ -1,3 +1,12 @@
+## 2026-10-30 — Workstream A Concept 31: distribution of economic power and opportunity
+
+- **Task:** Continue the documented concept sequence through Group 24, examining how income, wealth, control, influence, opportunity, costs, benefits and risks are distributed.
+- **Repository review:** Checked the concept index, current-state checkpoint, roadmap and research log. The new note connects to Concepts 29 and 30 and related material on trade networks, wealth and national accounting rather than repeating those notes.
+- **Change:** Created and expanded `workstream-a/concepts/distribution-of-economic-power-and-opportunity.md`; indexed Concept 31 in `workstream-a/README.md`; updated `CURRENT-STATE.md`; recorded Group 24 coverage and the next concept reference in `workstream-a/WORKSTREAM-A-ROADMAP.md`; and added this research-log entry.
+- **Coverage:** Income versus wealth; ownership, control, influence, benefit and risk; bargaining power; market and institutional power; access versus practical opportunity; inclusion/exclusion; economic rents and value capture; incidence of costs and benefits; geographic differences; mobility and intergenerational transfer; agency, collective action and critical dependencies; evidence sources, limitations and a layered investigation method.
+- **Reasoning safeguards:** No current inequality estimate or claim of misconduct is asserted. The note distinguishes observed disparities from causal explanations, concentration from harmful dominance, formal access from practical opportunity, and legal payer from ultimate economic bearer.
+- **Next action:** Reconcile remaining terminology inventory before selecting Concept 32; preserve sequence and avoid restarting earlier concepts.
+
 ## 2026-10-29 — Workstream A Concept 30: time, cycles and economic transmission
 
 - **Task:** Continue Workstream A with the temporal dynamics needed to interpret changes, lags, cycles, feedback and economic transmission.
