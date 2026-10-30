@@ -574,3 +574,10 @@ The seventh bullet-by-bullet audit is documented in [DEPTH-AUDIT-GROUPS-19-21.md
 The eighth bullet-by-bullet audit is documented in [DEPTH-AUDIT-GROUPS-22-24.md](DEPTH-AUDIT-GROUPS-22-24.md). It reviews economic measurement/evidence/inference, time/cycles/transmission, and distribution of economic power/opportunity. Targeted changes were made to Concept 29 (alert error metrics and decision thresholds), Concept 30 (real-time forecast evaluation and data leakage), and Concept 31 (distributional incidence). Remaining work is formal validation and case-specific evidence.
 
 **Next action:** Audit Group 25 — Commonly Confused Terms: Comparison Register (Concept 32), then reconcile the full concept inventory and audit sequence.
+
+
+## 19. Depth audit checkpoint: Group 25 / Concept 32 (2026-10-30)
+
+Completed the ninth and final bullet-by-bullet group audit in the current roadmap. See [DEPTH-AUDIT-GROUP-25-CONCEPT-32.md](DEPTH-AUDIT-GROUP-25-CONCEPT-32.md). The Concept 32 register already covered the roadmap's required comparisons. A targeted addition, “Roadmap coverage checklist,” now maps every required comparison to its section and states the core distinction, improving traceability without duplicating the detailed concept notes.
+
+**Decision:** Groups 1–25 have now been audited against the current roadmap. No new numbered concept is justified by this audit. Next, reconcile the complete concept inventory and project records; select further work from a demonstrated gap, especially formal measurement in Workstream B or evidence-backed monitoring in Workstream C.
