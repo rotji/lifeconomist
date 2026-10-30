@@ -112,3 +112,8 @@ The first bullet-by-bullet depth audit is now available: [Depth Audit — Workst
 - [Workstream A roadmap and terminology inventory](WORKSTREAM-A-ROADMAP.md)
 - [Current project state](../CURRENT-STATE.md)
 - [Research log](../RESEARCH-LOG.md)
+
+
+## 8. Final depth-audit checkpoint: Group 25 / Concept 32 (2026-10-30)
+
+The ninth audit, [DEPTH-AUDIT-GROUP-25-CONCEPT-32.md](DEPTH-AUDIT-GROUP-25-CONCEPT-32.md), completes bullet-by-bullet coverage review of Groups 1–25 as enumerated in the current roadmap. Concept 32 already contained the required distinctions; a roadmap coverage checklist was added to improve traceability. The next task is a cross-file reconciliation of the concept index, roadmap, current state, audit reports and research log. Further work should follow a demonstrated gap, particularly a formal measurement protocol in Workstream B or an evidence-backed monitoring application in Workstream C—not an assumed need for another concept.
