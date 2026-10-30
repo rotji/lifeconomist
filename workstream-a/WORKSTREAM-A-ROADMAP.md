@@ -374,7 +374,7 @@ The following pairs and clusters must be explicitly distinguished where relevant
 
 ## 4. Investigation sequence
 
-The inventory is broad; the investigation should proceed through connected groups rather than attempt to study every topic at once.
+The inventory is broad; the investigation should proceed through connected groups rather than attempt to study every topic at once. This sequence preserves conceptual dependencies but is not a requirement to finish every group before moving to another useful task. At each return, check the latest checkpoint, audit reports, and concept notes; reuse adequate work and revisit it only for a demonstrated gap, new evidence, changed scope, or other recorded reason. Apply the [project-wide Continuity, Pause, and Revision Principle](../RESEARCH-METHODOLOGY.md#continuity-pause-and-revision-principle).
 
 ### Phase 0 — Preserve and audit the production foundation
 1. Re-read `concepts/production.md` as the current authoritative concept note.
@@ -580,4 +580,4 @@ The eighth bullet-by-bullet audit is documented in [DEPTH-AUDIT-GROUPS-22-24.md]
 
 Completed the ninth and final bullet-by-bullet group audit in the current roadmap. See [DEPTH-AUDIT-GROUP-25-CONCEPT-32.md](DEPTH-AUDIT-GROUP-25-CONCEPT-32.md). The Concept 32 register already covered the roadmap's required comparisons. A targeted addition, “Roadmap coverage checklist,” now maps every required comparison to its section and states the core distinction, improving traceability without duplicating the detailed concept notes.
 
-**Decision:** Groups 1–25 have now been audited against the current roadmap. No new numbered concept is justified by this audit. Next, reconcile the complete concept inventory and project records; select further work from a demonstrated gap, especially formal measurement in Workstream B or evidence-backed monitoring in Workstream C.
+**Decision:** Groups 1–25 have now been audited against the current roadmap. No new numbered concept is justified by this audit. The reconciliation was subsequently recorded in [CONCEPT-INVENTORY-RECONCILIATION.md](CONCEPT-INVENTORY-RECONCILIATION.md). Treat this audit sequence as completed for its stated scope, not as proof of empirical validation or a bar to later revision. The next task is not prescribed: choose it from a demonstrated gap and current value, including but not limited to formal measurement in Workstream B or evidence-backed monitoring in Workstream C. Preserve this checkpoint and avoid rerunning all audits without a specific reason.
