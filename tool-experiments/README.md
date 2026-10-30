@@ -24,3 +24,5 @@ Score from 1 (poor) to 5 (excellent), and add notes:
 
 ## Rule
 Do not maintain duplicate authoritative copies indefinitely. During experiments, label test copies and the authoritative version. Choose based on observed use, not assumptions.
+
+Tool experiments may be paused or abandoned when they do not improve the real workflow; do not continue merely because a trial was started. Before restarting, check prior results and notes. Reopen a decision when new evidence or changed requirements justify it, and preserve the reason for retaining, changing, or dropping a tool. Follow the [project-wide Continuity, Pause, and Revision Principle](../RESEARCH-METHODOLOGY.md#continuity-pause-and-revision-principle).
