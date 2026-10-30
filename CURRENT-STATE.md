@@ -97,3 +97,8 @@ Completed the seventh bullet-by-bullet audit, covering Groups 19–21 against Co
 ### Workstream A — depth audit checkpoint: Groups 22–24 (2026-10-30)
 
 Completed the eighth bullet-by-bullet audit, covering Groups 22–24 against Concepts 29–31. See [DEPTH-AUDIT-GROUPS-22-24.md](workstream-a/DEPTH-AUDIT-GROUPS-22-24.md). Targeted additions: Concept 29 clarifies false positives/negatives, sensitivity, precision, specificity and decision-specific alert thresholds; Concept 30 adds real-time forecast evaluation and data-leakage safeguards; Concept 31 expands distributional-incidence analysis from the initial legal payer/recipient through pass-through and indirect effects. Groups 22–24 are conceptually covered; formal validation and case-specific evidence remain separate tasks. No new concept is justified. The roadmap explicitly defines Group 25 as the Concept 32 commonly confused terms comparison register; next audit that group.
+
+
+### Workstream A — depth audit checkpoint: Group 25 / Concept 32 (2026-10-30)
+
+Completed the ninth and final bullet-by-bullet audit of the 25 groups currently enumerated in the Workstream A roadmap. See [DEPTH-AUDIT-GROUP-25-CONCEPT-32.md](workstream-a/DEPTH-AUDIT-GROUP-25-CONCEPT-32.md). Concept 32 already covered the required term distinctions; a roadmap coverage checklist was added to map each required comparison to the relevant section and improve ongoing auditability. No new concept is justified. Next: reconcile the complete concept inventory and project records; choose further work based on a demonstrated gap, especially formal measurement in Workstream B or evidence-backed monitoring in Workstream C.
