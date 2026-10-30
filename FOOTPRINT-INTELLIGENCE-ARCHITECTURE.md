@@ -179,6 +179,8 @@ Ethical and legal review is part of the proposed direction, not a substitute for
 
 ## Capability status and boundaries
 
+The architecture inherits the [project-wide Continuity, Pause, and Revision Principle](RESEARCH-METHODOLOGY.md#continuity-pause-and-revision-principle). Investigations may remain proposed, paused, partial, or unvalidated; do not imply implementation or completion because a process is documented. When new traces or sources materially change an assessment, review the relevant entity links, relationship claims, transmission hypotheses, ethical boundaries, and downstream recommendations. Preserve contrary evidence and the prior basis for consequential revisions. Resume from the last verified investigation checkpoint rather than repeating broad discovery by default.
+
 - **Established project work:** The economic model has six foundational indicator candidates, an agreed four-layer framework, and an active measurement-specification workflow. These are documented project decisions, not evidence that a broader intelligence platform exists.
 - **Proposed capabilities:** Footprint Intelligence, Biological Intelligence, Bioeconomic Intelligence, Biological Power and Governance Intelligence, and their cross-domain connections are conceptual directions only.
 - **Hypotheses and allegations:** Specific relationships, mechanisms, predictions, and claims remain hypotheses or allegations until investigated against appropriate evidence. Controversy neither validates nor invalidates them.
