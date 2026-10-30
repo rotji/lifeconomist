@@ -1,3 +1,11 @@
+## 2026-10-30 — Workstream A concept inventory reconciliation
+
+- **Task:** Follow Concept 32's recorded next action by reconciling the 25-group terminology inventory against the existing concept notes before selecting Concept 33.
+- **Files reviewed:** Workstream A index and roadmap; current-state checkpoint; research log; primary notes across Concepts 1–32.
+- **New artifact:** Created [workstream-a/CONCEPT-INVENTORY-RECONCILIATION.md](workstream-a/CONCEPT-INVENTORY-RECONCILIATION.md) with a group-to-note coverage matrix, status definitions, intentional overlaps, scope boundaries, corrected index defects, remaining depth-audit tasks and a decision not to invent Concept 33 prematurely.
+- **Index fixes:** Added the existing Concept 6 — Value Added, Income Distribution and Profit note to `workstream-a/README.md`; removed a duplicate Concept 25 link.
+- **Findings:** All 25 planned groups have at least one identifiable primary concept note or comparison-register entry. This is concept-level coverage only, not proof that every roadmap bullet is fully explained or that any current economic data are validated. Intentional overlaps include value added/GDP/profit, productivity/growth, money/credit/liquidity, financial markets/funds, institutions/structural change/distribution, and measurement/time.
+- **Next action:** Conduct a bullet-by-bullet depth audit beginning with Groups 1–3; label each roadmap bullet explicitly covered, partially covered, cross-linked or not yet covered. Add scoped omissions to existing notes where appropriate. Select Concept 33 only if a coherent consequential gap cannot be handled better inside an existing note.
 ## 2026-10-30 — Workstream A Concept 32: commonly confused economic and financial terms
 
 - **Task:** Continue from Concept 31 and close the planned Group 25 comparison-register layer without replacing the underlying concept notes.
