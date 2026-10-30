@@ -506,3 +506,10 @@ This roadmap is not “completed” merely because all headings have notes. Prog
 - later investigations can use the concepts without repeatedly confusing their meanings.
 
 **Current status (updated 2026-10-30):** Workstream A has durable concept notes through [Concept 32 — Commonly Confused Economic and Financial Terms: Comparison Register](concepts/commonly-confused-economic-and-financial-terms-comparison-register.md). Concept 32 covers Group 25 as a cross-reference layer and links the major terminology distinctions to detailed notes. Concepts 29–31 cover measurement and inference, time and transmission, and distribution of economic power and opportunity. The older phase descriptions and broader terminology inventory remain imperfectly reconciled with the completed concept notes. Next, reconcile the inventory against Concepts 1–32, mark coverage and gaps, then select Concept 33 based on verified dependencies. Do not restart from Concept 1 or assume the original heading order alone determines the next topic.
+
+
+## 11. Depth audit checkpoint (2026-10-30)
+
+The first bullet-by-bullet audit of Groups 1–3 is documented in [DEPTH-AUDIT-GROUPS-1-3.md](DEPTH-AUDIT-GROUPS-1-3.md). It reviewed Concepts 1–11 against each roadmap bullet. Targeted updates were made to Concept 9 on monetary aggregates and to Concept 10 on maturity transformation, maturity mismatch, rollover/refinancing risk, repricing, arrears, restructuring and deleveraging. The remaining issues are chiefly formal measurement or context-specific classifications, including multifactor productivity, capacity utilization, CBN monetary aggregates and credit impairment categories. Do not create Concept 33 merely to house these issues if they belong in existing notes or Workstream B.
+
+**Next action:** Audit Groups 4–6 bullet by bullet. Use four labels: explicitly covered, partially covered, cross-linked, not yet covered. Update existing notes where a concrete gap is in scope; create a new numbered concept only for a coherent gap that cannot be handled better within the current architecture.
