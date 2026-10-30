@@ -94,4 +94,4 @@ No current alert performance, cycle forecast, inequality estimate, policy incide
 
 Groups 22–24 are **conceptually covered**, with targeted additions made to Concepts 29, 30 and 31. Remaining work is formal measurement, validation and evidence-based application to particular indicators, forecasts or distributional questions. No new numbered concept is justified by this audit.
 
-**Next action:** Review the remaining roadmap inventory after Group 24, verify whether Group 25 has substantive content or is a placeholder, and reconcile the full concept inventory and audit sequence before starting another group. Do not invent a Group 25 topic if the roadmap does not define one.
+**Next action:** Audit the roadmap's explicitly defined Group 25 — Commonly Confused Terms: Comparison Register (Concept 32). Its purpose and term clusters are specified in the roadmap. After that audit, reconcile the full concept inventory and audit sequence.
