@@ -513,3 +513,10 @@ This roadmap is not “completed” merely because all headings have notes. Prog
 The first bullet-by-bullet audit of Groups 1–3 is documented in [DEPTH-AUDIT-GROUPS-1-3.md](DEPTH-AUDIT-GROUPS-1-3.md). It reviewed Concepts 1–11 against each roadmap bullet. Targeted updates were made to Concept 9 on monetary aggregates and to Concept 10 on maturity transformation, maturity mismatch, rollover/refinancing risk, repricing, arrears, restructuring and deleveraging. The remaining issues are chiefly formal measurement or context-specific classifications, including multifactor productivity, capacity utilization, CBN monetary aggregates and credit impairment categories. Do not create Concept 33 merely to house these issues if they belong in existing notes or Workstream B.
 
 **Next action:** Audit Groups 4–6 bullet by bullet. Use four labels: explicitly covered, partially covered, cross-linked, not yet covered. Update existing notes where a concrete gap is in scope; create a new numbered concept only for a coherent gap that cannot be handled better within the current architecture.
+
+
+## 12. Depth audit checkpoint: Groups 4–6 (2026-10-30)
+
+The second bullet-by-bullet audit is documented in [DEPTH-AUDIT-GROUPS-4-6.md](DEPTH-AUDIT-GROUPS-4-6.md). It reviews the roadmap bullets for investment/saving/capital allocation, markets/prices/exchange, and national income/GDP. Targeted changes were made to Concepts 11–13 to make CapEx/OpEx, return types, portfolio strategies, speculation/hedging/arbitrage, market access/information asymmetry/bargaining, GDP deflator versus CPI, and national disposable income more explicit. The remaining work is chiefly formal measurement and source verification rather than a new broad concept.
+
+**Next action:** Audit Groups 7–9 bullet by bullet using the same coverage labels, then make scoped edits to existing notes where justified. Do not create Concept 33 unless a distinct consequential gap is found that cannot be handled within the current architecture.
