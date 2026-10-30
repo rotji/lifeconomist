@@ -177,6 +177,20 @@ Potential costs and risks include:
 
 A valid evaluation compares the complete workflow before and after introduction, including quality, speed, cost, failure, human review and downstream outcomes. Counting generated outputs, automated tasks or user clicks is not enough.
 
+## 7.1 AI service economics: training, inference, utilization and human review
+
+The cost of an AI-enabled service is not captured by the price of a model call alone. **Training** or fine-tuning costs may be substantial but occur at particular stages or intervals; **inference** costs recur when a model is used. A deployed service may also require retrieval and data preparation, orchestration, storage, network traffic, security, evaluation, monitoring, human review, customer support and recovery from errors. Which costs matter most depends on model choice, task, usage pattern and service quality requirements.
+
+The relevant unit must be defined before calculating unit economics: per request, completed task, accepted result, active customer, document processed or decision supported. Cost per generated response can be misleading if many responses are rejected, corrected or never used. A more decision-relevant measure may be cost per **accepted and useful outcome**, including the human time and downstream costs required to reach it.
+
+Utilization also matters. Fixed infrastructure or reserved capacity spread over few successful tasks can make unit costs high; greater utilization can lower average cost until capacity constraints, latency, quality degradation or additional staffing create new costs. Cheap output is not necessarily economical if error handling, review or failure consequences are expensive.
+
+**Model and infrastructure costs + data and workflow costs + human review and failure costs → total cost per defined useful outcome → comparison with the existing process and realized benefit.**
+
+In plain language, an AI service should be compared with the work it actually completes, not merely the number of answers it generates. If a person must verify every output, repair mistakes and manage exceptions, those costs belong in the comparison. The service creates economic value only if the quality-adjusted benefits—such as time saved, fewer errors or better decisions—justify its total cost and risks.
+
+A defensible evaluation records the task and unit, model/version, workload, utilization, latency, quality and error thresholds, human-review rate, failure severity, data and infrastructure costs, baseline workflow, and the period over which fixed costs are allocated. Report uncertainty and avoid assuming that a benchmark result will transfer unchanged to another workload or user population.
+
 ## 8. Network effects, platforms and market power
 
 A **network effect** occurs when the value or usefulness of a product or service to a user changes as the number or composition of other users or participants changes. Some networks become more useful as participation grows, but the strength and direction of the effect are empirical questions.
