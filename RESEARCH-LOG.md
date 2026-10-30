@@ -43,7 +43,7 @@
 - **Concept 24 changes:** Added intraday liquidity and payment settlement; expanded money-market-fund structures, redemption pressure and short-term funding transmission.
 - **Concept 25 change:** Added valuation frequency, stale prices and realizable value; distinguished reported marks from sale proceeds and realizable value under stated conditions.
 - **Findings:** Groups 16–18 are conceptually covered. Remaining work is current-source verification and transaction-, system- or fund-specific measurement. No new numbered concept is justified.
-- **Next action:** Audit Groups 19–21 using the same four coverage labels.
+- **Completed:** Groups 19–21 were audited in [DEPTH-AUDIT-GROUPS-19-21.md](workstream-a/DEPTH-AUDIT-GROUPS-19-21.md); Groups 22–24 and Group 25 were subsequently audited as recorded in the later entries.
 ## 2026-10-30 — Workstream A depth audit: Groups 13–15
 
 - **Task:** Review Groups 13–15 bullet by bullet against Concepts 20, 21 and 23 and related notes.
