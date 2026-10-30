@@ -1,3 +1,12 @@
+## 2026-10-30 — Workstream A depth audit: Groups 7–9
+
+- **Task:** Continue the bullet-by-bullet audit sequence by reviewing Groups 7–9 against Concepts 14–16 and relevant connected notes.
+- **New artifact:** Created [workstream-a/DEPTH-AUDIT-GROUPS-7-9.md](workstream-a/DEPTH-AUDIT-GROUPS-7-9.md), with status definitions, bullet-level coverage, conclusions, remaining measurement tasks and next action.
+- **Concept 14 change:** Added demographic dependency, economic dependency, population ageing and demographic-dividend mechanisms; emphasized that age ratios do not establish actual economic dependence or guaranteed growth.
+- **Concept 15 change:** Added fiscal space, debt-sustainability assumptions/stress scenarios and sovereign wealth fund mandate/liquidity/consolidation distinctions.
+- **Concept 16 change:** Added wage-price dynamics, indexation and administered-price effects, including the difference between direct index effects and possible second-round persistence.
+- **Findings:** Groups 7–9 are conceptually covered. Remaining tasks are mainly formal measurement and current-source verification for Nigerian labour, fiscal and inflation data, plus causal evaluation of specific episodes. No new concept is justified by this audit.
+- **Next action:** Audit Groups 10–12 using the same four labels.
 ## 2026-10-30 — Workstream A depth audit: Groups 4–6
 
 - **Task:** Continue the roadmap after Groups 1–3 by auditing all bullets in Groups 4–6 against Concepts 11–13 and connected notes.
