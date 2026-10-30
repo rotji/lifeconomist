@@ -6,7 +6,9 @@ The goal is not merely to store short definitions. Each concept note should conn
 
 ## Roadmap and inventory
 
-- [Workstream A — Conceptual Foundations Roadmap and Terminology Inventory](WORKSTREAM-A-ROADMAP.md) — the master plan for the remaining concept investigations, 25 terminology groups, study sequence, documentation standard, reasoning safeguards, and next actions. This is a roadmap, not a claim that the listed concepts have already been completed.
+- [Workstream A — Conceptual Foundations Roadmap and Terminology Inventory](WORKSTREAM-A-ROADMAP.md) — the master plan for the 25 terminology groups, study sequence, documentation standard and next actions.
+- [Concept Inventory Reconciliation](CONCEPT-INVENTORY-RECONCILIATION.md) — maps the 25 planned groups to existing notes and documents intentional overlaps and index corrections.
+- [Depth Audit — Groups 1–3](DEPTH-AUDIT-GROUPS-1-3.md) — checks each roadmap bullet against Concepts 1–11, classifies coverage and records targeted improvements to Concepts 9 and 10.
 
 ## Concept notes
 
