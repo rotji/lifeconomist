@@ -564,4 +564,13 @@ The sixth bullet-by-bullet audit is documented in [DEPTH-AUDIT-GROUPS-16-18.md](
 
 The seventh bullet-by-bullet audit is documented in [DEPTH-AUDIT-GROUPS-19-21.md](DEPTH-AUDIT-GROUPS-19-21.md). It reviews economic growth/development/productivity, natural resources/energy/environment, and digital/information/intangible economics. Targeted changes were made to Concept 26 (employment absorption and job quality), Concept 27 (energy affordability and full system costs), and Concept 28 (AI service economics and cost per useful outcome). Remaining work is measurement and application to specific economies, energy systems and AI deployments.
 
-**Next action:** Verify the exact titles and existing coverage of Groups 22–24, then audit those groups.
+**Completed:** Groups 22–24 have been audited; see [DEPTH-AUDIT-GROUPS-22-24.md](DEPTH-AUDIT-GROUPS-22-24.md). Targeted improvements were made to Concepts 29, 30 and 31. No new numbered concept is justified by this audit.
+
+**Next action:** Audit Group 25 — Commonly Confused Terms: Comparison Register (Concept 32), then reconcile the full concept inventory and audit sequence.
+
+
+## 18. Depth audit checkpoint: Groups 22–24 (2026-10-30)
+
+The eighth bullet-by-bullet audit is documented in [DEPTH-AUDIT-GROUPS-22-24.md](DEPTH-AUDIT-GROUPS-22-24.md). It reviews economic measurement/evidence/inference, time/cycles/transmission, and distribution of economic power/opportunity. Targeted changes were made to Concept 29 (alert error metrics and decision thresholds), Concept 30 (real-time forecast evaluation and data leakage), and Concept 31 (distributional incidence). Remaining work is formal validation and case-specific evidence.
+
+**Next action:** Audit Group 25 — Commonly Confused Terms: Comparison Register (Concept 32), then reconcile the full concept inventory and audit sequence.
