@@ -1,3 +1,12 @@
+## 2026-10-30 — Workstream A depth audit: Groups 22–24
+
+- **Task:** Review Groups 22–24 bullet by bullet against Concepts 29–31 and related notes.
+- **New artifact:** Created [workstream-a/DEPTH-AUDIT-GROUPS-22-24.md](workstream-a/DEPTH-AUDIT-GROUPS-22-24.md), including coverage tables, findings, evidence limits and next action.
+- **Concept 29 change:** Added alert decision thresholds, false positives/negatives, sensitivity, precision, specificity, rare-event limitations and out-of-sample evaluation.
+- **Concept 30 change:** Added real-time forecast evaluation, data leakage, decision-time information sets, chronological testing and baseline comparison.
+- **Concept 31 change:** Added structured distributional-incidence analysis covering counterfactual, direct effects, pass-through, indirect effects, time horizon, heterogeneity and evidence.
+- **Findings:** Groups 22–24 are conceptually covered. Remaining work is formal validation and case-specific evidence; no new numbered concept is justified.
+- **Sequence clarification:** The roadmap explicitly defines Group 25 as the Concept 32 commonly confused terms comparison register. Next: audit Group 25, then reconcile the full inventory and audit sequence.
 ## 2026-10-30 — Workstream A depth audit: Groups 19–21
 
 - **Task:** Review Groups 19–21 bullet by bullet against Concepts 26–28 and related notes.
