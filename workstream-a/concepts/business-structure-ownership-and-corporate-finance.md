@@ -148,6 +148,22 @@ Debt can create tax, governance or financing benefits in some contexts but also 
 
 Corporate finance is not limited to maximizing one short-term accounting number. Decisions may be constrained by law, contracts, liquidity, strategy, stakeholder obligations and the distribution of risk and returns.
 
+## 12.1 Revenue models, margins, operating leverage and unit economics
+
+A **revenue model** describes how an organization earns revenue from the value it offers, such as selling units, charging a subscription, taking a transaction fee, licensing intellectual property, renting an asset or charging for access. A business model is broader: it also includes the customers served, activities, resources, partners, delivery arrangements and cost structure.
+
+**Gross margin**, **operating margin** and **net margin** use different profit measures and denominators. A higher margin does not necessarily mean a business generates more total profit or cash: sales volume, fixed costs, capital needs, taxes, debt service and collection timing also matter. Margin comparisons require consistent accounting definitions, periods and business mix.
+
+**Operating leverage** describes how changes in revenue can produce proportionally larger or smaller changes in operating profit because of fixed and variable costs. A business with high fixed costs may see profits rise quickly after revenue passes a break-even threshold, but it may also suffer disproportionately when sales fall. The result depends on capacity utilization, pricing, variable input costs and how quickly costs can adjust.
+
+**Unit economics** examine revenue, contribution and cost for a defined unit, such as an item sold, order, customer, delivery, subscription or service engagement. The unit and time horizon must be explicit. For example, a contribution per order may subtract direct variable costs but exclude fixed overhead, customer acquisition, returns, bad debt, taxes or financing costs. A positive contribution therefore does not by itself prove that the whole business is profitable or viable.
+
+**Revenue → contribution after defined variable costs → coverage of fixed costs and other obligations → operating profit and cash outcome.**
+
+In plain language, selling more can improve a business's position when each additional sale contributes enough to cover overhead and other obligations. But if each sale has a negative contribution, growth can increase losses; and even positive contribution can coexist with cash stress if customers pay late or inventory must be funded in advance.
+
+For comparisons, specify the revenue-recognition basis, unit, time window, included costs, returns/discounts, customer acquisition costs, utilization assumptions and whether the measure is accounting profit, contribution, operating cash or cash available after financing. Do not compare a company's gross margin with another company's net margin as if they were the same metric.
+
 ## 13. Funding, financing, commitment, disbursement and deployment
 
 These terms describe different stages:
