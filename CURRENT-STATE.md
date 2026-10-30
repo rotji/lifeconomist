@@ -77,3 +77,8 @@ Completed the third bullet-by-bullet audit of Workstream A, covering Groups 7–
 ### Workstream A — depth audit checkpoint: Groups 10–12 (2026-10-30)
 
 Completed the fourth bullet-by-bullet audit, covering Groups 10–12 against Concepts 17–19. See [DEPTH-AUDIT-GROUPS-10-12.md](workstream-a/DEPTH-AUDIT-GROUPS-10-12.md). Targeted additions: Concept 17 clarifies cross rates versus executable FX conversions, remittances, capital-flight claims and settlement constraints; Concept 18 expands bond yield/duration/convexity/term-structure and repo/collateral-reuse mechanics; Concept 19 clarifies working-capital cash conversion, accounting versus taxable profit/cash generated, and contingent/off-balance-sheet exposures. Groups 10–12 are conceptually covered; current Nigerian data, instrument terms and applicable reporting rules require separate verification. No new concept is justified. Next: Groups 13–15.
+
+
+### Workstream A — depth audit checkpoint: Groups 13–15 (2026-10-30)
+
+Completed the fifth bullet-by-bullet audit, covering Groups 13–15 against Concepts 20, 21 and 23. See [DEPTH-AUDIT-GROUPS-13-15.md](workstream-a/DEPTH-AUDIT-GROUPS-13-15.md). Targeted additions: Concept 20 explains revenue models, margins, operating leverage and unit economics; Concept 21 distinguishes risk appetite, tolerance, limits, capacity and recovery assumptions; Concept 23 expands property rights and contract enforcement, regulation/deregulation and collective action. Groups 13–15 are conceptually covered; case-specific corporate, risk and institutional claims require separate evidence and measurement. No new concept is justified. Next: Groups 16–18.
