@@ -555,4 +555,13 @@ The fifth bullet-by-bullet audit is documented in [DEPTH-AUDIT-GROUPS-13-15.md](
 
 The sixth bullet-by-bullet audit is documented in [DEPTH-AUDIT-GROUPS-16-18.md](DEPTH-AUDIT-GROUPS-16-18.md). It reviews trade/supply chains/distribution networks, banking/market/system-wide liquidity, and capital markets/institutional investors/funds. Targeted changes were made to Concept 22 (comparative advantage, trade finance, local content/import substitution and input-output limits), Concept 24 (intraday liquidity/payment settlement and money-market funds), and Concept 25 (valuation frequency, stale prices and realizable value). Remaining work is current-source verification and application to specific transactions, systems or funds.
 
-**Next action:** Audit Groups 19–21 bullet by bullet using the same coverage labels.
+**Completed:** Groups 19–21 have been audited; see [DEPTH-AUDIT-GROUPS-19-21.md](DEPTH-AUDIT-GROUPS-19-21.md). Targeted improvements were made to Concepts 26, 27 and 28. No new numbered concept is justified by this audit.
+
+**Next action:** Verify the exact titles and existing coverage of Groups 22–24, then audit them bullet by bullet using the same coverage labels.
+
+
+## 17. Depth audit checkpoint: Groups 19–21 (2026-10-30)
+
+The seventh bullet-by-bullet audit is documented in [DEPTH-AUDIT-GROUPS-19-21.md](DEPTH-AUDIT-GROUPS-19-21.md). It reviews economic growth/development/productivity, natural resources/energy/environment, and digital/information/intangible economics. Targeted changes were made to Concept 26 (employment absorption and job quality), Concept 27 (energy affordability and full system costs), and Concept 28 (AI service economics and cost per useful outcome). Remaining work is measurement and application to specific economies, energy systems and AI deployments.
+
+**Next action:** Verify the exact titles and existing coverage of Groups 22–24, then audit those groups.
