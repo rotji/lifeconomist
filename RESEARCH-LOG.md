@@ -1,3 +1,10 @@
+## 2026-10-30 — Workstream A depth audit: Group 25 / Concept 32
+
+- **Task:** Audit every required comparison in Group 25 of the Workstream A roadmap against Concept 32.
+- **New artifact:** Created [workstream-a/DEPTH-AUDIT-GROUP-25-CONCEPT-32.md](workstream-a/DEPTH-AUDIT-GROUP-25-CONCEPT-32.md), with a bullet-by-bullet coverage table, limitations and next action.
+- **Concept 32 change:** Added a “Roadmap coverage checklist” that maps every required comparison to its section and states the core distinction. The underlying register already covered the substantive pairs; the gap was direct traceability to the roadmap checklist.
+- **Finding:** Group 25 / Concept 32 is conceptually covered. Context-dependent definitions still require the applicable standard, reporting boundary and time period. No new concept is justified.
+- **Sequence status:** Groups 1–25 have now been audited against the current roadmap. Next: reconcile the full concept inventory and project records, then select work from a demonstrated gap rather than automatically creating another concept.
 ## 2026-10-30 — Workstream A depth audit: Groups 22–24
 
 - **Task:** Review Groups 22–24 bullet by bullet against Concepts 29–31 and related notes.
