@@ -1,3 +1,12 @@
+## 2026-10-30 — Workstream A depth audit: Groups 4–6
+
+- **Task:** Continue the roadmap after Groups 1–3 by auditing all bullets in Groups 4–6 against Concepts 11–13 and connected notes.
+- **New artifact:** Created [workstream-a/DEPTH-AUDIT-GROUPS-4-6.md](workstream-a/DEPTH-AUDIT-GROUPS-4-6.md), including the status definitions, bullet-level coverage tables, conclusions, remaining measurement tasks and next step.
+- **Concept 11 changes:** Added sections on CapEx/OpEx and decision quality; expected, realized and total returns; compounding; portfolio allocation, diversification and reallocation; speculation, hedging and arbitrage. Clarified accounting and execution limitations.
+- **Concept 12 changes:** Added treatment of market access, information asymmetry, bargaining power and barriers to entry; distinguishes plausible mechanisms from evidence of conduct or legal findings.
+- **Concept 13 changes:** Added GDP deflator versus CPI comparison and national disposable income's relationship to GNI/GDP and household disposable income.
+- **Findings:** Groups 4–6 are conceptually covered. Remaining tasks include formal return/performance methodology, evidence for market structure and executable pricing claims, and verification of current NBS national-accounts definitions before Nigeria-specific measurement. No new Concept 33 is justified by this audit.
+- **Next action:** Audit Groups 7–9 bullet by bullet with the same four labels and update existing notes only where concrete gaps fall within their scope.
 ## 2026-10-30 — Workstream A depth audit: Groups 1–3
 
 - **Task:** Execute the next step from the inventory reconciliation by auditing every roadmap bullet in Groups 1–3 against the bodies of Concepts 1–11.
