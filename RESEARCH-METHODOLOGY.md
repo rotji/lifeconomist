@@ -164,7 +164,7 @@ When reviewing important work, ask: **“If we remove the technical vocabulary, 
 
 **Project-wide operating law:** Investigate seriously, document honestly, pause deliberately, and return when it makes sense. Progress does not require every question, workstream, or artifact to be closed. Work may remain unfinished for as long as necessary, and attention may move to a more useful task without treating the earlier task as failure or abandonment.
 
-This principle applies across Workstreams A–E, the economic model, cross-cutting research programmes, and future project components.
+This principle governs the entire project: Workstreams A–E, the economic model, concept notes, roadmaps, measurement specifications, evidence registers, source assessments, research programmes, experiments, decisions, logs, summaries, and future artifacts. Every document inherits it whether or not it repeats the full rule. Specialized documents should record only the local checkpoint, dependencies, revision implications, and next useful action needed for their purpose; the central methodology remains the authoritative policy.
 
 ### Resume from the recorded state
 
