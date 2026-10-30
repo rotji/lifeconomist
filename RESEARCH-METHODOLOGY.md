@@ -160,6 +160,68 @@ Apply these standing rules:
 
 When reviewing important work, ask: **“If we remove the technical vocabulary, can we explain what is actually happening in the real world? If we restore the technical vocabulary, does the explanation remain accurate? And can we distinguish what we understand from what the evidence establishes?”** If not, the analysis needs further work.
 
+## Continuity, Pause, and Revision Principle
+
+**Project-wide operating law:** Investigate seriously, document honestly, pause deliberately, and return when it makes sense. Progress does not require every question, workstream, or artifact to be closed. Work may remain unfinished for as long as necessary, and attention may move to a more useful task without treating the earlier task as failure or abandonment.
+
+This principle applies across Workstreams A–E, the economic model, cross-cutting research programmes, and future project components.
+
+### Resume from the recorded state
+
+When returning to a task, consult `CURRENT-STATE.md`, the relevant entries in `RESEARCH-LOG.md`, and the specific source document(s). Confirm what was done, what was actually verified, what remains unresolved, and why the work stopped. Follow links to evidence and artifacts instead of recreating work from conversational summaries alone.
+
+Do not repeat a completed investigation merely because it is easier than checking the record. Repeat or reproduce it only for a clear reason, such as a reproducibility check, verification gap, material new source, changed method, contradiction, or need to test whether an earlier result still holds.
+
+### Use honest task states
+
+- **Completed (for stated scope):** The specified task was performed and its acceptance conditions were met. Its findings may still be revised later.
+- **In progress:** Work has started, but important requirements or checks remain.
+- **Paused:** Work is intentionally not being advanced now. Preserve the stopping point and next useful action; do not treat the pause as failure or abandonment.
+- **Not started:** Work has not yet begun.
+- **Reopened / under review:** Earlier findings or decisions are being reassessed for a recorded reason.
+
+A workstream may contain tasks in different states. Do not force Workstreams B or C, or any other workstream, to completion before moving to a more useful question. Sequence work according to evidence, importance, feasibility, opportunity, and current priorities—not merely the order in which tasks were listed.
+
+### Preserve a useful stopping point
+
+When substantial work pauses or changes direction, record as appropriate: the question and scope; what was done and which evidence or artifacts were inspected; findings and decisions with sources and dates; what remains unknown, unverified, disputed, or incomplete; why attention moved elsewhere if useful; the next useful action; and relevant dependencies or affected documents.
+
+Never describe a source as inspected, a calculation as reproduced, a test as passed, or a result as validated unless that work was actually performed. A catalogue listing, headline, abstract, or secondary report is not a substitute for inspecting the underlying source when the task requires it.
+
+### Treat findings as revisable
+
+A finding may be well-supported and still need review when new evidence, better data, changed definitions, methodological improvements, source corrections, or real-world outcomes become available. Revisit earlier work when the new information is material—not automatically, and not merely because time has passed. Equally, the fact that an earlier conclusion was carefully researched does not exempt it from review.
+
+For every material revision, ask:
+
+1. What is new, and how reliable and relevant is it?
+2. Does it confirm, qualify, contradict, or leave the earlier finding unchanged?
+3. Which assumptions, definitions, measurements, explanations, or decisions are affected?
+4. Which downstream documents, indicators, models, workstreams, recommendations, or conclusions depend on the affected item?
+5. What should be retained, amended, linked, marked uncertain, superseded, or removed—and why?
+6. What further verification is required before changing a conclusion?
+
+### Review downstream impact before changing the project
+
+When new findings materially affect the project, trace their implications across relevant connected records rather than editing only the page where the discovery appeared. Use proportionate judgment:
+
+- **Retain** content that remains accurate, relevant, and useful.
+- **Amend** content that is partly correct but needs a more precise definition, scope, qualification, or updated evidence.
+- **Supersede** an old position when a better-supported replacement exists; preserve the historical trail and reason for the change.
+- **Remove** content when it is erroneous, redundant, irrelevant to the agreed scope, or no longer justified. Record consequential removals and reasons rather than silently erasing meaningful decisions or evidence.
+- **Add or cross-link** material when it fills a demonstrated gap or improves traceability; do not create new concepts, indicators, workstreams, or documents merely to signal activity.
+- **Re-test** dependent calculations, comparisons, classifications, and recommendations when their inputs or assumptions change.
+
+Distinguish a factual correction, time-sensitive update, methodological change, scope change, and hypothesis revision. They are different reasons for changing a record.
+
+### Return selectively and deliberately
+
+When resuming paused work, ask whether the original question still matters, whether the intended decision or use still exists, whether the evidence landscape has changed, and whether the expected value of continuing justifies the effort. Then continue, narrow or expand the scope, revise the question, leave it paused, or close it with a recorded reason.
+
+The next task need not be the oldest unfinished task. Workstreams may advance concurrently and feed lessons into one another. An unfinished item is a preserved option, not a permanent obligation.
+
+**Practical return protocol:** Check the project state → open the linked source record → verify the stopping point and evidence boundary → review relevant new information → assess downstream impact → choose the next useful action → update the durable records. This is a guide, not a bureaucratic checklist; apply it proportionately.
+
 ## Research record
 For each investigation, record:
 - Research question and why it matters
