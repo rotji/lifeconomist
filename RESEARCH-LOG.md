@@ -1,3 +1,12 @@
+## 2026-10-30 — Project-wide operating law: continuity, pause, and revision
+
+- **Reason:** Establish a durable rule to prevent unnecessary repetition when returning to the project, preserve incomplete work without treating it as failure, and ensure new findings can trigger a proportionate review of earlier conclusions and connected records.
+- **Methodology:** Added the **Continuity, Pause, and Revision Principle** to [RESEARCH-METHODOLOGY.md](RESEARCH-METHODOLOGY.md), applying it across Workstreams A–E and related project components.
+- **Core rules:** Resume from recorded state and source artifacts; do not repeat verified work without a reason; use honest task states (completed for stated scope, in progress, paused, not started, reopened/under review); preserve stopping points; revisit earlier findings when material new evidence or improved methods justify it; assess downstream impacts before retaining, amending, superseding, or removing content.
+- **Project checkpoint:** Added a dated checkpoint to [CURRENT-STATE.md](CURRENT-STATE.md). The README overview was not updated in this operation.
+- **Current task implication:** Workstream B's Real GDP Growth audit remains in progress, but it need not be forced to completion now. The unresolved workbook inspection and next useful action remain recorded for a future return.
+- **Interpretive safeguard:** New information does not automatically invalidate earlier findings; prior effort or confidence does not make a finding immune to review. Changes should be proportionate to the evidence and trace their implications through connected documents and decisions.
+
 ## 2026-10-30 — Workstream B: Real GDP Growth evidence audit
 
 - **Task:** Continue from the existing Indicator 1 specification; inspect current source documentation, narrow unresolved questions, and define a sequenced evidence-resolution plan.
