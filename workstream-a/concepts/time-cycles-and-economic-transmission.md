@@ -289,6 +289,16 @@ For each proposed signal, record:
 
 A variable that leads a revised monthly series by two months may not give two months of actionable warning if its own data are released late or heavily revised. Back-testing must avoid look-ahead bias and should reproduce the information available at each historical decision date.
 
+### Real-time evaluation, data leakage and baseline comparison
+
+A historical pattern can appear predictive when tested with information that was not actually available at the time. **Data leakage** occurs when a model or rule indirectly uses future information, revised values, labels created after the event or variables unavailable at the intended decision point. This can make historical performance look better than performance achievable in real use.
+
+A defensible evaluation should reconstruct the information set available at each decision time, including source publication dates, revisions and reporting delays. Split training, tuning and evaluation periods in chronological order where time dependence matters; avoid randomly mixing future and past observations when that would leak regime information. The precise design depends on the question and data-generating process.
+
+Compare the signal against a clearly defined baseline, such as a simple historical average, an existing rule or the current operational process. Record lead time, false alarms, missed events, calibration, stability across periods and the cost of acting on errors. A signal can predict a movement without identifying its cause, and a useful forecast may still be unsuitable for an action whose costs are asymmetric.
+
+A signal should not be declared useful merely because it moves before the target in a selected historical chart. Its incremental value must survive out-of-sample or rolling evaluation, realistic data availability, revisions, threshold choice and comparison with alternatives.
+
 ## 14. Distinguishing cyclical, structural and measurement changes
 
 An observed movement may arise from:
