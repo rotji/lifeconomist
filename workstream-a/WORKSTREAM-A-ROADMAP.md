@@ -519,4 +519,13 @@ The first bullet-by-bullet audit of Groups 1–3 is documented in [DEPTH-AUDIT-G
 
 The second bullet-by-bullet audit is documented in [DEPTH-AUDIT-GROUPS-4-6.md](DEPTH-AUDIT-GROUPS-4-6.md). It reviews the roadmap bullets for investment/saving/capital allocation, markets/prices/exchange, and national income/GDP. Targeted changes were made to Concepts 11–13 to make CapEx/OpEx, return types, portfolio strategies, speculation/hedging/arbitrage, market access/information asymmetry/bargaining, GDP deflator versus CPI, and national disposable income more explicit. The remaining work is chiefly formal measurement and source verification rather than a new broad concept.
 
-**Next action:** Audit Groups 7–9 bullet by bullet using the same coverage labels, then make scoped edits to existing notes where justified. Do not create Concept 33 unless a distinct consequential gap is found that cannot be handled within the current architecture.
+**Completed:** Groups 7–9 have been audited bullet by bullet; see [DEPTH-AUDIT-GROUPS-7-9.md](DEPTH-AUDIT-GROUPS-7-9.md). Targeted improvements were made to Concepts 14–16. Do not create Concept 33 unless a distinct consequential gap is found that cannot be handled within the current architecture.
+
+**Next action:** Audit Groups 10–12 using the same four coverage labels, make scoped edits to existing notes where justified, and update the audit, index, current-state file, roadmap and research log.
+
+
+## 13. Depth audit checkpoint: Groups 7–9 (2026-10-30)
+
+The third bullet-by-bullet audit is documented in [DEPTH-AUDIT-GROUPS-7-9.md](DEPTH-AUDIT-GROUPS-7-9.md). It reviews the roadmap bullets for labour/household economics, government finance and inflation/interest rates. Targeted changes were made to Concept 14 (demographic and economic dependency; demographic dividend), Concept 15 (fiscal space, debt sustainability and sovereign wealth funds), and Concept 16 (wage-price dynamics, indexation and administered prices). The remaining work is chiefly official-source verification and formal measurement. No new concept is justified by this audit.
+
+**Next action:** Audit Groups 10–12 bullet by bullet using the same coverage labels.
