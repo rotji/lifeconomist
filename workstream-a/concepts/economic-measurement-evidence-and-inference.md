@@ -368,6 +368,24 @@ In plain language, an uncertain signal may justify checking a source or conducti
 
 The analyst should separate an evidence assessment from a policy or business recommendation. A recommendation adds objectives, trade-offs, risk tolerance and value judgements to the evidence; it is not a purely statistical output.
 
+### Decision thresholds, false alarms and missed events
+
+A monitoring indicator can be statistically informative and still be a poor trigger for action. Its usefulness depends on the event being detected, how common that event is, the indicator's error profile, the delay before confirmation and the consequences of acting or not acting.
+
+- **False positive:** The system signals an event that did not occur under the defined outcome rule.
+- **False negative:** The system fails to signal an event that did occur.
+- **Sensitivity/recall:** The share of defined events that the system detects.
+- **Precision/positive predictive value:** The share of alerts that correspond to defined events.
+- **Specificity:** The share of non-events correctly left unflagged.
+
+These measures are not interchangeable. When an event is rare, a system can have high sensitivity and still produce many false alerts relative to true alerts. A threshold that improves detection can also increase false alarms; the appropriate balance depends on the loss associated with each error, not a universal preference for more or fewer alerts.
+
+For real-time evaluation, define the event and evaluation window before looking at results, preserve the information available at each historical decision time, and avoid using revised or future information that would not have been available then. Assess performance on periods or cases not used to tune the threshold, compare against a simple baseline, and check whether errors cluster by geography, sector or population.
+
+**Alert threshold → true/false alerts and missed events → investigation or action costs → observed outcomes used to recalibrate the system.**
+
+In plain language, lowering a threshold may catch more genuine problems but also send investigators after more cases that turn out not to be problems. If false alarms are cheap and missed events are dangerous, that may be acceptable; if alerts trigger costly or irreversible action, the same threshold may be unsuitable. The evaluation must reflect the intended use and real consequences.
+
 ## 16. A reusable evidence record for Lifeconomist
 
 For each important claim or indicator, record enough information to reproduce the reasoning and update the conclusion.
