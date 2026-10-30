@@ -521,7 +521,9 @@ The second bullet-by-bullet audit is documented in [DEPTH-AUDIT-GROUPS-4-6.md](D
 
 **Completed:** Groups 7–9 have been audited bullet by bullet; see [DEPTH-AUDIT-GROUPS-7-9.md](DEPTH-AUDIT-GROUPS-7-9.md). Targeted improvements were made to Concepts 14–16. Do not create Concept 33 unless a distinct consequential gap is found that cannot be handled within the current architecture.
 
-**Next action:** Audit Groups 10–12 using the same four coverage labels, make scoped edits to existing notes where justified, and update the audit, index, current-state file, roadmap and research log.
+**Completed:** Groups 10–12 have been audited; see [DEPTH-AUDIT-GROUPS-10-12.md](DEPTH-AUDIT-GROUPS-10-12.md). Targeted improvements were made to Concepts 17–19. No new numbered concept is justified by this audit.
+
+**Next action:** Audit Groups 13–15 using the same four coverage labels, make scoped edits to existing notes where justified, and update the audit, index, current-state file, roadmap and research log.
 
 
 ## 13. Depth audit checkpoint: Groups 7–9 (2026-10-30)
@@ -529,3 +531,10 @@ The second bullet-by-bullet audit is documented in [DEPTH-AUDIT-GROUPS-4-6.md](D
 The third bullet-by-bullet audit is documented in [DEPTH-AUDIT-GROUPS-7-9.md](DEPTH-AUDIT-GROUPS-7-9.md). It reviews the roadmap bullets for labour/household economics, government finance and inflation/interest rates. Targeted changes were made to Concept 14 (demographic and economic dependency; demographic dividend), Concept 15 (fiscal space, debt sustainability and sovereign wealth funds), and Concept 16 (wage-price dynamics, indexation and administered prices). The remaining work is chiefly official-source verification and formal measurement. No new concept is justified by this audit.
 
 **Next action:** Audit Groups 10–12 bullet by bullet using the same coverage labels.
+
+
+## 14. Depth audit checkpoint: Groups 10–12 (2026-10-30)
+
+The fourth bullet-by-bullet audit is documented in [DEPTH-AUDIT-GROUPS-10-12.md](DEPTH-AUDIT-GROUPS-10-12.md). It reviews foreign exchange/global capital flows, financial markets/market infrastructure, and accounting/financial statements. Targeted changes were made to Concept 17 (cross rates, executable spreads, remittances, capital-flight interpretation and settlement), Concept 18 (bond risk measures, term structure, repo, haircuts and collateral reuse), and Concept 19 (cash-conversion cycle, taxable profit versus accounting profit/cash generated, contingent and off-balance-sheet exposures). Remaining tasks are chiefly current-source verification, formal measurement and entity/instrument-specific application.
+
+**Next action:** Audit Groups 13–15 bullet by bullet using the same coverage labels.
