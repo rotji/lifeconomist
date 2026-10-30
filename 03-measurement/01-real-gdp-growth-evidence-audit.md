@@ -33,8 +33,32 @@ This is a provisional research decision, not proof that all historic observation
 | Can 2010-price and 2019-price series be joined? | NBS describes a rebasing and benchmark process; earlier and newer releases use different reference years. A base-year change alone does not prove that growth rates are incomparable, nor does it by itself establish that a splice is safe. | Unresolved for the proposed series | Do not splice until the overlap, back-series method and official comparability guidance are documented. |
 | What IMF series should be used for comparison? | The indicator specification names IMF WEO as a possible cross-check but does not yet identify an exact series, vintage and transformation. | Unresolved | Keep IMF outside the primary time series until an explicit series mapping is recorded. |
 
+## 3.1 Follow-up check — Q2 2026 release headline (2026-10-30)
+
+The NBS catalogue entry was rechecked. It lists a 1.07 MB ZIP release dated 2026-08-31 and names two contents: `Q2_2026_GDP_Report_.pdf` and `Q2 2026 GDP_w.xlsx`. The release is discoverable at catalogue level, but this environment could not retrieve the ZIP bytes through either the direct download attempt or the web-open route. **No workbook cells, sheet names, formulas, or internal series labels have therefore been inspected in this follow-up.**
+
+A separate public report of the NBS release gives the headline quarterly year-on-year real GDP growth as **4.43% for Q2 2026**, compared with **3.89% for Q1 2026** and **4.23% for Q2 2025**. This is a useful external headline cross-check, not a substitute for checking the NBS workbook itself. Sources: [Voice of Nigeria, 1 September 2026](https://von.gov.ng/nigerias-gdp-growth-accelerates-to-4-43-in-q2-2026/) and [Reuters, 31 August 2026](https://www.reuters.com/world/africa/nigerias-q2-gdp-growth-443-yy-stats-office-2026-08-31/).
+
+### Interim validation record
+
+| Check | Result | Evidence status |
+|---|---|---|
+| Q2 2026 release package exists in NBS catalogue | Yes; release date 2026-08-31; ZIP listing names PDF and Excel workbook | Verified at catalogue level |
+| Published Q2 2026 headline growth | 4.43% year-on-year in real terms | Cross-checked through public reporting of the NBS release; workbook not inspected |
+| Q1 2026 comparison | 3.89% year-on-year | Cross-checked through public reporting of the NBS release; not a vintage reconciliation |
+| Q2 2025 comparison | 4.23% year-on-year | Cross-checked through public reporting of the NBS release; not a vintage reconciliation |
+| Workbook tabs, cells, formulas, full history, missing values, units and footnotes | Not inspected because the source ZIP could not be retrieved in this execution environment | **Open — Task 1 incomplete** |
+| Revisions between Q1/Q2 2026 or earlier releases | Not tested | Open |
+| Seasonal-adjustment statement | Not established by this check | Open |
+
+**Interpretation boundary:** The reported move from 3.89% to 4.43% is a 0.54 percentage-point increase in the year-on-year growth rate. It does not mean output grew 0.54% quarter-on-quarter, and it does not establish that the underlying series is seasonally adjusted. The rate compares Q2 2026 real output with Q2 2025 real output, according to the published comparison basis.
+
+**Next operational step:** Obtain the ZIP or workbook through a retrievable route (for example, a user-provided upload if the official link continues to fail), then inspect the workbook directly. Do not mark the workbook validation complete until the actual file has been read and the report headline reconciled to its exact series and period.
+
 ## 3. Primary-source references
 
+- [Voice of Nigeria: Q2 2026 GDP growth headline (1 September 2026)](https://von.gov.ng/nigerias-gdp-growth-accelerates-to-4-43-in-q2-2026/) — secondary reporting of NBS's published headline; not a workbook substitute.
+- [Reuters: Nigeria's Q2 GDP growth 4.43% (31 August 2026)](https://www.reuters.com/world/africa/nigerias-q2-gdp-growth-443-yy-stats-office-2026-08-31/) — independent report of the NBS release; not a workbook substitute.
 - [NBS GDP collection and related materials](https://microdata.nigerianstat.gov.ng/index.php/catalog/147/related-materials) — quarterly releases and downloadable source packages.
 - [NBS Q2 2026 release package](https://microdata.nigerianstat.gov.ng/index.php/catalog/147/download/1433) — catalogue-listed PDF and Excel workbook; release date shown as 2026-08-31.
 - [NBS 2025 GDP rebasing report](https://microdata.nigerianstat.gov.ng/index.php/catalog/147/download/1256/GDP_Rebasing_2025_%20Final.pdf) — 2019 reference year, benchmark design, and published annual growth summary.
