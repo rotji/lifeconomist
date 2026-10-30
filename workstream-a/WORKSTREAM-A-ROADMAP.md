@@ -527,7 +527,7 @@ The second bullet-by-bullet audit is documented in [DEPTH-AUDIT-GROUPS-4-6.md](D
 
 **Completed:** Groups 16–18 have been audited; see [DEPTH-AUDIT-GROUPS-16-18.md](DEPTH-AUDIT-GROUPS-16-18.md). Targeted improvements were made to Concepts 22, 24 and 25. No new numbered concept is justified by this audit.
 
-**Next action:** Audit Groups 19–21 using the same four coverage labels, make scoped edits to existing notes where justified, and update the audit, index, current-state file, roadmap and research log.
+**Completed:** Groups 19–21 were audited; see [DEPTH-AUDIT-GROUPS-19-21.md](DEPTH-AUDIT-GROUPS-19-21.md). Targeted changes and project-record updates are complete.
 
 
 ## 13. Depth audit checkpoint: Groups 7–9 (2026-10-30)
@@ -557,7 +557,7 @@ The sixth bullet-by-bullet audit is documented in [DEPTH-AUDIT-GROUPS-16-18.md](
 
 **Completed:** Groups 19–21 have been audited; see [DEPTH-AUDIT-GROUPS-19-21.md](DEPTH-AUDIT-GROUPS-19-21.md). Targeted improvements were made to Concepts 26, 27 and 28. No new numbered concept is justified by this audit.
 
-**Next action:** Verify the exact titles and existing coverage of Groups 22–24, then audit them bullet by bullet using the same coverage labels.
+**Completed:** Groups 22–24 were audited; see [DEPTH-AUDIT-GROUPS-22-24.md](DEPTH-AUDIT-GROUPS-22-24.md). Targeted changes and project-record updates are complete.
 
 
 ## 17. Depth audit checkpoint: Groups 19–21 (2026-10-30)
@@ -566,14 +566,14 @@ The seventh bullet-by-bullet audit is documented in [DEPTH-AUDIT-GROUPS-19-21.md
 
 **Completed:** Groups 22–24 have been audited; see [DEPTH-AUDIT-GROUPS-22-24.md](DEPTH-AUDIT-GROUPS-22-24.md). Targeted improvements were made to Concepts 29, 30 and 31. No new numbered concept is justified by this audit.
 
-**Next action:** Audit Group 25 — Commonly Confused Terms: Comparison Register (Concept 32), then reconcile the full concept inventory and audit sequence.
+**Completed:** Group 25 / Concept 32 was audited; see [DEPTH-AUDIT-GROUP-25-CONCEPT-32.md](DEPTH-AUDIT-GROUP-25-CONCEPT-32.md). The next task is the cross-file reconciliation recorded in [CONCEPT-INVENTORY-RECONCILIATION.md](CONCEPT-INVENTORY-RECONCILIATION.md).
 
 
 ## 18. Depth audit checkpoint: Groups 22–24 (2026-10-30)
 
 The eighth bullet-by-bullet audit is documented in [DEPTH-AUDIT-GROUPS-22-24.md](DEPTH-AUDIT-GROUPS-22-24.md). It reviews economic measurement/evidence/inference, time/cycles/transmission, and distribution of economic power/opportunity. Targeted changes were made to Concept 29 (alert error metrics and decision thresholds), Concept 30 (real-time forecast evaluation and data leakage), and Concept 31 (distributional incidence). Remaining work is formal validation and case-specific evidence.
 
-**Next action:** Audit Group 25 — Commonly Confused Terms: Comparison Register (Concept 32), then reconcile the full concept inventory and audit sequence.
+**Completed:** Group 25 / Concept 32 was audited; see [DEPTH-AUDIT-GROUP-25-CONCEPT-32.md](DEPTH-AUDIT-GROUP-25-CONCEPT-32.md). The next task is the cross-file reconciliation recorded in [CONCEPT-INVENTORY-RECONCILIATION.md](CONCEPT-INVENTORY-RECONCILIATION.md).
 
 
 ## 19. Depth audit checkpoint: Group 25 / Concept 32 (2026-10-30)
