@@ -153,6 +153,8 @@ Potential starting sources include the Central Bank of Nigeria (CBN) for officia
 
 ## 6. Initial investigation phases
 
+These phases reflect dependencies, not a requirement to complete every track before moving to a more useful question. Work can pause, resume, or be narrowed deliberately. On return, check the programme, source assessment, exercise records, and research log; repeat a calculation or source check only when reproducibility, changed data, a method change, or another clear reason warrants it. Material findings must be reviewed for effects on earlier hypotheses, data-source choices, execution assumptions, scorecards, and recommendations under the [project-wide Continuity, Pause, and Revision Principle](../../RESEARCH-METHODOLOGY.md#continuity-pause-and-revision-principle).
+
 ### Phase 0 — Set up the research record
 - Preserve this programme plan in GitHub.
 - Maintain a question register, hypothesis register, source register, experiment log and decision log.
@@ -248,9 +250,9 @@ Do not collapse the scorecard into a false-precision single number. Assess each 
 7. Which potential intelligence output would materially improve a specific customer's decision?
 8. Which data or execution gaps are genuinely blocking, and which can be handled with a simple spreadsheet or manual observation?
 
-## 11. First practical task
+## 11. Next useful task when resumed
 
-Begin with a **cross-rate consistency notebook or spreadsheet specification**, not a trading bot:
+The first practical task proposed when this programme was created was a **cross-rate consistency notebook or spreadsheet specification**, not a trading bot. Check [FX Cross-Rate Exercise 001](FX-CROSS-RATE-EXERCISE-001.md) before repeating it. If that exercise still covers the needed calculation, reuse it and choose the next unresolved evidence question; extend or redo it only for a recorded reason.
 - Choose three currencies and explicitly define quote direction.
 - Calculate the implied third cross-rate.
 - Add bid/ask and timestamp fields to the data schema.
