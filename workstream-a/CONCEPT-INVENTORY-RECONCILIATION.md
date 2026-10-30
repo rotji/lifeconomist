@@ -117,3 +117,38 @@ The first bullet-by-bullet depth audit is now available: [Depth Audit — Workst
 ## 8. Final depth-audit checkpoint: Group 25 / Concept 32 (2026-10-30)
 
 The ninth audit, [DEPTH-AUDIT-GROUP-25-CONCEPT-32.md](DEPTH-AUDIT-GROUP-25-CONCEPT-32.md), completes bullet-by-bullet coverage review of Groups 1–25 as enumerated in the current roadmap. Concept 32 already contained the required distinctions; a roadmap coverage checklist was added to improve traceability. The next task is a cross-file reconciliation of the concept index, roadmap, current state, audit reports and research log. Further work should follow a demonstrated gap, particularly a formal measurement protocol in Workstream B or an evidence-backed monitoring application in Workstream C—not an assumed need for another concept.
+
+
+## 9. Cross-file reconciliation after completion of Groups 1–25 (2026-10-30)
+
+### 9.1 Verified inventory counts
+
+- **Roadmap:** 25 named terminology groups (Groups 1–25).
+- **Concept notes:** 32 numbered concept notes, Concepts 1–32.
+- **Depth-audit reports:** Nine reports cover all 25 groups: 1–3, 4–6, 7–9, 10–12, 13–15, 16–18, 19–21, 22–24, and 25.
+- **No automatic Concept 33:** Further concepts should be added only when a concrete question exposes a coherent gap that existing notes cannot handle well.
+
+### 9.2 Cross-file issues found and corrected
+
+1. **Concept index ordering:** All 32 notes existed in the Workstream A README, but Concept 6 and Concept 11 were listed at the end, and Concepts 22–23 were out of numerical order. The index is now sorted from Concept 1 through Concept 32.
+2. **Audit index ordering:** The Groups 19–21 report appeared after Groups 22–24 and Group 25. Audit links now follow the sequence from Groups 1–3 through Group 25.
+3. **Stale roadmap instructions:** Older checkpoint entries still instructed the reader to audit Groups 19–21, 22–24 or 25 after those audits were complete. These were replaced with completion records and report links.
+4. **Duplicate/stale Workstream A state:** CURRENT-STATE.md had two Workstream A bullets, including an old short status conflicting with the detailed entry. These were consolidated into one authoritative summary with links to the index and all nine reports.
+5. **Stale research-log next action:** The Groups 19–21 entry still directed the next reader to audit Groups 22–24. It is now marked completed.
+
+### 9.3 Structural mapping clarification
+
+The 25 roadmap groups are thematic categories, not a one-to-one numbering scheme for the 32 concepts. For example, Group 15 maps to Concept 23, Group 16 maps to Concept 22, and Group 1 spans several early concepts. The two counts are both correct and should not be forced into identical numbering.
+
+### 9.4 What this reconciliation does not establish
+
+- It does not mean every concept has been independently peer-reviewed or empirically validated.
+- It does not complete Workstream B's official indicator definitions, data-source hierarchy, formulas, revisions policy or historical validation.
+- It does not establish a complete Workstream C monitoring system or validated state-transition rules.
+- It does not prove that every future research question fits the current inventory.
+
+### 9.5 Recommended next decision
+
+Choose a specific measurement or monitoring question before selecting the next task. A Workstream B task should define the indicator, construct, unit, denominator, population, geography, period, source, transformation, revision treatment and validation method. A Workstream C task should specify the event/state to detect, evidence sources, decision-time availability, confidence rules, false-alarm/missed-event costs and escalation process.
+
+Workstreams B and C are both incomplete. Select the next task based on a question with clear decision value and feasible evidence—not by creating Concept 33 by default.
