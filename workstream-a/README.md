@@ -14,6 +14,7 @@ The goal is not merely to store short definitions. Each concept note should conn
 - [Depth Audit — Groups 10–12](DEPTH-AUDIT-GROUPS-10-12.md) — audits FX/global capital flows, market infrastructure and accounting against Concepts 17–19 and records targeted improvements.
 - [Depth Audit — Groups 13–15](DEPTH-AUDIT-GROUPS-13-15.md) — audits business/corporate finance, risk/resilience and economic systems/institutions against Concepts 20, 21 and 23.
 - [Depth Audit — Groups 16–18](DEPTH-AUDIT-GROUPS-16-18.md) — audits trade/supply chains, liquidity and institutional investors against Concepts 22, 24 and 25.
+- [Depth Audit — Groups 19–21](DEPTH-AUDIT-GROUPS-19-21.md) — audits growth/development, resources/energy/environment and digital/intangible economics against Concepts 26–28.
 
 ## Concept notes
 
