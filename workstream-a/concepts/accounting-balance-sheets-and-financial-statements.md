@@ -202,6 +202,36 @@ Financial statements contain estimates and judgments, such as expected credit lo
 
 Accounting quality assessment should examine audit status, timeliness, internal consistency, cash conversion, receivable and inventory trends, related-party disclosures, unusual adjustments, policy changes, debt covenants and notes. No single ratio or audit label substitutes for a full review.
 
+## 18.1 Working capital, operating cycle and cash conversion
+
+**Working capital** is often defined as current assets minus current liabilities, but analysts may use an operating definition that excludes cash, interest-bearing debt or other items. Always state the definition. A positive working-capital balance does not guarantee that obligations can be paid when due, because inventory may be slow-moving, receivables may be uncollectible, and cash may be restricted.
+
+The **operating cycle** is the time required to acquire inputs, hold or process inventory, sell goods or services, and collect the resulting receivables. The **cash-conversion cycle** commonly measures the time between paying suppliers and collecting cash from customers, using inventory days plus receivable days minus payable days under a defined method. Sector, seasonality, payment terms and calculation choices affect comparability.
+
+A business can report a profit while experiencing a cash squeeze if sales are made on credit, inventory accumulates, suppliers demand earlier payment, or growth requires cash before customers pay. Extending supplier-payment periods may temporarily support cash but can damage supplier relationships or expose the business to lost discounts, penalties or supply interruption.
+
+**Cash-conversion cycle → timing gap between cash paid out and cash collected → need for working-capital finance or operating adjustment.**
+
+In plain language, a business may have sold goods profitably but not yet collected the money, while it still needs to pay wages, rent or suppliers. The timing gap—not necessarily a lack of accounting profit—can create a need for cash reserves, credit or changes to purchasing, inventory and customer-payment terms.
+
+## 18.2 Accounting profit, taxable profit and cash generated
+
+**Accounting profit** is calculated under the financial-reporting framework and policies used for the statements. **Taxable profit** is calculated under the relevant tax law, including tax-specific adjustments, exemptions, disallowances, depreciation/capital-allowance rules, loss carryforwards and timing differences. The two figures can differ without either being a mistake.
+
+**Cash generated** needs a defined boundary. Cash flow from operations is not the same as profit, free cash flow, cash available to owners, or the change in total cash. Financing inflows, asset sales, capital expenditure, debt repayment, dividends, tax payments, restricted balances and working-capital movements all affect cash availability.
+
+A reconciliation should identify the measure and period, then explain material differences rather than assume one can be substituted for another. For example, a non-cash expense can reduce accounting profit without a current cash payment; capital expenditure may use cash but be recognized over time through depreciation; borrowing can increase cash without increasing profit; and tax adjustments can make taxable profit differ from accounting profit.
+
+## 18.3 Off-balance-sheet exposures and contingent obligations
+
+An exposure not shown as a recognized liability on the face of a balance sheet is not necessarily economically irrelevant. Depending on the reporting rules and facts, guarantees, letters of credit, commitments, certain contractual arrangements, securitization structures, leases, derivatives, litigation and support for related entities may appear in notes, separate schedules or other disclosures rather than as a simple headline debt figure. Some arrangements do create recognized assets or liabilities under the applicable standards; the term “off-balance-sheet” should not be used as a blanket classification.
+
+**Disclosed or possible exposure → triggering event or contractual condition → potential cash or resource obligation.**
+
+In plain language, a company may not currently owe the full amount of a guarantee, but it could have to pay if the guaranteed borrower defaults. The relevant analysis therefore asks what event activates the obligation, who is legally responsible, how likely and large the cash impact could be, whether collateral or recourse exists, and whether the exposure overlaps with amounts already recognized elsewhere.
+
+Do not add all guarantees, commitments, derivatives, leases and debt together without examining their definitions, measurement bases, probability, overlap and reporting boundaries. An exposure inventory is useful only when its categories and potential triggers remain explicit.
+
 ## 19. Commonly confused terms
 
 | Terms | Core distinction |
