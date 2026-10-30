@@ -92,3 +92,8 @@ Completed the sixth bullet-by-bullet audit, covering Groups 16–18 against Conc
 ### Workstream A — depth audit checkpoint: Groups 19–21 (2026-10-30)
 
 Completed the seventh bullet-by-bullet audit, covering Groups 19–21 against Concepts 26–28. See [DEPTH-AUDIT-GROUPS-19-21.md](workstream-a/DEPTH-AUDIT-GROUPS-19-21.md). Targeted additions: Concept 26 clarifies employment absorption, job quality and productivity; Concept 27 expands energy affordability, tariffs and full system costs; Concept 28 adds AI service economics, utilization, human review and cost per useful outcome. Groups 19–21 are conceptually covered; country-, energy-system- and deployment-specific claims require separate evidence. No new concept is justified. Next: verify and audit Groups 22–24.
+
+
+### Workstream A — depth audit checkpoint: Groups 22–24 (2026-10-30)
+
+Completed the eighth bullet-by-bullet audit, covering Groups 22–24 against Concepts 29–31. See [DEPTH-AUDIT-GROUPS-22-24.md](workstream-a/DEPTH-AUDIT-GROUPS-22-24.md). Targeted additions: Concept 29 clarifies false positives/negatives, sensitivity, precision, specificity and decision-specific alert thresholds; Concept 30 adds real-time forecast evaluation and data-leakage safeguards; Concept 31 expands distributional-incidence analysis from the initial legal payer/recipient through pass-through and indirect effects. Groups 22–24 are conceptually covered; formal validation and case-specific evidence remain separate tasks. No new concept is justified. The roadmap explicitly defines Group 25 as the Concept 32 commonly confused terms comparison register; next audit that group.
