@@ -1,3 +1,15 @@
+## 2026-10-30 — Workstream A cross-file reconciliation
+
+- **Task:** Reconcile the Workstream A index, 25-group roadmap, current-state file, inventory reconciliation, audit reports and research log after completing the full depth-audit sequence.
+- **Verified counts:** 25 roadmap groups, 32 numbered concept notes and nine depth-audit reports covering every group.
+- **Index corrections:** Reordered concept links numerically from Concept 1 to Concept 32; Concepts 6 and 11 had been listed at the end. Reordered audit links into the correct group sequence.
+- **Roadmap correction:** Replaced stale next-action lines for Groups 19–21, 22–24 and 25 with completion records and links to their audit reports.
+- **Current-state correction:** Consolidated duplicate Workstream A status bullets and updated the last-updated date.
+- **Research-log correction:** Marked the old Groups 19–21 next action completed.
+- **Inventory finding:** The 25 roadmap groups are thematic categories and intentionally do not map one-to-one to 32 numbered concepts. Group 15 maps to Concept 23 and Group 16 to Concept 22.
+- **Decision:** Do not create Concept 33 automatically. Select a specific Workstream B measurement question or Workstream C monitoring question.
+- **Detailed findings:** [Concept Inventory Reconciliation](workstream-a/CONCEPT-INVENTORY-RECONCILIATION.md).
+
 ## 2026-10-30 — Workstream A depth audit: Group 25 / Concept 32
 
 - **Task:** Audit every required comparison in Group 25 of the Workstream A roadmap against Concept 32.
@@ -22,7 +34,7 @@
 - **Concept 27 change:** Added energy affordability, tariffs and full system costs; distinguishes posted tariff from effective/full cost and reliability, and explains pass-through and incidence.
 - **Concept 28 change:** Added AI service economics including training, inference, utilization, human review and failure costs; recommends cost per defined useful outcome versus a baseline.
 - **Findings:** Groups 19–21 are conceptually covered. Remaining work is measurement and evidence-based application; no new numbered concept is justified.
-- **Next action:** Verify the exact titles and existing coverage of Groups 22–24, then audit those groups.
+- **Completed:** Groups 22–24 and Group 25 / Concept 32 have since been audited. See [DEPTH-AUDIT-GROUPS-22-24.md](workstream-a/DEPTH-AUDIT-GROUPS-22-24.md) and [DEPTH-AUDIT-GROUP-25-CONCEPT-32.md](workstream-a/DEPTH-AUDIT-GROUP-25-CONCEPT-32.md). The current next step is cross-file reconciliation.
 ## 2026-10-30 — Workstream A depth audit: Groups 16–18
 
 - **Task:** Review Groups 16–18 bullet by bullet against Concepts 22, 24 and 25 and related notes.
