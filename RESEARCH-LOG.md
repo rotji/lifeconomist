@@ -1,3 +1,12 @@
+## 2026-10-30 — Propagating continuity, pause, and revision across project records
+
+- **Task:** Audit the repository's core architecture, project overview, research programmes, measurement workflow, evidence registers, and checkpoints against the project-wide Continuity, Pause, and Revision Principle.
+- **Changes:** Updated the Global Financial System Exploration Map, README, Workstream E architecture, ECAI foundation and literature synthesis, Workstream A roadmap/index/reconciliation, GDP specification and evidence audit, FX programme, Footprint Intelligence architecture, measurement and evidence-register guidance, tool experiments, and Decision Register (D-013).
+- **Operating interpretation:** The principle is governed centrally by `RESEARCH-METHODOLOGY.md`; specialized files inherit it and specify local resume/revision behavior without copying the full policy everywhere. Listed phases and next actions are plans, not obligations to complete everything. Dependency gates remain in force where needed for validity (for example, no formal economic-state classification before adequate measurement and historical testing).
+- **Revision rule:** New evidence prompts proportionate downstream impact review; it does not automatically invalidate prior work. Earlier effort does not immunize prior findings from review. Consequential retain/amend/supersede/remove decisions should be traceable.
+- **Scope/limit:** This was a targeted cross-repository governance audit, not a line-by-line revalidation of every substantive claim, source, or concept note. Individual findings still require their own evidence-based review when relevant new information appears.
+- **Verification:** Each changed file must be fetched again after edits; do not record changes as verified until that check is complete.
+
 ## 2026-10-30 — Project-wide operating law: continuity, pause, and revision
 
 - **Reason:** Establish a durable rule to prevent unnecessary repetition when returning to the project, preserve incomplete work without treating it as failure, and ensure new findings can trigger a proportionate review of earlier conclusions and connected records.
