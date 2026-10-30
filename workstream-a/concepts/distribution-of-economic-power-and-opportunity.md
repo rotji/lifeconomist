@@ -116,6 +116,26 @@ Map direct and indirect beneficiaries, formal payers and ultimate economic burde
 
 The party legally paying a tax or fee is not necessarily the party ultimately bearing its economic burden: prices, wages, quantities, profits and behaviour may adjust. Likewise, the immediate recipient may not be the final beneficiary. Incidence must be investigated rather than inferred from legal form.
 
+### Distributional incidence: trace the adjustment, not just the first payer
+
+An **incidence analysis** asks who ultimately gains, loses or bears risk after an arrangement changes prices, wages, quantities, taxes, transfers, contracts or behaviour. Start by distinguishing the party legally responsible for a payment from the people or organizations who absorb its economic effects. Then trace likely adjustments through the relevant markets, contracts and public budgets.
+
+A practical analysis records:
+
+1. **Baseline:** What would plausibly happen without the policy, contract change, shock or intervention?
+2. **Direct effects:** Who pays or receives money immediately, and which legal or contractual obligations change?
+3. **Pass-through:** Can costs or benefits be shifted through prices, wages, quantities, fees, interest rates or contract terms?
+4. **Indirect effects:** Which suppliers, workers, consumers, taxpayers, competitors or public services may be affected downstream?
+5. **Time horizon:** Which effects appear immediately, and which emerge after contracts renew, behaviour changes or budgets adjust?
+6. **Heterogeneity:** How do effects differ by income, firm size, location, market access, asset ownership or ability to substitute?
+7. **Uncertainty and evidence:** Which effects are observed, estimated or only hypothesized, and what comparison or data would distinguish them?
+
+**Initial legal payer or recipient → behavioural and price adjustments → indirect effects across connected actors → distribution of final costs, benefits and risks.**
+
+In plain language, the person who first pays a tax, receives a subsidy or signs a contract is not necessarily the person who ultimately bears the cost or receives the benefit. A business may pass some costs to customers, absorb some in profits, reduce wages or change hiring; which path dominates depends on competition, demand, contracts and alternatives. These channels should be investigated rather than presumed.
+
+The counterfactual is often difficult to observe. Where a causal estimate is not defensible, report the incidence pathway as a hypothesis, describe the evidence supporting each link and show plausible ranges or scenarios instead of presenting a single allocation as established fact.
+
 ## 10. Geography, mobility and intergenerational transfer
 
 Opportunity depends partly on location. Transport, electricity, broadband, water, storage, finance, education, security, administrative capacity and proximity to customers influence participation costs. Compare actual access, reliability, travel time and affordability, not just infrastructure presence.
