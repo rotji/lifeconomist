@@ -101,6 +101,20 @@ The **GDP deflator** is a price measure derived from the relationship between no
 
 If nominal GDP rises 12% and a consistent volume measure rises 5%, the difference cannot be described as exactly 7 percentage points of inflation without considering the index-number method and exact growth relationship. The figures are illustrative. Use official published growth rates and definitions rather than approximating across incompatible series.
 
+## 8.1 GDP deflator versus consumer-price index
+
+The **GDP deflator** relates the value of domestically produced output at current prices to a corresponding volume measure under the national-accounts method. A **consumer-price index (CPI)** tracks price changes for a defined basket of goods and services acquired by the covered household population, using its own scope, weights and compilation methods. The two measures answer different questions.
+
+The GDP deflator's coverage follows domestic production included in GDP and can reflect changes in the composition of that output. CPI coverage follows the selected consumer basket and can include imported consumer goods while excluding many investment goods, exports and government-produced services. Neither index is a universal measure of every price relevant to every household or business.
+
+Consequently, GDP-deflator inflation and CPI inflation can differ without either series necessarily being wrong. Before comparing them, check population and product coverage, weights, index construction, reference period, frequency, revision policy and whether the question concerns domestic production prices or household consumption prices. For a Nigeria-specific application, use the current National Bureau of Statistics metadata rather than infer the official method from these general definitions.
+
+## 8.2 National disposable income and the boundary between production and income available to spend
+
+**Gross national income (GNI)** adjusts GDP for the relevant net primary income flows between residents and the rest of the world. **National disposable income** further accounts for net current transfers with the rest of the world under national-accounting definitions. It therefore addresses income available to resident institutional sectors for final consumption or saving more directly than GDP alone.
+
+These aggregates are still not identical to the disposable income of a typical household. National totals include multiple sectors and income recipients; taxes, social contributions, benefits, transfers, retained earnings and the distribution of income shape what households can actually spend. A rise in GDP does not imply that every household's disposable income rose by the same proportion—or rose at all.
+
 ## 9. GDP level, GDP growth and per-capita GDP
 
 **GDP level** is the measured size of production over a period in the chosen unit and price basis. **GDP growth** is the percentage change between periods, normally using real/volume GDP when discussing growth in production. Nominal GDP growth can reflect both volume and price changes.
