@@ -101,3 +101,13 @@ Completed the eighth bullet-by-bullet audit, covering Groups 22–24 against Con
 ### Workstream A — depth audit checkpoint: Group 25 / Concept 32 (2026-10-30)
 
 Completed the ninth and final bullet-by-bullet audit of the 25 groups currently enumerated in the Workstream A roadmap. See [DEPTH-AUDIT-GROUP-25-CONCEPT-32.md](workstream-a/DEPTH-AUDIT-GROUP-25-CONCEPT-32.md). Concept 32 already covered the required term distinctions; a roadmap coverage checklist was added to map each required comparison to the relevant section and improve ongoing auditability. No new concept is justified. Next: reconcile the complete concept inventory and project records; choose further work based on a demonstrated gap, especially formal measurement in Workstream B or evidence-backed monitoring in Workstream C.
+
+
+## Project continuity and revision checkpoint (2026-10-30)
+
+- **Operating principle:** Investigate seriously, document honestly, pause deliberately, and return when it makes sense. Completion is not required before changing focus; a paused task is neither failure nor abandonment.
+- **Resume rule:** Before continuing an earlier task, check this file, the relevant research-log entry, and the linked source artifact. Do not repeat work already verified unless reproducibility, new evidence, a methodological change, contradiction, or another explicit need justifies it.
+- **Revision rule:** Treat even well-supported findings as revisable. When material new information appears, trace its impact across connected notes, measurements, assumptions, models, and recommendations. Retain, amend, supersede, or remove content based on evidence and relevance, documenting consequential changes and reasons.
+- **Task states:** Completed for stated scope; in progress; paused; not started; reopened/under review. These states describe the task honestly and do not imply that a completed finding is immutable.
+- **Current task:** Workstream B's Real GDP Growth audit remains in progress because the NBS workbook has not been inspected. It does not have to be completed now. If attention moves elsewhere, preserve the next useful action and return only when the question remains useful.
+- **Next-return protocol:** Check project state; inspect relevant source record; verify what is known and unknown; review material new information; assess downstream impact; choose whether to continue, revise, pause, or close; update durable records.
