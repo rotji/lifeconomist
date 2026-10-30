@@ -108,8 +108,8 @@ The reviewed workbooks and reports do not establish the earliest observation in 
 - Which exact IMF comparison series should be used, and what are its definitions, price basis, frequency, vintage, and metadata?
 - Which historical testing period is defensible given the verified coverage and methodological changes?
 
-## Next action
-Continue verifying the NBS series and resolve the open questions above, beginning with full rebased quarterly coverage, seasonal adjustment, revisions, and comparability. Do not classify Nigeria's economic state until measurement and historical testing are sufficiently established.
+## Next action and checkpoint
+The indicator remains a draft. When this task is resumed, consult the [evidence audit and ordered resolution plan](01-real-gdp-growth-evidence-audit.md) and the latest project checkpoint before selecting the next useful verification step. The Q2 2026 workbook extraction and validation remains unresolved; preserve it as a known gap rather than assuming it was completed. Resolve coverage, seasonal adjustment, revisions, and comparability in a dependency-aware order when the task is worth advancing. The task may be paused while other work proceeds. Do not classify Nigeria's economic state until measurement and historical testing are sufficiently established.
 
 
 ## Evidence audit update (2026-10-30)
