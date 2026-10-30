@@ -489,7 +489,11 @@ The workstreams interact bidirectionally. A concept may expose a measurement pro
 4. Choose Concept 33 from the verified gaps and dependencies, not merely from the next unexamined heading in the original inventory.
 5. For each new concept, create a durable note, index it in `workstream-a/README.md`, and update `CURRENT-STATE.md`, the roadmap and `RESEARCH-LOG.md`.
 
-## 9. Completion criteria
+## 9. Inventory reconciliation checkpoint (2026-10-30)
+
+The initial group-to-concept crosswalk is documented in [Concept Inventory Reconciliation](CONCEPT-INVENTORY-RECONCILIATION.md). All 25 planned groups have identifiable concept-level coverage or a comparison-register entry, but this is not a claim of complete depth or empirical validation. The reconciliation identified two index defects and corrected them: Concept 6 was omitted and Concept 25 duplicated. No Concept 33 should be selected until a bullet-by-bullet depth audit distinguishes explicitly covered, partially covered, cross-linked and missing topics. Start with Groups 1–3, then prioritize consequential gaps for measurement and inference.
+
+## 10. Completion criteria
 
 This roadmap is not “completed” merely because all headings have notes. Progress is adequate when:
 - foundational concepts have clear, context-specific explanations;
