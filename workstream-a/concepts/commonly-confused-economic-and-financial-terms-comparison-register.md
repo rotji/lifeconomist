@@ -31,6 +31,48 @@ When two terms are being used as if they were interchangeable, ask:
 
 In plain language, first establish exactly what the term refers to and how it is measured. Then check the time period, the entity being discussed and the evidence. Only after those checks should the observation be used to explain a broader economic outcome.
 
+### 2.1 Roadmap coverage checklist
+
+Use this compact checklist to confirm that each required comparison has an explicit home in the register. The section reference identifies where the distinction is explained; it is a navigation aid, not a substitute for the fuller treatment.
+
+| Required distinction | Register section | Main test |
+|---|---|---|
+| Money vs wealth | §3 | Means of payment versus net asset stock |
+| Wealth vs income | §3 | Stock at a date versus flow over a period |
+| Money vs capital | §3 | Monetary instrument/resource versus productive or financial capital, as defined |
+| Capital vs investment | §3 | Resource/asset stock versus acquisition or formation activity |
+| Savings vs investment | §3 | Unconsumed income versus financial acquisition or capital formation |
+| Revenue vs receipts vs income | §4 | Recognition basis, cash receipt and context-specific earnings |
+| Revenue vs profit | §4 | Proceeds before relevant costs versus residual after specified costs |
+| Profit vs cash flow | §4 | Accrual-based result versus cash movement |
+| Price vs value vs cost | §4 | Exchange amount versus valuation perspective versus resource sacrifice |
+| Output vs sales | §4 | Production during a period versus sales transactions |
+| Output growth vs productivity growth | §5 | Change in output versus change in output per input |
+| GDP vs national wealth | §5 | Production flow versus asset/liability stock |
+| Nominal growth vs real growth | §5 | Current-price change versus price-adjusted volume change |
+| GDP share vs sector growth vs contribution to GDP growth | §5 | Sector weight versus sector's own growth rate versus weighted contribution to aggregate growth |
+| Debt vs deficit | §6 | Outstanding liability stock versus period fiscal balance |
+| Debt stock vs debt-service flow | §6 | Amount outstanding at a date versus principal/interest due or paid over a period |
+| Liquidity vs solvency | §3 | Ability to meet near-term obligations versus longer-run balance-sheet/obligation capacity |
+| Funding vs financing | §3 | Resources made available versus arrangements/instruments governing provision and claims |
+| Ownership vs control vs beneficial ownership | §9 | Legal title versus practical authority versus ultimate benefit/control |
+| Owner vs operator vs funder vs intermediary vs beneficiary | §9 | Distinct roles that may be held by different parties |
+| Assets under management vs assets owned | §7 | Client/fund assets managed versus assets held for own account |
+| Commitments vs approvals vs disbursements vs deployed capital | §7 | Stated/contracted commitment, authorization, release of funds and actual use |
+| Financial-asset purchase vs productive investment | §7 | Transfer of an existing claim versus creation or improvement of productive assets |
+| Market value vs book value | §7 | Estimated exchange value versus accounting carrying amount |
+| Market liquidity vs funding liquidity | §7 | Ability to trade without major price impact versus ability to obtain cash/financing when due |
+| Central-bank reserves vs commercial-bank deposits | §7 | Eligible institution's claim on central bank versus bank liability to customer |
+| Inflation vs a high price level | §8 | Rate of price-index change versus index level |
+| Risk vs uncertainty | §9 | Modelled/estimable probability structure versus less reliably known outcomes/probabilities, subject to context |
+| Correlation vs causation | §§9–10 | Co-movement versus an identified causal effect |
+| Economic usefulness vs GDP inclusion | §4 | Benefit or usefulness versus production-boundary and valuation rules |
+| Economic value to a customer vs national-accounts value added | §4 | Customer's perceived benefit versus output less intermediate consumption |
+| Accounting profit vs cash generated | §4 | Accrual result versus cash generated under a stated definition |
+| Gross vs net; stock vs flow; level vs rate of change | §§5–6 | Named deductions, point-in-time quantity, period quantity, and amount versus change metric |
+
+**Coverage rule:** A row is not satisfied merely because both words appear in the note. The distinction must state the relevant boundary and explain why confusing the terms could change the interpretation or decision. If a formal standard defines the term for a specific task, record that standard and its version in the measurement work rather than treating this conceptual register as authoritative.
+
 ## 3. Money, wealth, capital and financial resources
 
 | Distinction | Practical meaning | Why it matters |
