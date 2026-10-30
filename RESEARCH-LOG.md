@@ -1,3 +1,12 @@
+## 2026-10-30 — Workstream A depth audit: Groups 19–21
+
+- **Task:** Review Groups 19–21 bullet by bullet against Concepts 26–28 and related notes.
+- **New artifact:** Created [workstream-a/DEPTH-AUDIT-GROUPS-19-21.md](workstream-a/DEPTH-AUDIT-GROUPS-19-21.md), with coverage tables, conclusions, evidence limits and next action.
+- **Concept 26 change:** Added employment absorption, job quality and productivity; distinguishes output growth, worker counts, hours, wages, underemployment and distribution.
+- **Concept 27 change:** Added energy affordability, tariffs and full system costs; distinguishes posted tariff from effective/full cost and reliability, and explains pass-through and incidence.
+- **Concept 28 change:** Added AI service economics including training, inference, utilization, human review and failure costs; recommends cost per defined useful outcome versus a baseline.
+- **Findings:** Groups 19–21 are conceptually covered. Remaining work is measurement and evidence-based application; no new numbered concept is justified.
+- **Next action:** Verify the exact titles and existing coverage of Groups 22–24, then audit those groups.
 ## 2026-10-30 — Workstream A depth audit: Groups 16–18
 
 - **Task:** Review Groups 16–18 bullet by bullet against Concepts 22, 24 and 25 and related notes.
