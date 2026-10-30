@@ -180,6 +180,44 @@ International commercial terms such as Incoterms allocate specified responsibili
 
 Do not assume that a country named in a shipping record is the product's origin, that the importer is the manufacturer, or that the seller bears all transport risk. Use the underlying documents and applicable rules.
 
+## 13.1 Comparative advantage, specialization and trade costs
+
+**Comparative advantage** describes a situation in which an actor can produce a good or service at a lower opportunity cost than another actor, even if it is not absolutely more productive in every activity. It is a framework for explaining potential gains from specialization and exchange, not a guarantee that every participant or region benefits equally.
+
+Actual trade patterns also depend on transport and energy costs, reliability, scale, skills, financing, tariffs and non-tariff measures, standards, market power, security, infrastructure and the ability to change production. A theoretical cost advantage may not translate into a commercially viable export if delivery is unreliable, finance is expensive or buyers cannot be reached. Adjustment costs and the distribution of gains matter as well.
+
+**Specialization → exchange based on relative opportunity costs → potential aggregate gains → distribution shaped by capabilities, market access and bargaining power.**
+
+In plain language, two places may both gain from concentrating on activities where each gives up less of its other production to make a unit of a product. But the total gain does not determine who captures it. Workers, firms, consumers and regions can experience different effects, especially when skills, infrastructure, ownership or the ability to move into new activities are unevenly distributed.
+
+## 13.2 Trade finance, letters of credit and settlement risk
+
+Trade finance comprises arrangements that help buyers and sellers manage the timing, trust and funding problems associated with a transaction. Depending on the arrangement, a bank or other intermediary may provide a loan, guarantee, documentary collection, letter of credit, insurance or another form of risk mitigation.
+
+A **letter of credit** is a bank's undertaking to pay a beneficiary when the stipulated documentary conditions are met, subject to the applicable terms and rules. It is not a universal guarantee that goods are physically sound or that every commercial dispute disappears. Documentary compliance, fraud risk, issuing-bank capacity, country risk, fees, expiry dates, discrepancies and applicable rules remain relevant. Documentary collections and open-account trade allocate risks differently.
+
+Keep these milestones separate:
+
+- credit approval or facility commitment;
+- issuance of a trade-finance instrument;
+- shipment or delivery of goods;
+- presentation and examination of documents;
+- acceptance or rejection of documents;
+- payment or reimbursement;
+- final settlement and discharge of the obligation.
+
+A bank's involvement may shift, share or finance a risk without eliminating it. A guarantee or letter of credit can create contingent exposure before any cash payment occurs. Evidence of an instrument's issuance does not alone prove shipment, compliant documents, payment or final settlement.
+
+## 13.3 Import dependence, local content and substitution
+
+**Import dependence** describes reliance on imported goods, services, components, technology, energy or intermediate inputs. It should be defined by product, value or volume measure, use, time period and geographic boundary. A high import share can indicate exposure to exchange-rate movements, external supply interruptions or foreign policy changes, but it does not by itself show that imports are inefficient or that domestic replacement is feasible.
+
+**Local content** refers to the portion of a product's value, inputs, labor, services or activities attributed to a specified domestic economy under a stated definition or policy. Different measures can produce different results: local assembly does not necessarily mean domestic ownership of technology, high domestic value added, local sourcing of key inputs or domestic control of intellectual property.
+
+**Import substitution** is the replacement of some imported products or inputs with domestic production. Assessing it requires more than observing a new local producer. Examine cost, quality, scale, reliability, imported intermediate inputs, foreign exchange requirements, productivity, competition, consumer prices and the opportunity cost of resources. A policy can reduce one dependency while creating another.
+
+A useful investigation separates the imported final good, imported intermediate inputs, domestic value added, ownership of productive assets, technology origin and the location where income accrues. Trade data, input-output tables, company records and supplier mapping each answer different parts of that question.
+
 ## 14. Distribution channels and market access
 
 A **distribution channel** is a route through which products or services reach buyers or users. Channels can include direct sales, wholesalers, distributors, retailers, agents, marketplaces, franchises, public procurement and digital delivery.
@@ -255,6 +293,14 @@ Measurement choices should specify:
 - Evidence quality: official record, contractual record, company statement, third-party report, estimate or inference.
 
 Trade statistics and firm-level records may use different units, coverage, time conventions and valuation bases. Reconcile definitions before comparing them. Missing data do not mean no relationship; estimated data do not become verified simply because they are structured.
+
+### Input-output tables and the limits of aggregate tracing
+
+**Input-output tables** describe how industries purchase inputs from and supply outputs to other industries within a defined economy and statistical period. They can help estimate direct and indirect production relationships and the industries that may be exposed when demand, prices or supply conditions change. A supply-use table may provide a related accounting framework.
+
+These tables are aggregated models, not a live map of every supplier or shipment. Results depend on industry classifications, domestic/import splits, valuation conventions, data vintage and assumptions about production relationships. Fixed-coefficient calculations may not capture substitution, capacity constraints, price changes, inventory adjustments, informal activity or rapid technological change. Industry-level relationships cannot identify a specific firm's exposure without more granular evidence.
+
+When using an input-output multiplier, state the table, year, price basis, model, shock definition and assumptions. Avoid treating a modelled indirect effect as an observed transaction or adding gross transaction values in a way that double-counts intermediate goods across stages.
 
 ## 21. Commonly confused terms
 
