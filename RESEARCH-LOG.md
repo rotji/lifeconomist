@@ -1,3 +1,15 @@
+## 2026-10-30 — Workstream B: Real GDP Growth evidence audit
+
+- **Task:** Continue from the existing Indicator 1 specification; inspect current source documentation, narrow unresolved questions, and define a sequenced evidence-resolution plan.
+- **New artifact:** [03-measurement/01-real-gdp-growth-evidence-audit.md](03-measurement/01-real-gdp-growth-evidence-audit.md).
+- **Indicator update:** Added a dated evidence-audit summary and provisional measurement decisions to [01-real-gdp-growth.md](03-measurement/01-real-gdp-growth.md).
+- **Source findings:** The NBS GDP catalogue lists the Q2 2026 release package (dated 2026-08-31) with report PDF and workbook. The 2025 rebasing report specifies 2019 as the new reference year and reports annual real GDP growth of -6.96% in 2020, 0.95% in 2021, 4.32% in 2022, 3.04% in 2023, and 3.38% in 2024.
+- **Documentation mismatch:** The static NBS GDP methodology page still refers to constant 2010 prices, while newer rebased releases use 2019. It is not sufficient on its own to define the current series.
+- **Decisions:** Keep annual growth and quarterly year-on-year growth as separate series; defer quarter-on-quarter growth pending explicit seasonal-adjustment status; do not silently splice 2010- and 2019-price series or merge NBS and IMF values.
+- **Limit:** The Q2 2026 workbook has not been independently re-extracted cell by cell in this audit. Catalogue availability is not treated as workbook validation. The indicator remains a draft and cannot yet support formal economic-state classification.
+- **Next action:** Extract/validate the Q2 2026 workbook, then compare overlapping quarters across release vintages. Resolve coverage, revisions, seasonal adjustment and rebasing comparability before historical testing.
+- **Primary sources:** [NBS GDP catalogue](https://microdata.nigerianstat.gov.ng/index.php/catalog/147/related-materials); [NBS Q2 2026 release package](https://microdata.nigerianstat.gov.ng/index.php/catalog/147/download/1433); [NBS 2025 rebasing report](https://microdata.nigerianstat.gov.ng/index.php/catalog/147/download/1256/GDP_Rebasing_2025_%20Final.pdf); [NBS GDP methodology page](https://www.nigerianstat.gov.ng/page/gdp-methodology).
+
 ## 2026-10-30 — Workstream A cross-file reconciliation
 
 - **Task:** Reconcile the Workstream A index, 25-group roadmap, current-state file, inventory reconciliation, audit reports and research log after completing the full depth-audit sequence.
