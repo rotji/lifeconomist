@@ -111,7 +111,9 @@ Do not build complicated software, automated trading systems, dashboards, or int
 
 Workstream E is established as a working direction, but its full process and any individual opportunity strategy remain unimplemented and unvalidated.
 
-The initial sequence is:
+The following is a suggested operating sequence, not a completion contract. Work may pause, resume, or change direction when evidence, feasibility, dependencies, or expected learning justify it. Before resuming, check the project state, research log, and relevant artifacts; preserve the stopping point and next useful action. If new outcomes or evidence affect earlier concepts, measurements, assumptions, or opportunity decisions, review those dependencies proportionately under the [project-wide Continuity, Pause, and Revision Principle](RESEARCH-METHODOLOGY.md#continuity-pause-and-revision-principle).
+
+The suggested sequence is:
 
 1. Preserve this mandate and its boundaries in the project record.
 2. Continue Workstream A's investigation of production and open a connected Workstream E angle alongside it, without forcing an opportunity where none is justified. For each substantial A concept, ask whether there is a practical E implication worth exploring; when an E question arises first, route it back to A–D as needed.
