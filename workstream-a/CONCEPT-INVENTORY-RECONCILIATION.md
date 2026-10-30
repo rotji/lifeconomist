@@ -149,6 +149,6 @@ The 25 roadmap groups are thematic categories, not a one-to-one numbering scheme
 
 ### 9.5 Recommended next decision
 
-Choose a specific measurement or monitoring question before selecting the next task. A Workstream B task should define the indicator, construct, unit, denominator, population, geography, period, source, transformation, revision treatment and validation method. A Workstream C task should specify the event/state to detect, evidence sources, decision-time availability, confidence rules, false-alarm/missed-event costs and escalation process.
+Choose a specific measurement or monitoring question before selecting the next task, but treat this as a decision aid rather than a compulsory next step. A Workstream B task should define the indicator, construct, unit, denominator, population, geography, period, source, transformation, revision treatment and validation method. A Workstream C task should specify the event/state to detect, evidence sources, decision-time availability, confidence rules, false-alarm/missed-event costs and escalation process.
 
-Workstreams B and C are both incomplete. Select the next task based on a question with clear decision value and feasible evidence—not by creating Concept 33 by default.
+Workstreams B and C are both incomplete; neither has to be completed before the project moves elsewhere. Select the next task based on clear decision value, feasible evidence, and current priorities—not by creating Concept 33 by default. If new evidence demonstrates a gap in this reconciliation or the concept inventory, reopen only the affected portion and record why. This checkpoint inherits the [project-wide Continuity, Pause, and Revision Principle](../RESEARCH-METHODOLOGY.md#continuity-pause-and-revision-principle).
