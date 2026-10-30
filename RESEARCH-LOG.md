@@ -1,3 +1,12 @@
+## 2026-10-30 — Workstream A depth audit: Groups 10–12
+
+- **Task:** Review Groups 10–12 bullet by bullet against Concepts 17–19 and related notes.
+- **New artifact:** Created [workstream-a/DEPTH-AUDIT-GROUPS-10-12.md](workstream-a/DEPTH-AUDIT-GROUPS-10-12.md), including coverage tables, conclusions, remaining evidence requirements and the next action.
+- **Concept 17 changes:** Added cross rates versus executable conversions and conversion friction; clarified remittances, capital-flight interpretation and settlement constraints.
+- **Concept 18 changes:** Added bond yield, duration, convexity and term-structure distinctions; expanded repo, haircuts, securities lending and collateral reuse.
+- **Concept 19 changes:** Added working-capital and cash-conversion-cycle mechanics; clarified accounting profit versus taxable profit and cash generated; expanded contingent/off-balance-sheet exposure analysis.
+- **Findings:** Groups 10–12 are conceptually covered. Remaining work is current Nigerian source verification, formal indicators and instrument/entity-specific application. No new concept is justified.
+- **Next action:** Audit Groups 13–15 using the same four status labels.
 ## 2026-10-30 — Workstream A depth audit: Groups 7–9
 
 - **Task:** Continue the bullet-by-bullet audit sequence by reviewing Groups 7–9 against Concepts 14–16 and relevant connected notes.
