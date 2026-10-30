@@ -129,6 +129,18 @@ A transfer between two customers at the same bank may change the ownership of de
 
 Commercial banks, central banks, payment systems and non-bank participants have different roles. Do not infer that an increase in central-bank reserves automatically causes an equal increase in lending, broad money, spending or productive investment. Transmission depends on banks' balance sheets, borrower demand, risk assessments, regulation, monetary policy, market conditions and other constraints.
 
+## 7.1 Intraday liquidity and payment settlement
+
+**Intraday liquidity** is the capacity to make payments and meet settlement obligations during the business day as they fall due. An institution can appear liquid at the start or end of a day yet experience a shortfall at a particular time if incoming payments arrive later than outgoing obligations. The timing, sequencing, finality and operating hours of payment systems therefore matter alongside aggregate balances.
+
+A participant may manage intraday needs through opening balances, expected receipts, credit lines, collateralized intraday facilities where available, payment queues and contingency arrangements. These mechanisms are subject to system rules, eligibility, limits and counterparty behavior. A payment instruction, a queued payment, a provisional credit and a final settled payment are not necessarily the same status.
+
+**Outgoing payments due before expected receipts → temporary intraday funding gap → queueing, borrowing or collateral mobilization → possible delay or spillover to other participants.**
+
+In plain language, an institution may have enough money coming in overall but still lack usable funds at the exact time a payment is due. If it delays outgoing payments, other institutions may then wait for those receipts and face their own timing gaps. This is a possible transmission mechanism, not proof that a particular delay caused a systemic event; the actual payment timeline and system rules must be checked.
+
+Useful evidence includes timestamps and statuses for payment instructions, settlement-account balances, credit-line use, queued obligations, collateral availability, system operating rules and finality records. End-of-day balance data alone can miss an intraday squeeze.
+
 ## 8. Market liquidity: trading without excessive price impact
 
 Market liquidity is not just the existence of buyers and sellers. It concerns how easily trades can be executed at the desired size, speed and price.
@@ -167,6 +179,20 @@ For example, if eligible collateral has a market value of ₦10 million and a hy
 A **margin call** can require a participant to add collateral or cash when exposure, prices or contractual requirements change. The call may create immediate funding demand even when the participant expects the underlying position to be profitable over a longer horizon.
 
 Collateral value and collateral liquidity are not the same. A valuable asset can be difficult to sell, legally encumbered, ineligible for a facility, concentrated in a stressed market or subject to uncertain valuation. A collateral schedule must identify ownership, existing encumbrances, eligibility, valuation date, haircut, currency and the entity entitled to enforce it.
+
+## 10.1 Money-market funds and short-term funding links
+
+A **money-market fund (MMF)** is an investment fund that generally holds short-term, money-market instruments under the rules of its jurisdiction and fund mandate. It is an investment vehicle, not a bank deposit, and its legal structure, eligible assets, valuation method, redemption terms and protections vary. Do not assume that a fund share is guaranteed, immediately redeemable in all conditions or equivalent to central-bank money.
+
+MMFs can connect investors seeking liquid holdings with issuers and intermediaries seeking short-term funding. Their assets may include instruments such as government bills, certificates of deposit, commercial paper, repurchase agreements or other permitted short-term claims, depending on the fund's rules. The exact portfolio must be verified rather than inferred from the label.
+
+A stress can arise if investors seek redemptions while portfolio assets become harder to sell, mature later, lose value or require larger discounts. Possible responses and transmission channels depend on the fund's liquidity tools, portfolio maturity, investor concentration, asset quality, sponsor arrangements and regulatory framework. Forced sales or reduced purchases of short-term instruments can affect funding conditions for issuers and counterparties.
+
+**Redemption pressure → need for cash or asset sales → potential price discounts or reduced new lending/investment → tighter short-term funding for other participants.**
+
+In plain language, a fund may hold assets that are short-term but not all instantly convertible into cash at an unchanged price. If many investors request money together, the fund may need to use available cash, wait for maturities or sell assets. Those sales or reduced reinvestments can affect other borrowers and markets, but the outcome is conditional; the fund's actual rules, holdings and market conditions must be examined.
+
+For evidence, distinguish fund assets from fund shares, gross assets from net asset value, promised or ordinary redemption terms from emergency tools, and a potential funding channel from a demonstrated causal effect. Regulatory treatment and liquidity-management tools differ across jurisdictions.
 
 ## 11. Liquidity shortages, funding stress and insolvency
 
