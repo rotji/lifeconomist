@@ -523,7 +523,9 @@ The second bullet-by-bullet audit is documented in [DEPTH-AUDIT-GROUPS-4-6.md](D
 
 **Completed:** Groups 10–12 have been audited; see [DEPTH-AUDIT-GROUPS-10-12.md](DEPTH-AUDIT-GROUPS-10-12.md). Targeted improvements were made to Concepts 17–19. No new numbered concept is justified by this audit.
 
-**Next action:** Audit Groups 13–15 using the same four coverage labels, make scoped edits to existing notes where justified, and update the audit, index, current-state file, roadmap and research log.
+**Completed:** Groups 13–15 have been audited; see [DEPTH-AUDIT-GROUPS-13-15.md](DEPTH-AUDIT-GROUPS-13-15.md). Targeted improvements were made to Concepts 20, 21 and 23. No new numbered concept is justified by this audit.
+
+**Next action:** Audit Groups 16–18 using the same four coverage labels, make scoped edits to existing notes where justified, and update the audit, index, current-state file, roadmap and research log.
 
 
 ## 13. Depth audit checkpoint: Groups 7–9 (2026-10-30)
@@ -538,3 +540,10 @@ The third bullet-by-bullet audit is documented in [DEPTH-AUDIT-GROUPS-7-9.md](DE
 The fourth bullet-by-bullet audit is documented in [DEPTH-AUDIT-GROUPS-10-12.md](DEPTH-AUDIT-GROUPS-10-12.md). It reviews foreign exchange/global capital flows, financial markets/market infrastructure, and accounting/financial statements. Targeted changes were made to Concept 17 (cross rates, executable spreads, remittances, capital-flight interpretation and settlement), Concept 18 (bond risk measures, term structure, repo, haircuts and collateral reuse), and Concept 19 (cash-conversion cycle, taxable profit versus accounting profit/cash generated, contingent and off-balance-sheet exposures). Remaining tasks are chiefly current-source verification, formal measurement and entity/instrument-specific application.
 
 **Next action:** Audit Groups 13–15 bullet by bullet using the same coverage labels.
+
+
+## 15. Depth audit checkpoint: Groups 13–15 (2026-10-30)
+
+The fifth bullet-by-bullet audit is documented in [DEPTH-AUDIT-GROUPS-13-15.md](DEPTH-AUDIT-GROUPS-13-15.md). It reviews business structure/ownership/corporate finance, risk/uncertainty/resilience, and economic systems/institutions/structural change. Targeted changes were made to Concept 20 (revenue models, margins, operating leverage and unit economics), Concept 21 (risk appetite, tolerance, limits and recovery assumptions), and Concept 23 (property rights, contract enforcement, regulation/deregulation and collective action). Remaining work is chiefly evidence and measurement for specific organizations, risk systems and jurisdictions.
+
+**Next action:** Audit Groups 16–18 bullet by bullet using the same coverage labels.
