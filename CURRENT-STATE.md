@@ -67,3 +67,8 @@ Completed the first bullet-by-bullet depth audit for Groups 1–3, reviewing Con
 ### Workstream A — depth audit checkpoint: Groups 4–6 (2026-10-30)
 
 Completed the second bullet-by-bullet depth audit, covering Concepts 11–13. See [DEPTH-AUDIT-GROUPS-4-6.md](workstream-a/DEPTH-AUDIT-GROUPS-4-6.md). Targeted updates were made to Concept 11 (CapEx/OpEx, return types, portfolio allocation/reallocation/diversification, speculation, hedging and arbitrage), Concept 12 (market access, information asymmetry, bargaining and entry barriers), and Concept 13 (GDP deflator versus CPI; national disposable income versus GNI/GDP and household disposable income). Groups 4–6 are conceptually covered; formal performance metrics, market evidence and current NBS national-accounts metadata remain separate validation/measurement work. No new Concept 33 is justified by this audit. Next: Groups 7–9.
+
+
+### Workstream A — depth audit checkpoint: Groups 7–9 (2026-10-30)
+
+Completed the third bullet-by-bullet audit of Workstream A, covering Groups 7–9 against Concepts 14–16. See [DEPTH-AUDIT-GROUPS-7-9.md](workstream-a/DEPTH-AUDIT-GROUPS-7-9.md). Targeted additions: Concept 14 now distinguishes demographic from economic dependency and explains the conditional nature of a demographic dividend; Concept 15 adds fiscal space, debt sustainability and sovereign wealth fund boundaries; Concept 16 expands wage-price dynamics, indexation and administered-price effects. Groups 7–9 are conceptually covered; current NBS/CBN definitions and causal measurement remain separate validation tasks. No new concept is justified by this audit. Next: Groups 10–12.
