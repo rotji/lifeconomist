@@ -1,3 +1,12 @@
+## 2026-10-30 — Workstream A depth audit: Groups 16–18
+
+- **Task:** Review Groups 16–18 bullet by bullet against Concepts 22, 24 and 25 and related notes.
+- **New artifact:** Created [workstream-a/DEPTH-AUDIT-GROUPS-16-18.md](workstream-a/DEPTH-AUDIT-GROUPS-16-18.md), including coverage tables, conclusions, evidence limits and the next action.
+- **Concept 22 changes:** Added comparative advantage/trade costs; trade finance and letter-of-credit settlement milestones; import dependence/local content/substitution; input-output tables and aggregation limits.
+- **Concept 24 changes:** Added intraday liquidity and payment settlement; expanded money-market-fund structures, redemption pressure and short-term funding transmission.
+- **Concept 25 change:** Added valuation frequency, stale prices and realizable value; distinguished reported marks from sale proceeds and realizable value under stated conditions.
+- **Findings:** Groups 16–18 are conceptually covered. Remaining work is current-source verification and transaction-, system- or fund-specific measurement. No new numbered concept is justified.
+- **Next action:** Audit Groups 19–21 using the same four coverage labels.
 ## 2026-10-30 — Workstream A depth audit: Groups 13–15
 
 - **Task:** Review Groups 13–15 bullet by bullet against Concepts 20, 21 and 23 and related notes.
