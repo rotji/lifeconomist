@@ -50,6 +50,28 @@ A bank transfer normally changes the deposit claims recorded for the payer and r
 
 **Example:** If a customer pays a retailer ₦20,000 by bank transfer, the customer's deposit claim is reduced and the retailer's deposit claim is increased, subject to the payment and settlement process. The transfer is a payment, not necessarily new income for the economy: the retailer may be receiving payment for goods already sold, repayment of a loan, a gift or another transaction.
 
+## 3.1 Monetary aggregates: why the boundary matters
+
+A **monetary aggregate** is a statistical measure that groups selected monetary liabilities or instruments according to a published definition. It is not a synonym for all financial wealth, all liquid assets, or all central-bank liabilities.
+
+Different aggregates can include different combinations of currency held outside banks, transferable deposits, other deposits and selected near-money instruments. The exact components, sector coverage, consolidation rules and treatment of foreign-currency instruments depend on the monetary authority's published methodology and the reference date. Names such as *narrow money* or *broad money* are useful labels, but the label alone is not enough to reproduce a series.
+
+Three boundaries must be kept separate:
+
+- **Currency held by the public:** physical notes and coins held outside the issuing monetary authority and, depending on the series, outside depository institutions.
+- **Bank deposits included in a monetary aggregate:** deposit liabilities included under that aggregate's definition. Not every account, financial claim or digital payment balance automatically qualifies.
+- **Central-bank reserves:** eligible institutions' balances at the central bank. Reserves support settlement and monetary implementation but are not generally counted as money held by households in the same way as their bank deposits.
+
+A simplified relationship is:
+
+**Monetary aggregate = selected eligible monetary instruments, counted under a specified statistical definition.**
+
+In plain language, an aggregate is a constructed category, not a pile of every asset that looks like money. To compare two reported values, check which instruments and sectors are included, whether the series is consolidated, the date or period, and whether the definition has changed. A broader aggregate is not necessarily a better measure for every question.
+
+A deposit is a claim on a bank; a reserve balance is a claim on the central bank held by an eligible institution. Banks use reserves and other settlement arrangements to complete interbank payments. The fact that reserves support the payment system does not mean that an additional unit of reserves mechanically creates an equal amount of lending or broad money in every circumstance. Lending decisions also depend on demand, creditworthiness, capital and liquidity constraints, profitability, regulation, risk appetite and the operating framework.
+
+**Evidence rule:** For a country-specific monetary aggregate, use the central bank's own statistical release and metadata. Record the exact series name, component definition, units, frequency, seasonal adjustment (if any), valuation basis, institutional coverage and revision status. Do not infer the current Nigerian definition from this conceptual note; verify the current Central Bank of Nigeria methodology when building a Workstream B indicator.
+
 ## 4. Money is not wealth
 
 **Wealth** is usually a stock of economic value owned or controlled by a person, household, institution or economy at a point in time, after specifying the boundary and valuation. **Net worth** is assets minus liabilities under the selected accounting framework.
