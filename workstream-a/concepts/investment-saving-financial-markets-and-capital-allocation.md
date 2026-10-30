@@ -194,6 +194,30 @@ Examples are illustrative, not advice or claims about a specific Nigerian invest
 | Leverage vs investment | Borrowing can finance an investment but also creates obligations and amplifies risk. |
 | Financial transaction vs real activity | Trading a claim and producing a new asset are distinct events. |
 
+## 14.1 Capital expenditure, operating expenditure and decision quality
+
+**Capital expenditure (CapEx)** generally refers to spending to acquire, improve or create an asset expected to provide services over more than the current period, subject to the applicable accounting rules and capitalization threshold. **Operating expenditure (OpEx)** generally refers to costs of running current operations, such as rent, utilities, routine supplies and recurring service costs. The boundary is not determined by the invoice label alone: accounting policy, materiality, asset type, useful life and applicable standards matter.
+
+A purchase can be economically important without being classified as CapEx in the accounts. Staff training, routine maintenance, research, software subscriptions and internally developed intangible assets can receive different accounting treatment depending on the applicable rules. Capitalizing expenditure also does not prove that the asset is productive, well utilized or worth its recorded amount.
+
+**Expected return** is a forecast based on assumptions about future cash flows, probabilities, timing and costs. **Realized return** is calculated from outcomes that have actually occurred over a defined holding period. **Total return** may include price change and income such as dividends or interest, adjusted as appropriate for fees, taxes, currency effects and the chosen reinvestment convention. An unrealized valuation gain is not the same as cash received.
+
+**Compounding** occurs when accumulated returns themselves earn further returns or income. A quoted annualized return must state the period and calculation convention; it cannot be compared fairly with a return over a different horizon without normalizing the time basis and considering volatility, fees, taxes and interim cash flows.
+
+## 14.2 Portfolio allocation, diversification and reallocation
+
+**Portfolio allocation** is the distribution of capital among asset classes, instruments, sectors, regions or strategies under a defined mandate. **Diversification** spreads exposures across assets or risk drivers so that the portfolio is less dependent on a single outcome; merely owning many assets does not guarantee diversification if their risks are highly correlated. **Reallocation** changes the portfolio's exposure over time, potentially in response to changed objectives, constraints, valuations, liquidity needs or risk assessments.
+
+A portfolio can be reallocated without creating new productive capital. Selling one existing security and buying another may change who bears the risk or how capital is exposed, while the transactions themselves need not finance a new asset. Allocation efficiency is not directly observable from the fact that money moved: it requires a stated objective, feasible alternatives, risk and time horizon, costs, constraints and a defensible comparison of outcomes.
+
+## 14.3 Speculation, hedging and arbitrage
+
+- **Speculation** takes exposure in expectation of a favourable price or outcome, accepting risk in pursuit of a return. It can add liquidity or price information in some settings, but it can also amplify losses and does not by itself prove manipulation.
+- **Hedging** takes an offsetting or risk-reducing position to limit exposure to a defined adverse movement. A hedge may introduce basis, counterparty, liquidity, model or rollover risks and may reduce gains as well as losses.
+- **Arbitrage** seeks to exploit inconsistent prices for equivalent or closely related claims while accounting for execution, funding, settlement, legal, currency, timing and other costs. A displayed price difference is only a candidate opportunity; it is not proof that simultaneous, sufficient-size execution is available or risk-free.
+
+These terms describe different purposes or strategies, not guaranteed outcomes. A position described as a hedge must be evaluated against the exposure it is intended to offset; a strategy called arbitrage must be tested against executable prices and all-in constraints.
+
 ## 15. Measurement and evidence checklist
 
 When evaluating an investment claim or capital flow, ask:
