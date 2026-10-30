@@ -40,10 +40,12 @@ Long-term debt stress is structural and may overlap cyclical states. The states 
 - Distinguish stocks from flows and nominal from real measures.
 - Treat plausible transmission pathways as hypotheses until supported by evidence.
 - Preserve important decisions and changes with reasons.
+- Resume from recorded project state instead of repeating verified work; preserve stopping points when pausing.
+- Revisit connected findings when material new evidence, changed definitions, or improved methods warrant an impact review.
 - Observe first; classify states only after definitions and historical tests are adequate.
 
 ## Research and development framework
-The project is organized around five distinct but interconnected workstreams: **A — Deep Conceptual Foundations**, **B — Measurement**, **C — Evidence-Based Monitoring**, **D — Footprint Intelligence**, and **E — Opportunity Intelligence and Economic Application**. Their definitions, boundaries, feedback relationships, and the cross-cutting **Reality-First Principle** are documented in [RESEARCH-METHODOLOGY.md](RESEARCH-METHODOLOGY.md). That methodology makes interconnected reality and layered investigation explicit as a shared reasoning principle, rather than a sixth workstream. Workstream D is the specialized reusable capability for investigating observable traces, entities, relationships, dependencies, and transmission across domains; its detailed architecture remains proposed, not implemented. See [FOOTPRINT-INTELLIGENCE-ARCHITECTURE.md](FOOTPRINT-INTELLIGENCE-ARCHITECTURE.md). Workstream E evaluates possible trading, investment, business, and intelligence-service opportunities; its full process and specific strategies remain unvalidated. See [WORKSTREAM-E-ARCHITECTURE.md](WORKSTREAM-E-ARCHITECTURE.md).
+The project is organized around five distinct but interconnected workstreams: **A — Deep Conceptual Foundations**, **B — Measurement**, **C — Evidence-Based Monitoring**, **D — Footprint Intelligence**, and **E — Opportunity Intelligence and Economic Application**. Their definitions, boundaries, feedback relationships, the cross-cutting **Reality-First Principle**, and the project-wide **Continuity, Pause, and Revision Principle** are documented in [RESEARCH-METHODOLOGY.md](RESEARCH-METHODOLOGY.md). The continuity principle applies to all workstreams and project records: unfinished work may be paused, existing work should be reused when still valid, and material new findings should trigger proportionate review of connected records. That methodology makes interconnected reality and layered investigation explicit as a shared reasoning principle, rather than a sixth workstream. Workstream D is the specialized reusable capability for investigating observable traces, entities, relationships, dependencies, and transmission across domains; its detailed architecture remains proposed, not implemented. See [FOOTPRINT-INTELLIGENCE-ARCHITECTURE.md](FOOTPRINT-INTELLIGENCE-ARCHITECTURE.md). Workstream E evaluates possible trading, investment, business, and intelligence-service opportunities; its full process and specific strategies remain unvalidated. See [WORKSTREAM-E-ARCHITECTURE.md](WORKSTREAM-E-ARCHITECTURE.md).
 
 ## Broad global financial exploration
 
@@ -63,5 +65,5 @@ The provisional [ECAI foundation and research programme](ECAI-FOUNDATION.md) exp
 
 These tools are not automatically integrated. Important findings and decisions must be deliberately recorded.
 
-## First milestone
-Establish durable project records, then complete the measurement protocol for all six indicators. Begin only as an observation/evidence register—not an authoritative current-state classification.
+## Current working posture
+Durable project records and checkpoints are established. On each return, consult [CURRENT-STATE.md](CURRENT-STATE.md), [RESEARCH-LOG.md](RESEARCH-LOG.md), and the relevant source artifacts before choosing the next useful action. The measurement protocol for all six indicators remains important but does not have to be completed before useful work can proceed elsewhere. Keep measurement and historical-testing requirements as gates for formal state classification; do not turn the wider research programme into a mandatory linear completion sequence.
