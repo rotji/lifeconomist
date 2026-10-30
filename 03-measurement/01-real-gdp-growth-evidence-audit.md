@@ -106,6 +106,8 @@ Quarter-on-quarter growth should remain outside the approved core specification 
 
 ## 5. Remaining research tasks, in priority order
 
+This order reflects known dependencies and evidence value; it is not an obligation to finish the entire audit immediately. On return, first verify whether the workbook, source releases, or relevant methods have changed, then resume from the first unresolved task whose dependencies and current value justify attention. Do not repeat completed checks without a reproducibility, contradiction, or new-evidence reason. Record any changed conclusion and review downstream effects on the indicator specification, source-vintage treatment, historical tests, and any later state assessment. See the [project-wide Continuity, Pause, and Revision Principle](../RESEARCH-METHODOLOGY.md#continuity-pause-and-revision-principle).
+
 ### Task 1 — Extract and validate the latest release workbook
 
 Download the Q2 2026 package; identify the workbook tabs and exact growth-rate series; capture the first and last observation, all periods, blank cells, units, price basis and any footnotes. Cross-check the report's headline against the workbook. Record the file and retrieval date. This task is not complete merely because the catalogue lists the package.
