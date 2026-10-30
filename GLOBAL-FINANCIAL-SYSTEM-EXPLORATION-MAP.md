@@ -260,6 +260,7 @@ Maintain these as an open question bank; add, split, reframe, answer, or retire 
 8. **Record evidence status.** Label data as verified, provisional, estimated, illustrative, inferred, contradictory, or missing.
 9. **Review what is learned.** Update the concept, measurement, source, relationship, and question registers.
 10. **Prioritize only from evidence.** Use data quality, explanatory value, feasibility, learning value, and practical relevance to decide where deeper work is warranted.
+11. **Continuity and checkpoint.** Before resuming or repeating an investigation, check `CURRENT-STATE.md`, relevant `RESEARCH-LOG.md` entries, and linked source artifacts. Reuse work that remains valid; repeat it only for a recorded reason. When pausing, preserve what was done, what was actually verified, what remains unresolved, why work paused, and the next useful action. Follow the project-wide [Continuity, Pause, and Revision Principle](RESEARCH-METHODOLOGY.md#continuity-pause-and-revision-principle).
 
 Do not begin by building a global dashboard or a single grand equation. First establish defensible definitions and data boundaries. Visualizations, calculations, automation, and specialized applications can follow when they serve a clearly specified question.
 
@@ -272,7 +273,7 @@ Do not begin by building a global dashboard or a single grand equation. First es
 - **Milestone 5 — Connection and transmission tests:** Investigate a few relationships with explicit evidence and alternatives.
 - **Milestone 6 — Review and reprioritize:** Document what is measurable, what remains unknown, what deserves deeper research, and what practical applications may be justified.
 
-These milestones are provisional. They are intended to organize discovery, not impose a rigid sequence or prevent useful parallel investigations.
+These milestones are provisional options for organizing discovery, not obligations or a rigid sequence. They may be paused, reordered, narrowed, revised, or left unfinished; completion of one milestone is not a prerequisite for pursuing a more useful question. Resume a milestone when current relevance, evidence, feasibility, and expected learning justify it. Preserve necessary dependencies, but do not mistake the listed order for a duty to finish everything.
 
 ## 10. Current status and open limitations
 
@@ -284,10 +285,11 @@ These milestones are provisional. They are intended to organize discovery, not i
 - Ownership, control, liquidity, and deployability are often not fully observable from headline figures.
 - Causal pathways must be investigated link by link; co-movement, plausible incentives, or network proximity do not prove causation or intent.
 - The taxonomy, question bank, sources, and priorities should evolve as real evidence accumulates.
+- Findings are revisable, not automatically invalidated by new information. Material new evidence, better data, changed definitions, or improved methods should trigger a proportionate impact review of connected concepts, source registers, measurements, accounting reconciliations, mechanisms, and applications. Retain, amend, supersede, remove, or cross-link content only where justified, and record consequential changes and reasons. Earlier effort does not immunize a finding from review; a new finding does not by itself invalidate earlier work.
 
 ## 11. Relationship to other project records
 
-- Shared methodology and workstream boundaries: [RESEARCH-METHODOLOGY.md](RESEARCH-METHODOLOGY.md)
+- Shared methodology, including the governing continuity, pause, revision, and return protocol: [RESEARCH-METHODOLOGY.md](RESEARCH-METHODOLOGY.md)
 - Existing economic model and four-layer framework: [README.md](README.md)
 - Project status: [CURRENT-STATE.md](CURRENT-STATE.md)
 - Proposed observable-footprint investigation architecture: [FOOTPRINT-INTELLIGENCE-ARCHITECTURE.md](FOOTPRINT-INTELLIGENCE-ARCHITECTURE.md)
@@ -295,4 +297,4 @@ These milestones are provisional. They are intended to organize discovery, not i
 - Research history: [RESEARCH-LOG.md](RESEARCH-LOG.md)
 - Material decisions: [DECISION-REGISTER.md](DECISION-REGISTER.md)
 
-**Next step:** Populate a candidate data-source and measurement register, beginning with definitions and a small number of accessible official series. Do not claim a global total or select a narrow application before this preliminary evidence review.
+**Next useful action when this programme is resumed:** Choose the most valuable evidence-backed question in light of current priorities and existing records. One candidate is to populate a source-and-measurement register, beginning with definitions and a small number of accessible official series. This is a candidate, not an obligation to start immediately or complete milestones in order. Do not claim a global total or select a narrow application before the relevant evidence review.
