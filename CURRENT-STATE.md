@@ -82,3 +82,8 @@ Completed the fourth bullet-by-bullet audit, covering Groups 10–12 against Con
 ### Workstream A — depth audit checkpoint: Groups 13–15 (2026-10-30)
 
 Completed the fifth bullet-by-bullet audit, covering Groups 13–15 against Concepts 20, 21 and 23. See [DEPTH-AUDIT-GROUPS-13-15.md](workstream-a/DEPTH-AUDIT-GROUPS-13-15.md). Targeted additions: Concept 20 explains revenue models, margins, operating leverage and unit economics; Concept 21 distinguishes risk appetite, tolerance, limits, capacity and recovery assumptions; Concept 23 expands property rights and contract enforcement, regulation/deregulation and collective action. Groups 13–15 are conceptually covered; case-specific corporate, risk and institutional claims require separate evidence and measurement. No new concept is justified. Next: Groups 16–18.
+
+
+### Workstream A — depth audit checkpoint: Groups 16–18 (2026-10-30)
+
+Completed the sixth bullet-by-bullet audit, covering Groups 16–18 against Concepts 22, 24 and 25. See [DEPTH-AUDIT-GROUPS-16-18.md](workstream-a/DEPTH-AUDIT-GROUPS-16-18.md). Targeted additions: Concept 22 clarifies comparative advantage and trade costs, trade finance and letters of credit, import dependence/local content/substitution, and input-output table limitations; Concept 24 expands intraday liquidity/payment settlement and money-market-fund funding links; Concept 25 distinguishes valuation frequency/stale prices from realizable value. Groups 16–18 are conceptually covered; current transaction, settlement and fund claims require separate evidence. No new concept is justified. Next: Groups 19–21.
