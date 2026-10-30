@@ -132,6 +132,22 @@ These mechanisms can interact. Exchange-rate pass-through, for example, depends 
 
 Do not attribute an inflation episode to one factor merely because it changed at the same time. Correlation, timing and a plausible mechanism are clues, not sufficient causal proof. Different episodes can have different mixes of drivers, and a relative-price change is not automatically persistent broad inflation.
 
+## 12.1 Wage-price dynamics, indexation and administered prices
+
+**Wage-price dynamics** describe possible feedback between wages, labour costs, prices, demand and expectations. Higher wages can raise firms' costs where labour is a material input; firms may respond through prices, margins, productivity, staffing or product mix. Higher prices can then lead workers to seek compensation, but the strength and timing of any feedback depend on bargaining, contracts, labour-market conditions, productivity, competition, expectations and policy. Wage increases do not automatically cause a persistent wage-price spiral, and wage growth may also reflect productivity gains or catch-up after real-income losses.
+
+**Indexation** links a payment, wage, pension, rent, tax threshold, contract or financial claim to a specified index or formula. It can protect purchasing power or reduce uncertainty for one party, but it can also transmit past inflation into future payments, create fiscal or business costs, and operate with lags or caps. The outcome depends on the index, frequency, reference period, adjustment formula, coverage and whether changes are automatic or negotiated.
+
+**Administered prices** are prices set or materially influenced by a public authority or other designated body rather than formed solely through ordinary market transactions. Examples may include regulated tariffs, controlled prices, fees or prices under specific public arrangements. Their treatment varies by jurisdiction and product.
+
+A change in an administered price can cause a one-time change in the measured price level and temporarily raise measured inflation rates while the change enters comparison periods. Whether it contributes to persistent broad inflation depends on second-round effects, input-cost propagation, indexation, expectations, demand and subsequent policy or pricing behaviour. Conversely, holding a price below cost does not eliminate the underlying economic cost; it may shift that cost to a subsidy, a public enterprise, suppliers, service quality, shortages or future adjustment.
+
+**Initial administered-price change → direct index effect → possible cost, wage or expectation responses → uncertain persistence.**
+
+In plain language, a regulated fuel or electricity price change can immediately alter the cost of that item and the prices of goods and services that use it. But one direct increase does not by itself prove that inflation will remain high. Persistence depends on what happens next: whether other costs rise, contracts adjust, firms pass costs through, wages respond, expectations change and monetary or fiscal conditions accommodate further increases.
+
+For causal analysis, separate the announced policy or price decision, the direct arithmetic contribution to the index, indirect pass-through, second-round responses and the counterfactual path without the change. Use time-aligned data and consider other simultaneous shocks; do not infer the total effect from timing alone.
+
 ## 13. Household, labour and distributional effects
 
 Inflation affects households differently depending on consumption baskets, income sources, location, ability to substitute, access to credit and whether wages, pensions or benefits adjust. Nominal wage growth, real wage growth, employment, hours, job security, taxes, transfers and debt service should be considered together.
