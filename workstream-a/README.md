@@ -10,6 +10,7 @@ The goal is not merely to store short definitions. Each concept note should conn
 - [Concept Inventory Reconciliation](CONCEPT-INVENTORY-RECONCILIATION.md) — maps the 25 planned groups to existing notes and documents intentional overlaps and index corrections.
 - [Depth Audit — Groups 1–3](DEPTH-AUDIT-GROUPS-1-3.md) — checks each roadmap bullet against Concepts 1–11, classifies coverage and records targeted improvements to Concepts 9 and 10.
 - [Depth Audit — Groups 4–6](DEPTH-AUDIT-GROUPS-4-6.md) — checks the investment, markets and national-accounting groups against Concepts 11–13 and records targeted improvements.
+- [Depth Audit — Groups 7–9](DEPTH-AUDIT-GROUPS-7-9.md) — audits labour/households, government finance and inflation against Concepts 14–16 and records targeted improvements.
 
 ## Concept notes
 
