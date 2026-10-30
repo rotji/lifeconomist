@@ -130,6 +130,18 @@ Equilibrium also does not automatically imply a socially optimal outcome. Market
 
 Market concentration can be relevant evidence, but concentration alone does not prove abusive conduct or establish the degree of market power. The market definition, entry conditions, substitution possibilities, contracts, costs and observed behaviour matter.
 
+## 10.1 Market access, information asymmetry and bargaining
+
+**Market access** concerns whether a participant can practically reach counterparties and complete exchange on usable terms. Access may be limited by location, infrastructure, licensing, minimum scale, credit requirements, information, platform rules, networks, contract terms or the cost of search and transport. A market can exist in principle while remaining inaccessible to some buyers or sellers.
+
+**Information asymmetry** exists when parties to a potential transaction have materially different information relevant to its terms or risks. It can affect prices, quality, trust, screening, warranties and who is willing to transact. More information is not automatically better if it is unreliable, incomparable, delayed or too costly to interpret.
+
+**Bargaining power** is the ability to influence the terms of exchange relative to the other party. It can arise from outside options, market concentration, urgency, control of scarce inputs, switching costs, information, financing constraints or the ability to wait. A price that one party accepts does not by itself establish that the exchange was competitive, fair, coercive or abusive; the mechanism and available alternatives require evidence.
+
+**Barriers to entry** are conditions that make entering or expanding in a market difficult or costly. They can be structural (scale, network effects, control of infrastructure or scarce inputs), regulatory, strategic, or related to sunk costs and access to distribution. A large market share may be relevant but does not, alone, prove a barrier or unlawful conduct.
+
+When investigating these conditions, distinguish a plausible mechanism from observed conduct and from a legal finding. Evidence may include entry/exit patterns, licensing requirements, switching rates, contract terms, buyer/supplier concentration, margin patterns, access conditions and interviews—but each source has limitations and competing explanations.
+
 ## 11. Market structure is not one single scale
 
 Common analytical categories include:
