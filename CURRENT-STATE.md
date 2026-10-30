@@ -87,3 +87,8 @@ Completed the fifth bullet-by-bullet audit, covering Groups 13–15 against Conc
 ### Workstream A — depth audit checkpoint: Groups 16–18 (2026-10-30)
 
 Completed the sixth bullet-by-bullet audit, covering Groups 16–18 against Concepts 22, 24 and 25. See [DEPTH-AUDIT-GROUPS-16-18.md](workstream-a/DEPTH-AUDIT-GROUPS-16-18.md). Targeted additions: Concept 22 clarifies comparative advantage and trade costs, trade finance and letters of credit, import dependence/local content/substitution, and input-output table limitations; Concept 24 expands intraday liquidity/payment settlement and money-market-fund funding links; Concept 25 distinguishes valuation frequency/stale prices from realizable value. Groups 16–18 are conceptually covered; current transaction, settlement and fund claims require separate evidence. No new concept is justified. Next: Groups 19–21.
+
+
+### Workstream A — depth audit checkpoint: Groups 19–21 (2026-10-30)
+
+Completed the seventh bullet-by-bullet audit, covering Groups 19–21 against Concepts 26–28. See [DEPTH-AUDIT-GROUPS-19-21.md](workstream-a/DEPTH-AUDIT-GROUPS-19-21.md). Targeted additions: Concept 26 clarifies employment absorption, job quality and productivity; Concept 27 expands energy affordability, tariffs and full system costs; Concept 28 adds AI service economics, utilization, human review and cost per useful outcome. Groups 19–21 are conceptually covered; country-, energy-system- and deployment-specific claims require separate evidence. No new concept is justified. Next: verify and audit Groups 22–24.
