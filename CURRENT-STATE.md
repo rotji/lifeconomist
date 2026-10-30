@@ -53,3 +53,7 @@ The initial FX programme investigates mathematical currency relationships, econo
 
 ### Workstream A — latest concept checkpoint
 Workstream A now has durable concept notes through **Concept 32 — Commonly Confused Economic and Financial Terms: Comparison Register** ([concept note](workstream-a/concepts/commonly-confused-economic-and-financial-terms-comparison-register.md)). Concept 32 is a cross-reference layer that clarifies terms by definition, unit, time basis, entity boundary, valuation basis, process stage and evidence. Concept 31 covers distribution of economic power and opportunity; Concept 30 covers time, cycles and economic transmission; Concept 29 covers measurement, evidence and inference. The older terminology inventory and phase descriptions still need reconciliation against the actual completed notes.
+
+### Workstream A — inventory reconciliation checkpoint (2026-10-30)
+
+The first crosswalk of the 25 planned terminology groups against Concepts 1–32 is documented in [CONCEPT-INVENTORY-RECONCILIATION.md](workstream-a/CONCEPT-INVENTORY-RECONCILIATION.md). All 25 groups have identifiable concept-level coverage or a comparison-register entry; this does not mean every subtopic is complete or empirically validated. The review found and fixed two index defects: Concept 6 was missing from the Workstream A index, and Concept 25 was duplicated. No Concept 33 is selected yet. Next is a bullet-by-bullet depth audit that distinguishes explicitly covered, partial, cross-linked and missing roadmap topics, starting with Groups 1–3.
