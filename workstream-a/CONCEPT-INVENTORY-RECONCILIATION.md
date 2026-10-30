@@ -105,7 +105,7 @@ The first bullet-by-bullet depth audit is now available: [Depth Audit — Workst
 
 ## 7. Decision and checkpoint
 
-**Decision:** The 25-group inventory has concept-level coverage across Concepts 1–32, with intentional overlaps and implementation/validation work still open. No new Concept 33 is selected in this reconciliation. The Groups 1–3, 4–6 and 7–9 depth audits are complete; see [DEPTH-AUDIT-GROUPS-1-3.md](DEPTH-AUDIT-GROUPS-1-3.md), [DEPTH-AUDIT-GROUPS-4-6.md](DEPTH-AUDIT-GROUPS-4-6.md) and [DEPTH-AUDIT-GROUPS-7-9.md](DEPTH-AUDIT-GROUPS-7-9.md). Continue with Groups 10–12 using the same bullet-by-bullet method, resolving scoped gaps in existing notes where appropriate. The index defects identified in this review have been corrected.
+**Decision:** The 25-group inventory has concept-level coverage across Concepts 1–32, with intentional overlaps and implementation/validation work still open. No new Concept 33 is selected in this reconciliation. The Groups 1–3, 4–6, 7–9 and 10–12 depth audits are complete; see [DEPTH-AUDIT-GROUPS-1-3.md](DEPTH-AUDIT-GROUPS-1-3.md), [DEPTH-AUDIT-GROUPS-4-6.md](DEPTH-AUDIT-GROUPS-4-6.md), [DEPTH-AUDIT-GROUPS-7-9.md](DEPTH-AUDIT-GROUPS-7-9.md) and [DEPTH-AUDIT-GROUPS-10-12.md](DEPTH-AUDIT-GROUPS-10-12.md). Continue with Groups 13–15 using the same bullet-by-bullet method, resolving scoped gaps in existing notes where appropriate. The index defects identified in this review have been corrected.
 
 **Authoritative links:**
 - [Workstream A index](README.md)
