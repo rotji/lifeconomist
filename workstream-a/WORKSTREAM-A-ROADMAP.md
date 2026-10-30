@@ -525,7 +525,9 @@ The second bullet-by-bullet audit is documented in [DEPTH-AUDIT-GROUPS-4-6.md](D
 
 **Completed:** Groups 13–15 have been audited; see [DEPTH-AUDIT-GROUPS-13-15.md](DEPTH-AUDIT-GROUPS-13-15.md). Targeted improvements were made to Concepts 20, 21 and 23. No new numbered concept is justified by this audit.
 
-**Next action:** Audit Groups 16–18 using the same four coverage labels, make scoped edits to existing notes where justified, and update the audit, index, current-state file, roadmap and research log.
+**Completed:** Groups 16–18 have been audited; see [DEPTH-AUDIT-GROUPS-16-18.md](DEPTH-AUDIT-GROUPS-16-18.md). Targeted improvements were made to Concepts 22, 24 and 25. No new numbered concept is justified by this audit.
+
+**Next action:** Audit Groups 19–21 using the same four coverage labels, make scoped edits to existing notes where justified, and update the audit, index, current-state file, roadmap and research log.
 
 
 ## 13. Depth audit checkpoint: Groups 7–9 (2026-10-30)
@@ -547,3 +549,10 @@ The fourth bullet-by-bullet audit is documented in [DEPTH-AUDIT-GROUPS-10-12.md]
 The fifth bullet-by-bullet audit is documented in [DEPTH-AUDIT-GROUPS-13-15.md](DEPTH-AUDIT-GROUPS-13-15.md). It reviews business structure/ownership/corporate finance, risk/uncertainty/resilience, and economic systems/institutions/structural change. Targeted changes were made to Concept 20 (revenue models, margins, operating leverage and unit economics), Concept 21 (risk appetite, tolerance, limits and recovery assumptions), and Concept 23 (property rights, contract enforcement, regulation/deregulation and collective action). Remaining work is chiefly evidence and measurement for specific organizations, risk systems and jurisdictions.
 
 **Next action:** Audit Groups 16–18 bullet by bullet using the same coverage labels.
+
+
+## 16. Depth audit checkpoint: Groups 16–18 (2026-10-30)
+
+The sixth bullet-by-bullet audit is documented in [DEPTH-AUDIT-GROUPS-16-18.md](DEPTH-AUDIT-GROUPS-16-18.md). It reviews trade/supply chains/distribution networks, banking/market/system-wide liquidity, and capital markets/institutional investors/funds. Targeted changes were made to Concept 22 (comparative advantage, trade finance, local content/import substitution and input-output limits), Concept 24 (intraday liquidity/payment settlement and money-market funds), and Concept 25 (valuation frequency, stale prices and realizable value). Remaining work is current-source verification and application to specific transactions, systems or funds.
+
+**Next action:** Audit Groups 19–21 bullet by bullet using the same coverage labels.
