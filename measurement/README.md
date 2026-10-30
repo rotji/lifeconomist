@@ -14,4 +14,4 @@ For each of the six indicators, document:
 11. Example calculation
 12. Status and next action
 
-Complete and review each specification before using it for formal state classification.
+Specifications may remain draft or paused while other useful work proceeds. Before resuming, check the current indicator note, evidence audit, source records, and project checkpoint; reuse verified work and record unresolved gaps. Revise definitions and historical results when new evidence or methods warrant it, with downstream impact review. Completion of all six specifications is not required before every other research activity can proceed, but formal state classification remains gated on adequate definitions, validation, and historical testing. See the [project-wide Continuity, Pause, and Revision Principle](../RESEARCH-METHODOLOGY.md#continuity-pause-and-revision-principle).
