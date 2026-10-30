@@ -62,3 +62,8 @@ The first crosswalk of the 25 planned terminology groups against Concepts 1–32
 ### Workstream A — depth audit checkpoint (2026-10-30)
 
 Completed the first bullet-by-bullet depth audit for Groups 1–3, reviewing Concepts 1–11 against every roadmap bullet. See [DEPTH-AUDIT-GROUPS-1-3.md](workstream-a/DEPTH-AUDIT-GROUPS-1-3.md). Targeted improvements were committed to Concept 9 (monetary aggregates and the currency/deposit/reserve boundary) and Concept 10 (maturity transformation, mismatch, rollover/refinancing risk, repricing, arrears, restructuring and deleveraging). The audit found no justification for a new Concept 33 at this stage. Continue with Groups 4–6; distinguish conceptual omissions from Workstream B measurement requirements and jurisdiction-specific classifications.
+
+
+### Workstream A — depth audit checkpoint: Groups 4–6 (2026-10-30)
+
+Completed the second bullet-by-bullet depth audit, covering Concepts 11–13. See [DEPTH-AUDIT-GROUPS-4-6.md](workstream-a/DEPTH-AUDIT-GROUPS-4-6.md). Targeted updates were made to Concept 11 (CapEx/OpEx, return types, portfolio allocation/reallocation/diversification, speculation, hedging and arbitrage), Concept 12 (market access, information asymmetry, bargaining and entry barriers), and Concept 13 (GDP deflator versus CPI; national disposable income versus GNI/GDP and household disposable income). Groups 4–6 are conceptually covered; formal performance metrics, market evidence and current NBS national-accounts metadata remain separate validation/measurement work. No new Concept 33 is justified by this audit. Next: Groups 7–9.
