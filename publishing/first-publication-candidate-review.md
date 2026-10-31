@@ -100,3 +100,7 @@ Before scripting or approving a script:
 - No publication date, length, schedule, budget, or paid tool has been selected.
 - Candidate A is recommended for the next research step only; Candidates B and C remain available.
 - The initial source audit is complete for the core general mechanism. A provisional, bounded outline has now been drafted in [Preliminary Explainer Outline](outline-bank-loan-deposit-creation.md). This is for review only—not a script approval or production commitment. Review the audience, scope, technical clarity, and claim-source checklist before deciding whether to proceed, revise, return to research, or choose another candidate.
+
+## Audience and style selected (2026-10-31)
+
+The user selected **everyday bank customers** as the primary audience and a **balanced documentary** style: clear narration, explanatory diagrams, and restrained cinematic visuals. The implications are recorded in the [outline](outline-bank-loan-deposit-creation.md). This choice narrows the communication approach but does not lock the topic or authorize production.
