@@ -29,31 +29,31 @@ What does that mean in practice? Let's follow the entries.
 
 ### Scene 2 — Follow the entries
 
-**Visual:** Show a simple, clearly labelled hypothetical example: a loan of 100 units. Split the screen between “The bank” and “The borrower.”
+**Visual:** Show a simple, clearly labelled hypothetical example: a hypothetical loan of $100. Split the screen between “The bank” and “The borrower.”
 
 **On-screen graphic:**
 
 | The bank | Change |
 |---|---:|
-| Loan it expects to be repaid — an asset | +100 |
-| Deposit it owes to the customer — a liability | +100 |
+| Loan it expects to be repaid — an asset | +$100 |
+| Deposit it owes to the customer — a liability | +$100 |
 
 | The borrower | Change |
 |---|---:|
-| Deposit in the bank account — an asset | +100 |
-| Loan owed to the bank — a liability | +100 |
+| Deposit in the bank account — an asset | +$100 |
+| Loan owed to the bank — a liability | +$100 |
 
 **Narration:**
 
-Imagine the bank grants a loan of 100 units and credits your account.
+Imagine the bank grants a hypothetical loan of $100 and credits your account.
 
-On the bank's side, it records a loan: you owe the bank 100. That is an asset for the bank because it has a claim on you. At the same time, it records a deposit of 100 in your account. That is a liability for the bank because the bank owes you that account balance under the terms of your account.
+On the bank's side, it records a loan: you owe the bank $100. That is an asset for the bank because it has a claim on you. At the same time, it records a deposit of $100 in your account. That is a liability for the bank because the bank owes you that $100 account balance under the terms of your account.
 
 On your side, the deposit is an asset you can use to make payments, and the loan is a debt you must repay.
 
 The entries match. The bank has not simply handed you a debt-free gift. A new deposit has been created alongside a new obligation.
 
-These 100 units are hypothetical, used only to make the accounting easier to see. They are not data about any country's banking system.
+The $100 amount is hypothetical and is used only to make the accounting easier to see. Dollars are simply the denomination chosen for this teaching example; the figure is not banking data or a claim about any country's banking system.
 
 ### Scene 3 — What this does, and does not, mean
 
@@ -61,11 +61,11 @@ These 100 units are hypothetical, used only to make the accounting easier to see
 
 **Narration:**
 
-This is the key distinction: in this kind of transaction, the bank creates deposit money when it makes the loan. It is not necessarily transferring an existing customer's deposit into your account at that exact moment.
+This is the key distinction: in this kind of transaction, the bank creates deposit money when it makes the loan. The bank is not simply moving another customer's existing deposit into your account. In the standard case we're describing, it records a new loan and a matching deposit.
 
 But don't take that to mean a bank can lend any amount it wants.
 
-A bank has to judge whether borrowers are likely to repay. It must manage risk, costs, capital and other regulatory requirements, and the money it needs to meet payments. It also responds to customer demand, profitability, funding conditions and monetary policy.
+Banks cannot lend without limit. They must judge whether borrowers are likely to repay, manage risks and costs, maintain sufficient capital, follow the rules that apply to them, and be able to make payments when due. Customer demand, profitability, funding conditions and monetary policy also influence lending.
 
 If you use the deposit to pay someone who banks elsewhere, the banks may also need to settle the payment between themselves. Creating a deposit when a loan begins does not make those payment and liquidity responsibilities disappear.
 
@@ -77,7 +77,7 @@ If you use the deposit to pay someone who banks elsewhere, the banks may also ne
 
 There is one more important distinction. Creating a bank deposit is not the same as creating a new physical resource or guaranteeing that anyone becomes wealthier.
 
-A loan gives the borrower money to use, but it also creates a debt. What happens next depends on how the money is used, what it costs, whether the activity produces value, and whether the debt can be repaid.
+A loan gives the borrower access to funds, but it also creates a debt. What happens next depends on how the money is used, what it costs, whether the activity produces value, and whether the debt can be repaid.
 
 Credit can finance useful activity. It can also finance spending or investments that do not work out. The accounting mechanism alone does not tell us which outcome will follow.
 
