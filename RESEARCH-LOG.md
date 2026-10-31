@@ -1,3 +1,13 @@
+## 2026-10-31 — Drafting a bounded explainer outline
+
+- **Task:** Continue the candidate-screening workflow by preparing a reviewable outline before any script or production.
+- **Artifact:** Created [Preliminary Explainer Outline](publishing/outline-bank-loan-deposit-creation.md), linked it from the [candidate review](publishing/first-publication-candidate-review.md), and preserved the source audit as the evidence record.
+- **Scope:** The outline focuses on a single question: when a commercial bank grants a loan and credits the borrower's account, where does the deposit come from? It includes a simplified hypothetical balance-sheet example, constraints on lending, and a distinction between financial claims and real resources.
+- **Source cross-check:** Re-opened the Bank of England's 2014 article, which states that most money in the modern economy is created by commercial banks making loans and rejects the idea that banks simply lend out savers' deposits. Reviewed the IMF Working Paper 19/285 page, which explicitly distinguishes bank lending/deposit creation from nonbank lending and notes that reserve transfers and liquid funding needs can coexist with deposit creation. The IMF page also states that working-paper views are those of the authors and do not necessarily represent IMF management or Board views.
+- **Caveats:** Do not generalize UK institutional details to Nigeria. Keep Nigeria-specific claims out unless current Nigerian primary sources are separately checked. Script claims and visual accounting still require claim-by-claim review.
+- **Status:** Outline is provisional and for review only. No script, video, publication schedule, budget, or tool purchase initiated.
+- **Next step:** Review whether the audience, scope, visual sequence, and caveats are right. Decide whether to revise, proceed to a script outline review, return to research, or stop. Source support does not obligate publication.
+
 ## 2026-10-31 — Preliminary publication candidate and source audit
 
 - **Task:** Examine existing Lifeconomist research for a bounded, worthwhile audience-facing question without starting production just because the publishing capability exists.
