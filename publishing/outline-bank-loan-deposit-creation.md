@@ -34,21 +34,21 @@ Briefly acknowledge the familiar idea that banks collect savings and lend them t
 
 ### Beat 2 — Show the loan being made
 
-Use a hypothetical loan of 100 units, explicitly labelled as an illustration rather than real-world data.
+Use a hypothetical loan of $100, explicitly labelled as an illustration rather than real-world data.
 
 **Bank entries:**
-- Loan asset: +100
-- Customer deposit liability: +100
+- Loan asset: +$100
+- Customer deposit liability: +$100
 
 **Borrower entries:**
-- Deposit asset: +100
-- Loan liability: +100
+- Deposit asset: +$100
+- Loan liability: +$100
 
 **Evidence:** Bank of England (2014), balance-sheet example; IMF Working Paper 19/285, balance-sheet mechanics.
 
 **Visual:** Two side-by-side balance sheets, with matching entries highlighted. The graphic should make clear that the bank's asset is the borrower's obligation and the bank's liability is the borrower's deposit.
 
-**Plain-language explanation:** The bank has promised to honour the deposit and has acquired a claim on the borrower. The borrower can use the deposit to make payments, but also owes the loan. The entries balance; the borrower has not received a debt-free windfall.
+**Plain-language explanation:** The bank has promised to honour the $100 deposit and has acquired a claim on the borrower for $100. The borrower can use the deposit to make payments, but also owes the $100 loan. The entries balance; the borrower has not received a debt-free windfall.
 
 ### Beat 3 — Correct the first misconception
 
@@ -174,7 +174,7 @@ The topic has a plausible audience value because it replaces an incomplete every
 
 - The Bank of England's 2014 article directly supports the core mechanism and cautions against both the “banks simply lend out savers' deposits” account and a mechanical reserve-multiplier explanation. Its discussion of constraints is also useful. [Source](https://www.bankofengland.co.uk/quarterly-bulletin/2014/q1/money-creation-in-the-modern-economy)
 - The IMF working paper supports the distinction between bank lending/deposit creation and nonbank lending, and explains why liquid funding needs in a multi-bank system can coexist with deposit creation. It is a working paper whose views do not necessarily represent the IMF. [Source](https://www.imf.org/en/publications/wp/issues/2019/12/20/money-creation-in-fiat-and-digital-currency-systems-48843)
-- The loan example must be clearly labelled hypothetical. Show the asset/liability relationship accurately; do not label the loan as “free money.”
+- The $100 loan example must be clearly labelled hypothetical. Dollars are the chosen teaching denomination, not a claim about any country's banking data or rules. Show the asset/liability relationship accurately; do not label the loan as “free money.”
 - The phrase “money creation” should be explained immediately in ordinary language. Avoid sensational framing such as “banks create money from nothing” unless the precise accounting meaning and limits are explained in the same breath.
 - No Nigeria-specific regulatory or statistical claims are needed for this first version. Leave them out rather than imply the UK source describes Nigeria.
 
