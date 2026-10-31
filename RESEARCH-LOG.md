@@ -1,3 +1,13 @@
+## 2026-10-31 — Documenting flexible publishing and production capability
+
+- **Task:** Determine where Lifeconomist should document the proposed video-publishing capability after reviewing the project overview, current state, methodology, decision register, research log, and Global Financial System Exploration Map.
+- **Repository placement:** Created [publishing/README.md](publishing/README.md) as the canonical strategy and workflow document. Publishing is a cross-cutting communication/application capability, not a sixth workstream and not a required phase for every research task.
+- **Project links:** Linked the capability from [README.md](README.md), recorded the material decision as D-014 in [DECISION-REGISTER.md](DECISION-REGISTER.md), and added a dated checkpoint to [CURRENT-STATE.md](CURRENT-STATE.md).
+- **User decision preserved:** Begin with faceless narrated documentary videos using diagrams and useful cinematic/illustrative visuals; publish on YouTube first, then selectively adapt suitable material for X/Twitter, LinkedIn, TikTok, and Instagram Reels. The goal is to build a trusted knowledge brand, support future business opportunities, and potentially generate income over time.
+- **Governing safeguards:** Timing, duration, format, topic, tools, and distribution remain flexible. No publication schedule or first-video topic is committed. Preserve alternative production methods without activating all of them. GitHub remains the canonical project record; optional tools must solve a demonstrated need; public claims inherit Lifeconomist's evidence and source-provenance standards.
+- **Scope and limits:** This is a documentation and governance change, not a review establishing that existing research is publication-ready, a tool installation/integration, a production start, or a validated audience/monetization plan.
+- **Verification required:** Fetch each changed file after edits and confirm that the links, strategy, and project-state references agree.
+
 ## 2026-10-30 — Propagating continuity, pause, and revision across project records
 
 - **Task:** Audit the repository's core architecture, project overview, research programmes, measurement workflow, evidence registers, and checkpoints against the project-wide Continuity, Pause, and Revision Principle.
