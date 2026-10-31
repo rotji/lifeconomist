@@ -1,3 +1,9 @@
+## 2026-10-31 — Audience and style selected for provisional first explainer
+
+- **User decision:** Primary audience is everyday bank customers; preferred style is a balanced documentary with clear narration, diagrams, and restrained cinematic visuals.
+- **Outline updated:** [Preliminary Explainer Outline](publishing/outline-bank-loan-deposit-creation.md) records the choice and its implications for language, visuals, and technical scope.
+- **Editorial implications:** Lead with a familiar bank-account question; define technical terms in plain language; explain diagrams in narration; do not let cinematic visuals imply evidence or wrongdoing; keep interbank settlement secondary.
+- **Next gate:** Draft a concise script for review with claim-source mapping and visual notes. No recording or publication commitment.
 ## 2026-10-31 — Editorial scope review of first explainer
 
 - **Task:** Review the provisional outline before script development, looking for scope creep, audience clarity, evidence sufficiency, and whether video is the right format.
