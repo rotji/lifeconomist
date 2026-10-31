@@ -99,4 +99,4 @@ Before scripting or approving a script:
 - No video has been scripted or produced by this review.
 - No publication date, length, schedule, budget, or paid tool has been selected.
 - Candidate A is recommended for the next research step only; Candidates B and C remain available.
-- The initial source audit is complete for the core general mechanism. The next possible action is a short outline—not a full script or production—if we judge the question worthwhile. If scope, audience value, or source limits make it unsuitable, pause or select another candidate.
+- The initial source audit is complete for the core general mechanism. A provisional, bounded outline has now been drafted in [Preliminary Explainer Outline](outline-bank-loan-deposit-creation.md). This is for review only—not a script approval or production commitment. Review the audience, scope, technical clarity, and claim-source checklist before deciding whether to proceed, revise, return to research, or choose another candidate.
