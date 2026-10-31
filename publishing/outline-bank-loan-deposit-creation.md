@@ -186,3 +186,22 @@ A narrated faceless video is a plausible format because the balance-sheet mechan
 
 **Suitable to proceed to a short draft script only if the user wants to continue.** The topic remains provisional, audience demand is untested, and the script must retain claim-level source checks. This review does not authorize recording, visual generation, paid-tool use, or publication.
 
+## 10. Audience and explanatory style decision (2026-10-31)
+
+**Decision recorded:** The user selected:
+- **Primary audience:** Everyday bank customers — people who save, borrow, and use bank accounts.
+- **Explanatory style:** Balanced documentary — clear narration, diagrams, and restrained cinematic visuals.
+
+### Implications for the outline
+
+- Begin with a familiar question about a bank loan and an account balance, not technical terminology.
+- Explain “deposit,” “loan asset,” and “liability” when first introduced, using everyday language before formal labels.
+- Keep the hypothetical balance-sheet example visible long enough for viewers to follow it.
+- Use narration to explain what the diagram means; never rely on arrows or labels alone.
+- Use cinematic visuals only to establish context or transitions. Use clear diagrams, not dramatic imagery, to communicate financial mechanics.
+- Keep technical details such as interbank settlement brief and secondary.
+- Avoid assuming the viewer knows monetary aggregates, reserves, or balance-sheet accounting.
+- Do not oversimplify the constraints: name them plainly, then explain only those needed for the central point.
+
+**Next gate:** Prepare a concise script draft for review with a claim-source map, on-screen visual notes, and plain-language narration. A draft is not approval to record or publish. If the script cannot explain the mechanism accurately in accessible language, revise the outline or stop.
+
