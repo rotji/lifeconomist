@@ -1,3 +1,14 @@
+## 2026-10-31 — Preliminary publication candidate and source audit
+
+- **Task:** Examine existing Lifeconomist research for a bounded, worthwhile audience-facing question without starting production just because the publishing capability exists.
+- **Repository review:** Compared existing work on bank credit/deposit creation, money versus wealth, and real GDP growth. Used the existing Concept 10 foundation and related concept notes rather than starting a duplicate investigation.
+- **Candidate screening:** Recorded three candidates and a provisional preference for “When a Bank Makes a Loan, Where Does the Money Come From?” in [First Publication Candidate Review](publishing/first-publication-candidate-review.md). The candidate remains provisional; no topic lock or production commitment.
+- **Source audit:** Created [Source Audit — Commercial-Bank Loan and Deposit Creation](publishing/source-audit-bank-loan-deposit-creation.md). Directly reviewed the Bank of England's 2014 *Money creation in the modern economy* article, the Bank of England public explainer, and IMF Working Paper 19/285. A BIS speech was identified as corroboration, but full-text retrieval was not successful in this pass.
+- **Initial finding:** Core general claim is well supported: when a commercial bank grants a loan and credits a borrower's account, it normally creates a matching deposit. Important caveats include bank balance-sheet entries, repayment, distinction from central-bank reserves, nonbank lending, interbank settlement/funding, profitability, risk, regulation, borrower demand, and monetary policy. Loan/deposit creation is not unlimited and is not equivalent to creating real resources or guaranteed net wealth.
+- **Scope safeguard:** UK-specific money shares, rules, and operating arrangements must not be presented as Nigerian facts. No Nigeria-specific institutional claim is cleared; current CBN sources would need separate review if such claims become necessary.
+- **State:** Initial source audit complete for the core general mechanism; script-level verification, audience choice, and a possible outline remain. No script, video, publishing date, cadence, budget, or paid tool selected.
+- **Continuity:** Source support is not an obligation to publish. The next action, if worthwhile, is a concise outline with claim/source mapping—not production. Reconsider or pause if the question no longer fits the intended audience or scope.
+
 ## 2026-10-31 — Documenting flexible publishing and production capability
 
 - **Task:** Determine where Lifeconomist should document the proposed video-publishing capability after reviewing the project overview, current state, methodology, decision register, research log, and Global Financial System Exploration Map.
