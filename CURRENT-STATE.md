@@ -126,3 +126,14 @@ Completed the ninth and final bullet-by-bullet audit of the 25 groups currently 
 - **Not established:** First video topic or title, duration, deadline, publication date, fixed cadence, production budget, audience validation, or monetization pathway.
 - **Next useful action:** When publishing becomes the active task, inspect the existing research records and select a bounded, evidence-supported question worth explaining. Do not start production just to satisfy this checkpoint.
 
+## First publication candidate research checkpoint (2026-10-31)
+
+- **Status:** Existing research screened; initial source audit completed for one provisional candidate. This is research screening only, not a production start.
+- **Shortlist:** (A) commercial-bank loan and deposit creation; (B) money versus wealth/liquidity; (C) what real GDP growth does and does not establish about living standards.
+- **Provisional lead:** “When a Bank Makes a Loan, Where Does the Money Come From?” See [candidate review](publishing/first-publication-candidate-review.md).
+- **Source audit:** See [bank loan/deposit source audit](publishing/source-audit-bank-loan-deposit-creation.md). The Bank of England's 2014 article, its public explainer, and IMF Working Paper 19/285 support the core general mechanism. A BIS speech was identified but not fully reviewed directly.
+- **Important caveats:** The explanation must distinguish deposit creation from real wealth, bank deposits from central-bank reserves, commercial-bank lending from nonbank lending, and initial origination from subsequent settlement/funding. Banks face demand, risk, profitability, regulatory, funding/liquidity, and monetary-policy constraints.
+- **Jurisdiction:** UK source details must not be generalized as Nigerian arrangements. Nigeria-specific claims remain out unless current CBN primary sources are separately checked.
+- **Not established:** Final topic, intended audience, title, duration, outline, script, production date, publishing schedule, budget, or monetization path.
+- **Next possible action:** If the candidate remains worthwhile, draft a short outline and claim/source map for review. No obligation to proceed to scripting or production.
+
