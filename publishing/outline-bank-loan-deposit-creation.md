@@ -142,3 +142,47 @@ Do not proceed automatically. Review the outline against these questions:
 - Intended audience: provisional general non-specialist audience.
 - Production: not started.
 - Platform, length, timing, cadence, budget, and tool choices: not locked.
+
+## 9. Editorial scope review (2026-10-31)
+
+### Assessment
+
+**Decision: Retain the candidate, narrow the first explainer, and do not start production yet.**
+
+The outline has a strong central question and a visible mechanism. Its main risk is not lack of material, but trying to explain too much at once. The detailed payment-settlement example could turn a first explanation of deposit creation into a lesson on the full banking system.
+
+### Revised scope for a first explanation
+
+Keep the main narrative to four moves:
+
+1. **The question:** Where does the money come from when a commercial bank grants a loan?
+2. **The mechanism:** Show the matching loan asset and deposit liability for the bank, and deposit asset and loan liability for the borrower.
+3. **The limit:** Explain in plain language that creating a deposit is not unlimited lending. Briefly name the main constraints without explaining every regulatory or operational mechanism.
+4. **The meaning:** Explain that the borrower has a deposit and a debt, and that financial entries alone do not create real resources or guarantee a productive result.
+
+The interbank payment/settlement point should be a brief supporting sentence or a small optional visual, not a full narrative beat in the first version. Explain only that a payment to a customer at another bank may require the banks to settle between themselves and manage liquidity. Avoid detailed reserve mechanics unless they prove essential to prevent a misconception.
+
+Loan repayment can be omitted from the main sequence if it makes the explanation crowded. It can be mentioned in a short closing note or saved for a separate future question.
+
+### Audience and value
+
+The working audience remains curious non-specialists who use bank accounts and encounter loans. That is specific enough for an outline, but before scripting we should decide whether to speak primarily to everyday bank customers, students learning economics, or people trying to understand the financial system. Do not attempt to serve all three equally in one short explanation.
+
+The topic has a plausible audience value because it replaces an incomplete everyday mental model with a transparent balance-sheet example. However, audience demand has not been tested. We should describe the candidate as educationally promising, not proven popular.
+
+### Evidence and visual review
+
+- The Bank of England's 2014 article directly supports the core mechanism and cautions against both the “banks simply lend out savers' deposits” account and a mechanical reserve-multiplier explanation. Its discussion of constraints is also useful. [Source](https://www.bankofengland.co.uk/quarterly-bulletin/2014/q1/money-creation-in-the-modern-economy)
+- The IMF working paper supports the distinction between bank lending/deposit creation and nonbank lending, and explains why liquid funding needs in a multi-bank system can coexist with deposit creation. It is a working paper whose views do not necessarily represent the IMF. [Source](https://www.imf.org/en/publications/wp/issues/2019/12/20/money-creation-in-fiat-and-digital-currency-systems-48843)
+- The loan example must be clearly labelled hypothetical. Show the asset/liability relationship accurately; do not label the loan as “free money.”
+- The phrase “money creation” should be explained immediately in ordinary language. Avoid sensational framing such as “banks create money from nothing” unless the precise accounting meaning and limits are explained in the same breath.
+- No Nigeria-specific regulatory or statistical claims are needed for this first version. Leave them out rather than imply the UK source describes Nigeria.
+
+### Format decision
+
+A narrated faceless video is a plausible format because the balance-sheet mechanism benefits from a simple animated diagram. A written explainer or single diagram could still communicate the core idea more efficiently. The eventual script should be short enough to answer the question without padding; exact duration is deliberately not fixed at this stage.
+
+### Gate result
+
+**Suitable to proceed to a short draft script only if the user wants to continue.** The topic remains provisional, audience demand is untested, and the script must retain claim-level source checks. This review does not authorize recording, visual generation, paid-tool use, or publication.
+
