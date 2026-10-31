@@ -1,3 +1,11 @@
+## 2026-10-31 — First narration draft prepared for review
+
+- **User choices applied:** Everyday bank customers; balanced documentary style with clear narration, diagrams, and restrained cinematic visuals.
+- **Artifact created:** [Script Draft v0.1](publishing/script-draft-bank-loan-deposit-creation-v0.1.md), linked to the existing outline and source audit.
+- **Content:** Five proposed scenes, narration, balance-sheet visual, claim-source map, and pre-approval checks.
+- **Editorial safeguards:** Hypothetical numbers labelled; bank and borrower assets/liabilities distinguished; deposit creation not framed as unlimited or fraudulent; real wealth not conflated with financial entries; UK-specific institutional details and unsupported Nigerian claims excluded.
+- **Status:** Text draft only. Claim-by-claim source review, accounting-graphic verification, read-aloud clarity check, and user's review remain outstanding. No recording, production, publication, schedule, budget, or paid tool authorized.
+- **Next step:** Review the draft and revise before deciding whether it deserves production.
 ## 2026-10-31 — Audience and style selected for provisional first explainer
 
 - **User decision:** Primary audience is everyday bank customers; preferred style is a balanced documentary with clear narration, diagrams, and restrained cinematic visuals.
