@@ -67,3 +67,8 @@ These tools are not automatically integrated. Important findings and decisions m
 
 ## Current working posture
 Durable project records and checkpoints are established. On each return, consult [CURRENT-STATE.md](CURRENT-STATE.md), [RESEARCH-LOG.md](RESEARCH-LOG.md), and the relevant source artifacts before choosing the next useful action. The measurement protocol for all six indicators remains important but does not have to be completed before useful work can proceed elsewhere. Keep measurement and historical-testing requirements as gates for formal state classification; do not turn the wider research programme into a mandatory linear completion sequence.
+
+## Publishing and knowledge communication
+
+Lifeconomist has a flexible, cross-cutting publishing capability for communicating selected research and supporting the development of a trusted knowledge brand and future applications. It is **not a sixth workstream**, a mandatory stage of every investigation, or a reason to rush research. The governing strategy, optional production methods, tool roles, evidence standards, and research-to-publication workflow are documented in [Publishing and Production Capability](publishing/README.md). The initial path is faceless narrated documentaries with diagrams and useful cinematic/illustrative visuals, YouTube first, with selective adaptation for X/Twitter, LinkedIn, TikTok, and Instagram Reels. Timing, length, format, and distribution remain flexible; no first-video topic or publication schedule is committed. GitHub remains the canonical project record, and substantive research claims must retain source provenance and the project's evidence standards.
+
