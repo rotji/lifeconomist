@@ -162,3 +162,13 @@ Completed the ninth and final bullet-by-bullet audit of the 25 groups currently 
 - **Recorded in:** [Preliminary Explainer Outline](publishing/outline-bank-loan-deposit-creation.md).
 - **Implications:** Use everyday language before accounting terms; hold the balance-sheet visual long enough to follow; narrate what diagrams mean; reserve cinematic visuals for context/transitions, not evidence; keep settlement mechanics brief.
 - **Next possible step:** Prepare a concise script draft with claim-source mapping and visual notes for review. A draft does not authorize recording or publication.
+
+## First explainer script draft checkpoint (2026-10-31)
+
+- **Audience:** Everyday bank customers.
+- **Style:** Balanced documentary — clear narration, explanatory diagrams, restrained cinematic visuals.
+- **New artifact:** [Script Draft v0.1 — When a Bank Makes a Loan, Where Does the Money Come From?](publishing/script-draft-bank-loan-deposit-creation-v0.1.md).
+- **Status:** Draft narration and visual plan for editorial/factual review only. It is not approved for recording, production, or publication.
+- **Structure:** Everyday question; hypothetical loan/deposit balance sheets; limits on lending; distinction between deposit creation and real wealth; concise answer.
+- **Open checks:** Verify exact source passages against final wording; verify the accounting graphic; decide whether the settlement sentence is useful; read aloud for clarity; retain caveats and keep jurisdiction-specific claims excluded unless separately sourced.
+- **Next action:** Review and revise the draft. No production date, publishing cadence, budget, paid tool, or production asset is approved.
