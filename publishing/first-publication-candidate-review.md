@@ -104,3 +104,7 @@ Before scripting or approving a script:
 ## Audience and style selected (2026-10-31)
 
 The user selected **everyday bank customers** as the primary audience and a **balanced documentary** style: clear narration, explanatory diagrams, and restrained cinematic visuals. The implications are recorded in the [outline](outline-bank-loan-deposit-creation.md). This choice narrows the communication approach but does not lock the topic or authorize production.
+
+## Script draft checkpoint (2026-10-31)
+
+A first text-only narration draft has been prepared for the provisional candidate: [Script Draft v0.1](script-draft-bank-loan-deposit-creation-v0.1.md). It is for editorial and factual review only. Claim-level verification and a decision to proceed remain pending; it is not authorization to record or publish.
