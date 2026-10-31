@@ -137,3 +137,11 @@ Completed the ninth and final bullet-by-bullet audit of the 25 groups currently 
 - **Not established:** Final topic, intended audience, title, duration, outline, script, production date, publishing schedule, budget, or monetization path.
 - **Next possible action:** If the candidate remains worthwhile, draft a short outline and claim/source map for review. No obligation to proceed to scripting or production.
 
+## Preliminary explainer outline checkpoint (2026-10-31)
+
+- **New artifact:** [Preliminary Explainer Outline — When a Bank Makes a Loan, Where Does the Money Come From?](publishing/outline-bank-loan-deposit-creation.md).
+- **Status:** Outline drafted for review only; no script approval, production start, final topic lock, or publication commitment.
+- **Structure:** Everyday puzzle; simplified bank/borrower balance sheets; misconception correction; payment settlement and lending constraints; distinction between financial claims and real wealth; concise conclusion.
+- **Evidence:** Initial source audit remains the supporting evidence record. The Bank of England's 2014 article and IMF Working Paper 19/285 support the core mechanism; exact final script wording must still be checked. The IMF identifies its working papers as authors' work that does not necessarily represent IMF views.
+- **Open decision:** Whether the outline is narrow, clear, and valuable enough to develop further; whether payment settlement belongs in the first explanation; and whether the intended audience is sufficiently specific.
+- **Next step:** Review and revise the outline, or pause/reselect. Do not move automatically to script or production.
