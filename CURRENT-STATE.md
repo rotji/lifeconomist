@@ -154,3 +154,11 @@ Completed the ninth and final bullet-by-bullet audit of the 25 groups currently 
 - **Audience:** Curious non-specialists remain a working assumption, not a validated audience segment. Before scripting, choose the primary audience more precisely.
 - **Evidence:** Rechecked the Bank of England's 2014 article and the IMF Working Paper 19/285 page. Both support the core mechanism; the IMF explicitly marks the paper as authors' views, not necessarily IMF views. Keep Nigeria-specific institutional claims excluded unless separately checked against current Nigerian primary sources.
 - **Decision gate:** Candidate is suitable for a short draft script only if the user chooses to continue after reviewing scope. Audience demand is untested; source support does not obligate publication.
+
+## First explainer audience and style decision (2026-10-31)
+
+- **Audience selected:** Everyday bank customers — people who save, borrow, and use bank accounts.
+- **Style selected:** Balanced documentary — clear narration, diagrams, and restrained cinematic visuals.
+- **Recorded in:** [Preliminary Explainer Outline](publishing/outline-bank-loan-deposit-creation.md).
+- **Implications:** Use everyday language before accounting terms; hold the balance-sheet visual long enough to follow; narrate what diagrams mean; reserve cinematic visuals for context/transitions, not evidence; keep settlement mechanics brief.
+- **Next possible step:** Prepare a concise script draft with claim-source mapping and visual notes for review. A draft does not authorize recording or publication.
