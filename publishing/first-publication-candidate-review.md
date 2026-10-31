@@ -1,7 +1,7 @@
 # First Publication Candidate Review
 
 **Date:** 2026-10-31  
-**Status:** Preliminary research-based screening; no production commitment and no final topic lock.  
+**Status:** Preliminary screening plus initial source audit; candidate remains provisional, with no production commitment or final topic lock.  
 **Purpose:** Identify a bounded, worthwhile public-explanation question from existing Lifeconomist research without repeating investigations or treating the new publishing capability as a reason to produce content.
 
 ## 1. Screening method
@@ -46,7 +46,7 @@ A strong concept note is not automatically publication-ready. The original sourc
 - Do not imply deposit creation removes constraints from creditworthy demand, risk, capital, liquidity, settlement, profitability, regulation, or borrower repayment.
 - Do not make Nigeria-specific claims about current aggregates or regulatory details without checking current CBN sources.
 
-**Readiness:** Strong conceptual starting point; **source-level verification still required before script approval**. The cited sources are recorded in the concept note, but their exact passages have not yet been audited against a proposed script claim list in this screening task.
+**Readiness:** Strong conceptual starting point. The initial core-mechanism source audit is now documented in [Source Audit — Commercial-Bank Loan and Deposit Creation](source-audit-bank-loan-deposit-creation.md). Core general claims are supported by the Bank of England and IMF materials reviewed; Nigeria-specific institutional claims remain unaudited and excluded by default. A claim-by-claim script review would still be required before any script is approved.
 
 ### Candidate B — Is money the same thing as wealth?
 
@@ -82,19 +82,21 @@ The title is a provisional framing, not a claim that the answer is simple or tha
 
 Candidate A currently offers the best balance of bounded scope, a clear visual mechanism, existing conceptual work, and a manageable verification task. This is a provisional judgment based on the repository review, not a final audience-tested topic decision.
 
-## 4. Required verification before scripting
+## 4. Verification completed and remaining
 
-1. Read the cited Bank of England article directly and identify passages supporting the specific claims about loan origination, deposit creation, repayment, and constraints.
-2. Check relevant BIS and IMF definitions where they add necessary precision rather than merely repeating the same explanation.
-3. If the video makes claims about Nigeria's own payment or monetary arrangements, consult the current CBN materials and narrow those claims to what they establish.
-4. Build a claim-source table with the intended wording, direct source, supporting passage, caveat, and confidence/status.
-5. Check the accounting example independently and label it as a simplified illustration.
-6. Record what the video will not claim, then conduct a plain-language review of the planned visual sequence.
-7. Only after these checks decide whether the question remains the best candidate and whether it is ready for a script.
+The initial source audit is documented in [Source Audit — Commercial-Bank Loan and Deposit Creation](source-audit-bank-loan-deposit-creation.md). The Bank of England's 2014 article was read directly, including its sections on deposit creation, repayment, constraints, and settlement. The Bank of England public explainer and IMF Working Paper 19/285 were also reviewed. A BIS speech was identified as corroboration, but full-text retrieval was not successful in this pass.
+
+Before scripting or approving a script:
+1. Confirm the intended audience and choose the desired scope: a concise general explanation or a slightly broader account including payment settlement.
+2. Use the source-audit matrix to verify every factual script claim and preserve the relevant caveat.
+3. Keep Nigeria-specific institutional claims out unless current CBN primary sources are separately checked.
+4. Check the accounting example independently and label it as a simplified illustration.
+5. Review the planned visual sequence in plain language, including what it does not demonstrate.
+6. Reconsider whether the candidate remains worthwhile; source support does not obligate us to publish.
 
 ## 5. Continuity checkpoint
 
 - No video has been scripted or produced by this review.
 - No publication date, length, schedule, budget, or paid tool has been selected.
 - Candidate A is recommended for the next research step only; Candidates B and C remain available.
-- The next useful action is the bounded source audit for Candidate A. If the sources do not support the intended explanation clearly enough, revise, pause, or select another candidate rather than forcing production.
+- The initial source audit is complete for the core general mechanism. The next possible action is a short outline—not a full script or production—if we judge the question worthwhile. If scope, audience value, or source limits make it unsuitable, pause or select another candidate.
