@@ -145,3 +145,12 @@ Completed the ninth and final bullet-by-bullet audit of the 25 groups currently 
 - **Evidence:** Initial source audit remains the supporting evidence record. The Bank of England's 2014 article and IMF Working Paper 19/285 support the core mechanism; exact final script wording must still be checked. The IMF identifies its working papers as authors' work that does not necessarily represent IMF views.
 - **Open decision:** Whether the outline is narrow, clear, and valuable enough to develop further; whether payment settlement belongs in the first explanation; and whether the intended audience is sufficiently specific.
 - **Next step:** Review and revise the outline, or pause/reselect. Do not move automatically to script or production.
+
+## First explainer editorial scope review (2026-10-31)
+
+- **Review artifact:** Editorial scope review added to [Preliminary Explainer Outline](publishing/outline-bank-loan-deposit-creation.md).
+- **Decision:** Retain the candidate provisionally, narrow the first explanation, and do not start production. A concise four-move narrative is preferred: question, balance-sheet mechanism, constraints, and money-versus-wealth distinction.
+- **Scope change:** Payment settlement should be a brief supporting note or optional visual rather than a full narrative beat. Repayment can be omitted if it crowds the explanation.
+- **Audience:** Curious non-specialists remain a working assumption, not a validated audience segment. Before scripting, choose the primary audience more precisely.
+- **Evidence:** Rechecked the Bank of England's 2014 article and the IMF Working Paper 19/285 page. Both support the core mechanism; the IMF explicitly marks the paper as authors' views, not necessarily IMF views. Keep Nigeria-specific institutional claims excluded unless separately checked against current Nigerian primary sources.
+- **Decision gate:** Candidate is suitable for a short draft script only if the user chooses to continue after reviewing scope. Audience demand is untested; source support does not obligate publication.
