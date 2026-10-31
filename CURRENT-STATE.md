@@ -113,3 +113,16 @@ Completed the ninth and final bullet-by-bullet audit of the 25 groups currently 
 - **Next-return protocol:** Check project state; inspect relevant source record; verify what is known and unknown; review material new information; assess downstream impact; choose whether to continue, revise, pause, or close; update durable records.
 - **Project-wide propagation (2026-10-30):** The governing principle was propagated into the README, Global Financial System Exploration Map, Workstream A roadmap/index/reconciliation, Workstream E architecture and FX programme, ECAI foundation/synthesis, Footprint Intelligence architecture, GDP specification/evidence audit, measurement/evidence-register guidance, tool experiments, and Decision Register (D-013). The central rule remains in `RESEARCH-METHODOLOGY.md`; these local notes specify how to apply it. This was a governance alignment audit, not a full revalidation of every substantive claim in every concept note.
 - **Current priority rule:** Do not treat any milestone list as a demand to complete the project end-to-end. Select the next action from current value, evidence, feasibility, dependencies, and recorded state. Reopen earlier work only when there is a concrete reason, and review only the affected downstream records proportionately.
+
+## Publishing and production capability checkpoint (2026-10-31)
+
+- **Status:** Documented as a flexible, cross-cutting capability in [publishing/README.md](publishing/README.md); it is not a sixth workstream and does not impose a production schedule on research.
+- **Purpose:** Build a trusted knowledge brand, support future business opportunities, and potentially generate income over time. These are strategic aims, not validated outcomes or guaranteed revenue.
+- **Initial format:** Faceless documentary videos with narration, diagrams, evidence-based visualizations, and cinematic/illustrative visuals when they improve understanding.
+- **Distribution:** YouTube first; X/Twitter, LinkedIn, TikTok, and Instagram Reels are secondary options for selective adaptation.
+- **Flexibility rule:** Preserve alternative production methods, but activate only a narrow path when useful. Publication timing, length, style, and topic remain undecided and may change.
+- **Tool policy:** GitHub remains canonical for project decisions and research records. Zotero, Obsidian, NotebookLM, OBS Studio, editing software, Higgsfield, and other tools are optional and should be adopted only where they improve a demonstrated workflow need. Their mention does not imply installation, integration, or paid subscriptions.
+- **Evidence boundary:** Existing research is not automatically ready for public release. Each publication needs a bounded question, claim-level source checks appropriate to its scope, honest uncertainty, and a correction trail.
+- **Not established:** First video topic or title, duration, deadline, publication date, fixed cadence, production budget, audience validation, or monetization pathway.
+- **Next useful action:** When publishing becomes the active task, inspect the existing research records and select a bounded, evidence-supported question worth explaining. Do not start production just to satisfy this checkpoint.
+
