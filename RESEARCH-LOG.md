@@ -1,3 +1,12 @@
+## 2026-10-31 — Editorial scope review of first explainer
+
+- **Task:** Review the provisional outline before script development, looking for scope creep, audience clarity, evidence sufficiency, and whether video is the right format.
+- **Artifact updated:** [Preliminary Explainer Outline](publishing/outline-bank-loan-deposit-creation.md) now includes an editorial scope review.
+- **Decision:** Retain the bank-loan/deposit-creation question provisionally but narrow the first explanation to four moves: central question, balance-sheet mechanism, lending constraints, and money-versus-wealth distinction. Keep payment settlement brief/optional and omit loan repayment from the main narrative if it crowds the explanation.
+- **Audience:** Curious non-specialists are the working audience; before scripting, refine this to everyday bank customers, economics students, or people seeking to understand the financial system. Audience demand remains untested.
+- **Evidence recheck:** Reopened the Bank of England 2014 article and IMF Working Paper 19/285 publication page. The Bank of England states that most money in the modern economy is created by commercial-bank lending and rejects the simplistic account that banks merely lend savers' deposits. The IMF paper summary explicitly distinguishes bank lending/deposit creation from nonbank lending while noting that liquid funding needs and reserve transfers remain relevant in a multi-bank system. The IMF page states that working-paper views are those of the authors and do not necessarily represent IMF management or Board views.
+- **Limitations:** No Nigeria-specific institutional claims cleared; no audience test; no script-level claim audit; no production commitment.
+- **Next decision:** Review whether to develop a short script draft, revise the audience/scope, or stop/choose another topic. The outline is not approval to produce or publish.
 ## 2026-10-31 — Drafting a bounded explainer outline
 
 - **Task:** Continue the candidate-screening workflow by preparing a reviewable outline before any script or production.
