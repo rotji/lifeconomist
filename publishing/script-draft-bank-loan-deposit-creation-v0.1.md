@@ -1,7 +1,7 @@
 # Script Draft v0.1 — When a Bank Makes a Loan, Where Does the Money Come From?
 
 **Date:** 2026-10-31  
-**Status:** First narration draft for editorial and factual review only. Not approved for recording, production, or publication.  
+**Status:** Original seven-scene narration recorded; two-scene explanatory extension added on 2026-11-04 and awaiting separate voice recording and review. Not yet approved for publication.  
 **Audience:** Everyday bank customers — people who save, borrow, and use bank accounts.  
 **Style:** Balanced documentary: clear narration, explanatory diagrams, restrained cinematic visuals.  
 **Outline:** [Preliminary Explainer Outline](outline-bank-loan-deposit-creation.md)  
@@ -120,3 +120,54 @@ Understanding where bank money comes from is useful. Understanding the debt atta
 ## Explicitly not decided
 
 No final title, runtime, recording date, publishing date, schedule, budget, music, paid tools, or production assets have been approved. This is a text draft for review, not a commitment to make or publish the video.
+
+
+## Extension added after the first seven-scene recording (2026-11-04)
+
+**Editorial reason:** The first cut explains that the bank's deposit is its liability, but a follow-up comprehension question showed that the everyday meaning of this obligation needed to be made explicit. The video now continues with two additional scenes. These extend the existing explanation; they do not replace the original seven scenes or their recordings.
+
+### Scene 8 — What the bank owes you
+
+**Visual:** Show the customer's existing bank deposit claim of $100. Show three ways to use the same claim: pay, transfer, or withdraw cash. Make clear that these are ways the bank honours the same deposit balance, not separate $100 payments.
+
+**Narration to record separately:**
+
+The bank also owes you something: the one hundred dollars in your account. That is what we mean when we call your deposit a liability of the bank. You can use that balance to pay someone, transfer it, or withdraw cash, subject to your account terms. The bank is not paying you another one hundred dollars on top of the deposit. The balance already credited to your account is the money it must honour.
+
+**Plain-language point:** The bank's deposit liability is the customer's deposit asset. The customer can use that deposit claim; the bank does not owe a second $100 in addition to the balance already credited.
+
+### Scene 9 — What happens when you repay the loan?
+
+**Visual:** Label this a simplified standard case and principal only, excluding interest. Show the initial borrower and bank entries, then show the principal repayment reducing each matching position.
+
+**Starting positions:**
+
+| Entity | Entry | Starting amount |
+|---|---|---:|
+| Borrower | Bank deposit — asset | +$100 |
+| Borrower | Loan owed — liability | $100 |
+| Bank | Loan receivable — asset | +$100 |
+| Bank | Deposit owed — liability | +$100 |
+
+**After $100 principal repayment in this simplified example:**
+
+| Entity | Entry | Change |
+|---|---|---:|
+| Borrower | Bank deposit — asset | −$100 |
+| Borrower | Loan owed — liability | −$100 |
+| Bank | Loan receivable — asset | −$100 |
+| Bank | Deposit owed — liability | −$100 |
+
+**Narration to record separately:**
+
+Now imagine you repay the one hundred dollars of loan principal. Your bank deposit falls by one hundred dollars, and your loan debt also falls by one hundred dollars. On the bank's side, the loan it is owed becomes smaller, and the deposit it owes you becomes smaller too. In this simplified case, the deposit money used to repay the principal is extinguished as the loan is repaid. Interest is a separate matter, so we are leaving it out of this example.
+
+**Plain-language point:** The repayment reduces both the borrower's deposit and debt, and the bank's matching deposit liability and loan asset. This is the simplified principal-repayment mechanism; interest is deliberately excluded.
+
+### Recording and editing status
+
+- The original seven scenes and their user-recorded voice recordings remain unchanged.
+- Scenes 8 and 9 have been appended visually in Descript. They currently contain no narration audio or captions.
+- Record the two passages above separately in the user's voice. Do not overwrite any of the original seven recordings.
+- After recording, fit each new scene to its actual narration duration and create/check one synchronized caption track.
+- Keep the example hypothetical and $100 throughout.
