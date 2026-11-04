@@ -172,3 +172,13 @@ Completed the ninth and final bullet-by-bullet audit of the 25 groups currently 
 - **Structure:** Everyday question; hypothetical loan/deposit balance sheets; limits on lending; distinction between deposit creation and real wealth; concise answer.
 - **Open checks:** Verify exact source passages against final wording; verify the accounting graphic; decide whether the settlement sentence is useful; read aloud for clarity; retain caveats and keep jurisdiction-specific claims excluded unless separately sourced.
 - **Next action:** Review and revise the draft. No production date, publishing cadence, budget, paid tool, or production asset is approved.
+
+
+## First bank-money video — deposit liability and repayment clarification (2026-11-04)
+
+- **New artifact:** [Explainer Addendum — What the Bank Owes the Borrower, and What Happens When the Loan Is Repaid](publishing/addendum-bank-deposit-liability-and-loan-repayment.md).
+- **Finding:** The existing source audit, outline, and script already state that the bank's deposit is a liability, the borrower's deposit is an asset, and principal repayment generally reduces the associated deposit money in the standard case. They did not fully translate the bank's deposit liability into the everyday customer's perspective.
+- **Clarification:** The bank must honour the customer's deposit balance through permitted payments, transfers, or withdrawals under the account terms. This is not a second $100 payment separate from the credited deposit. The borrower's loan principal is a distinct obligation.
+- **Video extension:** Add two new segments after the existing balance-sheet explanation: (1) how the bank honours the customer's deposit, and (2) how repayment of $100 principal reduces the borrower's loan and deposit and the bank's matching loan asset and deposit liability in the simplified standard case.
+- **Production constraint:** Preserve all seven existing user-recorded voice segments. Add new segments separately; do not replace or regenerate existing narration. Keep the example hypothetical and avoid introducing unsupported Nigeria-specific legal claims.
+- **Evidence basis:** Existing Bank of England source audit and public explainer; see the addendum for links and qualifications.
