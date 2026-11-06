@@ -124,6 +124,18 @@ This is a flexible reasoning aid, not a mandatory checklist. Use only the dimens
 
 **Division of responsibility:** This subsection establishes the cross-workstream principle. Workstream A explains concepts and mechanisms; B defines and validates measurements; C monitors and interprets economic developments; D provides the specialized footprint-based investigation capability, including trace inventories, entity/relationship mapping, corroboration, and uncertainty; E evaluates possible economic actions and returns outcomes and lessons to the other workstreams. Their existing definitions remain authoritative. See `FOOTPRINT-INTELLIGENCE-ARCHITECTURE.md` for the detailed proposed D process. This shared principle does not create a new workstream, add core economic indicators, or imply that the proposed D capability is already implemented.
 
+### End-to-End Opportunity and Capability-Leverage Principle
+
+Across Lifeconomist's domains and workstreams, when an investigation has a practical or commercial dimension, consider both the value available in individual stages of a system and the possibility of connecting stages to deliver a complete customer outcome. This is an opportunity-discovery lens, not a new workstream and not an instruction to commercialize every finding.
+
+A complete outcome does not require Lifeconomist to build, own, or operate every capability involved. Investigate what already exists: established providers, platforms, technologies, infrastructure, specialist services, distribution channels, and other capabilities that may be accessed or combined through legitimate arrangements. The opportunity may lie in building a missing component, but it may instead lie in integrating, coordinating, implementing, distributing, financing, verifying, or otherwise leveraging existing capabilities. Sometimes the best opportunity is to use or identify an existing end-to-end provider rather than create a competing solution.
+
+For relevant investigations, ask what outcome the customer needs; which stages and dependencies matter; who already supplies each capability; whether an existing provider already delivers the whole outcome; where material gaps or friction remain; what role could create value; and whether access, terms, accountability, risks, and economics make that role feasible. Compare an integrated offer with a focused specialist position. More stages, more ownership, and more integration are not inherently better.
+
+Treat provider capabilities and partnership routes as hypotheses until availability, permission, reliability, compatibility, commercial terms, legal and regulatory conditions, and customer value have been checked. Do not infer a partnership from a public listing or assume that a provider permits resale, integration, or redistribution. The detailed opportunity method belongs in [Workstream E — Opportunity Intelligence and Economic Application](WORKSTREAM-E-ARCHITECTURE.md#end-to-end-opportunity-exploration-and-capability-leverage).
+
+This principle complements the Reality-First and Interconnected Reality principles: understanding how a system connects can reveal where an integrated customer outcome is possible, while Workstream E evaluates whether a particular role in delivering that outcome is economically and practically justified. It does not prescribe that Lifeconomist become an end-to-end operator.
+
 ### Default conceptual investigation sequence
 
 For concepts studied under Workstream A, use this sequence by default:
