@@ -281,3 +281,16 @@ This document establishes a broad exploration frame only. It does not establish 
 The initial waste-to-carbon observation and the Mat3ra materials-modelling observation are retained as discovery leads. They should not displace other territories or be treated as selected priorities.
 
 Next useful work should be chosen from the evidence and current project state. A sensible discovery action is to inspect the domain map for omissions and overlaps, then build a source-backed opportunity landscape across more than one territory before selecting any candidate for deeper technical or commercial investigation. Do not turn this into a rigid sequence or attempt to research every territory at once. Preserve the stopping point and update this document only when meaningful discoveries change the map.
+
+
+## 15. Horizontal-first exploration sequence
+
+**Operating decision (2026-11-06):** Environmental Opportunity Intelligence will initially progress horizontally across the major territories before descending deeply into individual branches.
+
+- First, establish a useful broad map of each major territory at a comparable level of detail. Identify its principal subcategories, systems, value-chain positions, technologies, users, markets, and possible opportunity forms without attempting to exhaust every branch.
+- Then move to the next major territory. Do not keep descending one territory to its smallest units while the other major territories remain unexplored at the initial mapping level.
+- Once the horizontal survey has covered the major territories, return for vertical exploration: descend into selected subcategories and smaller economic activity/opportunity units, guided by discoveries, evidence, dependencies, and the user's choices.
+- An opportunity may be surfaced at any point during the horizontal survey. Present it immediately with an honest assessment of what is known, what remains unverified, and what a realistic entry route might require. The user may choose to pause the survey and investigate it; otherwise record it as a lead and continue horizontally.
+- Preserve each territory's stopping point so that later vertical exploration resumes where it stopped rather than repeating its initial mapping.
+
+This is a deliberate breadth-before-depth method, not a claim that all territories must receive identical effort or that the horizontal survey must be completed before responding to an urgent, unusually strong, or user-selected opportunity. The user controls when to pause, deepen, or change direction.
