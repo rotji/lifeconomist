@@ -170,3 +170,16 @@ Do not let view B shrink view A. Do not let view A make view B unrealistic. The 
 - **Next action:** choose one Level 3 subcategory for Level 4 decomposition. In parallel, use the resource inventory and minimum opportunity test to assess practical entry routes only when a concrete field or customer problem emerges.
 
 Apply the project-wide Continuity, Pause, and Revision Principle: inspect the current stopping point before resuming, do not repeat completed levels, and revise earlier branches only when new evidence or a specific dependency justifies it.
+
+
+## 8. Horizontal-first sequence update (2026-11-06)
+
+The Level 3 map above is the current stopping point for **1.1 Land and Terrestrial Resources**. Do not descend into Level 4 yet merely to exhaust this branch.
+
+The agreed environmental exploration method is **horizontal first, vertical later**:
+- Build an initial broad map of each major environmental territory at a comparable level before deeply decomposing one territory.
+- Move across the major territories, recording their principal subcategories and opportunity landscape.
+- Surface realistic participation opportunities immediately, but hold deeper investigation until the user chooses to pause the horizontal survey.
+- After the horizontal pass, return to selected branches for Level 4 and finer decomposition.
+
+**Current branch status:** 1.1 has an initial Level 3 map; its deeper decomposition is deferred. The land-observation service idea raised during discussion is an unvalidated lead, not a selected opportunity. Preserve it for later without interrupting the horizontal sequence.
