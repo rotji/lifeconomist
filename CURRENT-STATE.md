@@ -192,3 +192,12 @@ Completed the ninth and final bullet-by-bullet audit of the 25 groups currently 
 - **Discovery leads retained:** The initial waste-to-carbon machine observation and the supplied Mat3ra materials-modelling company profile are leads within the larger map, not selected priorities or independently validated opportunity claims.
 - **Status:** Scope framework only. No technology, market, business, investment, or product has been validated or approved. The map remains open to correction and expansion under the Continuity, Pause, and Revision Principle.
 - **Next useful action:** Review the map for material omissions and build a source-backed landscape across more than one environmental territory before selecting any candidate for deeper investigation. Do not treat this as a mandatory linear programme.
+
+
+## End-to-end opportunity principle (2026-11-06)
+
+- **Decision:** Adopt the End-to-End Opportunity and Capability-Leverage Principle as a cross-cutting Lifeconomist method, with its detailed operating method in [Workstream E](WORKSTREAM-E-ARCHITECTURE.md#end-to-end-opportunity-exploration-and-capability-leverage).
+- **Scope:** For relevant investigations, consider both individual opportunities within a system or value chain and integrated solutions that deliver a complete customer outcome. This applies across E1–E5 and opportunities emerging from other workstreams; it is not limited to environmental opportunities.
+- **Capability leverage:** Do not assume Lifeconomist must build, own, or operate every component. Investigate existing providers, platforms, technologies, infrastructure, specialist services, and legitimate ways to access or combine them. An existing end-to-end provider may be more suitable than creating a competing solution.
+- **Safeguards:** Verify provider availability, permission, reliability, compatibility, commercial terms, customer value, accountability, legal/regulatory requirements, and economics. A specialist opportunity may be preferable; integration is not automatically better.
+- **Status:** Methodological principle documented; no specific provider, partnership, integrated offer, or business opportunity is thereby validated or approved.
