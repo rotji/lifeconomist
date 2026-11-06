@@ -387,3 +387,12 @@ The user requested mass documentation of the horizontal and vertical environment
 First completed batch: [Environmental Land Resources Vertical Mass Map — Batch 01](ENVIRONMENTAL-LAND-RESOURCES-VERTICAL-MASS-MAP-BATCH-01.md), covering 3.1.1.2–3.1.1.12. Together with the separate [3.1.1.1 investigation](ENVIRONMENTAL-LAND-AS-SPATIAL-AND-PHYSICAL-ASSET.md), all 12 branches under 3.1.1 now have at least a first-pass vertical map. This does not mean all branches are technically or commercially validated.
 
 Next batch: **3.1.2 Forest and Forestry Resources**. Continue through the remaining natural-resource families under 3.1, then map vertical branches across 3.2–3.15 in comparable batches. Only after broad vertical coverage should selected branches receive deeper validation, unless a clear dependency or user decision justifies a pause.
+
+
+## 20. Vertical mass-map Batch 02 — Forest and Forestry Resources (2026-11-06)
+
+[Forest and Forestry Resources Vertical Mass Map — Batch 02](ENVIRONMENTAL-FOREST-AND-FORESTRY-RESOURCES-VERTICAL-MASS-MAP-BATCH-02.md) documents a first-pass vertical map of 3.1.2 across 15 branches: forest inventories; silviculture; timber; plantations; NTFPs; nursery and seed systems; harvesting; access infrastructure; forest protection; community forestry; restoration; forest carbon; processing; traceability/certification; and policy/tenure/governance.
+
+This is taxonomy-level mapping, not a current national forest inventory, a verified market assessment, or an opportunity selection. It explicitly cross-references biodiversity (3.8), agriculture (3.9), waste (3.2), energy (3.4), climate/carbon (3.5), environmental intelligence (3.12), and governance/economics (3.15) to prevent duplication.
+
+**Current resource-family progress:** 3.1.1 Land and Terrestrial Resources — first-pass vertical map complete; 3.1.2 Forest and Forestry Resources — first-pass vertical map complete. Next batch: **3.1.3 Freshwater Resources**, with a clear boundary from water-service operations already mapped under 3.3.
