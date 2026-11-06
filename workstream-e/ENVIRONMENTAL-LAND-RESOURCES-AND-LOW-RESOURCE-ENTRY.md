@@ -8,7 +8,7 @@
 
 The environmental economy is being explored recursively: major territory → subcategory → finer subcategory → smallest useful economic activity or opportunity unit. We will move down one branch at a time, preserve the stopping point, and avoid repeating completed branches.
 
-The first branch selected is **1.1 Land and terrestrial resources**.
+The first branch selected is **3.1.1 Land and terrestrial resources**.
 
 A second question now applies throughout the exploration: how could someone enter or contribute to an environmental-economy field when they have little or no startup money, established network, specialist equipment, or institutional backing?
 
@@ -29,53 +29,53 @@ This branch is not intended to absorb every subject that happens to occur on lan
 
 These are primary filing locations, not walls between connected subjects. A land-use question may require soil, water, biodiversity, geology, agriculture, property rights and intelligence evidence together.
 
-## 3. Level 3 — Immediate subcategories of 1.1
+## 3. Level 3 — Immediate subcategories of 3.1.1
 
-The following is a provisional decomposition of **1.1 Land and Terrestrial Resources**. It identifies different dimensions of land rather than claiming that each is a separate market.
+The following is a provisional decomposition of **3.1.1 Land and Terrestrial Resources**. It identifies different dimensions of land rather than claiming that each is a separate market.
 
-### 1.1.1 Land as a spatial and physical asset
+### 3.1.1.1 Land as a spatial and physical asset
 Land parcels, plots, sites, area, boundaries, location, shape, adjacency, fragmentation and spatial configuration. Relevant questions include where land is, how much exists, how parcels connect, and what physical constraints affect its use.
 
-### 1.1.2 Terrain, topography and landforms
+### 3.1.1.2 Terrain, topography and landforms
 Elevation, slope, aspect, valleys, plains, plateaus, hills, mountains, escarpments, depressions, ravines and other landforms. Terrain affects access, construction, drainage, erosion risk, agriculture, infrastructure and hazard exposure.
 
-### 1.1.3 Surface cover and terrestrial land cover
+### 3.1.1.3 Surface cover and terrestrial land cover
 Bare ground, vegetation cover, grassland, shrubland, woodland, forest cover, wetlands, cultivated surfaces, built-up areas, exposed rock and other surface-cover classes. This is about what physically covers the land; the detailed economic activity associated with each cover type may sit in another territory.
 
-### 1.1.4 Land use and land-use systems
+### 3.1.1.4 Land use and land-use systems
 Residential, commercial, industrial, agricultural, conservation, recreational, transport, mining, infrastructure and mixed-use land. Distinguish **land cover** (what is physically present) from **land use** (what people do with or designate the land for).
 
-### 1.1.5 Terrestrial ecosystems and ecological landscapes
+### 3.1.1.5 Terrestrial ecosystems and ecological landscapes
 Connected terrestrial ecological areas, landscape mosaics, ecological corridors, habitat patches and land-based ecosystem functions. Detailed species and ecosystem analysis belongs primarily in the biodiversity territory, but landscape condition and connectivity are relevant here.
 
-### 1.1.6 Land condition, disturbance and physical constraints
+### 3.1.1.6 Land condition, disturbance and physical constraints
 Physical instability, surface disturbance, compaction, erosion features, subsidence, landslide exposure, desertification, degradation, excavation, abandoned sites and other conditions affecting land capability. Detailed soil diagnosis and remediation are cross-referenced to their specialist territories.
 
-### 1.1.7 Land availability, suitability and competing uses
+### 3.1.1.7 Land availability, suitability and competing uses
 Whether land is physically, legally, ecologically and practically suitable for a specified use; competing demands; exclusion zones; buffers; access constraints; and trade-offs between uses. Suitability is purpose-specific: land suitable for one use may be unsuitable for another.
 
-### 1.1.8 Land access, tenure, rights and restrictions
+### 3.1.1.8 Land access, tenure, rights and restrictions
 Ownership and occupancy, customary and statutory tenure, leases, easements, licences, community rights, public land, protected status, access permissions, disputes and restrictions. Legal status must be checked in the relevant jurisdiction; a map or public record is not proof that land is available to use.
 
-### 1.1.9 Land development, preparation and site servicing
+### 3.1.1.9 Land development, preparation and site servicing
 Site selection, clearing where lawful, grading, earthworks, drainage, access roads, utilities, site preparation, rehabilitation obligations and ongoing site management. These activities can create environmental impacts and require permits, competent operators and safeguards.
 
-### 1.1.10 Land observation, mapping and change intelligence
+### 3.1.1.10 Land observation, mapping and change intelligence
 Parcel and boundary mapping, terrain models, land-cover classification, land-use mapping, site inventories, change detection, field verification and land-condition records. This is a capability layer that overlaps strongly with environmental intelligence and geospatial services.
 
-### 1.1.11 Land stewardship, conservation and restoration
+### 3.1.1.11 Land stewardship, conservation and restoration
 Land protection, sustainable management, rehabilitation, ecological restoration, erosion prevention, landscape connectivity, conservation agreements and long-term monitoring. Claims of restoration or improved land condition require a baseline, measurable outcomes, rights-holder engagement and follow-up evidence.
 
-### 1.1.12 Land markets, valuation and allocation
+### 3.1.1.12 Land markets, valuation and allocation
 Land transactions, rents, site valuation, land assembly, public allocation, concessions and the economic effects of location, access, infrastructure, restrictions and competing uses. Valuation is not simply a physical measurement; it depends on rights, market evidence, intended use and legal context.
 
 ## 4. How to interpret the hierarchy
 
-The subcategories are analytical doors into the same physical landscape. They can overlap. For example, a proposed industrial site may require parcel and tenure checks (1.1.1 and 1.1.8), terrain analysis (1.1.2), land-cover and ecological review (1.1.3 and 1.1.5), suitability assessment (1.1.7), and site preparation analysis (1.1.9).
+The subcategories are analytical doors into the same physical landscape. They can overlap. For example, a proposed industrial site may require parcel and tenure checks (3.1.1.1 and 3.1.1.8), terrain analysis (3.1.1.2), land-cover and ecological review (3.1.1.3 and 3.1.1.5), suitability assessment (3.1.1.7), and site preparation analysis (3.1.1.9).
 
 Do not force a single label where the real-world system is interconnected. Keep one primary location in the taxonomy and add cross-references to other relevant branches.
 
-**Stopping point:** Level 3 for 1.1 is outlined. No Level 4 decomposition has yet been completed. The next taxonomy action is to select one of these subcategories and descend one level, not to jump to unrelated branches.
+**Stopping point:** Level 3 for 3.1.1 is outlined. No Level 4 decomposition has yet been completed. The next taxonomy action is to select one of these subcategories and descend one level, not to jump to unrelated branches.
 
 ## 5. A practical access lens for someone starting with limited resources
 
@@ -162,8 +162,8 @@ Do not let view B shrink view A. Do not let view A make view B unrealistic. The 
 
 ## 7. Working record and next step
 
-- **Taxonomy branch:** 1.1 Land and Terrestrial Resources.
-- **Completed here:** provisional Level 3 decomposition (1.1.1–1.1.12).
+- **Taxonomy branch:** 3.1.1 Land and Terrestrial Resources.
+- **Completed here:** provisional Level 3 decomposition (3.1.1.1–3.1.1.12).
 - **Not yet completed:** Level 4 and finer units for any of these subcategories.
 - **New cross-cutting lens:** assess accessible entry routes using all available resources, not money alone.
 - **No opportunity selected:** this document does not claim that any listed activity is locally available, pays well, requires no capital, or is suitable without further investigation.
@@ -174,7 +174,7 @@ Apply the project-wide Continuity, Pause, and Revision Principle: inspect the cu
 
 ## 8. Horizontal-first sequence update (2026-11-06)
 
-The Level 3 map above is the current stopping point for **1.1 Land and Terrestrial Resources**. Do not descend into Level 4 yet merely to exhaust this branch.
+The Level 3 map above is the current stopping point for **3.1.1 Land and Terrestrial Resources**. Do not descend into Level 4 yet merely to exhaust this branch.
 
 The agreed environmental exploration method is **horizontal first, vertical later**:
 - Build an initial broad map of each major environmental territory at a comparable level before deeply decomposing one territory.
@@ -182,4 +182,4 @@ The agreed environmental exploration method is **horizontal first, vertical late
 - Surface realistic participation opportunities immediately, but hold deeper investigation until the user chooses to pause the horizontal survey.
 - After the horizontal pass, return to selected branches for Level 4 and finer decomposition.
 
-**Current branch status:** 1.1 has an initial Level 3 map; its deeper decomposition is deferred. The land-observation service idea raised during discussion is an unvalidated lead, not a selected opportunity. Preserve it for later without interrupting the horizontal sequence.
+**Current branch status:** 3.1.1 has an initial Level 3 map; its deeper decomposition is deferred. The land-observation service idea raised during discussion is an unvalidated lead, not a selected opportunity. Preserve it for later without interrupting the horizontal sequence.
