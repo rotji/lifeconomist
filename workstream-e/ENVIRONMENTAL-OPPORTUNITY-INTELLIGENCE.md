@@ -371,3 +371,10 @@ The broad horizontal survey is followed by a cross-territory candidate longlist,
 The first proposed sequence is: (1) one bounded geospatial/environmental intelligence use case (ENV-C05); (2) one commodity and post-harvest stage (ENV-C07/C08); and (3) one waste material stream and its existing chain (ENV-C01/C02). This is a provisional research sequence awaiting the user's direction, not a final business or Lifeconomist direction. Other candidates remain open. Evidence confidence and local customer demand must be established before any opportunity is described as viable.
 
 Every subsequent exploration batch must be documented in GitHub, with its evidence, unknowns, dependencies, decisions, and stopping point, before moving to the next major task.
+
+
+## 18. First vertical investigation commenced (2026-11-06)
+
+The user chose to begin the first vertical investigation rather than adopt the assistant's proposed candidate sequence. The first unit in the existing taxonomy, **3.1.1.1 Land as a Spatial and Physical Asset**, has an initial desk-based investigation documented here: [Vertical Investigation 3.1.1.1](ENVIRONMENTAL-LAND-AS-SPATIAL-AND-PHYSICAL-ASSET.md).
+
+The record covers parcel/site identity, spatial reference, geometry, boundary evidence, topology, subdivision and change history, access, context, document linkage, Nigeria institutional context, value-chain roles, constraints, and unvalidated hypotheses. It does not validate a business opportunity. The next unit in sequence is **3.1.1.2 Terrain, Topography, and Landforms**. Preserve this stopping point and avoid repeating completed parcel-identity work.
