@@ -407,6 +407,8 @@ For local execution, distinguish a desk-research service from fieldwork, and a r
 
 ## 10. Handoff
 
+**Next-step plan:** [Environmental Basic Opportunities — First-Pass Prioritisation and Experiments](ENVIRONMENTAL-BASIC-OPPORTUNITY-PRIORITISATION-AND-EXPERIMENTS.md) screens all fifteen Basic candidates and defines five small customer-validation experiments. It is a working hypothesis document, not evidence of demand or profitability.
+
 This entry ladder is the practical bridge from the environmental opportunity map to action. The next phase should select a small number of Basic candidates, test them against real users and actual evidence, and only then decide whether to progress into Medium or Complex delivery. The map should remain open: an accessible entry route can lead into a much larger value chain, but it does not have to.
 
 **Evidence status:** all entries remain candidates for validation. The classifications describe typical resource requirements, not guaranteed affordability, legal permission, customer demand or profitability.
