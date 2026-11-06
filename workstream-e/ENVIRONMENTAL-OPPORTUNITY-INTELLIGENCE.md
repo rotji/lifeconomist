@@ -407,3 +407,17 @@ The consolidated document covers the remaining 3.1 resource families—freshwate
 This is a broad vertical decomposition, not exhaustive Level-4/Level-5 research or commercial validation. It maps principal branches, system/value-chain mechanisms, economic activity/participation positions, dependencies, constraints, safeguards, and unresolved evidence questions. It explicitly does not claim that markets, customers, technology performance, Nigerian resource quantities, legal permissions, or commercial viability have been established.
 
 **Handoff decision:** pause automatic environmental taxonomy expansion. The environmental domain now has broad horizontal coverage (3.1–3.15) and first-pass vertical mass documentation for the remaining territories. Review the consolidated map alongside the existing portfolio screening, candidate register, and vertical exploration method when setting the user's final phase direction. Do not start another automatic branch sequence unless requested.
+
+
+## 22. Practical entry ladder — Basic, Medium and Complex
+
+The environmental economy has been reorganised by practical entry requirements in [Environmental Economy — Opportunity Entry Ladder](ENVIRONMENTAL-OPPORTUNITIES-ENTRY-LADDER.md).
+
+The document separates:
+- **Basic:** no-capital or near-zero-capital information, research, observation, coordination, recordkeeping and administrative services;
+- **Medium:** skill-, partner-, equipment- or modest-capital services and operations;
+- **Complex:** capital-, infrastructure-, licence- or specialist-intensive businesses and projects.
+
+It includes a cross-sector catalogue of candidate opportunities, first-action descriptions, likely users and charging routes where plausible, plus safeguards, Nigeria-specific validation requirements, selection criteria and a suggested progression from small deliverables to larger operating roles.
+
+These are resource-intensity classifications and hypotheses, not verified demand or profitability claims. The document recommends testing a small number of Basic candidates with real users before investing in tools, inventory, equipment or infrastructure.
