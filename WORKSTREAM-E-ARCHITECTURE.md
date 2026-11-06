@@ -32,6 +32,10 @@ Investigate unmet needs, inefficiencies, dependencies, changing demand, and prob
 
 Explore whether research and monitoring capabilities can become useful paid outputs, such as sector intelligence, regulatory or supply-risk monitoring, market-change alerts, due-diligence research, or data products. These are candidate directions, not commitments to build each product.
 
+### E5 — Environmental opportunity intelligence
+
+Explore opportunities across the full environmental economy: natural resources; waste and by-product valorisation; water; energy; air and climate; soil and land; materials, minerals and chemicals; biodiversity and ecosystems; agriculture and biological production; remediation and restoration; environmental infrastructure; environmental measurement and intelligence; biotechnology; environmental risk and resilience; and environmental economics and governance. This is a broad, provisional discovery domain, not a closed taxonomy or a selected sector. It includes products and services beyond carbon, recycling, or remediation, and considers value creation across research, data, equipment, processing, logistics, operations, verification, distribution, finance, and other parts of the value chain. Its working map and investigation rules are documented in [Environmental Opportunity Intelligence](workstream-e/ENVIRONMENTAL-OPPORTUNITY-INTELLIGENCE.md).
+
 ## Relationship with Workstreams A–D
 
 - **A — Deep Conceptual Foundations:** explains what a phenomenon means in reality and how its mechanisms may work.
