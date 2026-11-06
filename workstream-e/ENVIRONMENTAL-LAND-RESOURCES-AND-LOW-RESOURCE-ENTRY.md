@@ -192,3 +192,14 @@ The first vertical unit, **3.1.1.1 Land as a Spatial and Physical Asset**, has n
 That investigation decomposes parcel/site identity, spatial reference, geometry, boundary evidence, topology, subdivision/change history, access, surrounding context, record linkage, and physical change observation. It also maps the Nigeria institutional context and identifies four unvalidated hypotheses. It does not establish a commercial opportunity or authorise surveying, title verification, or legal work.
 
 **Current stopping point:** 3.1.1.1 initial investigation completed at desk-research level. The next unit in sequence is **3.1.1.2 Terrain, Topography, and Landforms**. Continue without repeating parcel identity/boundary material; revisit only where a concrete terrain dependency requires it.
+
+
+## 10. Vertical mass-map progress — Batch 01 (2026-11-06)
+
+To accelerate the user's requested documentation, the remaining Level-3 branches under 3.1.1 have been mapped together in [Environmental Land Resources Vertical Mass Map — Batch 01](ENVIRONMENTAL-LAND-RESOURCES-VERTICAL-MASS-MAP-BATCH-01.md).
+
+This batch covers 3.1.1.2–3.1.1.12: terrain/topography; land cover; land use; terrestrial ecosystems and landscapes; land condition/disturbance; suitability and competing uses; access/tenure/rights; development and site servicing; observation/mapping/change intelligence; stewardship/conservation/restoration; and land markets/valuation/allocation.
+
+Each branch has scope, component map, system mechanism, possible economic activity, constraints, questions for later investigation, and cross-links. These are first-pass vertical maps, not equivalent to the deeper investigation of 3.1.1.1 and not evidence of commercial viability.
+
+**Stopping point:** 3.1.1 now has a first-pass vertical map across all 12 branches, with 3.1.1.1 separately investigated in more depth. **Next batch:** 3.1.2 Forest and Forestry Resources, mapped as a group.
