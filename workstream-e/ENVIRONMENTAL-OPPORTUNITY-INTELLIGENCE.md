@@ -378,3 +378,12 @@ Every subsequent exploration batch must be documented in GitHub, with its eviden
 The user chose to begin the first vertical investigation rather than adopt the assistant's proposed candidate sequence. The first unit in the existing taxonomy, **3.1.1.1 Land as a Spatial and Physical Asset**, has an initial desk-based investigation documented here: [Vertical Investigation 3.1.1.1](ENVIRONMENTAL-LAND-AS-SPATIAL-AND-PHYSICAL-ASSET.md).
 
 The record covers parcel/site identity, spatial reference, geometry, boundary evidence, topology, subdivision and change history, access, context, document linkage, Nigeria institutional context, value-chain roles, constraints, and unvalidated hypotheses. It does not validate a business opportunity. The next unit in sequence is **3.1.1.2 Terrain, Topography, and Landforms**. Preserve this stopping point and avoid repeating completed parcel-identity work.
+
+
+## 19. Batch-based vertical documentation (2026-11-06)
+
+The user requested mass documentation of the horizontal and vertical environmental map to accelerate progress. The working method is now batch-based: map a complete group of related branches in one documented batch, preserve evidence/status distinctions, and record the next batch. The user can prompt **continue** to initiate the next batch.
+
+First completed batch: [Environmental Land Resources Vertical Mass Map — Batch 01](ENVIRONMENTAL-LAND-RESOURCES-VERTICAL-MASS-MAP-BATCH-01.md), covering 3.1.1.2–3.1.1.12. Together with the separate [3.1.1.1 investigation](ENVIRONMENTAL-LAND-AS-SPATIAL-AND-PHYSICAL-ASSET.md), all 12 branches under 3.1.1 now have at least a first-pass vertical map. This does not mean all branches are technically or commercially validated.
+
+Next batch: **3.1.2 Forest and Forestry Resources**. Continue through the remaining natural-resource families under 3.1, then map vertical branches across 3.2–3.15 in comparable batches. Only after broad vertical coverage should selected branches receive deeper validation, unless a clear dependency or user decision justifies a pause.
