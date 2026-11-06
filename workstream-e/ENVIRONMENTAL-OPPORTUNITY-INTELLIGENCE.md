@@ -396,3 +396,14 @@ Next batch: **3.1.2 Forest and Forestry Resources**. Continue through the remain
 This is taxonomy-level mapping, not a current national forest inventory, a verified market assessment, or an opportunity selection. It explicitly cross-references biodiversity (3.8), agriculture (3.9), waste (3.2), energy (3.4), climate/carbon (3.5), environmental intelligence (3.12), and governance/economics (3.15) to prevent duplication.
 
 **Current resource-family progress:** 3.1.1 Land and Terrestrial Resources — first-pass vertical map complete; 3.1.2 Forest and Forestry Resources — first-pass vertical map complete. Next batch: **3.1.3 Freshwater Resources**, with a clear boundary from water-service operations already mapped under 3.3.
+
+
+## 21. Consolidated environmental vertical mass documentation and handoff (2026-11-06)
+
+The user requested that the remaining environmental work be mass-documented in one pass so they can move on to the next Lifeconomist phase without continuing one branch at a time. This has been completed in the consolidated [Environmental Remaining Territories Vertical Mass Documentation](ENVIRONMENTAL-REMAINING-TERRITORIES-VERTICAL-MASS-DOCUMENTATION.md).
+
+The consolidated document covers the remaining 3.1 resource families—freshwater; marine/coastal; wild fisheries; mineral/geological resources; biomass/wild biological feedstocks; and other natural resource flows—and first-pass vertical branch maps for **3.2–3.15**: waste; water; energy; air/climate; soil/geotechnical; materials/minerals/chemicals; biodiversity; agriculture/food; remediation; infrastructure; environmental intelligence; biotechnology; risk/resilience; and economics/governance.
+
+This is a broad vertical decomposition, not exhaustive Level-4/Level-5 research or commercial validation. It maps principal branches, system/value-chain mechanisms, economic activity/participation positions, dependencies, constraints, safeguards, and unresolved evidence questions. It explicitly does not claim that markets, customers, technology performance, Nigerian resource quantities, legal permissions, or commercial viability have been established.
+
+**Handoff decision:** pause automatic environmental taxonomy expansion. The environmental domain now has broad horizontal coverage (3.1–3.15) and first-pass vertical mass documentation for the remaining territories. Review the consolidated map alongside the existing portfolio screening, candidate register, and vertical exploration method when setting the user's final phase direction. Do not start another automatic branch sequence unless requested.
