@@ -203,3 +203,14 @@ This batch covers 3.1.1.2–3.1.1.12: terrain/topography; land cover; land use; 
 Each branch has scope, component map, system mechanism, possible economic activity, constraints, questions for later investigation, and cross-links. These are first-pass vertical maps, not equivalent to the deeper investigation of 3.1.1.1 and not evidence of commercial viability.
 
 **Stopping point:** 3.1.1 now has a first-pass vertical map across all 12 branches, with 3.1.1.1 separately investigated in more depth. **Next batch:** 3.1.2 Forest and Forestry Resources, mapped as a group.
+
+
+## 11. Vertical mass-map progress — Batch 02 (2026-11-06)
+
+The next resource family, **3.1.2 Forest and Forestry Resources**, has received a first-pass vertical map in [Forest and Forestry Resources Vertical Mass Map — Batch 02](ENVIRONMENTAL-FOREST-AND-FORESTRY-RESOURCES-VERTICAL-MASS-MAP-BATCH-02.md).
+
+The batch maps 15 branches: forest types/inventories; natural forest management and silviculture; timber; plantation forestry; non-timber forest products; nursery/seed/genetic material; harvesting and operations; forest roads/access; forest protection/fire/pests; community forestry; restoration; forest carbon/climate services; processing/value addition; traceability/certification; and policy/tenure/concessions/governance.
+
+This is a first-pass taxonomy and opportunity map, not a Nigeria-wide forest inventory or commercial validation. Forest biodiversity, agricultural production, waste recovery, energy conversion, carbon accounting, and environmental intelligence retain their primary homes in 3.8, 3.9, 3.2, 3.4, 3.5, and 3.12 respectively, with cross-links where relevant.
+
+**Stopping point:** 3.1.1 and 3.1.2 have first-pass vertical maps; 3.1.1.1 has a separate deeper desk investigation. **Next batch:** 3.1.3 Freshwater Resources, mapped as a resource family while avoiding duplication of the water-service economy in 3.3.
