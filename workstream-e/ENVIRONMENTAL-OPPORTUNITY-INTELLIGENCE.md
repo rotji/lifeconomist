@@ -357,3 +357,17 @@ The initial horizontal survey of **3.1–3.15 is complete at broad-map level**. 
 - the smallest reversible test that could distinguish a promising lead from a weak one.
 
 Surface credible opportunities as they arise. Keep the full capital-intensive landscape and accessible entry routes visible in parallel. Record unvalidated ideas as leads, not conclusions. The user decides when to pause the broader survey for a deeper investigation.
+
+
+## 17. Portfolio screening and proposed initial vertical sequence (2026-11-06)
+
+The broad horizontal survey is followed by a cross-territory candidate longlist, evidence-informed comparison, and dependency-aware selection process. This avoids treating the order of the taxonomy as a priority ranking.
+
+- [Environmental Opportunity Portfolio Screening](ENVIRONMENTAL-OPPORTUNITY-PORTFOLIO-SCREENING.md) defines comparison dimensions, evidence-confidence labels, and the initial 15-candidate longlist.
+- [Environmental Opportunity Candidate Register](ENVIRONMENTAL-OPPORTUNITY-CANDIDATE-REGISTER.md) tracks candidate status, evidence gaps, and decision history.
+- [Environmental Vertical Exploration Method](ENVIRONMENTAL-VERTICAL-EXPLORATION-METHOD.md) defines the gates for detailed investigation, value-chain analysis, responsible testing, and decisions.
+- [Environmental Opportunity Portfolio Comparison](ENVIRONMENTAL-OPPORTUNITY-PORTFOLIO-COMPARISON.md) records the first public-source scan, dependencies, limitations, and proposed research sequence.
+
+The first proposed sequence is: (1) one bounded geospatial/environmental intelligence use case (ENV-C05); (2) one commodity and post-harvest stage (ENV-C07/C08); and (3) one waste material stream and its existing chain (ENV-C01/C02). This is a provisional research sequence awaiting the user's direction, not a final business or Lifeconomist direction. Other candidates remain open. Evidence confidence and local customer demand must be established before any opportunity is described as viable.
+
+Every subsequent exploration batch must be documented in GitHub, with its evidence, unknowns, dependencies, decisions, and stopping point, before moving to the next major task.
