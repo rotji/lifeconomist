@@ -36,6 +36,42 @@ Explore whether research and monitoring capabilities can become useful paid outp
 
 Explore opportunities across the full environmental economy: natural resources; waste and by-product valorisation; water; energy; air and climate; soil and land; materials, minerals and chemicals; biodiversity and ecosystems; agriculture and biological production; remediation and restoration; environmental infrastructure; environmental measurement and intelligence; biotechnology; environmental risk and resilience; and environmental economics and governance. This is a broad, provisional discovery domain, not a closed taxonomy or a selected sector. It includes products and services beyond carbon, recycling, or remediation, and considers value creation across research, data, equipment, processing, logistics, operations, verification, distribution, finance, and other parts of the value chain. Its working map and investigation rules are documented in [Environmental Opportunity Intelligence](workstream-e/ENVIRONMENTAL-OPPORTUNITY-INTELLIGENCE.md).
 
+## End-to-End Opportunity Exploration and Capability Leverage
+
+### Governing principle
+
+When investigating an industry, market, problem, resource, technology, or economic activity, examine both individual opportunities within its system or value chain and the possibility of connecting the necessary stages to deliver a complete customer outcome.
+
+An end-to-end opportunity is defined by the outcome delivered to the customer, not by how many assets the provider owns. Lifeconomist does not have to build, own, or operate every component. Existing companies, platforms, technologies, infrastructure, specialist providers, distribution networks, and service operators may already perform some or all of the required functions. They may potentially be accessed through commercial partnerships, contracts, integrations, licensing, resale, referrals, marketplaces, or other legitimate arrangements. Availability, permission, terms, reliability, and economics must be verified rather than assumed.
+
+The investigation should ask not only, "What could we build?" but also, "What already exists, what can we access or combine, what remains missing, and where could we create or capture value by leveraging those capabilities?"
+
+### Investigation method
+
+For a relevant opportunity, investigate proportionately:
+
+1. **Customer outcome:** Identify the customer, the problem or job to be done, and the complete outcome they need.
+2. **Required stages:** Map the functions, inputs, decisions, hand-offs, outputs, and dependencies needed to deliver that outcome.
+3. **Existing capabilities:** Identify current providers, products, platforms, infrastructure, technologies, and specialist operators for each material stage. Look for existing end-to-end providers as well as providers covering only part of the process.
+4. **Gaps and friction:** Determine where customers experience fragmentation, delays, poor coordination, inaccessible capabilities, quality problems, high costs, risk, or unmet needs. Verify that the gap matters to customers.
+5. **Possible role:** Consider whether the opportunity is to build a missing capability or instead to integrate, coordinate, broker, distribute, resell, implement, finance, manage, verify, or improve capabilities supplied by others. A focused specialist role may be better than an end-to-end offer.
+6. **Access and dependencies:** Check provider willingness, commercial terms, contracts, licensing, technical compatibility, service levels, geographic reach, data rights, regulation, liability, continuity, and provider-dependence risk.
+7. **Customer and economic case:** Test whether the combined offer improves the customer's outcome and whether pricing, costs, margins, working capital, operational burden, and downside make it viable.
+8. **Validation and accountability:** Start with a limited, reversible test where appropriate. Establish who is responsible for quality, failures, customer support, refunds, compliance, and the overall customer outcome.
+
+Possible positions include builder, specialist provider, integrator, coordinator, distributor, reseller, implementation partner, managed-service operator, broker or marketplace, data/intelligence provider, and financing or verification partner. These are discovery categories, not prescribed business models or claims that any position is feasible.
+
+### Important distinctions and safeguards
+
+- **End-to-end does not mean vertically integrated.** A provider may coordinate independent specialists and existing infrastructure without owning them.
+- **Existing providers are potential capabilities, not automatic partners.** A public listing does not establish availability, permission to resell or integrate, reliability, suitability, or commercial agreement.
+- **Integration is not automatically superior.** If customers value a specialist more, or integration adds cost, risk, delay, or complexity without improving the outcome, investigate the specialist opportunity instead.
+- **A complete-looking workflow is not necessarily a complete customer outcome.** Identify hand-offs, exclusions, exceptions, after-sales needs, and unresolved responsibilities.
+- **Lifeconomist does not have to become the operator.** It may be more appropriate to identify an existing provider, facilitate access, supply intelligence, or make a well-supported referral than to build a competing service.
+- **Do not force this lens onto every investigation.** Apply it when a connected customer outcome or multi-stage dependency is relevant.
+
+This principle applies across E1–E5 and to opportunities arising from any other Lifeconomist workstream or domain. It does not create another workstream, require every investigation to produce a business, or change the evidence and validation requirements of the existing opportunity lifecycle.
+
 ## Relationship with Workstreams A–D
 
 - **A — Deep Conceptual Foundations:** explains what a phenomenon means in reality and how its mechanisms may work.
