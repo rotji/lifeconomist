@@ -182,3 +182,13 @@ Completed the ninth and final bullet-by-bullet audit of the 25 groups currently 
 - **Video extension:** Add two new segments after the existing balance-sheet explanation: (1) how the bank honours the customer's deposit, and (2) how repayment of $100 principal reduces the borrower's loan and deposit and the bank's matching loan asset and deposit liability in the simplified standard case.
 - **Production constraint:** Preserve all seven existing user-recorded voice segments. Add new segments separately; do not replace or regenerate existing narration. Keep the example hypothetical and avoid introducing unsupported Nigeria-specific legal claims.
 - **Evidence basis:** Existing Bank of England source audit and public explainer; see the addendum for links and qualifications.
+
+
+## Workstream E — environmental opportunity intelligence (2026-11-06)
+
+- **New artifact:** [Environmental Opportunity Intelligence](workstream-e/ENVIRONMENTAL-OPPORTUNITY-INTELLIGENCE.md) establishes a broad, provisional discovery map across environmental resources, systems, problems, technologies, products, services, infrastructure, markets, and economic mechanisms.
+- **Scope:** Intentionally wider than waste valorisation, carbon technologies, climate technology, or remediation. It includes water, energy, air, soil, materials and minerals, biodiversity, agriculture, biotechnology, environmental infrastructure, monitoring and intelligence, risk and resilience, and environmental economics and governance.
+- **Method:** Investigate complete transformation and value chains, multiple inputs and outputs, applications, customers, environmental trade-offs, and business positions beyond manufacturing. Keep capital-light, partnership, contract-processing, data, monitoring, logistics, and service routes visible without assuming they are viable.
+- **Discovery leads retained:** The initial waste-to-carbon machine observation and the supplied Mat3ra materials-modelling company profile are leads within the larger map, not selected priorities or independently validated opportunity claims.
+- **Status:** Scope framework only. No technology, market, business, investment, or product has been validated or approved. The map remains open to correction and expansion under the Continuity, Pause, and Revision Principle.
+- **Next useful action:** Review the map for material omissions and build a source-backed landscape across more than one environmental territory before selecting any candidate for deeper investigation. Do not treat this as a mandatory linear programme.
