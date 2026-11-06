@@ -294,3 +294,66 @@ Next useful work should be chosen from the evidence and current project state. A
 - Preserve each territory's stopping point so that later vertical exploration resumes where it stopped rather than repeating its initial mapping.
 
 This is a deliberate breadth-before-depth method, not a claim that all territories must receive identical effort or that the horizontal survey must be completed before responding to an urgent, unusually strong, or user-selected opportunity. The user controls when to pause, deepen, or change direction.
+
+
+## 16. Horizontal coverage review and portfolio boundaries (2026-11-06)
+
+The initial horizontal mapping now has a dedicated document for each territory from **3.1 through 3.15**. The broad survey is considered complete at the navigation-map level, not as an exhaustive taxonomy or validated market study. The next stage is selective vertical exploration, informed by evidence and user choice.
+
+### 16.1 Coverage status
+
+- **3.1 Natural Resources and Resource Intelligence:** initial coverage is now represented across two companion documents: land and terrestrial resources, plus forests, biomass, freshwater, groundwater, marine/coastal resources, wild fisheries, minerals/geology, and other natural resource flows.
+- **3.2–3.15:** each territory has an initial broad map, principal branches, opportunity positions, later-investigation questions, and boundary references.
+- **Vertical depth:** no claim is made that all branches have been decomposed to their smallest useful economic activity or opportunity unit. The land branch has a Level 3 map; deeper decomposition is deferred.
+- **Opportunity validation:** none of the territory maps by itself validates a customer, market, technology, service, investment, or business.
+
+### 16.2 Portfolio-level boundary rules
+
+Use the following primary-filing rules to reduce duplication while preserving cross-system relationships:
+
+1. **Resource occurrence versus resource use:** file the natural occurrence, stock, flow, quality, location, and access question under 3.1. File the downstream industry or transformation under its relevant territory. Example: an aquifer resource belongs to 3.1; abstraction, treatment, distribution, and water-service delivery belong to 3.3.
+2. **Land asset versus soil and ground processes:** land parcels, terrain, land cover, land use, tenure, suitability, and land allocation belong to 3.1.1. Soil properties, fertility, erosion, contamination, and geotechnical processes belong to 3.6.
+3. **Natural resource versus processed material:** mineral occurrence, deposit evidence, and resource classification belong to 3.1; extraction, beneficiation, refining, metallurgy, chemicals, materials engineering, and manufactured outputs belong primarily to 3.7.
+4. **Wild biological systems versus managed production:** wild species, habitats, ecosystems, ecological functions, and conservation belong to 3.8. Cultivated crops, livestock, farmed fish, and managed production value chains belong to 3.9. Natural resource inventories may still be cross-referenced to 3.1.
+5. **Material stream versus environmental harm:** waste generation, collection, sorting, reuse, recycling, and recovery belong to 3.2. Contamination, pollution control, remediation, and verified environmental recovery belong to 3.10.
+6. **Water service versus water pollution:** sourcing, abstraction, treatment, distribution, wastewater operations, reuse, and water-service systems belong to 3.3. Contamination investigation, pollution prevention, remediation, and environmental damage recovery belong to 3.10.
+7. **Energy system versus asset hosting it:** generation, storage, grid, energy carriers, efficiency, and energy services belong to 3.4. Buildings and physical infrastructure hosting or consuming these systems belong to 3.11.
+8. **Environmental condition versus risk consequence:** atmospheric and climate processes belong to 3.5; hazard, exposure, vulnerability, preparedness, response, and recovery belong to 3.14. Climate risk may be cross-referenced to both.
+9. **Subject matter versus measurement capability:** file the environmental subject under its substantive territory. File measurement methods, data infrastructure, monitoring design, analytics, and verification capabilities under 3.12, with cross-links.
+10. **Biological system versus biological engineering:** natural ecosystems and wild biological resources belong to 3.8; biological production belongs to 3.9; engineered biological processes, biomanufacturing, and bioprocess systems belong to 3.13.
+11. **Physical asset versus asset intelligence:** infrastructure ownership, design, construction, operation, and maintenance belong to 3.11. Cross-cutting sensing, asset data, monitoring, and verification methods belong to 3.12.
+12. **Environmental outcome versus economic rules:** the physical or ecological issue belongs to its substantive territory; rights, incentives, tariffs, liability, procurement, finance, market rules, and governance mechanisms belong to 3.15.
+
+These are filing conventions, not claims that the systems operate independently. A single real-world opportunity may legitimately span several territories. Choose one primary home for the main question and use explicit cross-references for dependencies.
+
+### 16.3 Cross-cutting capabilities and interfaces
+
+Some capabilities are not confined to one territory and should not be mistaken for duplicate subject-matter categories:
+
+- **Environmental intelligence (3.12):** a shared measurement, data, monitoring, and verification layer across the full map.
+- **Infrastructure (3.11):** physical systems and assets that enable many territories.
+- **Risk and resilience (3.14):** a consequence, preparedness, and response lens across environmental and economic systems.
+- **Economics and governance (3.15):** rights, incentives, institutions, finance, accountability, and market mechanisms across the full map.
+- **Biotechnology (3.13):** a process and engineering capability that can serve waste, water, agriculture, remediation, materials, and energy.
+- **Energy (3.4) and water (3.3):** essential inputs and service systems that appear throughout other territories.
+
+A cross-cutting capability should be filed in its own territory when the investigation is about that capability itself; otherwise keep it as a dependency or cross-reference in the substantive territory.
+
+### 16.4 Coverage gaps and cautions retained
+
+The broad map is a useful starting structure, not an assertion that every environmental activity has been exhaustively represented. During vertical exploration, remain alert to omitted or underdeveloped areas such as environmental health and exposure pathways; noise, vibration, light, and other non-chemical pollution; coastal and marine operations; environmental education and workforce capability; product lifecycle and ecodesign; and environmental data rights and digital infrastructure. Add or reassign branches only when a concrete discovery or systematic gap justifies it.
+
+Do not silently expand the taxonomy into every adjacent sector. Test whether a topic has a material environmental-system relationship and a distinct opportunity or analytical need before adding it.
+
+### 16.5 Next phase
+
+The initial horizontal survey of **3.1–3.15 is complete at broad-map level**. The next phase is a portfolio-level selection of vertical branches, not an automatic descent into 3.1.1 or 3.11. Select deeper investigations based on:
+- concrete discoveries and unresolved questions;
+- evidence of a real user, customer, operator, or institutional need;
+- dependencies that must be understood before another branch can be assessed;
+- potential environmental and economic significance;
+- technical, legal, ecological, and safety constraints;
+- plausible access routes and the user's actual resources;
+- the smallest reversible test that could distinguish a promising lead from a weak one.
+
+Surface credible opportunities as they arise. Keep the full capital-intensive landscape and accessible entry routes visible in parallel. Record unvalidated ideas as leads, not conclusions. The user decides when to pause the broader survey for a deeper investigation.
