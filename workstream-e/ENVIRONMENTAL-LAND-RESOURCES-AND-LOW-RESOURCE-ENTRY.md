@@ -183,3 +183,12 @@ The agreed environmental exploration method is **horizontal first, vertical late
 - After the horizontal pass, return to selected branches for Level 4 and finer decomposition.
 
 **Current branch status:** 3.1.1 has an initial Level 3 map; its deeper decomposition is deferred. The land-observation service idea raised during discussion is an unvalidated lead, not a selected opportunity. Preserve it for later without interrupting the horizontal sequence.
+
+
+## 9. Vertical exploration progress update (2026-11-06)
+
+The first vertical unit, **3.1.1.1 Land as a Spatial and Physical Asset**, has now received an initial investigation. See [Vertical Investigation 3.1.1.1](ENVIRONMENTAL-LAND-AS-SPATIAL-AND-PHYSICAL-ASSET.md).
+
+That investigation decomposes parcel/site identity, spatial reference, geometry, boundary evidence, topology, subdivision/change history, access, surrounding context, record linkage, and physical change observation. It also maps the Nigeria institutional context and identifies four unvalidated hypotheses. It does not establish a commercial opportunity or authorise surveying, title verification, or legal work.
+
+**Current stopping point:** 3.1.1.1 initial investigation completed at desk-research level. The next unit in sequence is **3.1.1.2 Terrain, Topography, and Landforms**. Continue without repeating parcel identity/boundary material; revisit only where a concrete terrain dependency requires it.
