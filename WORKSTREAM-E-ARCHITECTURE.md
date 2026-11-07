@@ -40,6 +40,16 @@ Explore the full agricultural economy and its connected value chains: land and f
 
 Explore opportunities across the full environmental economy: natural resources; waste and by-product valorisation; water; energy; air and climate; soil and land; materials, minerals and chemicals; biodiversity and ecosystems; agriculture and biological production; remediation and restoration; environmental infrastructure; environmental measurement and intelligence; biotechnology; environmental risk and resilience; and environmental economics and governance. This is a broad, provisional discovery domain, not a closed taxonomy or a selected sector. It includes products and services beyond carbon, recycling, or remediation, and considers value creation across research, data, equipment, processing, logistics, operations, verification, distribution, finance, and other parts of the value chain. Its working map and investigation rules are documented in [Environmental Opportunity Intelligence](workstream-e/ENVIRONMENTAL-OPPORTUNITY-INTELLIGENCE.md).
 
+## Cross-cutting lens: Non-Traditional Business Models and Economic Value Capture
+
+Workstream E also uses a cross-sector lens to discover ways of creating and capturing value from positions within existing economic systems—not only by producing and selling a product directly. It examines roles such as infrastructure-access provider, marketplace, aggregator, broker, coordinator, integrator, distributor, procurement service, information intermediary, verification provider, licensor, membership operator, managed-service provider, and by-product exchange. These are discovery categories, not validated business opportunities or a new E-domain.
+
+The detailed framework, including revenue mechanisms, analytical distinctions, entry constraints, discovery method, safeguards, and an opportunity-record template, is documented in [Non-Traditional Business Models and Economic Value Capture](workstream-e/NON-TRADITIONAL-BUSINESS-MODELS-AND-VALUE-CAPTURE.md).
+
+Apply this lens when it helps reveal a useful role in a real system. Distinguish value creation from value capture; ownership from access; genuine bottleneck control from mere intermediation; recurring revenue from recurring customer value; and capital-light from cost-free. Verify customer benefit, payer, provider permission, contracts, responsibilities, legal requirements, operating costs, cash timing, and unit economics. Do not assume that a middle layer deserves a fee or that an asset-light model is automatically feasible.
+
+This is a cross-cutting lens across E1–E6 and future domains, not a new workstream or domain. It does not initiate a paused sector investigation or approve a particular business model.
+
 ## End-to-End Opportunity Exploration and Capability Leverage
 
 ### Governing principle
