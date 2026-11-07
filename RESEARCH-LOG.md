@@ -1,3 +1,13 @@
+## 2026-11-07 — Non-traditional business model exploration paused with resumption checkpoint
+
+- **User direction:** Move to another subject and avoid spending more time on this exploration now; preserve what is needed to continue later.
+- **Completed foundation:** [Non-Traditional Business Models and Economic Value Capture](workstream-e/NON-TRADITIONAL-BUSINESS-MODELS-AND-VALUE-CAPTURE.md) documents the cross-sector lens, 16 provisional model families, revenue mechanisms, analytical distinctions, discovery method, entry constraints, failure modes, and opportunity record template.
+- **New handoff artifact:** [Resumption Checkpoint](workstream-e/NON-TRADITIONAL-BUSINESS-MODELS-RESUMPTION-CHECKPOINT.md) records the completed foundation, what remains unresearched, the proposed next stage, research standards, and resume sequence.
+- **Not done:** No real-world cross-sector example catalogue has been researched; no business, market, geography, customer, or model has been selected; no demand, provider willingness, commercial terms, regulatory feasibility, or unit economics have been validated; no prioritisation has been completed.
+- **Recommended next stage (not started):** When the user explicitly resumes, build a broad, source-backed catalogue of actual operating examples across multiple sectors and geographies. Record what each business owns versus accesses or coordinates, who pays and why, how value is created and captured, operating obligations, costs, risks, evidence quality, and transferability limits.
+- **Continuity safeguards:** Do not repeat the conceptual framework on return. Read CURRENT-STATE.md and the checkpoint, then confirm the user's desired direction before beginning. Do not automatically restart paused agriculture or environmental exploration.
+- **Status:** Paused intentionally; await the user's next direction.
+
 ## 2026-10-31 — First narration draft prepared for review
 
 - **User choices applied:** Everyday bank customers; balanced documentary style with clear narration, diagrams, and restrained cinematic visuals.
