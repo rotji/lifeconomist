@@ -53,6 +53,10 @@ The cross-cutting **End-to-End Opportunity and Capability-Leverage Principle** a
 
 The provisional [Global Financial System Exploration Map](GLOBAL-FINANCIAL-SYSTEM-EXPLORATION-MAP.md) preserves a broad research agenda covering wealth, money, credit, capital pools, institutions, governments, countries, financial markets, the real economy, risk, information, distribution, data sources, and possible applications. It is a cross-workstream exploration map—not a sixth workstream, a new set of core indicators, or a claim that global financial quantities have already been measured or reconciled. Use it to organize discovery and source audits while preserving the existing economic model and measurement workflow.
 
+## Agriculture Economy and Opportunities
+
+The provisional [Agriculture Economy and Opportunities map](workstream-e/AGRICULTURE-ECONOMY-AND-OPPORTUNITIES.md) establishes a broad Workstream E discovery domain across agricultural inputs, production, services, post-harvest systems, processing, logistics, markets, finance, technology, institutions, food-demand interfaces, and risk. It is an initial navigation map, not a validated market study or a selection of businesses. Its horizontal-first method preserves breadth before deeper vertical investigation.
+
 ## Economic Consequence and Agency Intelligence (ECAI)
 
 The provisional [ECAI foundation and research programme](ECAI-FOUNDATION.md) explores how economic participation produces consequences and how individuals or groups may influence those outcomes. The first [foundational literature synthesis](ECAI-LITERATURE-SYNTHESIS-001.md) records initial evidence, source limitations, and methodological implications. It connects consequence tracing, comparison of alternatives, plausible leverage, and evaluation of results. ECAI is a cross-cutting research application of the existing A–E architecture—not a new workstream, validated discipline, product, or claim that collective action reliably changes institutions. Its integrated model and practical direction remain unvalidated; see the document for scope, safeguards, research stages, and initial source trail.
