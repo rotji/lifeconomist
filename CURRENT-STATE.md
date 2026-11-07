@@ -56,7 +56,8 @@
 - **Status:** Initial conceptual framework and opportunity-record template documented. No business model, market, customer demand, provider relationship, or commercial opportunity has been validated or selected.
 - **Scope:** Cross-cutting lens within Workstream E, not a new workstream or E-domain. It can be applied across E1–E6 and future domains when relevant.
 - **Agriculture boundary:** The broad Agriculture Economy and Opportunities map remains documented, but its horizontal and vertical exploration is paused at the user's request. This new framework does not restart it.
-- **Next:** Wait for the user's direction on whether to build a broad catalogue of cross-sector patterns or examine a particular pattern. Do not automatically begin sector exploration or prioritize a business.
+- **Resumption checkpoint:** [Non-Traditional Business Models — Resumption Checkpoint](workstream-e/NON-TRADITIONAL-BUSINESS-MODELS-RESUMPTION-CHECKPOINT.md) records what is complete, what has not been investigated, the proposed next stage, evidence standards, and the exact resume sequence.
+- **Next:** Paused intentionally while the user moves to another subject. When they return, consult the checkpoint and ask whether to begin the broad, cross-sector catalogue of real-world examples or take another direction. Do not start automatically.
 
 ## Immediate working position
 
