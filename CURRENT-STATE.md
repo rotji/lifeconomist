@@ -28,6 +28,14 @@
 - Evidence-based transition criteria.
 - A validated FX trading strategy, executable FX arbitrage opportunity, or FX intelligence business.
 
+## Workstream E — Agriculture Economy and Opportunities
+
+- **Status:** Initial broad domain map created on 2026-11-07 at `workstream-e/AGRICULTURE-ECONOMY-AND-OPPORTUNITIES.md`.
+- **Scope:** Twenty provisional territories cover the agricultural economy from land, inputs and production through services, post-harvest, processing, logistics, markets, finance, technology, institutions, food demand and risk.
+- **Method:** Horizontal-first exploration before deeper vertical investigation; opportunities may be surfaced and paused for at any point.
+- **Not established:** Exhaustive taxonomy, validated market demand, selected business, production recommendation or investment thesis.
+- **Next:** Begin a broad first-pass horizontal survey across the territories, preserve stopping points and distinguish observations, hypotheses, leads and tested findings.
+
 ## ECAI — Economic Consequence and Agency Intelligence
 
 - **Status:** Provisional research framework documented in `ECAI-FOUNDATION.md`; not validated as a unified method, product, or intervention system.
