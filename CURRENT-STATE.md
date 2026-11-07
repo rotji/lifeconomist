@@ -1,6 +1,6 @@
 # Current Project State
 
-**Last updated:** 2026-10-30  
+**Last updated:** 2026-11-07  
 **Stage:** Foundational framework selected; measurement protocol incomplete; Workstream E now has an initial FX investigation programme specification.
 
 ## Established
@@ -34,7 +34,7 @@
 - **Scope:** Twenty provisional territories cover the agricultural economy from land, inputs and production through services, post-harvest, processing, logistics, markets, finance, technology, institutions, food demand and risk.
 - **Method:** Horizontal-first exploration before deeper vertical investigation; opportunities may be surfaced and paused for at any point.
 - **Not established:** Exhaustive taxonomy, validated market demand, selected business, production recommendation or investment thesis.
-- **Next:** Begin a broad first-pass horizontal survey across the territories, preserve stopping points and distinguish observations, hypotheses, leads and tested findings.
+- **Next:** Paused at the broad-domain stage by user decision. Do not begin horizontal or vertical exploration until explicitly requested.
 
 ## ECAI — Economic Consequence and Agency Intelligence
 
@@ -45,6 +45,18 @@
 - **Not established:** A complete literature review, validated consequence-tracing protocol, comparative case register, or preferred practical application.
 - **Initial synthesis findings:** Keep participation, market effects, institutional response, social outcomes, and durability separate; distinguish boycotts from buycotts; match supply-chain claims to data resolution; assess unintended and distributional effects; treat collective-action principles as context-dependent.
 - **Next action:** Expand and verify the literature, then specify a repeatable consequence-tracing methodology and examine documented cases before selecting an implementation direction.
+
+## Non-Traditional Business Models and Economic Value Capture (2026-11-07)
+
+- **New artifact:** [Non-Traditional Business Models and Economic Value Capture](workstream-e/NON-TRADITIONAL-BUSINESS-MODELS-AND-VALUE-CAPTURE.md).
+- **Purpose:** Establish a cross-sector discovery lens for identifying ways to create and capture value from positions within existing economic systems, beyond the conventional model of owning production and selling a product.
+- **Coverage:** Infrastructure and capacity access; marketplaces; aggregation; brokerage and referrals; coordination and network orchestration; end-to-end integration; distribution; procurement; information and intelligence; verification; licensing and replication; membership; managed administration; embedded services; by-product coordination; and outcome-based services.
+- **Analytical safeguards:** Distinguish value creation from value capture, asset ownership from access, bottleneck control from mere intermediation, recurring revenue from recurring value, and capital-light from cost-free. Customer benefit, payer, fee trigger, permissions, contracts, liability, provider reliability, working capital, regulation, and unit economics must be investigated.
+- **Origin:** The shared abandoned-factory story is retained as an illustrative pattern only. Its proposed layers are not validated as a feasible or profitable business.
+- **Status:** Initial conceptual framework and opportunity-record template documented. No business model, market, customer demand, provider relationship, or commercial opportunity has been validated or selected.
+- **Scope:** Cross-cutting lens within Workstream E, not a new workstream or E-domain. It can be applied across E1–E6 and future domains when relevant.
+- **Agriculture boundary:** The broad Agriculture Economy and Opportunities map remains documented, but its horizontal and vertical exploration is paused at the user's request. This new framework does not restart it.
+- **Next:** Wait for the user's direction on whether to build a broad catalogue of cross-sector patterns or examine a particular pattern. Do not automatically begin sector exploration or prioritize a business.
 
 ## Immediate working position
 
