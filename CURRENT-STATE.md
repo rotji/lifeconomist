@@ -1,6 +1,6 @@
 # Current Project State
 
-**Last updated:** 2026-11-07  
+**Last updated:** 2026-11-12  
 **Stage:** Foundational framework selected; measurement protocol incomplete; Workstream E now has an initial FX investigation programme specification.
 
 ## Established
@@ -222,3 +222,12 @@ Completed the ninth and final bullet-by-bullet audit of the 25 groups currently 
 - **Capability leverage:** Do not assume Lifeconomist must build, own, or operate every component. Investigate existing providers, platforms, technologies, infrastructure, specialist services, and legitimate ways to access or combine them. An existing end-to-end provider may be more suitable than creating a competing solution.
 - **Safeguards:** Verify provider availability, permission, reliability, compatibility, commercial terms, customer value, accountability, legal/regulatory requirements, and economics. A specialist opportunity may be preferable; integration is not automatically better.
 - **Status:** Methodological principle documented; no specific provider, partnership, integrated offer, or business opportunity is thereby validated or approved.
+
+
+## Project records and continuity governance (2026-11-12)
+
+- **New governing protocol:** [Project Records and Continuity Protocol](PROJECT-RECORDS-AND-CONTINUITY-PROTOCOL.md) establishes the responsibilities, authority, maintenance thresholds, and return procedure for research artifacts, the Research Log, Current State, Decision Register, and Git history.
+- **Key rule:** Current State is a derived navigation snapshot and may lag; its date is not evidence that work stopped. It does not require updating after every conversation or small task. Material changes to the overall project position should be reflected there.
+- **Research Log:** Record meaningful research events, discoveries, negative results, material changes, pauses, resumptions, and handoffs—not every conversation or minor edit.
+- **Resumption:** On return, verify the relevant underlying artifacts, log entries, checkpoints, and decisions. Reconcile material discrepancies before continuing; do not repeat completed work solely because a summary is stale.
+- **Scope:** Project-wide governance; no new workstream. Detailed operating rules are in the protocol, linked from [README](README.md) and [Research Methodology](RESEARCH-METHODOLOGY.md).
