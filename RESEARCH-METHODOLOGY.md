@@ -270,3 +270,21 @@ Do not classify an economic state from one indicator alone. Do not invent thresh
 
 ## Change control
 When a definition or conclusion changes, record the previous version, new version, reason, motivating evidence, and implications for earlier analyses.
+
+
+## Project records, continuity, and resumption
+
+The governing [Project Records and Continuity Protocol](PROJECT-RECORDS-AND-CONTINUITY-PROTOCOL.md) defines the responsibilities, authority, maintenance thresholds, and return procedure for research artifacts, the Research Log, Current State, Decision Register, and Git history. It applies across all workstreams and project activities.
+
+**Mandatory distinctions:**
+- Research artifacts preserve substantive knowledge, evidence, methods, findings, limitations, and unresolved questions.
+- The Research Log preserves meaningful chronological research events; it is not a conversation transcript or a list of every edit.
+- Current State is a derived navigation snapshot. It may lag and is not proof that work stopped on its last-updated date.
+- The Decision Register preserves material project decisions and their rationale; it is not a general diary.
+- Git history establishes repository changes and their timing, but does not by itself explain or validate research.
+
+**Operating requirements:** On a substantial return, use Current State for orientation, then verify the relevant log entries, checkpoints, primary artifacts, and decisions; inspect Git history when needed. Reconcile material conflicts before resuming. Do not repeat adequately completed work solely because a summary is stale.
+
+**Maintenance standard:** Update records according to significance, not after every conversation. Record material discoveries, investigations, negative results, pauses, resumptions, and handoffs in the Research Log. Update Current State only when a material change affects the overall project position or navigation. If it is stale, acknowledge that and reconcile it from the underlying records; never guess or backdate. Any collaborator making material changes must verify successful repository writes and report what changed.
+
+The detailed rules and event matrix are maintained in the protocol document. This is a project-wide operating rule, not a new workstream.
