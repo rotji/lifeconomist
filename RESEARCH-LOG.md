@@ -1,3 +1,12 @@
+## 2026-11-12 — Project records and continuity protocol established
+
+- **Trigger:** Review of whether Current State should be maintained continuously and what role the Research Log serves exposed a risk: project work can progress while a manually maintained summary remains stale.
+- **Decision:** Retain Current State as a concise navigation snapshot, not as the authoritative proof of progress. Retain the Research Log as the chronological record of meaningful research events. Substantive research artifacts, the Decision Register, and Git history retain their distinct roles.
+- **New governing artifact:** Created [Project Records and Continuity Protocol](PROJECT-RECORDS-AND-CONTINUITY-PROTOCOL.md), defining source-of-truth distinctions, when to update each record, the stale-summary rule, resumption checks, pause/handoff requirements, and responsibilities for AI collaborators and other contributors.
+- **Integration:** Added the protocol to [Research Methodology](RESEARCH-METHODOLOGY.md), linked and summarized it in [README](README.md), and updated [Current State](CURRENT-STATE.md). Added D-018 to the Decision Register.
+- **Operating rule:** Update records according to significance, not after every activity. A stale Current State must never cause completed work to be repeated or real progress to be overlooked. On return, verify underlying artifacts and reconcile summaries when needed.
+- **Status:** Governance documented and integrated. This change does not alter the A–E workstream architecture or the substance/status of existing research programmes.
+
 ## 2026-11-07 — Non-traditional business model exploration paused with resumption checkpoint
 
 - **User direction:** Move to another subject and avoid spending more time on this exploration now; preserve what is needed to continue later.
