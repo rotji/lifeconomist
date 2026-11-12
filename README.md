@@ -75,6 +75,9 @@ The provisional [ECAI foundation and research programme](ECAI-FOUNDATION.md) exp
 
 These tools are not automatically integrated. Important findings and decisions must be deliberately recorded.
 
+## Project records and continuity
+The [Project Records and Continuity Protocol](PROJECT-RECORDS-AND-CONTINUITY-PROTOCOL.md) governs how Lifeconomist preserves knowledge, research history, decisions, current position, and resumption points. Research artifacts are the substantive records; the Research Log records meaningful chronological events; Current State is a derived navigation snapshot that may lag; the Decision Register records material choices; and Git history records repository changes. Current State does not need an update after every activity, and a stale summary must never be mistaken for evidence that work stopped. On return, verify the relevant underlying artifacts and records before resuming. Follow the protocol rather than relying on memory or assuming any one summary is perfectly current.
+
 ## Current working posture
 Durable project records and checkpoints are established. On each return, consult [CURRENT-STATE.md](CURRENT-STATE.md), [RESEARCH-LOG.md](RESEARCH-LOG.md), and the relevant source artifacts before choosing the next useful action. The measurement protocol for all six indicators remains important but does not have to be completed before useful work can proceed elsewhere. Keep measurement and historical-testing requirements as gates for formal state classification; do not turn the wider research programme into a mandatory linear completion sequence.
 
