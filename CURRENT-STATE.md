@@ -232,3 +232,5 @@ Completed the ninth and final bullet-by-bullet audit of the 25 groups currently 
 - **Research Log:** Record meaningful research events, discoveries, negative results, material changes, pauses, resumptions, and handoffs—not every conversation or minor edit.
 - **Resumption:** On return, verify the relevant underlying artifacts, log entries, checkpoints, and decisions. Reconcile material discrepancies before continuing; do not repeat completed work solely because a summary is stale.
 - **Scope:** Project-wide governance; no new workstream. Detailed operating rules are in the protocol, linked from [README](README.md) and [Research Methodology](RESEARCH-METHODOLOGY.md).
+
+- Added [Global Financial Assets and Liabilities — Accounting Foundations](GLOBAL-FINANCIAL-ASSETS-AND-LIABILITIES-ACCOUNTING-FOUNDATIONS.md), establishing the accounting logic for claims, counterpart liabilities, consolidation boundaries, gross versus net positions, and the distinction between financial claims and total wealth. The 2025 SNA is the conceptual target architecture; actual dataset standards and implementation status must be recorded individually.
