@@ -1,3 +1,13 @@
+## 2026-11-13 — Initial global financial source and measurement register created
+
+- **Resumption:** Returned to the Global Financial System Exploration Map after establishing the project-wide Project Records and Continuity Protocol. Reviewed the map, its status and safeguards, Current State, and the original 2026-10-28 establishment entry in the Research Log.
+- **Verified prior position:** The map remains a broad cross-workstream research index, not a new workstream or a completed global financial model. Its recorded next candidate action was to build a source-and-measurement register and verify real series before calculating or combining figures.
+- **Work performed:** Created [Global Financial System Source and Measurement Register](GLOBAL-FINANCIAL-SYSTEM-SOURCE-AND-MEASUREMENT-REGISTER.md) as an initial discovery register. It defines the metadata required for series-level audits and inventories candidate official data collections across the IMF, BIS, World Bank, OECD, national authorities, and other source families.
+- **Important distinctions preserved:** Source collection identified does not mean an individual series is audited. A source-family listing does not establish complete coverage, cross-country comparability, current availability, or permission for unrestricted reuse. Stocks, flows, sector boundaries, residence bases, instruments, units, valuations, and observation periods must be checked separately.
+- **Changes integrated:** Linked the register from the Global Financial System Exploration Map and README, and recorded its existence and limitations in Current State.
+- **Status:** Initial source discovery and candidate-series mapping only. No observations were downloaded or reconciled; no global total, dataset, causal relationship, or opportunity has been validated.
+- **Next useful action:** Select a small, purposeful subset of candidate series and perform a series-level audit of exact identifiers, metadata, definitions, coverage, revisions, access conditions, and actual observations. Do not begin global aggregation or dashboard construction.
+
 ## 2026-11-12 — Project records and continuity protocol established
 
 - **Trigger:** Review of whether Current State should be maintained continuously and what role the Research Log serves exposed a risk: project work can progress while a manually maintained summary remains stale.
