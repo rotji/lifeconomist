@@ -294,7 +294,8 @@ These milestones are provisional options for organizing discovery, not obligatio
 - Project status: [CURRENT-STATE.md](CURRENT-STATE.md)
 - Proposed observable-footprint investigation architecture: [FOOTPRINT-INTELLIGENCE-ARCHITECTURE.md](FOOTPRINT-INTELLIGENCE-ARCHITECTURE.md)
 - Opportunity evaluation: [WORKSTREAM-E-ARCHITECTURE.md](WORKSTREAM-E-ARCHITECTURE.md)
+- Initial source and measurement discovery: [Global Financial System Source and Measurement Register](GLOBAL-FINANCIAL-SYSTEM-SOURCE-AND-MEASUREMENT-REGISTER.md)
 - Research history: [RESEARCH-LOG.md](RESEARCH-LOG.md)
 - Material decisions: [DECISION-REGISTER.md](DECISION-REGISTER.md)
 
-**Next useful action when this programme is resumed:** Choose the most valuable evidence-backed question in light of current priorities and existing records. One candidate is to populate a source-and-measurement register, beginning with definitions and a small number of accessible official series. This is a candidate, not an obligation to start immediately or complete milestones in order. Do not claim a global total or select a narrow application before the relevant evidence review.
+**Next useful action when this programme is resumed:** The initial source-and-measurement discovery register has now been created. The next step is a series-level audit of a carefully selected subset: verify exact identifiers, definitions, units, sector and residence boundaries, observation periods, coverage, revisions, access, and actual downloadable observations before comparing or calculating anything. This is a candidate, not an obligation to start immediately or complete milestones in order. Do not claim a global total or select a narrow application before the relevant evidence review.
