@@ -194,6 +194,41 @@ Bulk downloads: https://data.bis.org/bulkdownload
 - **Known caution:** OECD table notes that data are non-consolidated unless otherwise specified. Coverage is OECD reporting economies and may vary; it is not a complete global institutional-investor census. Do not sum without considering counterpart positions and consolidation.
 - **Status:** Identified; country and series coverage audit pending.
 
+### 3.5 Additional national sector-account and financial-stability sources
+
+#### IMF Financial Soundness Indicators (FSI) — Core and Additional Indicators
+- **Register ID:** IMF-FSI
+- **Official source:** https://data.imf.org/Datasets/FSIC
+- **Object:** Macroprudential indicators for financial-system resilience and vulnerabilities.
+- **Potential use:** Financial-sector soundness context and selected cross-sector indicators.
+- **Known caution:** FSIs are not a substitute for full sectoral balance sheets. Indicator definitions, underlying reporting, sector coverage, and country/frequency availability differ. Audit individual series.
+- **Status:** Identified; series-level audit pending.
+
+#### IMF FSI — Balance Sheet, Income Statement and Memorandum Series
+- **Register ID:** IMF-FSI-BS
+- **Official source:** https://data.imf.org/en/datasets/IMF.STA:FSIBSIS
+- **Object:** Selected balance-sheet and income-statement items for financial and non-financial sectors underlying financial soundness analysis.
+- **Potential use:** Additional sectoral balance-sheet evidence and cross-checks.
+- **Known caution:** The IMF's November 2026 data brief reports FSI sectoral data for 156 countries, with 60 countries reporting some data through 2026 Q2. This does not mean every country reports every sector or series, nor that all observations extend to 2026 Q2. Check each country, sector, indicator, period, and metadata record.
+- **Status:** Identified; country/sector/series audit pending.
+
+#### OECD Financial Accounts and Balance Sheets
+- **Register ID:** OECD-FA-BS
+- **Official source:** https://www.oecd.org/en/data/datasets/financial-accounts-and-balance-sheets.html
+- **Object:** National financial transactions and balance-sheet stocks by institutional sector and financial instrument; selected annual and quarterly tables include counterpart information.
+- **Potential use:** A structured sector-by-instrument pilot, including consolidated and non-consolidated presentations where available.
+- **Known caution:** Participating-economy coverage only; some countries do not produce consolidated accounts for all sectors. Confirm the exact table, SNA version, sector, consolidation, frequency, and reporting period.
+- **Status:** Identified; country/table/series audit pending.
+
+#### Eurostat / ECB institutional sector accounts
+- **Register ID:** EUROSTAT-ECB-SA
+- **Official source:** https://ec.europa.eu/eurostat/en/web/sector-accounts/methodology
+- **Relevant datasets:** Annual and quarterly financial balance sheets, financial transactions, revaluation accounts, other changes in volume, and counterpart information. Eurostat identifies dataset families including nasa_10_f_bs, nasq_10_f_bs, nasa_10_f_tr, nasq_10_f_tr, nasa_10_f_gl, nasq_10_f_gl, nasa_10_f_oc, and nasq_10_f_oc.
+- **Object:** Integrated institutional-sector accounts and financial stocks/flows for EU economies and aggregates.
+- **Potential use:** Detailed methodological benchmark and regional pilot for stock-flow reconciliation.
+- **Known caution:** ESA 2010 basis in the cited collections; EU coverage, not global. Do not treat as automatically aligned to 2025 SNA or to other countries' published data.
+- **Status:** Identified; dataset/series and country coverage audit pending.
+
 ## 4. First-pass analytical crosswalk
 
 This crosswalk identifies candidate sources only. It does not claim that any one source answers the whole question.
@@ -215,6 +250,8 @@ This crosswalk identifies candidate sources only. It does not claim that any one
 | Financial development structure | World Bank FinData | Indicator vs composite index; variable coverage |
 | External debt | World Bank IDS; IMF and national sources | Debtor coverage, creditor basis, instrument, valuation |
 | Institutional investor balance sheets | OECD institutional investors; national financial accounts | Non-consolidated/consolidated; geographic coverage |
+| Full sectoral financial balance sheets and stock-flow links | 2025 SNA architecture; OECD FA-BS; Eurostat/ECB sector accounts; national accounts | Actual implementation standard, sector coverage, instrument detail, consolidation, transactions vs revaluations vs other volume changes |
+| Selected financial-sector soundness and balance-sheet indicators | IMF FSI and FSI balance-sheet series | Macroprudential purpose; country/sector/indicator coverage; reporting frequency and metadata |
 
 ## 5. Priority for the next audit pass
 
@@ -270,5 +307,12 @@ The following official pages were reviewed for this first-pass inventory (access
 - World Bank FinData methodology: https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099101926140040193
 - World Bank DataBank: https://databank.worldbank.org/databases
 - OECD Data Explorer: https://data-explorer.oecd.org/
+- UN Statistics Division, 2025 SNA: https://unstats.un.org/unsd/econstats/national-accounts/sna2025
+- IMF Financial Soundness Indicators: https://data.imf.org/Datasets/FSIC
+- IMF FSI Balance Sheet, Income Statement and Memorandum Series: https://data.imf.org/en/datasets/IMF.STA:FSIBSIS
+- IMF November 2026 FSI data brief: https://data.imf.org/en/news/imf%20data%20brief%20november%2011
+- OECD Financial Accounts and Balance Sheets: https://www.oecd.org/en/data/datasets/financial-accounts-and-balance-sheets.html
+- Eurostat institutional sector accounts methodology: https://ec.europa.eu/eurostat/en/web/sector-accounts/methodology
+- Eurostat financial flows and stocks metadata: https://ec.europa.eu/eurostat/cache/metadata/en/nasq_10_f_esms.htm
 
 This list records discovery references, not a complete bibliography or series-level audit. The linked dataset pages and metadata should be revisited when the individual series are selected.
