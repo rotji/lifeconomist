@@ -51,7 +51,7 @@ The cross-cutting **End-to-End Opportunity and Capability-Leverage Principle** a
 
 ## Broad global financial exploration
 
-The provisional [Global Financial System Exploration Map](GLOBAL-FINANCIAL-SYSTEM-EXPLORATION-MAP.md) preserves a broad research agenda covering wealth, money, credit, capital pools, institutions, governments, countries, financial markets, the real economy, risk, information, distribution, data sources, and possible applications. It is a cross-workstream exploration map—not a sixth workstream, a new set of core indicators, or a claim that global financial quantities have already been measured or reconciled. Use it to organize discovery and source audits while preserving the existing economic model and measurement workflow.
+The provisional [Global Financial System Exploration Map](GLOBAL-FINANCIAL-SYSTEM-EXPLORATION-MAP.md) preserves a broad research agenda covering wealth, money, credit, capital pools, institutions, governments, countries, financial markets, the real economy, risk, information, distribution, data sources, and possible applications. The initial [Global Financial System Source and Measurement Register](GLOBAL-FINANCIAL-SYSTEM-SOURCE-AND-MEASUREMENT-REGISTER.md) begins identifying official data collections and candidate measurement objects, but is not yet a completed series-level audit. Both are cross-workstream research resources—not a sixth workstream, a new set of core indicators, or a claim that global financial quantities have already been measured or reconciled. Use it to organize discovery and source audits while preserving the existing economic model and measurement workflow.
 
 ## Agriculture Economy and Opportunities
 
