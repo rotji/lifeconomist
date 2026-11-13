@@ -193,7 +193,47 @@ The global exercise should be built bottom-up:
 - A comparable global distribution of beneficial ownership and effective control.
 - Whether any candidate source set is sufficient to produce a robust global estimate.
 
-## 11. Next research questions
+## 11. Statistical framework: the System of National Accounts
+
+The most coherent starting architecture for national sectoral balance sheets is the **System of National Accounts (SNA)**, rather than attempting to assemble a global balance sheet from unrelated financial datasets.
+
+The United Nations Statistical Commission adopted the **2025 SNA** at its 56th session in 2025. It updates the 2008 SNA while retaining its basic theoretical framework and adding or clarifying treatment for developments including globalization, digitalization, emerging financial issues, Islamic finance, and the informal economy. The 2025 SNA is the current international statistical standard; however, adoption of a standard does not mean every country has already implemented it in its published data. The implementation strategy and the vintage/standard actually used by each dataset must be checked.
+
+Official framework:
+- UN Statistics Division, [System of National Accounts 2025](https://unstats.un.org/unsd/econstats/national-accounts/sna2025).
+- [2025 SNA searchable pre-edit text](https://unstats.un.org/unsd/nationalaccount/docs/2025_SNA_Pre-edit.pdf).
+
+The SNA's sequence of accounts links:
+- Current and capital accounts.
+- Financial transactions during a period.
+- Other changes in assets and liabilities, including revaluations and other volume changes.
+- Opening and closing balance sheets for institutional sectors and the rest of the world.
+
+This architecture matters because the closing stock is not explained by transactions alone. The framework provides the accounting bridge needed to distinguish new lending or securities purchases from price changes, exchange-rate movements, write-offs, reclassifications, and other changes.
+
+### 11.1 Complementary frameworks and datasets
+
+- **IMF Monetary and Financial Statistics (MFS):** important for financial-corporation stocks and flows, but it does not replace the full SNA sectoral sequence across all institutional sectors.
+- **IMF Financial Soundness Indicators (FSI):** macroprudential indicators and selected underlying balance-sheet/income-statement series for financial and non-financial sectors. The IMF's November 2026 data brief reports FSI sectoral data for 156 countries, with 60 reporting some data through 2026 Q2; coverage varies by country, sector, indicator, and frequency. This is valuable evidence, but not a complete globally harmonized balance-sheet census.
+- **OECD Financial Accounts and Balance Sheets:** provides sector- and instrument-based national financial accounts and stock balance sheets for participating economies. The OECD describes annual and quarterly balance-sheet stocks and financial-account flows, including counterpart information; coverage and consolidation must be checked for each country and table.
+- **Eurostat / ECB sector accounts:** offer a comparatively detailed regional example of the integrated sequence, including balance sheets, financial transactions, revaluations, and other changes in volume. They are a methodological benchmark and regional dataset, not a substitute for global coverage.
+
+Official sources:
+- IMF [Financial Soundness Indicators](https://data.imf.org/Datasets/FSIC).
+- IMF [FSI Balance Sheet, Income Statement and Memorandum Series](https://data.imf.org/en/datasets/IMF.STA%3AFSIBSIS).
+- IMF [November 2026 FSI data brief](https://data.imf.org/en/news/imf%20data%20brief%20november%2011).
+- OECD [Financial Accounts and Balance Sheets](https://www.oecd.org/en/data/datasets/financial-accounts-and-balance-sheets.html).
+- OECD [Annual Financial Accounts, consolidated](https://data-explorer.oecd.org/vis?ac=false&bp=true&df%5Bag%5D=OECD.SDD.NAD&df%5Bds%5D=dsDisseminateFinalDMZ&df%5Bid%5D=DSD_NASEC20%40DF_T610R_A&df%5Bvs%5D=1.1&fc=Topic&fs%5B0%5D=Topic%2C0%7CEconomy%23ECO%23&pg=0&snb=307).
+- Eurostat [Institutional sector accounts methodology](https://ec.europa.eu/eurostat/en/web/sector-accounts/methodology).
+- Eurostat [Financial flows and stocks metadata](https://ec.europa.eu/eurostat/cache/metadata/en/nasq_10_f_esms.htm).
+
+### 11.2 Framework decision for this exploration
+
+Use the 2025 SNA as the **conceptual target architecture** for the national sectoral-balance-sheet investigation. For actual observations, record the standard and methodology used by each country/source (which may still be 2008 SNA, ESA 2010, or another documented basis during transition). Do not silently relabel older observations as 2025 SNA data or assume that datasets are comparable merely because they share an SNA lineage.
+
+Use IMF MFS and FSI, OECD financial accounts, Eurostat/ECB, national financial accounts, and IMF external accounts as complementary evidence sources. Each has a distinct scope. Reconcile rather than substitute.
+
+## 12. Next research questions
 
 1. Which international statistical framework provides the most coherent architecture for sectoral balance sheets and financial accounts?
 2. Which official datasets publish financial assets and liabilities by institutional sector and instrument, and for which economies?
@@ -202,4 +242,4 @@ The global exercise should be built bottom-up:
 5. Can we construct a small, reproducible country pilot and reconcile its domestic and external positions?
 6. What are the largest coverage gaps: households, non-financial corporations, non-bank financial institutions, government, offshore entities, or instrument classes?
 
-**Next step:** Audit the statistical framework and exact official series needed for a small national sectoral-balance-sheet pilot before attempting global totals.
+**Next step:** Audit the exact official series and country coverage for a small national sectoral-balance-sheet pilot. Use 2025 SNA as the conceptual target, while documenting the actual compilation standard and transition status of each dataset. Do not attempt global totals before this audit.
