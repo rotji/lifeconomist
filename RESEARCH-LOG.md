@@ -1,3 +1,14 @@
+## 2026-11-14 — Lifeconomist Project Governance Charter adopted
+
+- **Trigger:** The project owner approved adoption of the Universal Project Governance Standard through a project-specific governance arrangement.
+- **Repository review:** Rechecked the project overview, Current State, Research Methodology, Project Records and Continuity Protocol, Decision Register, Research Log, and repository structure before integration.
+- **Finding:** Lifeconomist already had substantial governance foundations. The adoption therefore consolidates and clarifies project-wide rules rather than replacing existing operational protocols or creating parallel workstream governance systems. The review also identified and corrected a methodology opening statement that incorrectly described four workstreams despite defining A–E.
+- **Changes:** Added [PROJECT-GOVERNANCE.md](PROJECT-GOVERNANCE.md) v1.0; linked it from [README.md](README.md); corrected the A–E workstream count and added Workstream E to the explicit workstream-question summary in [RESEARCH-METHODOLOGY.md](RESEARCH-METHODOLOGY.md); recorded adoption decision D-019 in [DECISION-REGISTER.md](DECISION-REGISTER.md); and updated this log and [CURRENT-STATE.md](CURRENT-STATE.md).
+- **Governance design:** Established five project-information classifications and explicitly separated them from research evidence-status descriptions. Confirmed project-owner authority over material decisions while allowing routine, reversible research choices within approved scope. Defined proportional change control, assurance, risk safeguards, AI/collaborator boundaries, and an independent-understanding test for substantial handoffs.
+- **Preserved boundaries:** Existing workstream methods and the Project Records and Continuity Protocol remain authoritative for their operational subjects. No new workstream was created; no research hypothesis or proposed capability was promoted to a verified result; and no existing research artifact was rewritten as part of this adoption.
+- **Status:** Governance charter adopted and repository documentation integrated. This is a documentation/governance change, not evidence that research programmes, proposed architectures, or technical capabilities have been implemented or validated.
+- **Next action:** Use the charter in future work. Reconcile other records only when a material status change or demonstrated inconsistency warrants it; do not launch a repository-wide rewrite solely to propagate the new wording.
+
 ## 2026-11-13 — Financial-claims accounting foundation and statistical framework identified
 
 - **Research question:** Before estimating global financial assets and liabilities, establish what is being counted, how counterpart claims and liabilities relate, and which accounting framework can organize sectoral positions.
