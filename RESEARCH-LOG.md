@@ -1,3 +1,11 @@
+## 2026-11-14 — Development-first governance and documentation principle clarified
+
+- **Trigger:** The project owner identified that governance activity could begin competing with actual Lifeconomist development and asked for an explicit repository-level rule preventing unnecessary interference.
+- **Decision:** Adopt the development-first principle: governance operates in the background as proportionate safeguards; useful exploration, research, experimentation, analysis, and building continue without unnecessary administrative gates. Documentation preserves meaningful knowledge and consequential events rather than recording activity for its own sake.
+- **Changes:** Clarified the operating principle and documentation threshold in [PROJECT-GOVERNANCE.md](PROJECT-GOVERNANCE.md), added practical application rules to [Project Records and Continuity Protocol](PROJECT-RECORDS-AND-CONTINUITY-PROTOCOL.md), and recorded decision D-020 in [DECISION-REGISTER.md](DECISION-REGISTER.md).
+- **Operating boundary:** No new workstream, governance layer, mandatory checklist, or routine approval step is created. Routine work within approved scope proceeds. Records are created or updated when they have a real continuity, evidence, decision, risk, or handoff purpose.
+- **Status:** Governance/documentation clarification only. No research programme, technical capability, or product implementation is claimed as completed.
+
 ## 2026-11-14 — Lifeconomist Project Governance Charter adopted
 
 - **Trigger:** The project owner approved adoption of the Universal Project Governance Standard through a project-specific governance arrangement.
