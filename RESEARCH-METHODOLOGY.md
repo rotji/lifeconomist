@@ -2,7 +2,7 @@
 
 ## Research and development workstreams
 
-The project uses four distinct but interconnected workstreams as its research and development framework. They are not isolated projects or a rigid one-way sequence; each may inform and improve the others.
+The project uses five distinct but interconnected workstreams (A–E) as its research and development framework. They are not isolated projects or a rigid one-way sequence; each may inform and improve the others.
 
 ### Workstream A — Deep Conceptual Foundations
 
@@ -68,6 +68,7 @@ The detailed proposed architecture, including Biological Intelligence, Bioeconom
 - **B asks:** How can this economic concept or condition be measured reliably?
 - **C asks:** What is happening in the economic system, what evidence supports that assessment, and what might it mean?
 - **D asks:** What observable traces can reveal an activity, relationship, capability, change, or possible development, and how can those traces be investigated and verified?
+- **E asks:** Given what the project understands and can verify, where might there be an opportunity to create or capture economic value, and what evidence would justify acting on it?
 
 For a possible factory expansion, A explains production capacity, investment, employment, and their mechanisms; B defines measurements needed to assess changes in investment, output, or employment; C monitors relevant economic data and documented developments; D investigates traces such as public hiring notices, permits, procurement records, company announcements, shipping activity, or suitable satellite observations. A trace alone does not prove the expansion. D seeks corroboration, considers alternatives, and records uncertainty.
 
