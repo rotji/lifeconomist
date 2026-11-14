@@ -1,9 +1,10 @@
 # Current Project State
 
-**Last updated:** 2026-11-12  
+**Last updated:** 2026-11-14  
 **Stage:** Foundational framework selected; measurement protocol incomplete; Workstream E now has an initial FX investigation programme specification.
 
 ## Established
+- **Project-wide governance:** [PROJECT-GOVERNANCE.md](PROJECT-GOVERNANCE.md) v1.0 is adopted as the Lifeconomist-specific implementation of the Universal Project Governance Standard. It defines project information classifications, owner and collaborator authority, decision/change governance, proportionate assurance and risk safeguards, and independent handover. Existing research methods and the [Project Records and Continuity Protocol](PROJECT-RECORDS-AND-CONTINUITY-PROTOCOL.md) retain their operational roles. Adoption is recorded as D-019 in `DECISION-REGISTER.md` and in `RESEARCH-LOG.md`.
 - The project's research and development framework consists of Workstreams A (Deep Conceptual Foundations), B (Measurement), C (Evidence-Based Monitoring), D (Footprint Intelligence), and E (Opportunity Intelligence and Economic Application); the definitions and boundaries are in `RESEARCH-METHODOLOGY.md`.
 - The shared Reality-First Principle now explicitly includes interconnected-reality and layered-investigation guidance. This is a cross-cutting method, not a new workstream. The specialized D process is documented in `FOOTPRINT-INTELLIGENCE-ARCHITECTURE.md`; its architecture remains proposed rather than implemented or validated.
 - The project is global in scope, with Nigeria as an initial test case rather than a permanent limit.
