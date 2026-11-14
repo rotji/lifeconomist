@@ -52,6 +52,20 @@ Apply governance effort in proportion to the significance, risk, reversibility, 
 
 Lifeconomist can explore new domains and opportunities without assuming that every discovery requires a new workstream, product, indicator, or programme. First determine whether the discovery fits an existing capability or record. Add structure only when it solves a demonstrated need.
 
+
+### 2.7 Development first; governance in the background
+
+Lifeconomist is an active research and development project, not a governance-administration project. Governance exists to support useful work, protect continuity, and prevent avoidable errors; it must not compete with the work it is meant to support.
+
+- Proceed with useful exploration, research, experimentation, analysis, and building without first completing governance or documentation steps that are not genuinely needed.
+- Apply governance quietly as a set of safeguards and shared expectations, not as a recurring checklist, approval ritual, or separate workstream.
+- Do not interrupt routine development to update governance documents, registers, logs, or summaries. Make a record when the work produces something worth preserving or when a material decision, risk, change, or handoff genuinely requires it.
+- Do not create governance tasks, reviews, meetings, forms, approvals, or documents solely to demonstrate compliance or administrative completeness.
+- Keep routine, reversible work moving within the existing approved direction. Seek the project owner's decision only when a matter genuinely crosses the material-authority boundary in this charter.
+- If governance itself begins slowing, distracting from, or duplicating useful project work, treat that friction as a reason to simplify how the rules are applied—not as a reason to add another layer.
+
+The default is to continue the project. Governance intervention is the exception and must have a clear practical reason.
+
 ## 3. Project information classification
 
 Use the following classifications to communicate the governance status of project components, directions, decisions, and activities. Apply them where the status could otherwise be misunderstood; do not force a label onto every paragraph or routine note.
@@ -91,6 +105,9 @@ The repository is the durable project record. Each document should have a clear 
 - **Git history and diffs:** technical record of repository changes, not independent validation of research claims.
 
 Do not duplicate entire policies, findings, or histories across documents. Where another document needs to refer to a rule, link to its authoritative home and add only the operational detail needed locally.
+
+
+**Documentation principle — document to support development, not to interrupt it.** Documentation is a means of preserving useful knowledge, explaining consequential decisions, enabling continuity, and making work independently understandable. It is not an end in itself. Create or update a document when there is substantive knowledge, a material decision or change, a meaningful result, a necessary handoff, or a practical need for future work to rely on the information. Use the existing appropriate record; do not create a new document or update multiple records just because an activity occurred. Routine exploration, conversation, minor edits, and ordinary development may proceed without a documentation event. Capture important outcomes at a natural point in the work, with enough detail for their intended future use and no more ceremony than necessary.
 
 ## 5. Research and information management
 
