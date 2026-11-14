@@ -188,3 +188,24 @@ If work progresses but a record is not updated immediately, do not conceal the o
 Research artifacts preserve what is known. The Research Log preserves why and how the project changed. Current State helps locate the work but may lag. Decisions preserve deliberate choices. Git history preserves repository changes. On return, verify the underlying work and reconcile summaries; never repeat completed research solely because a summary is stale.
 
 This protocol implements and operationalizes the existing Continuity, Pause, and Revision Principle. It does not create a new workstream or require every activity to follow a rigid linear sequence.
+
+
+## 12. Development-first documentation: preserve what matters, then keep moving
+
+Documentation must support the real work of Lifeconomist. It must not become a parallel activity that delays research, discovery, experimentation, analysis, or implementation.
+
+Apply this principle in practice:
+
+- **Work may proceed without administrative preparation.** Do not require a log entry, checkpoint, status update, approval form, or document before beginning or continuing ordinary work.
+- **Document meaningful outcomes, not activity for its own sake.** Capture substantive findings, useful methods, important negative results, material decisions, consequential changes, and handoff information when they become worth preserving.
+- **Use the lightest sufficient record.** Add the information to the existing relevant artifact where possible. Do not create a new document, duplicate content across records, or update every project summary for one development event.
+- **Let documentation follow the work naturally.** It may be written during or after an activity when doing so is useful. It need not interrupt a productive investigation or build merely to satisfy a schedule.
+- **Do not turn guidance into a mechanical checklist.** The event matrix and resumption procedure guide judgment; they are not forms that must be completed line by line for every task.
+- **Keep routine work moving.** Routine, reversible choices within an approved scope do not require governance review. Escalate only a genuine material decision, significant risk, or authority boundary.
+- **Simplify when records create friction.** If a documentation practice repeatedly delays work, duplicates existing information, or provides little future value, reduce or remove the burden while retaining any essential evidence, decision traceability, or continuity.
+
+The practical test is: **Will this record materially help preserve knowledge, support a decision, prevent avoidable repetition, manage a real risk, or allow future work to continue accurately?** If not, do not create it merely for completeness.
+
+This principle does not excuse losing important evidence or concealing material decisions. It sets the threshold for recording them so that documentation remains useful and proportionate.
+
+**Default operating rule: continue useful project work; document what matters; do not let documentation become the work.**
