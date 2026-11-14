@@ -37,3 +37,16 @@ If a decision is reversed, preserve the original row and record the reversal sep
 
 
 | D-018 | 2026-11-12 | Adopt the Project Records and Continuity Protocol as the mandatory governance standard for preserving Lifeconomist knowledge, history, decisions, current position, and resumption points. Retain Current State as a derived navigation snapshot that may lag; retain the Research Log for meaningful chronological research events; use substantive artifacts, the Decision Register, and Git history for their distinct authoritative purposes. | Manual summaries cannot be assumed to be updated after every activity. Treating Current State as the definitive record could hide progress or cause repetition. A significance-based, evidence-verified record system preserves continuity without imposing excessive administration or relying on perfect memory. | Remove Current State; require updates after every activity; or treat the Research Log as a transcript/task diary. | Revisit if practical use reveals ambiguity, unnecessary maintenance burden, loss of traceability, or a better way to verify and resume work. |
+
+
+## D-019 — 2026-11-14 — Adopt Lifeconomist Project Governance Charter
+
+**Decision:** Adopt `PROJECT-GOVERNANCE.md` v1.0 as the project-specific implementation of the Universal Project Governance Standard v1.0. Apply it across all existing and future Lifeconomist workstreams, programmes, research domains, experiments, publishing activities, and project records.
+
+**Reason:** Consolidate project-wide authority, status classification, decision and change governance, collaboration boundaries, proportionate assurance, and independent handover while preserving existing research and continuity arrangements and avoiding duplicated policies.
+
+**Alternatives considered:** Copy the entire universal standard into Lifeconomist; create separate governance documents for individual workstreams; or leave governance dispersed across existing records without a project-specific charter.
+
+**Revisit condition:** Material project evolution, repeated ambiguity or operational friction, a significant risk, a change in authority, or a demonstrated governance gap.
+
+**Implementation boundary:** This adoption does not approve every proposal, research hypothesis, programme design, or capability described elsewhere in the repository. Existing domain methods and status distinctions remain in force.
