@@ -50,3 +50,15 @@ If a decision is reversed, preserve the original row and record the reversal sep
 **Revisit condition:** Material project evolution, repeated ambiguity or operational friction, a significant risk, a change in authority, or a demonstrated governance gap.
 
 **Implementation boundary:** This adoption does not approve every proposal, research hypothesis, programme design, or capability described elsewhere in the repository. Existing domain methods and status distinctions remain in force.
+
+## D-020 — 2026-11-14 — Make development-first, low-friction governance an explicit operating and documentation principle
+
+**Decision:** Clarify that Lifeconomist development takes priority over governance administration. Governance must operate in the background as proportionate safeguards. Documentation must preserve substantive knowledge, meaningful outcomes, material decisions and changes, necessary risk information, and useful handoffs—not record every activity or interrupt routine work.
+
+**Reason:** Governance and documentation were beginning to risk becoming competing activities. The project must make natural progress through exploration, research, experimentation, analysis, and building without unnecessary administrative gates, repeated updates, or documentation tasks.
+
+**Implementation:** Add the development-first principle to PROJECT-GOVERNANCE.md and its practical documentation rules to PROJECT-RECORDS-AND-CONTINUITY-PROTOCOL.md. Apply the existing significance thresholds; do not create a new governance layer, checklist, or workstream.
+
+**Boundary:** This does not remove the need to preserve important evidence, material decisions, significant risks, or handoff information. It means applying those requirements only when there is a real purpose, using the lightest sufficient record, and allowing routine work to continue without interruption.
+
+**Revisit condition:** Practical experience shows that the principle is unclear, essential knowledge is being lost, or a documentation practice is causing recurring and demonstrable friction.
