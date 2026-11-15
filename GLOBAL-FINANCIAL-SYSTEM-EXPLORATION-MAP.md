@@ -151,9 +151,47 @@ For any subject, consider which views apply rather than forcing every question i
 | Allocation | Which sectors, instruments, activities, or recipients receive financing? |
 | Valuation | How much change comes from transactions versus changing prices or exchange rates? |
 | Transmission | Through what mechanism might a change affect other entities or outcomes? |
+| Temporal relationship | How do activities, transactions, positions, and events relate in time: co-occurrence, sequence, lead/lag, duration, frequency, synchronization, or delay? |
 | Distribution | Who receives benefits, bears costs, or faces constraints? |
 | Risk | What exposure, vulnerability, buffer, or dependency is evidenced? |
 | Observability | What is directly measured, estimated, inferred, delayed, undisclosed, or missing? |
+
+### 4.1 Temporal relationships, co-occurrence, dependencies, and synchronization
+
+Treat time as an analytical dimension across the financial system, not as a separate asset class, instrument category, or new workstream. Investigate how activities, transactions, positions, obligations, decisions, and events relate over time. Keep the scope open: the same questions may later apply to non-financial economic activity elsewhere in Lifeconomist.
+
+Explore at least these distinct relationship types:
+
+- **Co-occurrence:** Activities or events observed during the same time window. Establish whether the overlap is meaningful or coincidental; simultaneity alone does not demonstrate a connection.
+- **Dependency:** One activity, event, or condition requires another to occur, or is materially constrained by it.
+- **Sequence:** An activity normally precedes or follows another, whether by contractual, operational, institutional, behavioural, or other mechanisms.
+- **Synchronization:** Two or more linked actions need to occur at the same time or within a defined tolerance window for a process to work as intended. For example, delivery-versus-payment arrangements coordinate the transfer of a security with its payment.
+- **Lead/lag and delay:** One variable or event tends to precede another; measure the interval and investigate whether the relationship is stable, conditional, or merely coincidental.
+- **Frequency, duration, and recurrence:** How often an event occurs, how long it lasts, and whether its timing or recurrence changes.
+- **Interdependence and feedback:** Activities influence one another over time, potentially reinforcing, dampening, or redirecting subsequent activity.
+- **Timing mismatch or desynchronization:** Linked inflows, outflows, obligations, transfers, funding, settlement, or operational steps occur at incompatible times or outside required windows.
+- **Interruption or absence:** An expected activity is delayed, reduced, suspended, fails to occur, or is replaced by an alternative; investigate the resulting adjustments and consequences.
+
+Questions should remain open across financial transactions, payment and settlement, deposits and withdrawals, lending and repayment, issuance and investment, refinancing and debt service, collateral and margin, fund commitments and deployment, government revenue and expenditure, trade and foreign-exchange payments, and the links between finance and production or household activity.
+
+For each proposed relationship, distinguish:
+1. The entities, sectors, instruments, activities, or events involved.
+2. The event or observation being timed, its definition, timestamp, frequency, and relevant time window.
+3. Whether the relationship is simultaneous, sequential, dependent, interdependent, or only statistically associated.
+4. The expected timing, tolerance window, normal variation, and evidence for that expectation.
+5. What changes when timing, order, frequency, duration, volume, or occurrence changes.
+6. Who or what absorbs the delay, cost, risk, adjustment, or benefit.
+7. Possible direct, indirect, delayed, cumulative, and system-wide consequences.
+8. Alternative explanations, confounders, institutional rules, and contextual conditions.
+9. Whether the relationship is observed, contractually required, theoretically expected, estimated, or still a hypothesis.
+
+Do not assume that activities which happen together are causally connected, that every linked activity must be simultaneous, or that a timing mismatch necessarily causes failure. Some systems deliberately sequence activities; buffers, inventories, credit lines, netting, insurance, hedging, queues, and contingency arrangements may absorb or redistribute timing differences. Identify the actual mechanism and applicable conditions.
+
+Potential consequences to examine include liquidity pressure, settlement and counterparty risk, missed obligations, working-capital strain, funding gaps, market disruption, delayed production or trade, changes in asset prices, risk transfer, contagion, resilience, and distributional effects. These are possible investigation categories, not predetermined outcomes.
+
+Use methods proportionate to the question and data: event timelines, matched transaction records, time-series and lead/lag analysis, process and network mapping, sequence analysis, event studies, and stress scenarios may be useful where definitions, timestamp quality, coverage, and causal identification permit. Record time zones, business calendars, reporting intervals, publication lags, revisions, and aggregation effects. Coarse data can conceal or falsely create apparent simultaneity.
+
+This is an exploratory analytical dimension integrated into the existing map. It does not create a new Lifeconomist workstream, prescribe a single model, or narrow the programme to financial synchronization. Findings may inform Workstreams A–E according to their actual conceptual, measurement, monitoring, footprint, or application relevance.
 
 ## 5. Measurement and accounting safeguards
 
@@ -236,6 +274,18 @@ Maintain these as an open question bank; add, split, reframe, answer, or retire 
 - Where do common holdings, concentrated exposures, maturity mismatch, currency mismatch, or funding dependencies create vulnerability?
 - How do observed flows differ from price changes and changes in valuation?
 
+### Timing, co-occurrence, dependency, and synchronization
+- Which financial activities, transactions, events, or changes commonly occur within the same time window, and which are unrelated coincidences?
+- Which activities depend on other activities, and which are contractually, operationally, or institutionally required to occur simultaneously or in a particular sequence?
+- What are the typical lead/lag intervals, durations, frequencies, settlement windows, payment cycles, and maturity relationships?
+- What happens when linked inflows, outflows, payments, deliveries, funding, repayments, or obligations occur earlier, later, less frequently, or not at all?
+- Which timing mismatches can be absorbed by liquidity buffers, inventories, credit facilities, netting, insurance, hedging, or other arrangements, and who bears the cost?
+- How do timing relationships differ across institutions, instruments, countries, currencies, market conditions, and periods of stress?
+- Which observed relationships are descriptive associations, which have a documented mechanism, and which can be supported as causal effects?
+- How do simultaneous or sequential changes propagate through counterparties, networks, sectors, markets, and the real economy, including delayed and feedback effects?
+- What data resolution and timestamp quality are required to distinguish true synchronization from apparent co-occurrence caused by aggregation, reporting schedules, or publication delays?
+- Which timing patterns improve resilience or coordination, and which create fragility, concentration, or systemic exposure?
+
 ### Evidence and methodology
 - Which data are authoritative, timely, comparable, reproducible, and affordable to access?
 - Which source disagreements result from different definitions, timing, coverage, revisions, or actual inconsistencies?
@@ -256,7 +306,7 @@ Maintain these as an open question bank; add, split, reframe, answer, or retire 
 4. **Choose small overlapping samples.** Test a manageable number of countries, sectors, instruments, and dates before attempting global aggregation.
 5. **Reconcile where possible.** Compare counterpart assets and liabilities, sector totals, and independent sources. Document residuals and reasons they may exist.
 6. **Create separate views.** Keep stocks, flows, wealth, monetary aggregates, credit, capital-pool assets, fiscal flows, market valuations, and real-economy measures distinct until their relationships are clear.
-7. **Investigate connections.** Map relevant entities, roles, mechanisms, transmission paths, feedback, and alternative explanations.
+7. **Investigate connections, including their timing.** Map relevant entities, roles, mechanisms, transmission paths, feedback, co-occurrence, dependencies, sequence, synchronization, lead/lag, delays, interruptions, and alternative explanations. Do not infer causation from simultaneity or correlation alone.
 8. **Record evidence status.** Label data as verified, provisional, estimated, illustrative, inferred, contradictory, or missing.
 9. **Review what is learned.** Update the concept, measurement, source, relationship, and question registers.
 10. **Prioritize only from evidence.** Use data quality, explanatory value, feasibility, learning value, and practical relevance to decide where deeper work is warranted.
