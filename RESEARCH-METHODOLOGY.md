@@ -125,6 +125,18 @@ This is a flexible reasoning aid, not a mandatory checklist. Use only the dimens
 
 **Division of responsibility:** This subsection establishes the cross-workstream principle. Workstream A explains concepts and mechanisms; B defines and validates measurements; C monitors and interprets economic developments; D provides the specialized footprint-based investigation capability, including trace inventories, entity/relationship mapping, corroboration, and uncertainty; E evaluates possible economic actions and returns outcomes and lessons to the other workstreams. Their existing definitions remain authoritative. See `FOOTPRINT-INTELLIGENCE-ARCHITECTURE.md` for the detailed proposed D process. This shared principle does not create a new workstream, add core economic indicators, or imply that the proposed D capability is already implemented.
 
+### Capability-first research and tool selection
+
+Lifeconomist applies a capability-first, technology-neutral approach when research or development raises a tooling question. First identify the actual research or operational outcome required, then determine the capability needed to achieve it. Only after that should the project consider whether an existing method, current AI capability, manual procedure, external service, integration, automation, or custom software is appropriate.
+
+When a tool or technology is being considered, check whether the current project environment already provides the needed capability. A new component should have a specific incremental purpose; it should not be introduced merely because it is newer, more powerful, or technically interesting.
+
+Where a capability gap is real, consider existing solutions and legitimate ways of leveraging them before building: reuse, configuration, combination, integration, partnership, implementation, licensing, distribution, or specialist providers may be preferable to custom development. This complements Workstream E's capability-leverage principle and the project's broader rule against building where established solutions already satisfy the need.
+
+For AI-assisted research, distinguish the model's existing capability from additional skills, tools, APIs, MCP connections, connectors, agents, automation, or orchestration. More components do not automatically produce better research. Evaluate actual availability, permissions, compatibility, cost, data handling, evidence quality, and maintenance when those factors materially affect the work.
+
+This is a reasoning principle, not a mandatory technology-assessment checklist. Routine research should continue without interruption. Use a more explicit capability assessment only when the choice materially affects project direction, cost, dependencies, risk, implementation, or long-term operations.
+
 ### End-to-End Opportunity and Capability-Leverage Principle
 
 Across Lifeconomist's domains and workstreams, when an investigation has a practical or commercial dimension, consider both the value available in individual stages of a system and the possibility of connecting stages to deliver a complete customer outcome. This is an opportunity-discovery lens, not a new workstream and not an instruction to commercialize every finding.
