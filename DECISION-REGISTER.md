@@ -62,3 +62,16 @@ If a decision is reversed, preserve the original row and record the reversal sep
 **Boundary:** This does not remove the need to preserve important evidence, material decisions, significant risks, or handoff information. It means applying those requirements only when there is a real purpose, using the lightest sufficient record, and allowing routine work to continue without interruption.
 
 **Revisit condition:** Practical experience shows that the principle is unclear, essential knowledge is being lost, or a documentation practice is causing recurring and demonstrable friction.
+
+
+## D-021 — 2026-11-15 — Adopt relevant Universal Project Governance v1.1 principles for Lifeconomist
+
+**Decision:** Update the Lifeconomist project-specific governance to adopt the relevant capability-first, technology-neutral, assemble-before-building, proportionate-complexity, existing-capability-sufficiency, and technology-reassessment principles from Universal Project Governance Standard v1.1.
+
+**Reason:** Lifeconomist spans research, measurement, intelligence, opportunity discovery, publishing, and future development. The universal standard's technology principles are particularly relevant because the project routinely evaluates tools, AI systems, APIs, integrations, automation, external providers, and possible products. They should guide those choices without turning ordinary work into a technology or governance exercise.
+
+**Lifeconomist-specific application:** Define the required capability before selecting technology; check current project capabilities and established external solutions first; prefer reuse, configuration, combination, integration, partnership, implementation, licensing, distribution, or specialist providers before custom development; introduce complexity only for a justified benefit; accept "no new technology required" as a valid outcome; and reassess adopted solutions only when meaningful changes justify it.
+
+**Implementation boundary:** These principles do not require a technology review before routine research or development. Work should continue naturally. A more explicit capability assessment is used only when a capability or technology decision materially affects project direction, resources, dependencies, implementation, risk, or long-term operations. Workstream E's existing End-to-End Opportunity and Capability-Leverage Principle remains the detailed application for opportunity exploration.
+
+**Revisit condition:** Practical use reveals that the principles are unclear, create unnecessary friction, fail to prevent premature building or technology accumulation, or otherwise need adjustment.
