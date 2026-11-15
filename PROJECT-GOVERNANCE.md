@@ -1,14 +1,15 @@
 # Lifeconomist Project Governance
 
-**Version:** 1.0  
+**Version:** 1.1  
 **Status:** Adopted  
 **Adopted:** 2026-11-14  
+**Updated:** 2026-11-15  
 **Project owner:** The project owner retains final authority over material project decisions.  
 **Applies to:** All Lifeconomist workstreams, programmes, research domains, experiments, publishing activities, project records, collaborators, and future areas of work.
 
 ## 1. Purpose and relationship to the universal standard
 
-This charter adopts the Universal Project Governance Standard v1.0 as the project-specific governance arrangement for Lifeconomist. It translates the universal principles into a proportionate operating framework suited to Lifeconomist's existing architecture.
+This charter adopts the Universal Project Governance Standard v1.1 as the project-specific governance arrangement for Lifeconomist. It selects and translates only the universal principles that materially fit Lifeconomist's research, measurement, intelligence, opportunity, publishing, and development context, while preserving the project's development-first, low-friction operating posture.
 
 This charter is the authoritative home for Lifeconomist-wide governance authority, project information classifications, decision and change governance, collaboration boundaries, review, and adoption rules. It does not replace the substantive research methods or operational protocols that govern particular activities.
 
@@ -165,13 +166,103 @@ For research-definition or conclusion changes, preserve the prior version, revis
 
 Do not require a formal change proposal for routine corrections or low-impact reversible improvements. Do not make unrelated edits merely because a file is being updated.
 
-## 8. Project structure and technical governance
+## 8. Project structure, capability and technology governance
 
-Keep the A–E workstream architecture and cross-cutting programmes coherent, but allow new domains and capabilities to emerge when justified. A discovery does not automatically require a new workstream, repository, service, software component, indicator, or product.
+Keep the A–E workstream architecture and cross-cutting programmes coherent, but allow new domains and capabilities to emerge when justified. A discovery does not automatically require a new workstream, repository, service, software component, indicator, product, or technology.
 
-Before creating a new structural element, check whether the need can be met through an existing workstream, programme, artifact, or capability. Define its purpose, boundaries, relationships, dependencies, owner, status, and maintenance implications at a level proportionate to its importance.
+### 8.1 Capability before technology
+
+When Lifeconomist encounters a practical problem or possible improvement, first define the actual capability required. Examples include finding and verifying information, collecting data, analysing a system, monitoring change, connecting records, communicating findings, testing an opportunity, or delivering a customer outcome.
+
+Do not begin with the question, "Which tool, AI model, agent, API, MCP integration, automation, platform, or software should we add?" Begin with, "What do we need to accomplish, and what would count as a useful result?"
+
+The required capability may already be available through the current model, existing tools, a documented method, manual work, an external provider, or a combination of these.
+
+### 8.2 Existing capability before new adoption
+
+Before introducing a new technology or service, examine what Lifeconomist already has available and what established external solutions can legitimately provide.
+
+Relevant options may include:
+- Existing project methods and research procedures.
+- Current AI capabilities and available tools.
+- Existing data sources and repositories.
+- Established software, platforms, APIs, connectors, and services.
+- Human expertise and manual procedures.
+- External providers, specialist services, partnerships, licensing, implementation, distribution, or referral arrangements.
+- Combinations of existing capabilities.
+
+An existing capability is sufficient when it can reliably meet the actual requirement within acceptable limits of quality, accuracy, cost, access, time, security, and maintenance.
+
+A new technology must not be introduced merely because it has more features, is newer, or is technically interesting.
+
+### 8.3 Assemble before building
+
+Where a genuine capability gap exists, investigate whether the outcome can be achieved by reusing, configuring, integrating, combining, partnering with, acquiring, licensing, distributing, or implementing existing solutions before considering custom development.
+
+This is especially important for Workstream E. Lifeconomist should not assume that an opportunity requires building a competing product or owning the entire delivery chain. An existing provider may already solve the problem. The opportunity may instead be to connect, implement, distribute, coordinate, verify, provide intelligence around, or otherwise leverage that capability.
+
+Custom development is justified only when an unresolved requirement remains after appropriate investigation and there is sufficient reason to build, such as a meaningful capability gap, customer requirement, evidence of demand, strategic value, or another concrete incentive.
+
+### 8.4 Complexity must earn its place
+
+Prefer the simplest arrangement that can reliably achieve the intended outcome. Do not add agents, skills, APIs, MCP servers, connectors, automations, databases, dashboards, integrations, infrastructure, or procedures simply because they are available.
+
+Additional complexity is justified when it produces a meaningful improvement in capability, reliability, quality, scale, safety, accessibility, cost, learning value, or another relevant requirement.
+
+Evaluate the maintenance burden, provider dependence, permissions, data handling, security, licensing, recurring cost, and failure modes before adopting a materially more complex arrangement.
+
+### 8.5 No technology is a valid outcome
+
+Lifeconomist may conclude that no additional technology is required.
+
+Valid conclusions include:
+- Existing tools are sufficient.
+- The current AI capability is sufficient.
+- A manual process is preferable at the current scale.
+- An established platform should be configured or used rather than replaced.
+- An external provider can supply the required capability.
+- The requirement is not yet important enough to justify adoption.
+- The apparent problem is actually a research, definition, data, or operational gap rather than a technology gap.
+
+Not adopting a new technology is not a failure to innovate.
+
+### 8.6 Technology and capability decisions are revisable
+
+A technology or capability decision is not permanent merely because it was useful earlier. Reconsider it when requirements, scale, cost, performance, access, security, compatibility, provider conditions, or evidence materially change.
+
+Reassessment should be event-driven and proportionate. The appearance of a new technology is not, by itself, a reason to reassess the entire project.
+
+### 8.7 Technology and AI integration boundaries
+
+When using external APIs, MCP servers, plugins, connectors, skills, automation, or other integrations, verify their actual availability, permissions, supported operations, compatibility, costs, data handling, licensing, security, and maintenance requirements before relying on them.
+
+For AI-assisted work, distinguish the roles of the model, instructions, skills, tools, data/context, orchestration, and controls. Do not assume that assembling more components makes an AI system more reliable. Where the current model or simpler workflow is adequate, prefer it.
+
+### 8.8 Proportionate capability assessment
+
+A formal capability assessment is required only when a capability or technology decision materially affects project direction, resources, dependencies, implementation, risk, or long-term operations.
+
+For a material assessment, record enough to answer:
+1. What outcome or task requires attention?
+2. What capability is required?
+3. What existing capabilities are available?
+4. Are they sufficient?
+5. If not, what exact gap remains?
+6. What alternatives were considered?
+7. Why is the selected approach appropriate?
+8. What are the expected benefits, costs, risks, dependencies, and limitations?
+9. How will the result be tested?
+10. What future condition would justify reassessment?
+
+For low-risk or obvious decisions, a concise conclusion is sufficient. Do not create a separate assessment record merely to satisfy a template when the decision is trivial or reversible.
+
+### 8.9 Structural and technical safeguards
+
+Before creating a new structural element, check whether the need can be met through an existing workstream, programme, artifact, or capability. Where a new element is justified, define its purpose, boundaries, relationships, dependencies, status, and maintenance implications at a level proportionate to its importance.
 
 Technical implementation, access controls, data handling, deployment, backups, licensing, and maintenance must follow the applicable technical and security requirements. Do not imply that a documented architecture or proposed feature has been implemented.
+
+This section is an application of the universal standard to Lifeconomist. It does not require the project to perform a technology review before ordinary research, conversation, experimentation, or development. The default remains: **continue useful work; introduce governance only when it protects a real project need.**
 
 ## 9. Progress and performance management
 
