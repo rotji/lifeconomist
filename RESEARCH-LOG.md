@@ -679,3 +679,14 @@
 - **Limitations:** This was one introductory lesson, not completion of Chapter 4. Transactions versus other flows, detailed volume changes, economic ownership, time of recording and full valuation rules remain open. No Lifeconomist measurement design or Nigeria implementation work was undertaken.
 - **Documentation:** Updated the [2025 SNA Study and Resumption Checkpoint](2025-SNA-STUDY-AND-RESUMPTION-CHECKPOINT.md) and [Current State](CURRENT-STATE.md).
 - **Next action:** Chapter 4, Lesson 2 — transactions versus other flows, grounded in the official standard and exact paragraph references.
+
+
+## 2026-11-18 — 2025 SNA study: Chapter 4 Lesson 2 — transactions versus other flows
+
+- **Task:** Continue the gradual study of Chapter 4 and document the distinction between transactions and other flows before proceeding to the detailed categories.
+- **Source:** Official UN *System of National Accounts 2025 — White Cover Version*, Chapter 4, particularly §§4.6–4.7 and §4.18: https://unstats.un.org/unsd/nationalaccount/docs/2025_SNA_Pre-edit.pdf
+- **Lesson content:** Introduced economic flows as reflecting the creation, transformation, exchange, transfer or extinction of economic value and involving changes in the volume, composition or value of assets and liabilities (§4.6). The standard divides economic flows into transactions and other flows (§4.7). Transactions are economic interactions between institutional units by mutual agreement or through operation of law; certain internal actions may also be treated as transactions where analytically useful, including when a unit acts in different capacities. Other flows are changes in the value of assets and liabilities that are not transactions; they comprise other changes in the volume of assets and liabilities and revaluations. §4.18 was used to introduce where transactions and other flows appear in the flow-account structure.
+- **Knowledge check:** A business purchase of a generator was classified as a transaction; destruction of a warehouse by an unexpected fire as an other change in volume; and a land-price increase without purchase or sale as a revaluation. These were teaching examples, not observed data. The detailed SNA rules for classifying particular events remain to be studied.
+- **Limitations:** This was an introductory lesson, not completion of Chapter 4. Detailed other-volume-change categories, revaluation rules, economic ownership, time of recording, valuation and the full accumulation-account structure remain open. No Nigeria implementation or Lifeconomist measurement design was undertaken.
+- **Documentation:** Updated the [2025 SNA Study and Resumption Checkpoint](2025-SNA-STUDY-AND-RESUMPTION-CHECKPOINT.md) and [Current State](CURRENT-STATE.md).
+- **Next action:** Chapter 4, Lesson 3 — study other changes in the volume of assets and liabilities in more detail, using exact paragraph references and distinguishing them from transactions and revaluations.
