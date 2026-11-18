@@ -140,13 +140,41 @@ A focused introductory lesson was completed on 2026-11-18, using the official 20
 
 **Study limitations:** This was an introductory lesson on the distinction and top-level categories. It did not systematically study the detailed classification of other changes in volume, the full range of revaluation cases, economic ownership, time of recording, valuation rules, or the complete sequence of accumulation accounts. The warehouse-fire example is a teaching illustration; actual classification depends on the SNA's detailed rules and facts of the event. Chapter 4 remains in progress.
 
+### Stage 3 — Chapter 4, Lesson 3: Other changes in the volume of assets and liabilities
+
+A focused introductory lesson was completed on 2026-11-18, using the official UN 2025 SNA White Cover text, Chapter 4, §§4.73–4.81. This lesson introduces the categories and selected examples; it does not complete the detailed treatment or Chapter 4.
+
+**Source-based structure:**
+
+- §4.73 defines other flows as changes in the value of assets and liabilities not due to transactions. They comprise other changes in the volume of assets and liabilities and revaluations. It also notes a restriction in the external accounts context.
+- §4.74 distinguishes the two relevant accounts: the other changes in volume account records changes associated with changes in the quantity or physical characteristics of assets; the revaluation account records changes in asset and liability values and net worth due only to changes in the level and structure of prices.
+- §4.75 introduces three main categories of other changes in volume.
+- §§4.76–4.78 cover the first category: appearance and disappearance of assets and liabilities other than through transactions. Examples include naturally occurring mineral and energy resources; recognition of valuables with significant or special value that were not previously recorded in balance sheets; creditor write-offs; monetization and demonetization of gold bullion; distinctions between debt forgiveness and debt cancellation; assumption of debt following activation of guarantees and debt rescheduling; and certain crypto-assets without a corresponding liability. The paragraph distinguishes some cases that are transactions from those recorded as other changes in volume.
+- §4.79 covers effects of externalities and disasters, including uncompensated removal of an asset and destruction through natural disaster or war. It distinguishes these from transactions reflecting normal rates of loss or damage, such as depreciation, depletion or changes in inventories.
+- §4.80 covers changes arising from reclassification of institutional units among sectors, changes in institutional-unit structure, or reclassification of assets and liabilities. The example is an unincorporated enterprise becoming a quasi-corporation, with associated assets and liabilities moving from the household sector to the non-financial corporations sector.
+- §4.81 covers changes in the status of existing financial claims and liabilities arising when individuals change residence from one economy to another. These are treated as other changes in volume rather than transactions.
+
+**Plain-language teaching examples (illustrative, not SNA data):**
+
+1. A previously unrecorded valuable object is recognized in the balance sheet because it is found to have significant or special value. Its recognition may be an appearance of an asset, not a new purchase. The detailed facts and criteria matter.
+2. A creditor writes off a claim. The treatment is not automatically the same as debt forgiveness: the standard distinguishes debt forgiveness, which is recorded as a transaction in the described non-commercial setting, from some debt cancellations that may be recorded as other changes in volume. In commercial settings, absent specific information, the standard allows debt cancellation to be treated as an other change in volume.
+3. A major disaster destroys assets. The destruction may be an other change in volume; normal expected losses are treated differently and may be reflected in transactions such as depreciation, depletion or changes in inventories.
+4. An unincorporated enterprise becomes a quasi-corporation and its assets and liabilities are reclassified between institutional sectors. This is a reclassification, not a sale of those assets.
+5. An individual's change of residence between economies changes the residence classification of existing financial claims and liabilities. The classification change is not itself a purchase or sale.
+
+**Important clarification to the earlier teaching example:** The previous lesson used a warehouse destroyed by an unexpected fire as a simplified illustration. The official text's §4.79 discusses externalities and disasters, including natural disasters and war, and distinguishes exceptional destruction from normal expected losses. A fire example must therefore be assessed using the facts and the relevant classification rules; not every loss by fire should automatically be assigned the same treatment.
+
+**Paragraph-reference correction:** The preceding live lesson referred to §§4.74–4.81 for some of these details. Verification against the official White Cover text establishes the relevant sequence as §§4.73–4.81: §4.73 defines other flows; §4.74 distinguishes the two accounts; §4.75 introduces the three categories; and §§4.76–4.81 explain the categories and residence-status case. This checkpoint records the verified paragraph sequence.
+
+**Study limitations:** This was an introductory survey of the categories and selected cases, not a complete study of all other changes in volume, their valuation, detailed asset-specific treatments, or Chapter 13's dedicated other-changes-in-assets-and-liabilities accounts. Revaluations and holding gains/losses have not yet been studied in detail. Economic ownership, time of recording, valuation and the full accounting sequence remain open. No Nigeria implementation or Lifeconomist measurement design was undertaken.
+
 ## 5. Current stopping point
 
-The introductory framework orientation, initial economic-universe lesson, Chapter 4 Lesson 1 on stocks and flows, and Chapter 4 Lesson 2 on transactions versus other flows have been completed. The three Lesson 2 knowledge-check classifications were reviewed. No chapter is complete, and the conceptual foundations remain in progress.
+The introductory framework orientation, initial economic-universe lesson, and Chapter 4 Lessons 1–3 have been completed. Lesson 3 introduced the detailed categories of other changes in volume and corrected the verified paragraph references against the official White Cover text. No chapter is complete, and the conceptual foundations remain in progress.
 
 ## 6. Exact next action
 
-Continue with **Chapter 4, Lesson 3 — Other changes in the volume of assets and liabilities**. Use the official 2025 SNA to study the detailed categories and mechanisms, with exact paragraph references and carefully qualified examples. Distinguish changes in asset volume from transactions and revaluations, and explain how they affect opening and closing balance sheets. Then proceed gradually to revaluations, economic ownership, time of recording, valuation and the remaining accounting rules. Do not claim Chapter 4 is complete after these lessons.
+Continue with **Chapter 4, Lesson 4 — Revaluations (holding gains and losses)**. Use the official 2025 SNA, beginning with §§4.82–4.83, to distinguish nominal, neutral and real holding gains and losses, with simple examples. Then proceed gradually to economic ownership, time of recording, valuation and the remaining accounting rules. Do not claim Chapter 4 is complete after these lessons.
 
 After the relevant Chapter 4 foundations are understood, continue the conceptual study in the standard's chapter order, including the detailed treatment of institutional units and production. Do not jump ahead to Nigeria's GDP, indicator design, data collection, or Lifeconomist implementation.
 
