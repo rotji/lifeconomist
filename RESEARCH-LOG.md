@@ -667,3 +667,15 @@
 - **Documentation:** Updated [the 2025 SNA Study and Resumption Checkpoint](2025-SNA-STUDY-AND-RESUMPTION-CHECKPOINT.md) with the lesson summary, limitations, open issues and exact next action. Updated [Current State](CURRENT-STATE.md) to reflect the actual progress.
 - **Next action:** Study Chapter 4 in detail, beginning with stocks and flows, transactions and other flows, opening and closing balance sheets, changes in asset/liability values and volumes, economic ownership, and time of recording. Work through the official 2025 SNA in manageable lessons; do not jump ahead to Nigeria implementation or Lifeconomist application.
 - **Status:** Introductory learning and continuity documentation only. No SNA chapter has yet been marked complete, and no Lifeconomist measurement or architecture changes have been made.
+
+
+## 2026-11-18 — 2025 SNA study: Chapter 4 Lesson 1 — stocks and flows
+
+- **Task:** Clarify the first knowledge-check question the user could not answer, document the completed lesson, and preserve an exact resumption point before continuing.
+- **Source:** Official UN *System of National Accounts 2025 — White Cover Version*, Chapter 4, especially §§4.1–4.5, §4.11 and §§4.14–4.16: https://unstats.un.org/unsd/nationalaccount/docs/2025_SNA_Pre-edit.pdf
+- **Lesson content:** Distinguished stocks (economic positions measured at a point in time) from flows (changes/events recorded over a period); introduced balance sheets, current accounts and accumulation accounts; explained how transactions and other flows connect opening and closing balance sheets; and introduced monetary measurement and the importance of consistent valuation, timing, classification and accounting periods.
+- **Question 3 clarification:** If a vehicle's recorded value rises because market prices rise, while the business neither buys nor improves it, the increase is a **revaluation**, not a purchase transaction. It is an other flow that changes the asset's recorded value. The full distinction between revaluation, other volume changes and transactions remains for the next lesson.
+- **Teaching examples:** Used a fictional business balance-sheet example and a simplified machinery reconciliation (opening 20m + acquisition 5m − consumption of fixed capital 2m + revaluation 1m = closing 24m). These are illustrative only, not observed data or a complete SNA accounting specification.
+- **Limitations:** This was one introductory lesson, not completion of Chapter 4. Transactions versus other flows, detailed volume changes, economic ownership, time of recording and full valuation rules remain open. No Lifeconomist measurement design or Nigeria implementation work was undertaken.
+- **Documentation:** Updated the [2025 SNA Study and Resumption Checkpoint](2025-SNA-STUDY-AND-RESUMPTION-CHECKPOINT.md) and [Current State](CURRENT-STATE.md).
+- **Next action:** Chapter 4, Lesson 2 — transactions versus other flows, grounded in the official standard and exact paragraph references.
