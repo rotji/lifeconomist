@@ -1,7 +1,7 @@
 # Current Project State
 
-**Last updated:** 2026-11-14  
-**Stage:** Foundational framework selected; measurement protocol incomplete; Workstream E now has an initial FX investigation programme specification.
+**Last updated:** 2026-11-18  
+**Stage:** Foundational framework selected; measurement protocol incomplete; Workstream E has an initial FX investigation programme specification; a structured 2025 SNA study has begun at introductory orientation stage.
 
 ## Established
 - **Project-wide governance:** [PROJECT-GOVERNANCE.md](PROJECT-GOVERNANCE.md) v1.0 is adopted as the Lifeconomist-specific implementation of the Universal Project Governance Standard. It defines project information classifications, owner and collaborator authority, decision/change governance, proportionate assurance and risk safeguards, and independent handover. Existing research methods and the [Project Records and Continuity Protocol](PROJECT-RECORDS-AND-CONTINUITY-PROTOCOL.md) retain their operational roles. Adoption is recorded as D-019 in `DECISION-REGISTER.md` and in `RESEARCH-LOG.md`.
@@ -14,6 +14,16 @@
 - Seven candidate states and six foundational indicators are listed in `README.md`.
 - Monitoring may begin as an evidence register, but formal state declarations and transition rules must wait for measurement and historical testing.
 - Foundational concepts can be revisited when needed.
+
+## 2025 System of National Accounts (2025 SNA) study
+
+- **Status:** Study initiated; source identified and introductory orientation completed on 2026-11-18. This is an early learning stage, not a completed chapter study or implementation exercise.
+- **Purpose:** Understand the 2025 SNA's concepts, definitions, accounting structure, and measurement framework before examining country implementation or applying it to Lifeconomist.
+- **Primary source:** Official UN 2025 SNA publication and pre-edit PDF; source links, reported Zotero audit, and bibliographic details are recorded in [the study and resumption checkpoint](2025-SNA-STUDY-AND-RESUMPTION-CHECKPOINT.md).
+- **Current understanding:** Initial orientation covered the SNA as an integrated international conceptual/accounting framework, its broad scope, the distinction between flows and stocks, its limits, and its seven-part/39-chapter organization. These introductory points still require systematic study against the standard itself.
+- **Zotero condition (reported by user):** The webpage record is identified, but the full PDF is a separate collection item rather than a child attachment; Zotero text indexing is partial (100 of 1,260 pages). No Zotero records or attachments were changed.
+- **Exact next action:** Resume with the economic universe of the SNA—economic activities and units, institutional units and establishments, transactions and other flows, assets and liabilities, and the connection between flows, stocks, and balance sheets. Follow the checkpoint; do not jump ahead to Nigeria implementation or Lifeconomist application.
+- **Not established:** Systematic study of Chapter 1 or the remaining chapters, complete Zotero metadata/attachment/indexing, 2008 SNA comparison, Nigeria implementation assessment, or any Lifeconomist design changes arising from the study.
 
 ## Workstream position
 - **A — Deep Conceptual Foundations:** The [Workstream A roadmap](workstream-a/WORKSTREAM-A-ROADMAP.md) defines 25 terminology groups and 32 numbered concept notes. All 25 groups have received bullet-by-bullet depth audits. See the [Workstream A index](workstream-a/README.md), [Concept Inventory Reconciliation](workstream-a/CONCEPT-INVENTORY-RECONCILIATION.md), and audit reports for [Groups 1–3](workstream-a/DEPTH-AUDIT-GROUPS-1-3.md), [4–6](workstream-a/DEPTH-AUDIT-GROUPS-4-6.md), [7–9](workstream-a/DEPTH-AUDIT-GROUPS-7-9.md), [10–12](workstream-a/DEPTH-AUDIT-GROUPS-10-12.md), [13–15](workstream-a/DEPTH-AUDIT-GROUPS-13-15.md), [16–18](workstream-a/DEPTH-AUDIT-GROUPS-16-18.md), [19–21](workstream-a/DEPTH-AUDIT-GROUPS-19-21.md), [22–24](workstream-a/DEPTH-AUDIT-GROUPS-22-24.md), and [Group 25 / Concept 32](workstream-a/DEPTH-AUDIT-GROUP-25-CONCEPT-32.md). Audits assess conceptual coverage, not empirical validation. Cross-file reconciliation corrected index ordering and stale next-action records. No Concept 33 is planned until a substantive gap is demonstrated. Next: select a specific formal indicator task in Workstream B or evidence-based monitoring task in Workstream C.
