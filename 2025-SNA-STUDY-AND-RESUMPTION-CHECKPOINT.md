@@ -1,6 +1,6 @@
 # 2025 System of National Accounts (2025 SNA) — Study and Resumption Checkpoint
 
-**Status:** Study initiated; introductory orientation and an initial economic-universe lesson completed; systematic chapter study remains in progress  
+**Status:** Study initiated; introductory orientation, initial economic-universe orientation, and Chapter 4 Lesson 1 completed; systematic chapter study remains in progress  
 **Checkpoint date:** 2026-11-18  
 **Scope:** Understanding the international national accounts standard itself before attempting country implementation or Lifeconomist application.
 
@@ -92,27 +92,39 @@ An initial lesson was completed on 2026-11-18. It introduced the following conce
 
 **Important study limitation:** Lesson 2 was an initial conceptual orientation across several topics and chapters, not a systematic reading or completion of Chapters 4, 5, or 6. Some definitions were paraphrased for teaching. Exact wording, paragraph references, classifications, boundary conditions, valuation, time of recording, and accounting rules must be checked directly against the official 2025 SNA before being treated as established.
 
+### Stage 2 — Chapter 4, Lesson 1: Understanding stocks and flows
+
+A focused introductory lesson was completed on 2026-11-18, using the official 2025 SNA White Cover PDF. The lesson covered §§4.1–4.5, §4.11, and §§4.14–4.16 as starting points. This is one lesson within Chapter 4, not completion of the chapter.
+
+**What the standard establishes (initial reading):**
+
+- §4.1 describes the sequence of economic accounts as measuring stocks and changes in economic value and identifying the institutional units or sectors with claims on that value.
+- §4.2 distinguishes stocks, measured at a point in time, from flows, measured over a period. It identifies balance sheets as the place for stocks; current accounts cover production, income and use of income; accumulation accounts cover capital, financial, and other changes in assets and liabilities between balance sheets.
+- §§4.3–4.4 explain that a complete, consistent system captures all changes in economic value between stock measures at two points in time. Stocks at the beginning and end of an accounting period are connected by transactions and other flows during the period.
+- §4.5 introduces assets as stores of value associated with economic benefits accruing to an economic owner over time, and liabilities as obligations of debtors to creditors under specified circumstances. The complete asset boundary and detailed rules remain open.
+- §4.11 notes that accounts and tables record economic actions and events during a period and their effects on stocks of assets and liabilities between the beginning and end.
+- §4.14 notes that entries are measured in monetary terms, sometimes using actual payments and sometimes estimates referenced to monetary values.
+- §§4.15–4.16 introduce accounting-period considerations and the importance of consistent valuation, timing, classification and grouping. These rules have not yet been studied in full.
+
+**Plain-language teaching examples (illustrative, not SNA data):**
+
+- A balance-sheet example used cash of ₦2m, bank deposits of ₦3m, a delivery vehicle of ₦8m and inventory of ₦4m: total assets ₦17m; a bank liability of ₦5m; net worth ₦12m. This illustrated a position at a particular date.
+- A January activity example listed sales of ₦5m, wages of ₦800,000, inventory purchases of ₦2m, a new loan of ₦1m and loan repayment of ₦200,000. These were examples of events over a period, not a complete set of national-account entries. Sales must not be conflated with cash receipts, income, or net-worth change.
+- A simplified asset reconciliation showed opening machinery value 20m + acquisition 5m − consumption of fixed capital 2m + revaluation 1m = closing value 24m. This was illustrative arithmetic only; the formal SNA classification of the different changes is still to be studied.
+
+**Core distinction reinforced:** A stock is a position at a point in time; a flow records an event or change over a period. The opening and closing balance sheets show positions, while the flow accounts explain the changes between them. The accounting system distinguishes current accounts from accumulation accounts; not every flow changes every individual asset or liability directly.
+
+**Knowledge-check clarification — Question 3:** If a vehicle's recorded value rises because market prices rise, while the business does not buy or improve the vehicle, the increase is not a purchase transaction. It is a change in the asset's value arising from a price change (a revaluation). In the SNA's accounting structure, this belongs among other flows, specifically revaluation, rather than transactions. The asset's closing value can therefore be higher even though no acquisition occurred during the period. The formal distinctions among revaluation, other volume changes and transactions are the subject of the next lesson and must be checked against the relevant paragraphs before treating the taxonomy as fully studied.
+
+**Study limitation:** This lesson introduced the structure and basic relationship of stocks and flows. It did not yet systematically study transactions versus other flows, the complete reconciliation of balance sheets, economic ownership, time of recording, or the full valuation rules. Chapter 4 remains in progress.
+
 ## 5. Current stopping point
 
-The introductory framework lesson and the initial economic-universe orientation have been completed. We have not completed the conceptual foundations and have not completed a systematic chapter study.
-
-The latest lesson introduced institutional units, households, enterprises, establishments, industries, production, transactions, assets, liabilities, stocks, and other flows. It deliberately did not attempt to settle the full formal treatment of these subjects.
+The introductory framework orientation, initial economic-universe lesson, and Chapter 4 Lesson 1 on stocks and flows have been completed. The user requested clarification of Question 3; the clarification is recorded above. No chapter is complete, and the conceptual foundations remain in progress.
 
 ## 6. Exact next action
 
-Continue with a focused, source-grounded study of:
-
-**Chapter 4 — Flows, stocks, and accounting rules**
-
-Begin by carefully distinguishing:
-
-1. Stocks and flows.
-2. Transactions and other flows.
-3. Changes in the value or volume of assets and liabilities.
-4. Opening and closing balance sheets and the way intervening flows reconcile them.
-5. The role of economic ownership and the time of recording, as treated in the chapter.
-
-Work through the chapter in manageable lessons. Establish exact paragraph references from the official 2025 SNA, explain the accounting logic in plain language, and use examples only when their assumptions and simplifications are stated. Do not claim Chapter 4 is complete after a single introductory lesson.
+Continue with **Chapter 4, Lesson 2 — Transactions versus other flows**. Use the official 2025 SNA to establish the formal distinction and categories, including transactions, revaluations and other changes in the volume of assets and liabilities. Explain how each affects the reconciliation between opening and closing balance sheets, using plain-language examples and exact paragraph references. Then proceed to the chapter's treatment of economic ownership, time of recording, valuation and other accounting rules in a manageable sequence. Do not claim Chapter 4 is complete after these introductory lessons.
 
 After the relevant Chapter 4 foundations are understood, continue the conceptual study in the standard's chapter order, including the detailed treatment of institutional units and production. Do not jump ahead to Nigeria's GDP, indicator design, data collection, or Lifeconomist implementation.
 
