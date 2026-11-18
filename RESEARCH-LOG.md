@@ -646,3 +646,14 @@
 - **Change:** Added an interim validation table and explicit retrieval limitation to [the GDP evidence audit](03-measurement/01-real-gdp-growth-evidence-audit.md), and updated [CURRENT-STATE.md](CURRENT-STATE.md).
 - **Sources:** [NBS GDP catalogue and release package](https://microdata.nigerianstat.gov.ng/index.php/catalog/147/related-materials); [Voice of Nigeria, 1 September 2026](https://von.gov.ng/nigerias-gdp-growth-accelerates-to-4-43-in-q2-2026/); [Reuters, 31 August 2026](https://www.reuters.com/world/africa/nigerias-q2-gdp-growth-443-yy-stats-office-2026-08-31/).
 - **Next action:** Obtain the actual workbook through a retrievable route, inspect sheets/labels/period coverage/blank cells/units/notes, reconcile the 4.43% headline, and only then compare historical observations across the Q1 2026 and earlier release vintages.
+
+
+## 2026-11-18 — 2025 System of National Accounts (2025 SNA) study initiated
+
+- **Purpose:** Begin a structured study of the 2025 SNA, first understanding the standard itself before country implementation or Lifeconomist application.
+- **Repository review:** Checked the existing README, Current State, Research Log, and continuity protocol. No existing dedicated 2025 SNA study checkpoint was found.
+- **Source identification:** The user inspected the Zotero `lifeconomist → research methods and standards` collection. The webpage record is item `8NNMWJ7A`; a separate `2025_SNA_Pre-edit.pdf` exists in the collection but is not attached as a child of that webpage record. Zotero reports indexed text for 100 of 1,260 pages. The PDF lists the 2025 title, five collaborating institutions, ISBN 978-92-1-003541-5, and publication symbol ST/ESA/STAT/SER.F/2/Rev.6. These Zotero details are user-reported; no Zotero records or attachments were changed.
+- **New artifact:** Added [2025 SNA Study and Resumption Checkpoint](2025-SNA-STUDY-AND-RESUMPTION-CHECKPOINT.md), recording the study purpose, official sources, Zotero audit, agreed sequence, actual progress, open issues, and exact next action.
+- **Work completed:** An introductory orientation discussed the SNA as an integrated international conceptual/accounting framework; its broad scope; flows versus stocks; limitations; and seven-part/39-chapter organization. This is preliminary orientation only—not systematic study of Chapter 1, a chapter-by-chapter study, or an implementation assessment.
+- **Next action:** Study the economic universe of the SNA using the official standard: economic activities and units, institutional units and establishments, transactions and other flows, assets and liabilities, and the links between flows, stocks, and balance sheets.
+- **Status:** Early study in progress. Do not restart the introductory orientation on return; verify the checkpoint and continue from the exact next action. Do not jump ahead to Nigeria implementation or Lifeconomist application.
