@@ -657,3 +657,13 @@
 - **Work completed:** An introductory orientation discussed the SNA as an integrated international conceptual/accounting framework; its broad scope; flows versus stocks; limitations; and seven-part/39-chapter organization. This is preliminary orientation only—not systematic study of Chapter 1, a chapter-by-chapter study, or an implementation assessment.
 - **Next action:** Study the economic universe of the SNA using the official standard: economic activities and units, institutional units and establishments, transactions and other flows, assets and liabilities, and the links between flows, stocks, and balance sheets.
 - **Status:** Early study in progress. Do not restart the introductory orientation on return; verify the checkpoint and continue from the exact next action. Do not jump ahead to Nigeria implementation or Lifeconomist application.
+
+
+## 2026-11-18 — 2025 SNA study: initial economic-universe lesson documented
+
+- **Task:** Record the actual progress of the introductory study and establish a precise resumption point before moving to the next lesson.
+- **Work completed:** Introduced the SNA's economic universe, including production, institutional units, households, enterprises, establishments, industries, transactions, other flows, assets, liabilities, stocks, and balance sheets. The teaching discussion used introductory paraphrases and a simplified machinery stock-reconciliation example.
+- **Source discipline:** Chapter 5 paragraphs 5.2 and 5.4–5.5 and Chapter 6 paragraphs 6.1–6.2 and 6.5 were identified as relevant starting points. These concepts were introduced, not exhaustively read or formally validated. Exact definitions, boundaries, exceptions, classifications and accounting rules remain open. The lesson must not be represented as completion of Chapters 4, 5 or 6.
+- **Documentation:** Updated [the 2025 SNA Study and Resumption Checkpoint](2025-SNA-STUDY-AND-RESUMPTION-CHECKPOINT.md) with the lesson summary, limitations, open issues and exact next action. Updated [Current State](CURRENT-STATE.md) to reflect the actual progress.
+- **Next action:** Study Chapter 4 in detail, beginning with stocks and flows, transactions and other flows, opening and closing balance sheets, changes in asset/liability values and volumes, economic ownership, and time of recording. Work through the official 2025 SNA in manageable lessons; do not jump ahead to Nigeria implementation or Lifeconomist application.
+- **Status:** Introductory learning and continuity documentation only. No SNA chapter has yet been marked complete, and no Lifeconomist measurement or architecture changes have been made.
