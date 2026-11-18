@@ -1,6 +1,6 @@
 # 2025 System of National Accounts (2025 SNA) — Study and Resumption Checkpoint
 
-**Status:** Study initiated; introductory orientation, initial economic-universe orientation, and Chapter 4 Lesson 1 completed; systematic chapter study remains in progress  
+**Status:** Study initiated; introductory orientation, initial economic-universe orientation, and Chapter 4 Lessons 1–2 completed; systematic chapter study remains in progress  
 **Checkpoint date:** 2026-11-18  
 **Scope:** Understanding the international national accounts standard itself before attempting country implementation or Lifeconomist application.
 
@@ -118,13 +118,35 @@ A focused introductory lesson was completed on 2026-11-18, using the official 20
 
 **Study limitation:** This lesson introduced the structure and basic relationship of stocks and flows. It did not yet systematically study transactions versus other flows, the complete reconciliation of balance sheets, economic ownership, time of recording, or the full valuation rules. Chapter 4 remains in progress.
 
+### Stage 3 — Chapter 4, Lesson 2: Transactions versus other flows
+
+A focused introductory lesson was completed on 2026-11-18, using the official 2025 SNA White Cover text, particularly §§4.6–4.7 and §4.18. This lesson builds on Lesson 1 but does not complete Chapter 4.
+
+**What the standard establishes (initial reading):**
+
+- §4.6 describes economic flows as reflecting the creation, transformation, exchange, transfer or extinction of economic value. Flows involve changes in the volume, composition or value of assets and liabilities.
+- §4.7 divides economic flows into **transactions** and **other flows**.
+- A **transaction** is an economic interaction between institutional units by mutual agreement or through the operation of law. The SNA also treats certain actions within an institutional unit as transactions where analytically useful, including cases where a unit acts in two different capacities.
+- **Other flows** are changes in the value of assets and liabilities that are not transactions. They comprise **other changes in the volume of assets and liabilities** and **revaluations**.
+- §4.18 locates transactions in the relevant flow accounts, while other flows are recorded in the two accumulation accounts specifically concerned with other changes in volume and revaluations. The lesson introduced this account placement; the full account structure and recording rules remain to be studied.
+
+**Plain-language teaching examples (illustrative, not SNA data):**
+
+1. A business purchases a new generator from another business: this is a transaction between institutional units.
+2. A warehouse is destroyed by an unexpected fire: the loss is an other flow, specifically an other change in the volume of assets, rather than a purchase or sale.
+3. Land increases in recorded value because market prices rise, with no purchase or sale: the increase is a revaluation, not a transaction.
+
+**Knowledge-check result and clarification:** The three examples above were used in a short knowledge check. The intended classifications were: (1) transaction; (2) other flow — other change in volume; and (3) other flow — revaluation. The key lesson is that not every change in an asset's recorded value is caused by a transaction. Some changes arise from events that alter the volume of assets, while others arise from price changes.
+
+**Study limitations:** This was an introductory lesson on the distinction and top-level categories. It did not systematically study the detailed classification of other changes in volume, the full range of revaluation cases, economic ownership, time of recording, valuation rules, or the complete sequence of accumulation accounts. The warehouse-fire example is a teaching illustration; actual classification depends on the SNA's detailed rules and facts of the event. Chapter 4 remains in progress.
+
 ## 5. Current stopping point
 
-The introductory framework orientation, initial economic-universe lesson, and Chapter 4 Lesson 1 on stocks and flows have been completed. The user requested clarification of Question 3; the clarification is recorded above. No chapter is complete, and the conceptual foundations remain in progress.
+The introductory framework orientation, initial economic-universe lesson, Chapter 4 Lesson 1 on stocks and flows, and Chapter 4 Lesson 2 on transactions versus other flows have been completed. The three Lesson 2 knowledge-check classifications were reviewed. No chapter is complete, and the conceptual foundations remain in progress.
 
 ## 6. Exact next action
 
-Continue with **Chapter 4, Lesson 2 — Transactions versus other flows**. Use the official 2025 SNA to establish the formal distinction and categories, including transactions, revaluations and other changes in the volume of assets and liabilities. Explain how each affects the reconciliation between opening and closing balance sheets, using plain-language examples and exact paragraph references. Then proceed to the chapter's treatment of economic ownership, time of recording, valuation and other accounting rules in a manageable sequence. Do not claim Chapter 4 is complete after these introductory lessons.
+Continue with **Chapter 4, Lesson 3 — Other changes in the volume of assets and liabilities**. Use the official 2025 SNA to study the detailed categories and mechanisms, with exact paragraph references and carefully qualified examples. Distinguish changes in asset volume from transactions and revaluations, and explain how they affect opening and closing balance sheets. Then proceed gradually to revaluations, economic ownership, time of recording, valuation and the remaining accounting rules. Do not claim Chapter 4 is complete after these lessons.
 
 After the relevant Chapter 4 foundations are understood, continue the conceptual study in the standard's chapter order, including the detailed treatment of institutional units and production. Do not jump ahead to Nigeria's GDP, indicator design, data collection, or Lifeconomist implementation.
 
