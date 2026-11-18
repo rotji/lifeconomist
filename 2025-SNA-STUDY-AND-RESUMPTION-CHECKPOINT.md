@@ -1,6 +1,6 @@
 # 2025 System of National Accounts (2025 SNA) — Study and Resumption Checkpoint
 
-**Status:** Study initiated; foundational orientation completed; detailed study not yet begun  
+**Status:** Study initiated; introductory orientation and an initial economic-universe lesson completed; systematic chapter study remains in progress  
 **Checkpoint date:** 2026-11-18  
 **Scope:** Understanding the international national accounts standard itself before attempting country implementation or Lifeconomist application.
 
@@ -17,7 +17,7 @@ The 2025 SNA is the primary authority for the study. Supplementary sources may c
 ### Official source locations
 
 - UN Statistics Division — 2025 SNA: https://unstats.un.org/unsd/econstats/national-accounts/sna2025
-- Official pre-edit PDF: https://unstats.un.org/unsd/nationalaccount/docs/2025_SNA_Pre-edit.pdf
+- Official pre-edit / White Cover PDF: https://unstats.un.org/unsd/nationalaccount/docs/2025_SNA_Pre-edit.pdf
 - Official chapter listing: https://unstats.un.org/unsd/econstats/national-accounts/snaupdate/chapters/
 - UN Digital Library adoption record (ECOSOC Resolution E/RES/2025/12): https://digitallibrary.un.org/record/4088249
 
@@ -32,7 +32,7 @@ The user inspected the existing Zotero `lifeconomist → research methods and st
 - The webpage record's child attachment is an HTML snapshot, not the full PDF.
 - A separate file named `2025_SNA_Pre-edit.pdf` exists directly in the collection and is not linked as a child of the webpage record.
 - Zotero reports indexed text for **100 of 1,260 pages** of that separate PDF. Its text indexing is therefore partial, not complete.
-- The PDF filename and extracted cover text identify it as a **pre-edit version**. The Zotero inspection did not itself establish the phrase “White Cover”; verify version naming against the official UN publication page before making that equivalence.
+- The PDF is the official pre-edit / White Cover version, as corroborated by the official UN publication listing.
 
 These attachment and indexing details are a record of the user's Zotero inspection, not an independent live inspection by GitHub. No Zotero records or attachments were changed as part of that inspection.
 
@@ -66,42 +66,55 @@ No Zotero metadata or attachment changes have been made or authorized by this ch
 
 ### Stage 2 — Overall framework: introductory orientation
 
-An initial introductory lesson was completed in the study conversation on 2026-11-18. It covered these high-level ideas:
+An initial introductory lesson was completed on 2026-11-18. It covered:
 
-- The SNA is an internationally agreed conceptual and accounting framework for compiling coherent measures of economic activity.
-- It is a system of connected concepts, definitions, classifications, accounting rules, and macroeconomic accounts—not simply a GDP indicator or a list of statistics.
-- It connects production, income generation and distribution, redistribution, consumption, saving, investment, and transactions with the rest of the world.
-- It records both **flows** (economic events over a period) and **stocks** (positions at a point in time), and these dimensions are connected but not interchangeable.
-- The SNA is a conceptual framework; it does not guarantee that every country has complete data or prescribe every country's exact compilation and publication arrangements.
-- National accounts do not, by themselves, represent every dimension of well-being or environmental sustainability.
-- The standard is organized into seven parts and 39 chapters, followed by supplementary material.
+- The SNA as an internationally agreed conceptual and accounting framework for compiling coherent measures of economic activity.
+- The SNA as a connected system of concepts, definitions, classifications, accounting rules, and macroeconomic accounts—not simply a GDP indicator or a list of statistics.
+- Its broad connection of production, income generation and distribution, redistribution, consumption, saving, investment, and transactions with the rest of the world.
+- The distinction between **flows** (recorded over a period) and **stocks** (measured at a point in time).
+- The fact that the SNA is a conceptual framework; it does not guarantee that every country has complete data or prescribe every country's exact compilation and publication arrangements.
+- The limits of national accounts as measures of well-being and environmental sustainability.
+- The seven-part, 39-chapter organization of the standard.
 
-This was an introductory orientation, not a complete or chapter-by-chapter study. Each point must be revisited against the exact provisions and explanations in the official 2025 SNA as the detailed study progresses.
+This was introductory orientation, not a complete or chapter-by-chapter study. Each point must be revisited against the exact provisions and explanations in the official 2025 SNA.
+
+### Stage 2 — Lesson 2: Initial orientation to the economic universe
+
+An initial lesson was completed on 2026-11-18. It introduced the following concepts and distinctions:
+
+1. **Production and productive activity:** Chapter 6, paragraph 6.5 was used to introduce production as processes or activities carried out under the control and responsibility of institutional units, using inputs such as labour, capital, goods, and services to produce outputs of goods and services. The full production boundary and its exceptions or special cases have not yet been studied.
+2. **Institutional units:** Chapter 5, paragraph 5.2 introduced the institutional unit as an economic unit capable in its own right of owning assets, typically incurring liabilities, and engaging in economic activities and transactions with other units. The lesson highlighted decision-making responsibility, ownership, obligations/contracts, and accounting information as relevant attributes. This introductory explanation is not a substitute for the complete formal definition and classification rules.
+3. **Households:** Chapters 5, paragraphs 5.4–5.5 introduced the household as an institutional-unit concept and explained why a multi-person household is generally treated as one institutional unit for SNA purposes. Household boundary cases and detailed rules remain open.
+4. **Enterprise, establishment, and industry:** Chapter 6, paragraphs 6.1–6.2 introduced the distinctions between an enterprise as a production-oriented view of an institutional unit, an establishment as a geographically located production unit, and an industry as a grouping of establishments with the same or similar kinds of production. The exact formal definitions and classification implications still require systematic reading.
+5. **Transactions and other flows:** The lesson introduced transactions as economic interactions between institutional units by mutual agreement, while noting that certain actions within a unit may also be treated as transactions for accounting purposes. It also introduced the need to distinguish transactions from other flows. These ideas were only introductory; the formal definitions, categories, exceptions, and recording rules have not yet been systematically studied.
+6. **Assets and liabilities:** The lesson introduced assets as stores of value associated with economic benefits to an economic owner over time, and liabilities as obligations of debtors to creditors. It noted that many financial claims have a corresponding asset/liability relationship, while non-financial assets such as buildings are not simply another unit's liability. The complete asset boundary, economic ownership rules, and instrument-specific exceptions remain open.
+7. **Stocks and flows:** The lesson reinforced that stocks are measured at a point in time and flows over a period. Balance sheets record stocks; transactions and other flows explain changes between opening and closing positions. A simplified machinery example illustrated the idea: opening value 20 million + acquisition 5 million − consumption of fixed capital 2 million + revaluation 1 million = closing value 24 million. This was an illustrative arithmetic example, not a complete SNA accounting specification.
+
+**Important study limitation:** Lesson 2 was an initial conceptual orientation across several topics and chapters, not a systematic reading or completion of Chapters 4, 5, or 6. Some definitions were paraphrased for teaching. Exact wording, paragraph references, classifications, boundary conditions, valuation, time of recording, and accounting rules must be checked directly against the official 2025 SNA before being treated as established.
 
 ## 5. Current stopping point
 
-**We have completed only the first introductory orientation to the overall framework. We have not yet begun a systematic reading of Chapter 1 or completed the conceptual foundations.**
+The introductory framework lesson and the initial economic-universe orientation have been completed. We have not completed the conceptual foundations and have not completed a systematic chapter study.
 
-The last lesson introduced the distinction between economic flows and stocks, but did not yet examine the formal SNA definitions, recording rules, classifications, or accounting relationships in detail.
+The latest lesson introduced institutional units, households, enterprises, establishments, industries, production, transactions, assets, liabilities, stocks, and other flows. It deliberately did not attempt to settle the full formal treatment of these subjects.
 
 ## 6. Exact next action
 
-Resume with:
+Continue with a focused, source-grounded study of:
 
-**Stage 2 — Lesson 2: The economic universe of the SNA**
+**Chapter 4 — Flows, stocks, and accounting rules**
 
-Study, from the official 2025 SNA and in its own terminology:
+Begin by carefully distinguishing:
 
-1. What constitutes an economic activity within the SNA boundary?
-2. What is an economic unit?
-3. How does the SNA distinguish institutional units, establishments, enterprises, and other relevant units?
-4. What is a transaction and what other economic flows are recorded?
-5. What are assets and liabilities in the SNA?
-6. How do stocks, transactions, other flows, and balance sheets connect?
+1. Stocks and flows.
+2. Transactions and other flows.
+3. Changes in the value or volume of assets and liabilities.
+4. Opening and closing balance sheets and the way intervening flows reconcile them.
+5. The role of economic ownership and the time of recording, as treated in the chapter.
 
-Do not assume all of these questions can be answered fully in one lesson. Establish the relevant chapter and paragraph references, explain each concept carefully, and preserve distinctions that the standard makes.
+Work through the chapter in manageable lessons. Establish exact paragraph references from the official 2025 SNA, explain the accounting logic in plain language, and use examples only when their assumptions and simplifications are stated. Do not claim Chapter 4 is complete after a single introductory lesson.
 
-After this lesson, continue the agreed sequence. Do not jump directly to Nigeria's GDP, indicator design, data collection, or Lifeconomist implementation.
+After the relevant Chapter 4 foundations are understood, continue the conceptual study in the standard's chapter order, including the detailed treatment of institutional units and production. Do not jump ahead to Nigeria's GDP, indicator design, data collection, or Lifeconomist implementation.
 
 ## 7. Study and evidence rules
 
@@ -109,7 +122,7 @@ After this lesson, continue the agreed sequence. Do not jump directly to Nigeria
 - Preserve the standard's terminology and conceptual distinctions.
 - Clearly separate: (a) what the SNA states, (b) plain-language explanation, (c) supplementary-source context, and (d) Lifeconomist implications or hypotheses.
 - Do not silently reconcile apparent differences between sources; identify and investigate them.
-- Do not present the initial orientation as a completed technical study.
+- Do not present introductory lessons as completed technical or chapter studies.
 - Do not claim a chapter is completed until its relevant content has been systematically studied and its key definitions, rules, relationships, examples, and limitations have been recorded.
 - Keep country implementation and Lifeconomist application downstream of understanding the standard, unless a specific example is needed to clarify a concept.
 - At each substantial pause, update this checkpoint with what was actually studied, what remains open, and the exact next action. Update the Research Log and Current State when the continuity protocol's materiality criteria are met.
@@ -119,10 +132,11 @@ After this lesson, continue the agreed sequence. Do not jump directly to Nigeria
 - Complete and final Zotero bibliographic metadata for the standard.
 - The full PDF attached as a child of the main Zotero bibliographic record.
 - Complete Zotero text indexing of all 1,260 PDF pages.
+- A full, systematic understanding of Chapters 4, 5, and 6.
 - A full chapter-by-chapter understanding of the 2025 SNA.
 - Detailed understanding of its accounting sequence, balancing items, classifications, and measurement methods.
 - A comparison with the 2008 SNA.
 - A Nigeria implementation assessment.
 - Any changes to Lifeconomist's existing measurement framework arising from the study.
 
-These remain open; do not infer completion from the initial orientation.
+These remain open; do not infer completion from the introductory lessons.
