@@ -1,7 +1,7 @@
 # Current Project State
 
 **Last updated:** 2026-11-18  
-**Stage:** Foundational framework selected; measurement protocol incomplete; Workstream E has an initial FX investigation programme specification; a structured 2025 SNA study has begun at introductory orientation stage.
+**Stage:** Foundational framework selected; measurement protocol incomplete; Workstream E has an initial FX investigation programme specification; a structured 2025 SNA study is in progress, with introductory orientation and Chapter 4 Lesson 1 completed.
 
 ## Established
 - **Project-wide governance:** [PROJECT-GOVERNANCE.md](PROJECT-GOVERNANCE.md) v1.0 is adopted as the Lifeconomist-specific implementation of the Universal Project Governance Standard. It defines project information classifications, owner and collaborator authority, decision/change governance, proportionate assurance and risk safeguards, and independent handover. Existing research methods and the [Project Records and Continuity Protocol](PROJECT-RECORDS-AND-CONTINUITY-PROTOCOL.md) retain their operational roles. Adoption is recorded as D-019 in `DECISION-REGISTER.md` and in `RESEARCH-LOG.md`.
@@ -17,12 +17,12 @@
 
 ## 2025 System of National Accounts (2025 SNA) study
 
-- **Status:** Study initiated; introductory framework orientation and an initial economic-universe lesson completed on 2026-11-18. No chapter is yet considered systematically completed.
+- **Status:** Study initiated; introductory framework orientation, initial economic-universe orientation, and Chapter 4 Lesson 1 (stocks and flows) completed on 2026-11-18. No chapter is yet considered systematically completed.
 - **Purpose:** Understand the 2025 SNA's concepts, definitions, accounting structure, and measurement framework before examining country implementation or applying it to Lifeconomist.
 - **Primary source:** Official UN 2025 SNA publication and pre-edit / White Cover PDF; source links, reported Zotero audit, and bibliographic details are recorded in [the study and resumption checkpoint](2025-SNA-STUDY-AND-RESUMPTION-CHECKPOINT.md).
-- **Current learning:** The introductory lesson covered the SNA as an integrated conceptual/accounting framework, its broad scope and limits, flows versus stocks, and its seven-part/39-chapter structure. The next lesson introduced production, institutional units, households, enterprises, establishments, industries, transactions, other flows, assets and liabilities, and the link between opening and closing stocks. These are introductory paraphrases, not completed formal definitions or chapter studies.
+- **Current learning:** Chapter 4 §§4.1–4.5, §4.11 and §§4.14–4.16 were used for an introductory lesson on stocks, flows, balance sheets, current and accumulation accounts, monetary recording and accounting-period/consistency principles. A vehicle price increase without purchase was clarified as a revaluation (an other flow), not an acquisition transaction. The detailed categories and rules remain to be studied.
 - **Zotero condition (reported by user):** The webpage record is identified, but the full PDF is a separate collection item rather than a child attachment; Zotero text indexing is partial (100 of 1,260 pages). No Zotero records or attachments were changed.
-- **Exact next action:** Begin a focused, source-grounded study of Chapter 4—flows, stocks, and accounting rules—starting with transactions versus other flows, opening and closing balance sheets, changes in asset/liability values and volumes, economic ownership, and time of recording. Follow the checkpoint; do not jump ahead to Nigeria implementation or Lifeconomist application.
+- **Exact next action:** Continue with Chapter 4, Lesson 2—transactions versus other flows—using the official standard to establish formal categories, including revaluations and other changes in the volume of assets and liabilities. Then study economic ownership, time of recording, valuation and the remaining accounting rules in manageable lessons.
 - **Not established:** Systematic completion of Chapters 4, 5, or 6; complete Zotero metadata/attachment/indexing; a full chapter-by-chapter understanding; 2008 SNA comparison; Nigeria implementation assessment; or any Lifeconomist design changes arising from the study.
 
 ## Workstream position
