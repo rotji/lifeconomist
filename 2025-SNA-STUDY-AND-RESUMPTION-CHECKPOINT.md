@@ -1,6 +1,6 @@
 # 2025 System of National Accounts (2025 SNA) — Study and Resumption Checkpoint
 
-**Status:** Study initiated; introductory orientation, initial economic-universe orientation, and Chapter 4 Lessons 1–9 completed; systematic chapter study remains in progress  
+**Status:** Study initiated; introductory orientation, initial economic-universe orientation, and Chapter 4 Lessons 1–10 completed; systematic chapter study remains in progress  
 **Checkpoint date:** 2026-11-21  
 **Scope:** Understanding the international national accounts standard itself before attempting country implementation or Lifeconomist application.
 
@@ -357,9 +357,32 @@ A focused introductory lesson was completed on 2026-11-22, using the official 20
 
 **Study limitations:** Introductory only. Payment-float mechanics, complex securities settlement, debt rescheduling/forgiveness, guarantee accounting and employee stock options require deeper study, including Chapter 25. Chapter 4 remains incomplete. No Nigeria implementation or Lifeconomist measurement design was undertaken.
 
+
+### Stage 3 — Chapter 4, Lesson 10: Time of recording of output, intermediate consumption, changes in inventories, depreciation and depletion
+
+A focused introductory lesson was completed on 2026-11-22, using the official 2025 SNA White Cover text, §§4.211–4.214.
+
+**What the standard establishes:**
+
+- §4.211: On an accrual basis, output is recorded over the period in which production takes place. Additions to work-in-progress are recorded continuously as work proceeds. When production ends, accumulated work-in-progress is transformed into finished product ready for delivery or sale.
+- §4.212: Intermediate consumption of a good or service is recorded when it enters the production process, not when it was acquired by the producer.
+- §4.213: Inventories include materials and supplies held as inputs, output not yet sold, and products held by wholesale and retail traders. Additions are recorded when products are purchased, produced or otherwise acquired; deductions are recorded when products are sold, used as intermediate consumption or otherwise relinquished.
+- §4.214: Depreciation and depletion are costs that accrue over the whole period the fixed asset or natural resource is used for productive purposes. Allocation across accounting periods depends on the applicable rate of depreciation or depletion; timing is therefore linked to valuation.
+
+**Plain-language examples (illustrative):**
+
+1. A building project lasting a year generates output progressively as work is performed; work-in-progress accumulates before completion.
+2. A bakery purchases flour on Monday but uses it in production on Wednesday. Acquisition adds to inventory; intermediate consumption is recorded when the flour enters production.
+3. A retailer buys 100 bags of rice, sells 30 and retains 70. The purchase is an inventory addition, the sale is a deduction, and the remaining stock is 70 bags (ignoring other changes).
+4. A productive machine's depreciation accrues over the periods in which it is used; mineral-resource depletion accrues over the productive extraction period.
+
+**Key lesson:** Acquisition, use in production, output creation, inventory holding and consumption of productive capacity are distinct events with different recording points.
+
+**Study limitations:** Introductory only. Detailed valuation and measurement of work-in-progress, inventories, depreciation and depletion remain open for later study in the relevant chapters. Chapter 4 remains incomplete. No Nigeria implementation or Lifeconomist measurement design was undertaken.
+
 ## 5. Current stopping point
 
-The introductory framework orientation, initial economic-universe lesson, and Chapter 4 Lessons 1–9 have been completed. Lessons 4–5 introduced revaluations, holding gains and their relationship to economic ownership and timing; Lesson 6 introduced time of recording and accrual accounting; Lesson 7 covered timing for goods and services; Lesson 8 covered timing for distributive transactions; Lesson 9 covered timing for financial asset and liability transactions. No chapter is complete, and the conceptual foundations remain in progress.
+The introductory framework orientation, initial economic-universe lesson, and Chapter 4 Lessons 1–9 have been completed. Lessons 4–5 introduced revaluations, holding gains and their relationship to economic ownership and timing; Lesson 6 introduced time of recording and accrual accounting; Lesson 7 covered timing for goods and services; Lesson 8 covered timing for distributive transactions; Lesson 9 covered timing for financial asset and liability transactions; Lesson 10 covered timing for output, intermediate consumption, inventories, depreciation and depletion. No chapter is complete, and the conceptual foundations remain in progress.
 
 ## 6. Exact next action
 
