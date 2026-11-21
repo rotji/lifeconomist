@@ -1,6 +1,6 @@
 # 2025 System of National Accounts (2025 SNA) — Study and Resumption Checkpoint
 
-**Status:** Study initiated; introductory orientation, initial economic-universe orientation, and Chapter 4 Lessons 1–12 completed; systematic chapter study remains in progress  
+**Status:** Study initiated; introductory orientation, initial economic-universe orientation, and Chapter 4 Lessons 1–14 completed; systematic chapter study remains in progress  
 **Checkpoint date:** 2026-11-21  
 **Scope:** Understanding the international national accounts standard itself before attempting country implementation or Lifeconomist application.
 
@@ -458,13 +458,40 @@ A focused introductory lesson was completed on 2026-11-22, using the official 20
 
 **Study limitations:** Introductory only. Detailed consolidation boundaries and exceptions, full account-by-account netting rules, reconciliation procedures and practical compiler adjustments remain open. Chapter 4 remains incomplete. No Nigeria implementation or Lifeconomist measurement design was undertaken.
 
+
+### Stage 3 — Chapter 4, Lesson 14: Valuation methods for transactions
+
+A focused introductory lesson was completed on 2026-11-22, using the official 2025 SNA White Cover annex, §§4A.1–4A.14.
+
+**What the standard establishes:**
+
+- §4A.1 introduces the methods for valuing transactions and stocks, in order of preference where applicable; stock valuation is distinct from initial recognition, which is covered under transaction valuation.
+- §4A.2: Observed exchange values (observed market prices) are generally the most appropriate measure. Conceptual exceptions may arise for distorted transfer prices between affiliated enterprises and concessional pricing, although adjustments are often not made in practice for feasibility and international consistency.
+- §§4A.3–4A.4: In the absence of actual exchange values, prices of similar goods, services or assets may be used. Comparability/homogeneity, similar market conditions and sufficiently established markets are prerequisites; hedonic adjustment may address differences but requires substantial data.
+- §4A.5: Certain transactions use indirect valuation, including reinvested earnings, non-life insurance output and implicit financial services.
+- §§4A.6–4A.11: Sum-of-costs valuation applies in relevant cases where market prices/equivalents are unavailable, including non-market output of government, NPISHs and the central bank, and own-account production. Components include intermediate consumption, compensation of employees, other taxes less subsidies on production, consumption of fixed capital and depletion, net return to capital, and rent payable on rented non-produced non-financial assets. The standard discusses owner/family labour in unincorporated enterprises, the capital base and exceptions, and approaches to estimating a net return to capital.
+- §§4A.12–4A.13: The annex addresses unpaid household services produced for own final use, including replacement-cost and opportunity-cost approaches to labour valuation. Replacement cost is considered more appropriate for approximating exchange prices in the integrated SNA framework.
+- §4A.14 summarizes the preferred methods: observed exchange values for monetary market transactions; market-equivalent prices for barter and suitable own-use goods/services; market-equivalent prices for owner-occupied housing services; sum of costs as the default for other unpaid household services where relevant data are difficult to obtain, own-account capital formation (unless comparable market prices are suitable), and non-market government/NPISH output.
+
+**Plain-language examples (illustrative):**
+
+1. A genuine vehicle purchase for ₦15 million provides an observed transaction price.
+2. Owner-occupied housing services can be valued using comparable rents, provided the comparators reflect similar property characteristics and market conditions.
+3. Reinvested earnings and implicit financial services require derived/indirect calculations rather than a direct service-sale price.
+4. A non-market hospital's output can be estimated using the specified sum-of-costs components. A teaching illustration used hypothetical inputs and costs; it was not Nigerian data.
+5. For unpaid household services outside the integrated production boundary, replacement-cost labour valuation is distinguished from opportunity cost.
+
+**Key lesson:** The SNA seeks exchange values. It prefers observed exchange prices, uses comparable market prices where appropriate, applies indirect derivation in specified cases, and uses sum-of-costs methods in relevant non-market and own-account contexts.
+
+**Study limitations:** Introductory only. The detailed boundaries, exceptions, capital-service calculations and practical estimation of each component require further study. Stock valuation in §§4A.15 onward has not yet been studied. Chapter 4 remains incomplete; no Nigeria implementation or Lifeconomist measurement design was undertaken.
+
 ## 5. Current stopping point
 
-The introductory framework orientation, initial economic-universe lesson, and Chapter 4 Lessons 1–13 have been completed. Lessons 4–5 introduced revaluations, holding gains and their relationship to economic ownership and timing; Lesson 6 introduced time of recording and accrual accounting; Lesson 7 covered timing for goods and services; Lesson 8 covered timing for distributive transactions; Lesson 9 covered timing for financial asset and liability transactions; Lesson 10 covered timing for output, intermediate consumption, inventories, depreciation and depletion; Lesson 11 covered composite transactions, balancing items, other flows, external timing adjustments and balance-sheet dates; Lesson 12 covered the unit of account, currency denomination and settlement, currency conversion, derived measures and multiple exchange rates; Lesson 13 covered aggregation, netting, consolidation and symmetry of reporting. The Chapter 4 valuation annex remains to be studied; no chapter is complete, and the conceptual foundations remain in progress.
+The introductory framework orientation, initial economic-universe lesson, and Chapter 4 Lessons 1–14 have been completed. Lessons 4–5 introduced revaluations, holding gains and their relationship to economic ownership and timing; Lesson 6 introduced time of recording and accrual accounting; Lesson 7 covered timing for goods and services; Lesson 8 covered timing for distributive transactions; Lesson 9 covered timing for financial asset and liability transactions; Lesson 10 covered timing for output, intermediate consumption, inventories, depreciation and depletion; Lesson 11 covered composite transactions, balancing items, other flows, external timing adjustments and balance-sheet dates; Lesson 12 covered the unit of account, currency denomination and settlement, currency conversion, derived measures and multiple exchange rates; Lesson 13 covered aggregation, netting, consolidation and symmetry of reporting; Lesson 14 introduced transaction valuation methods in Annex §§4A.1–4A.14. The stock-valuation portion of the annex remains to be studied; no chapter is complete, and the conceptual foundations remain in progress.
 
 ## 6. Exact next action
 
-Continue with **Chapter 4, Lesson 14 — Valuation methods for transactions, Part 1**. Use Annex §§4A.1–4A.14. Study observed exchange values, market-equivalent prices and the conditions for valid comparators, indirect valuation, and the sum-of-costs method including its components and applications. Explain the distinction between the value being measured (exchange value) and the method used to estimate it. Then continue to Annex §§4A.15 onward for valuation of stocks of assets and liabilities. Do not claim Chapter 4 is complete.
+Continue with **Chapter 4, Lesson 15 — Valuation of stocks of assets and liabilities, Part 1**. Use Annex §§4A.15–4A.28. Study the distinction between initial recognition and subsequent balance-sheet valuation; observed market prices and their limitations; market-equivalent prices and expert estimates; valuation based on past expenses, including historical acquisition price and written-down replacement costs/perpetual inventory method; and nominal value for non-negotiable financial instruments. Distinguish nominal value from fair value, amortized value, face value, book value and historic cost. Then study §§4A.29–4A.40, including indirect valuation and present value of future economic benefits, before reviewing the chapter. Do not claim Chapter 4 is complete.
 
 After the relevant Chapter 4 foundations are understood, continue the conceptual study in the standard's chapter order, including the detailed treatment of institutional units and production. Do not jump ahead to Nigeria's GDP, indicator design, data collection, or Lifeconomist implementation.
 
