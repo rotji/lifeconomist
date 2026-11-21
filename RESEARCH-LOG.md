@@ -896,3 +896,14 @@
 - **Limitations:** Synthesis only, not a paragraph-by-paragraph audit. Transaction types, rearrangements, timing/accrual, economic ownership, detailed entries and exact presentation rules remain to be examined. Chapter 4 remains incomplete.
 - **Documentation:** Updated the [2025 SNA Study and Resumption Checkpoint](2025-SNA-STUDY-AND-RESUMPTION-CHECKPOINT.md), [Current State](CURRENT-STATE.md) and this Research Log.
 - **Next action:** Chapter 4, Lesson 18 — monetary/non-monetary transactions, exchanges/transfers and introduction to rerouting, using the White Cover version.
+
+
+## 2026-11-22 — 2025 SNA study: Chapter 4 Lesson 17 — structured review, Part 1
+
+- **Task:** Document the synthesis of Chapter 4's accounting architecture and proceed to transaction classifications.
+- **Source:** Official UN *System of National Accounts 2025 — White Cover Version*, Chapter 4: https://unstats.un.org/unsd/nationalaccount/docs/2025_SNA_Pre-edit.pdf
+- **Lesson content:** Synthesized stocks and flows (§§4.1–4.4), transactions and other flows (§§4.6–4.7), institutional units and sector attribution (§§4.5, 4.13, 4.18), accumulation accounts and balance sheets (§4.2), consistency of valuation/timing/classification/counterpart entries, quadruple-entry recording (§4.18), and the distinctions among aggregation, netting and consolidation.
+- **Illustration:** Simplified machinery reconciliation (opening ₦20m + acquisition ₦5m − simplified volume change ₦2m + revaluation ₦1m = closing ₦24m); illustrative only.
+- **Limitations:** Synthesis only, not a paragraph-by-paragraph audit. Transaction types, rearrangements, timing/accrual, economic ownership, detailed entries and exact presentation rules remain to be examined. Chapter 4 remains incomplete.
+- **Documentation:** Updated the [2025 SNA Study and Resumption Checkpoint](2025-SNA-STUDY-AND-RESUMPTION-CHECKPOINT.md), [Current State](CURRENT-STATE.md) and this Research Log.
+- **Next action:** Chapter 4, Lesson 18 — monetary/non-monetary transactions, exchanges/transfers and introduction to rerouting, using the White Cover version.
