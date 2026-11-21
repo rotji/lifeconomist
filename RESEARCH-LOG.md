@@ -789,3 +789,15 @@
 - **Limitations:** Introductory only. Payment floats, complex securities settlement, debt rescheduling/forgiveness, guarantees and stock options require deeper study, including Chapter 25. Chapter 4 remains incomplete; no Nigeria implementation or Lifeconomist measurement design was undertaken.
 - **Documentation:** Updated the [2025 SNA Study and Resumption Checkpoint](2025-SNA-STUDY-AND-RESUMPTION-CHECKPOINT.md) and [Current State](CURRENT-STATE.md).
 - **Next action:** Chapter 4, Lesson 10 — timing of output, intermediate consumption, inventories, depreciation and depletion (§§4.211–4.214).
+
+
+## 2026-11-22 — 2025 SNA study: Chapter 4 Lesson 10 — timing of output, intermediate consumption, inventories, depreciation and depletion
+
+- **Task:** Document the introductory treatment of the recording times for production, input use, inventories and consumption of productive assets/resources.
+- **Source:** Official UN *System of National Accounts 2025 — White Cover Version*, Chapter 4, §§4.211–4.214: https://unstats.un.org/unsd/nationalaccount/docs/2025_SNA_Pre-edit.pdf
+- **Lesson content:** §4.211 records output over the period production occurs and records work-in-progress continuously as work proceeds, converting accumulated work-in-progress to finished output when production ends. §4.212 records intermediate consumption when the good or service enters production, not when acquired. §4.213 records inventory additions when products are purchased, produced or otherwise acquired and deductions when sold, used as intermediate consumption or otherwise relinquished. §4.214 treats depreciation and depletion as costs accruing over the period the fixed asset or natural resource is used productively, with allocation depending on the rate of depreciation/depletion.
+- **Teaching examples:** Construction output and work-in-progress accumulate during production; flour enters intermediate consumption when used by a bakery rather than when purchased; retailer stock rises on acquisition and falls on sale; machine depreciation and resource depletion accrue over productive use. Examples are illustrative.
+- **Key lesson:** Acquisition, use in production, output creation, inventory holding and consumption of productive capacity are distinct events with different recording points.
+- **Limitations:** Introductory only. Detailed valuation and measurement of work-in-progress, inventories, depreciation and depletion remain open. Chapter 4 remains incomplete; no Nigeria implementation or Lifeconomist measurement design was undertaken.
+- **Documentation:** Updated the [2025 SNA Study and Resumption Checkpoint](2025-SNA-STUDY-AND-RESUMPTION-CHECKPOINT.md) and [Current State](CURRENT-STATE.md).
+- **Next action:** Chapter 4, Lesson 11 — composite transactions, balancing items, other flows, external timing adjustments and balance-sheet dates (§§4.215–4.224).
