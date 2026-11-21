@@ -849,3 +849,15 @@
 - **Limitations:** Introductory only. Detailed boundaries, exceptions, capital-service calculations and practical estimation remain open. Stock valuation §§4A.15 onward remains unstudied; no Nigeria implementation or Lifeconomist measurement design was undertaken.
 - **Documentation:** Updated the [2025 SNA Study and Resumption Checkpoint](2025-SNA-STUDY-AND-RESUMPTION-CHECKPOINT.md), [Current State](CURRENT-STATE.md) and this Research Log.
 - **Next action:** Chapter 4, Lesson 15 — valuation of stocks of assets and liabilities, Annex §§4A.15–4A.28.
+
+
+## 2026-11-22 — 2025 SNA study: Chapter 4 Lesson 14 — transaction valuation methods
+
+- **Task:** Document the introductory study of Annex §§4A.1–4A.14 and proceed to stock valuation.
+- **Source:** Official UN *System of National Accounts 2025 — White Cover Version*, Annex §§4A.1–4A.14: https://unstats.un.org/unsd/nationalaccount/docs/2025_SNA_Pre-edit.pdf
+- **Lesson content:** §4A.1 distinguishes transaction valuation from subsequent stock valuation. §4A.2 prefers observed exchange values, with practical caveats for transfer pricing and concessional pricing. §§4A.3–4A.4 allow market-equivalent prices where comparators are sufficiently comparable and traded under similar conditions in established markets; hedonic adjustments may be used. §4A.5 describes indirect valuation, including reinvested earnings, non-life insurance output and implicit financial services. §§4A.6–4A.11 explain sum-of-costs valuation and its components and discuss labour, capital base and net return to capital. §§4A.12–4A.13 address unpaid household services and replacement versus opportunity cost. §4A.14 summarizes preferred methods for relevant transaction types.
+- **Examples:** Observed vehicle purchase price; comparable rents for owner-occupied housing services; derived financial services and reinvested earnings; hypothetical sum-of-costs hospital example; replacement-cost versus opportunity-cost labour valuation.
+- **Key lesson:** The SNA aims at exchange values, using observed prices where possible and defensible estimation methods where direct exchange prices are unavailable.
+- **Limitations:** Introductory only. Detailed boundaries, exceptions, capital-service calculations and practical estimation remain open. Stock valuation §§4A.15 onward remains unstudied; no Nigeria implementation or Lifeconomist measurement design was undertaken.
+- **Documentation:** Updated the [2025 SNA Study and Resumption Checkpoint](2025-SNA-STUDY-AND-RESUMPTION-CHECKPOINT.md), [Current State](CURRENT-STATE.md) and this Research Log.
+- **Next action:** Chapter 4, Lesson 15 — valuation of stocks of assets and liabilities, Annex §§4A.15–4A.28.
