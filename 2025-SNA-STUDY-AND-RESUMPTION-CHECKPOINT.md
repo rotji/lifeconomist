@@ -1,6 +1,6 @@
 # 2025 System of National Accounts (2025 SNA) — Study and Resumption Checkpoint
 
-**Status:** Study initiated; introductory orientation, initial economic-universe orientation, and Chapter 4 Lessons 1–8 completed; systematic chapter study remains in progress  
+**Status:** Study initiated; introductory orientation, initial economic-universe orientation, and Chapter 4 Lessons 1–9 completed; systematic chapter study remains in progress  
 **Checkpoint date:** 2026-11-21  
 **Scope:** Understanding the international national accounts standard itself before attempting country implementation or Lifeconomist application.
 
@@ -306,13 +306,38 @@ A focused introductory lesson was completed on 2026-11-21, using the official 20
 
 **Study limitations:** Introductory lesson only. Detailed treatment of remuneration, social contributions and benefits, property income, taxes, grants and employee stock options must be studied in the relevant chapters, especially Chapters 8, 9 and 25. Chapter 4 remains incomplete. No Nigeria implementation or Lifeconomist measurement design was undertaken.
 
+
+### Stage 3 — Chapter 4, Lesson 9: Time of recording of transactions in financial assets and liabilities
+
+A focused introductory lesson was completed on 2026-11-21, using the official 2025 SNA White Cover text, §§4.205–4.210.
+
+**What the standard establishes:**
+
+- §4.205: Transactions in financial assets are recorded when economic ownership changes. Implicit trade credit and advances associated with a non-financial transaction are recorded when that underlying transaction occurs.
+- §4.206: Where the timing of a financial transaction cannot be established precisely, the standard provides guidance for consistent recording by the parties. For payment floats, the creditor's receipt of payment is relevant to determining the time of the change in economic ownership.
+- §4.207: Securities transactions are recorded when ownership changes, which may precede settlement/delivery. Significant timing differences give rise to other accounts receivable/payable; where settlement delay is short, settlement may be used as an acceptable proxy.
+- §4.208: Debt repayments are recorded when the debt is extinguished, including by payment, rescheduling or forgiveness. When arrears arise, no new transaction is imputed merely because payment is overdue; arrears remain in the same instrument until extinguished. Activation of one-off guarantees is cross-referenced to Chapter 25.
+- §4.209: Introduces the time of recording for flows associated with one-off guarantees; the detailed accounting treatment is referred to Chapter 25. This lesson did not attempt a full treatment of guarantee accounting.
+- §4.210: Employee stock options are recognized at grant date. Associated remuneration accrues over the period to which the option relates, generally from grant to vesting, with earlier service periods considered where the option covers them. Detailed flows are referred to Chapter 25.
+
+**Plain-language examples (illustrative):**
+
+1. A supplier delivers goods worth ₦2m with payment due in 30 days. The supplier records a receivable and the buyer a payable as the implicit trade credit associated with the goods transaction.
+2. An investor buys securities on Monday, with settlement on Wednesday. If economic ownership changes on Monday, the transaction is recorded on Monday; a significant gap is represented through other accounts receivable/payable. For a short delay, settlement may be an acceptable proxy.
+3. A loan instalment becomes overdue. The debt remains recorded under the same instrument; the mere occurrence of arrears is not a new borrowing transaction.
+4. An employee receives an option at grant and earns the related remuneration over the relevant service period, generally until vesting. This is an introductory description; the detailed accounting is in Chapter 25.
+
+**Key lesson:** The standard distinguishes when a financial claim or liability is created, when it is settled, when a debt is extinguished, and when arrears merely arise. These are not interchangeable events.
+
+**Study limitations:** Introductory only. Payment-float mechanics, complex securities settlement, debt rescheduling/forgiveness, guarantee activation and employee stock-option accounting require deeper study, including Chapter 25. Chapter 4 remains incomplete. No Nigeria implementation or Lifeconomist measurement design was undertaken.
+
 ## 5. Current stopping point
 
-The introductory framework orientation, initial economic-universe lesson, and Chapter 4 Lessons 1–8 have been completed. Lessons 4–5 introduced revaluations, holding gains and their relationship to economic ownership and timing; Lesson 6 introduced time of recording and accrual accounting; Lesson 7 covered timing for goods and services; Lesson 8 covered timing for distributive transactions. No chapter is complete, and the conceptual foundations remain in progress.
+The introductory framework orientation, initial economic-universe lesson, and Chapter 4 Lessons 1–9 have been completed. Lessons 4–5 introduced revaluations, holding gains and their relationship to economic ownership and timing; Lesson 6 introduced time of recording and accrual accounting; Lesson 7 covered timing for goods and services; Lesson 8 covered timing for distributive transactions; Lesson 9 covered timing for financial asset and liability transactions. No chapter is complete, and the conceptual foundations remain in progress.
 
 ## 6. Exact next action
 
-Continue with **Chapter 4, Lesson 9 — Time of recording of transactions in financial assets and liabilities**. Use §§4.205–4.210 to examine financial transactions and economic ownership; implicit trade credit and advances; timing differences and payment floats; securities transaction versus settlement dates; debt repayments and arrears; activation of one-off guarantees; and employee stock options. Then proceed to timing of output, intermediate consumption, inventories, depreciation and depletion (§§4.211–4.214). Do not claim Chapter 4 is complete.
+Continue with **Chapter 4, Lesson 10 — Time of recording of output, intermediate consumption, changes in inventories, depreciation and depletion**. Use §§4.211–4.214. Examine output and work-in-progress as production occurs; intermediate consumption when an input enters production rather than when acquired; inventory additions and withdrawals; and depreciation/depletion accruing over the period an asset or resource is used productively. Explain the distinctions with practical examples. Then identify the remaining Chapter 4 sections and plan a structured completion review; do not claim Chapter 4 is complete until all relevant sections have been studied.
 
 After the relevant Chapter 4 foundations are understood, continue the conceptual study in the standard's chapter order, including the detailed treatment of institutional units and production. Do not jump ahead to Nigeria's GDP, indicator design, data collection, or Lifeconomist implementation.
 
