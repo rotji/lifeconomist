@@ -825,3 +825,15 @@
 - **Limitations:** Introductory only. Detailed multiple-rate compilation, derivatives, multicurrency instruments and practical source selection remain open. Chapter 4 remains incomplete; no Nigeria implementation or Lifeconomist measurement design was undertaken.
 - **Documentation:** Updated the [2025 SNA Study and Resumption Checkpoint](2025-SNA-STUDY-AND-RESUMPTION-CHECKPOINT.md), [Current State](CURRENT-STATE.md) and this Research Log.
 - **Next action:** Chapter 4, Lesson 13 — aggregation, netting, consolidation and symmetry of reporting (§§4.242–4.257), then review the valuation annex and remaining Chapter 4 material.
+
+
+## 2026-11-22 — 2025 SNA study: Chapter 4 Lesson 13 — aggregation, netting, consolidation and symmetry of reporting
+
+- **Task:** Document the introductory study of §§4.242–4.257 and proceed to the valuation annex.
+- **Source:** Official UN *System of National Accounts 2025 — White Cover Version*, Chapter 4, §§4.242–4.257: https://unstats.un.org/unsd/nationalaccount/docs/2025_SNA_Pre-edit.pdf
+- **Lesson content:** §§4.242–4.245 cover aggregation of unit-level flows and stocks using classifications and the practical need for estimates/adjustments. §§4.246–4.251 distinguish gross recording and netting, including net changes in financial assets and liabilities by instrument. §§4.252–4.253 explain consolidation of intra-group transactions/positions, the general non-consolidation approach in the sequence of accounts, analytical uses of consolidation, and establishment-level recording of output/intermediate consumption. §§4.254–4.257 establish symmetry of reporting, quadruple-entry logic and the need to reconcile valuation, timing and classification differences in microdata.
+- **Teaching examples:** Gross and net interest flows; elimination of internal government receivables/payables in a consolidated view; supplier/buyer quadruple entries; importer/exporter reconciliation. Examples are illustrative.
+- **Key lesson:** Aggregation, netting, consolidation and symmetry are distinct operations with different purposes.
+- **Limitations:** Introductory only. Detailed boundaries, exceptions, account-level netting and compiler reconciliation remain open. Chapter 4 valuation annex remains unstudied; no Nigeria implementation or Lifeconomist measurement design was undertaken.
+- **Documentation:** Updated the [2025 SNA Study and Resumption Checkpoint](2025-SNA-STUDY-AND-RESUMPTION-CHECKPOINT.md), [Current State](CURRENT-STATE.md) and this Research Log.
+- **Next action:** Chapter 4, Lesson 14 — valuation methods for transactions (Annex §§4A.1–4A.14), then valuation methods for stocks of assets and liabilities (§§4A.15 onward).
