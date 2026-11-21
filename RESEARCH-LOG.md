@@ -801,3 +801,15 @@
 - **Limitations:** Introductory only. Detailed valuation and measurement of work-in-progress, inventories, depreciation and depletion remain open. Chapter 4 remains incomplete; no Nigeria implementation or Lifeconomist measurement design was undertaken.
 - **Documentation:** Updated the [2025 SNA Study and Resumption Checkpoint](2025-SNA-STUDY-AND-RESUMPTION-CHECKPOINT.md) and [Current State](CURRENT-STATE.md).
 - **Next action:** Chapter 4, Lesson 11 — composite transactions, balancing items, other flows, external timing adjustments and balance-sheet dates (§§4.215–4.224).
+
+
+## 2026-11-22 — 2025 SNA study: Chapter 4 Lesson 11 — composite transactions, other flows and timing consistency
+
+- **Task:** Document the introductory study of §§4.215–4.224 and proceed to unit of account/currency conversion.
+- **Source:** Official UN *System of National Accounts 2025 — White Cover Version*, Chapter 4, §§4.215–4.224: https://unstats.un.org/unsd/nationalaccount/docs/2025_SNA_Pre-edit.pdf
+- **Lesson content:** §4.215 says composite transactions follow the timing of constituent flows; §4.216 applies the rule to balancing items but warns that their components may have different timing. §4.217 records other changes in volume when discrete events occur. §4.218 computes holding gains/losses over the relevant ownership/holding interval. §4.219 treats contractual commitments as contingent until performance and limits holding gains/losses to assets/liabilities under economic ownership. §§4.220–4.221 record reclassifications when they take effect and require simultaneous entries rather than delayed stockpiling. §§4.222–4.223 address timing differences between partner economies and the need for adjustments where material; actual loan drawings are preferred to authorization dates. §4.224 requires the closing balance sheet of one period to equal the opening balance sheet of the next.
+- **Teaching examples:** Accrued implicit financial services; balancing item saving with differently timed components; discrete destruction of a factory; contract signing versus land ownership transfer; authorized versus actually drawn loan; year-end closing/opening positions. Examples are illustrative.
+- **Key lesson:** Integrated accounts align the timing of flows, other-flow events, ownership-based revaluations, reclassifications and balance-sheet positions.
+- **Limitations:** Introductory only. Detailed composite transactions, reclassification cases, international asymmetries and balance-sheet compilation remain open. Chapter 4 remains incomplete; no Nigeria implementation or Lifeconomist measurement design was undertaken.
+- **Documentation:** Updated the [2025 SNA Study and Resumption Checkpoint](2025-SNA-STUDY-AND-RESUMPTION-CHECKPOINT.md), [Current State](CURRENT-STATE.md) and this Research Log.
+- **Next action:** Chapter 4, Lesson 12 — unit of account and currency conversion (§§4.225–4.241).
