@@ -245,3 +245,6 @@ Completed the ninth and final bullet-by-bullet audit of the 25 groups currently 
 - **Scope:** Project-wide governance; no new workstream. Detailed operating rules are in the protocol, linked from [README](README.md) and [Research Methodology](RESEARCH-METHODOLOGY.md).
 
 - Added [Global Financial Assets and Liabilities — Accounting Foundations](GLOBAL-FINANCIAL-ASSETS-AND-LIABILITIES-ACCOUNTING-FOUNDATIONS.md), establishing the accounting logic for claims, counterpart liabilities, consolidation boundaries, gross versus net positions, and the distinction between financial claims and total wealth. The 2025 SNA is the conceptual target architecture; actual dataset standards and implementation status must be recorded individually.
+
+
+- **2025 SNA study update (2026-11-22):** Chapter 4, Lesson 14 completed and documented: transaction valuation methods in the 2025 SNA annex §§4A.1–4A.14 (observed exchange values, market-equivalent prices, indirect valuation and sum-of-costs method). The stock-valuation annex §§4A.15 onward remains open. See [2025 SNA Study and Resumption Checkpoint](2025-SNA-STUDY-AND-RESUMPTION-CHECKPOINT.md). Next: Lesson 15, §§4A.15–4A.28.
