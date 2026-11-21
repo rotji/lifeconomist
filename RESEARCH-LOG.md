@@ -765,3 +765,15 @@
 - **Limitations:** Introductory only. Detailed treatments must be studied in the relevant chapters, especially Chapters 8, 9 and 25. Chapter 4 remains incomplete; no Nigeria implementation or Lifeconomist measurement design was undertaken.
 - **Documentation:** Updated the [2025 SNA Study and Resumption Checkpoint](2025-SNA-STUDY-AND-RESUMPTION-CHECKPOINT.md) and [Current State](CURRENT-STATE.md).
 - **Next action:** Chapter 4, Lesson 9 — financial assets and liabilities time of recording (§§4.205–4.210).
+
+
+## 2026-11-21 — 2025 SNA study: Chapter 4 Lesson 9 — time of recording of financial asset and liability transactions
+
+- **Task:** Document the introductory treatment of the timing of financial transactions and establish the next lesson.
+- **Source:** Official UN *System of National Accounts 2025 — White Cover Version*, Chapter 4, §§4.205–4.210: https://unstats.un.org/unsd/nationalaccount/docs/2025_SNA_Pre-edit.pdf
+- **Lesson content:** §4.205 records transactions in financial assets when economic ownership changes and records implicit trade credit/advances when the underlying non-financial transaction occurs. §4.206 addresses timing differences and payment floats, including the creditor's receipt of payment as a relevant timing point. §4.207 records securities transactions on the ownership-change/transaction date; significant gaps before settlement generate other accounts receivable/payable, while settlement may proxy for short delays. §4.208 records debt repayment when debt is extinguished; arrears do not themselves create a new transaction and remain in the same instrument until extinguished. §§4.208–4.209 refer detailed one-off guarantee treatment to Chapter 25. §4.210 recognizes employee stock options at grant date and records associated remuneration over the relevant service period, generally grant to vesting, with earlier service periods considered where relevant.
+- **Teaching examples:** Supplier delivery with 30-day trade credit creates a receivable/payable; a securities purchase may be recorded on transaction date before settlement; overdue debt remains under the same instrument rather than becoming a new loan; employee stock-option remuneration accrues over the service period. Examples are illustrative.
+- **Key lesson:** Creation, settlement and extinguishment of financial claims are distinct events; arrears alone are not a new transaction.
+- **Limitations:** Introductory only. Payment floats, complex securities settlement, debt rescheduling/forgiveness, guarantees and stock options require deeper study, including Chapter 25. Chapter 4 remains incomplete; no Nigeria implementation or Lifeconomist measurement design was undertaken.
+- **Documentation:** Updated the [2025 SNA Study and Resumption Checkpoint](2025-SNA-STUDY-AND-RESUMPTION-CHECKPOINT.md) and [Current State](CURRENT-STATE.md).
+- **Next action:** Chapter 4, Lesson 10 — timing of output, intermediate consumption, inventories, depreciation and depletion (§§4.211–4.214).
