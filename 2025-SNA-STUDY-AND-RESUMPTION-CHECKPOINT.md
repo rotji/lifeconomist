@@ -1,7 +1,7 @@
 # 2025 System of National Accounts (2025 SNA) — Study and Resumption Checkpoint
 
-**Status:** Study initiated; introductory orientation, initial economic-universe orientation, and Chapter 4 Lessons 1–4 completed; systematic chapter study remains in progress  
-**Checkpoint date:** 2026-11-18  
+**Status:** Study initiated; introductory orientation, initial economic-universe orientation, and Chapter 4 Lessons 1–5 completed; systematic chapter study remains in progress  
+**Checkpoint date:** 2026-11-21  
 **Scope:** Understanding the international national accounts standard itself before attempting country implementation or Lifeconomist application.
 
 ## 1. Purpose of this study
@@ -209,13 +209,35 @@ The cause of the change matters. A debt repayment is a transaction, not a revalu
 
 **Study limitations:** This was an introductory lesson on revaluations, not a full study of the revaluation account or Chapter 4. The detailed calculation of neutral and real holding gains, price indices, asset-specific valuation, financial-instrument cases, continuous accrual, economic ownership, timing of acquisition and disposal, and the complete accounting entries remain to be studied. The numerical examples are teaching illustrations only. No Nigeria implementation, dataset calculation, or Lifeconomist measurement design was undertaken.
 
+
+### Stage 3 — Chapter 4, Lesson 5: Holding gains, economic ownership and timing
+
+A focused introductory lesson was completed on 2026-11-21, using the official 2025 SNA White Cover text, particularly §§4.182–4.183 and §§4.218–4.219.
+
+**What the standard establishes (initial reading):**
+
+- §4.182 states that holding gains and losses accrue continuously and apply to non-financial and financial assets and liabilities. In general, they are estimated by deducting from the total change in asset value the changes attributable to transactions and other changes in volume.
+- §4.183 explains that holding gains and losses are calculated between two relevant points: the beginning of the accounting period or the time an asset/liability is acquired or incurred, and the end of the period or the time it is sold or extinguished. It also emphasizes matching holding gains and losses on financial assets and their counterpart liabilities.
+- §4.218 specifies the practical time points for computing nominal holding gains/losses: from the beginning of the period, acquisition of ownership, or production of an asset, to the end of the period, relinquishment of ownership, or consumption in production.
+- §4.219 explains that contractual commitments are treated as contingent until a party performs its obligation, such as transferring ownership, providing a service, or providing labour or capital. A unit can incur holding gains/losses only on assets or liabilities over which it has economic ownership. Signing a contract alone does not automatically give the buyer a holding gain on the asset before the relevant performance and ownership change.
+
+**Plain-language explanation and examples (illustrative, not SNA data):**
+
+1. A buyer acquires land for ₦10m in March and sells it for ₦12m in October. If no other relevant changes affect the value, the buyer experiences an illustrative ₦2m nominal holding gain during the period of ownership. The land may be absent from both the opening and closing balance sheets, yet a holding gain can still accrue while it is owned.
+2. A buyer signs a contract to acquire land, but the seller has not yet performed the relevant obligation or transferred economic ownership. A market-price increase before that point does not automatically create a holding gain for the buyer merely because the contract was signed.
+3. For financial assets and liabilities, the SNA emphasizes consistency: holding gains on an asset should be matched by holding losses on the corresponding liability, and vice versa, where the positions are counterparts.
+
+**Key lesson:** Holding gains are linked to the period of economic ownership, not simply to whether an asset appears in opening and closing balance sheets or to the date a contract is signed.
+
+**Study limitations:** This was an introductory lesson, not a complete study of economic ownership or all timing rules. The precise economic-ownership criteria, complex contracts, leases, repurchase agreements, transaction timing, accrual accounting and instrument-specific cases remain open. The land example is illustrative arithmetic only. Chapter 4 is not complete; no Nigeria implementation or Lifeconomist measurement design was undertaken.
+
 ## 5. Current stopping point
 
-The introductory framework orientation, initial economic-universe lesson, and Chapter 4 Lessons 1–4 have been completed. Lesson 4 introduced revaluations and the distinction between nominal, neutral and real holding gains and losses, using §§4.82–4.83 and §§3.117–3.122. No chapter is complete, and the conceptual foundations remain in progress.
+The introductory framework orientation, initial economic-universe lesson, and Chapter 4 Lessons 1–5 have been completed. Lesson 4 introduced revaluations and nominal, neutral and real holding gains/losses; Lesson 5 examined holding gains in relation to economic ownership and timing of acquisition/disposal. No chapter is complete, and the conceptual foundations remain in progress.
 
 ## 6. Exact next action
 
-Continue with **Chapter 4, Lesson 5 — Holding gains, economic ownership, and timing of acquisition and disposal**. Examine why holding gains can accrue over only part of an accounting period, including cases where an asset does not appear on either the opening or closing balance sheet. Use the official White Cover text and verify the relevant paragraphs before teaching. Then proceed to the detailed rules for economic ownership, time of recording and valuation. Do not claim Chapter 4 is complete after these lessons.
+Continue with **Chapter 4, Lesson 6 — Time of recording and accrual accounting**. Begin with §§4.185–4.193: distinguish stock positions from flows over an accounting period; examine why timing rules matter; compare cash, due-for-payment, commitment and accrual bases; and introduce economic ownership as the basis for recording many transactions. Then study the specific timing rules for goods, services, income, taxes, financial instruments, output, inventories and other flows. Do not claim Chapter 4 is complete after these lessons.
 
 After the relevant Chapter 4 foundations are understood, continue the conceptual study in the standard's chapter order, including the detailed treatment of institutional units and production. Do not jump ahead to Nigeria's GDP, indicator design, data collection, or Lifeconomist implementation.
 
