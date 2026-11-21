@@ -1,7 +1,7 @@
 # Current Project State
 
-**Last updated:** 2026-11-18  
-**Stage:** Foundational framework selected; measurement protocol incomplete; Workstream E has an initial FX investigation programme specification; a structured 2025 SNA study is in progress, with introductory orientation and Chapter 4 Lessons 1–2 completed.
+**Last updated:** 2026-11-21  
+**Stage:** Foundational framework selected; measurement protocol incomplete; Workstream E has an initial FX investigation programme specification; a structured 2025 SNA study is in progress, with introductory orientation and Chapter 4 Lessons 1–4 completed.
 
 ## Established
 - **Project-wide governance:** [PROJECT-GOVERNANCE.md](PROJECT-GOVERNANCE.md) v1.0 is adopted as the Lifeconomist-specific implementation of the Universal Project Governance Standard. It defines project information classifications, owner and collaborator authority, decision/change governance, proportionate assurance and risk safeguards, and independent handover. Existing research methods and the [Project Records and Continuity Protocol](PROJECT-RECORDS-AND-CONTINUITY-PROTOCOL.md) retain their operational roles. Adoption is recorded as D-019 in `DECISION-REGISTER.md` and in `RESEARCH-LOG.md`.
@@ -17,12 +17,12 @@
 
 ## 2025 System of National Accounts (2025 SNA) study
 
-- **Status:** Study initiated; introductory framework orientation, initial economic-universe orientation, and Chapter 4 Lessons 1–3 (stocks and flows; transactions versus other flows; other changes in volume) completed on 2026-11-18. No chapter is yet considered systematically completed.
+- **Status:** Study initiated; introductory framework orientation, initial economic-universe orientation, and Chapter 4 Lessons 1–4 completed. No chapter is yet considered systematically completed.
 - **Purpose:** Understand the 2025 SNA's concepts, definitions, accounting structure, and measurement framework before examining country implementation or applying it to Lifeconomist.
 - **Primary source:** Official UN 2025 SNA publication and pre-edit / White Cover PDF; source links, reported Zotero audit, and bibliographic details are recorded in [the study and resumption checkpoint](2025-SNA-STUDY-AND-RESUMPTION-CHECKPOINT.md).
-- **Current learning:** Chapter 4 Lesson 1 introduced stocks and flows, balance sheets, current and accumulation accounts, monetary recording and accounting-period/consistency principles (§§4.1–4.5, §4.11 and §§4.14–4.16). Lesson 2 introduced economic flows, transactions and other flows (§§4.6–4.7 and §4.18). Lesson 3 surveyed the other-changes-in-volume categories and selected cases (§§4.73–4.81): appearance/disappearance of assets and liabilities, externalities and disasters, reclassifications, and residence-status changes. The official White Cover paragraph sequence was verified and corrected in the study checkpoint. Detailed classifications, valuation and asset-specific rules remain to be studied.
+- **Current learning:** Lesson 1 introduced stocks and flows, balance sheets, current and accumulation accounts, monetary recording and accounting-period/consistency principles (§§4.1–4.5, §4.11 and §§4.14–4.16). Lesson 2 introduced economic flows, transactions and other flows (§§4.6–4.7 and §4.18). Lesson 3 surveyed other-changes-in-volume categories and selected cases (§§4.73–4.81). Lesson 4 introduced revaluations, nominal holding gains, and the neutral/real decomposition (§§4.82–4.83; Chapter 3 §§3.117–3.122). These are focused introductory lessons; detailed rules and the chapter as a whole remain open.
 - **Zotero condition (reported by user):** The webpage record is identified, but the full PDF is a separate collection item rather than a child attachment; Zotero text indexing is partial (100 of 1,260 pages). No Zotero records or attachments were changed.
-- **Exact next action:** Continue with Chapter 4, Lesson 4—revaluations (holding gains and losses), beginning with §§4.82–4.83 and distinguishing nominal, neutral and real holding gains. Then proceed gradually to economic ownership, time of recording, valuation and the remaining accounting rules.
+- **Exact next action:** Chapter 4, Lesson 5 — examine holding gains in relation to economic ownership and the timing of acquisition and disposal, including why a holding gain can accrue even when an asset does not appear on either the opening or closing balance sheet. Verify the relevant official White Cover paragraphs before teaching.
 - **Not established:** Systematic completion of Chapters 4, 5, or 6; complete Zotero metadata/attachment/indexing; a full chapter-by-chapter understanding; 2008 SNA comparison; Nigeria implementation assessment; or any Lifeconomist design changes arising from the study.
 
 ## Workstream position
