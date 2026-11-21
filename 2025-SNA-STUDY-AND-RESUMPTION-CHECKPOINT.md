@@ -331,6 +331,32 @@ A focused introductory lesson was completed on 2026-11-21, using the official 20
 
 **Study limitations:** Introductory only. Payment-float mechanics, complex securities settlement, debt rescheduling/forgiveness, guarantee activation and employee stock-option accounting require deeper study, including Chapter 25. Chapter 4 remains incomplete. No Nigeria implementation or Lifeconomist measurement design was undertaken.
 
+
+### Stage 3 — Chapter 4, Lesson 9: Time of recording of transactions in financial assets and liabilities
+
+A focused introductory lesson was completed on 2026-11-22, using the official 2025 SNA White Cover text, §§4.205–4.210.
+
+**What the standard establishes:**
+
+- §4.205: Transactions in financial assets are recorded when economic ownership changes. Implicit trade credit and advances associated with a non-financial transaction are recorded when that underlying transaction occurs.
+- §4.206: Addresses timing differences and payment floats. Where the precise timing cannot be established, consistent recording by the parties is required; the creditor's receipt of payment is relevant to determining the change in economic ownership for payment floats.
+- §4.207: Securities transactions are recorded when ownership changes, which may precede settlement/delivery. Significant differences between transaction and settlement dates give rise to other accounts receivable/payable. Where the delay is short, settlement may be used as an acceptable proxy.
+- §4.208: Debt repayments are recorded when the debt is extinguished, including through payment, rescheduling or forgiveness. Arrears do not themselves create a new transaction; they remain in the same instrument until extinguished. Changes to instrument characteristics under the existing contract may be reclassifications; renegotiation or a change in instrument category can create new transactions.
+- §4.209: Activation of one-off, non-standardized guarantees creates a new liability and financial transactions. The timing is determined by the events activating the guarantee; detailed treatment is in Chapter 25.
+- §4.210: Employee stock options are recognized at grant date. Associated remuneration accrues over the period to which the option relates, generally grant to vesting, with any relevant pre-grant service period also considered. Detailed treatment is in Chapter 25.
+
+**Plain-language examples (illustrative):**
+
+1. A supplier delivers goods worth ₦2m with payment due in 30 days. The supplier records a receivable and the buyer a payable as implicit trade credit associated with the goods transaction.
+2. An investor buys securities on Monday, with settlement on Wednesday. If economic ownership changes on Monday, the transaction is recorded then; a significant gap is reflected through other accounts receivable/payable. For a short delay, settlement may be an acceptable proxy.
+3. A loan instalment becomes overdue. The debt remains recorded under the same instrument; the mere occurrence of arrears is not a new borrowing transaction.
+4. A one-off guarantee is activated after the event specified in the guarantee occurs; the activation creates a new liability.
+5. An employee receives a stock option at grant and earns the associated remuneration over the relevant service period. This is introductory; detailed treatment is in Chapter 25.
+
+**Key lesson:** The creation, settlement and extinguishment of financial claims are distinct events. Arrears alone are not a new transaction; guarantee activation and certain contract changes have their own accounting consequences.
+
+**Study limitations:** Introductory only. Payment-float mechanics, complex securities settlement, debt rescheduling/forgiveness, guarantee accounting and employee stock options require deeper study, including Chapter 25. Chapter 4 remains incomplete. No Nigeria implementation or Lifeconomist measurement design was undertaken.
+
 ## 5. Current stopping point
 
 The introductory framework orientation, initial economic-universe lesson, and Chapter 4 Lessons 1–9 have been completed. Lessons 4–5 introduced revaluations, holding gains and their relationship to economic ownership and timing; Lesson 6 introduced time of recording and accrual accounting; Lesson 7 covered timing for goods and services; Lesson 8 covered timing for distributive transactions; Lesson 9 covered timing for financial asset and liability transactions. No chapter is complete, and the conceptual foundations remain in progress.
