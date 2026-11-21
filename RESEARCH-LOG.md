@@ -861,3 +861,15 @@
 - **Limitations:** Introductory only. Detailed boundaries, exceptions, capital-service calculations and practical estimation remain open. Stock valuation §§4A.15 onward remains unstudied; no Nigeria implementation or Lifeconomist measurement design was undertaken.
 - **Documentation:** Updated the [2025 SNA Study and Resumption Checkpoint](2025-SNA-STUDY-AND-RESUMPTION-CHECKPOINT.md), [Current State](CURRENT-STATE.md) and this Research Log.
 - **Next action:** Chapter 4, Lesson 15 — valuation of stocks of assets and liabilities, Annex §§4A.15–4A.28.
+
+
+## 2026-11-22 — 2025 SNA study: Chapter 4 Lesson 15 — stock valuation methods, Part 1
+
+- **Task:** Document the introductory study of Annex §§4A.15–4A.28 and proceed to the remaining valuation methods.
+- **Source:** Official UN *System of National Accounts 2025 — White Cover Version*, Annex §§4A.15–4A.28: https://new.cisstat.org/documents/20143/1261542/System%2Bof%2BNational%2BAccounts%2B2025.pdf/7bd5a945-b5d9-c1da-9672-0be5812298d7
+- **Lesson content:** §4A.15 distinguishes non-financial and financial assets and stresses counterpart consistency. §4A.16 covers observed market prices. §§4A.17–4A.22 address market-equivalent prices, comparability, expert estimates and special-purpose assets. §4A.23 introduces historical acquisition price and written-down replacement cost. §§4A.24–4A.25 discuss written-down replacement cost and the perpetual inventory method. §§4A.26–4A.28 address nominal value for non-negotiable financial instruments, accrued interest, non-performing loans and negotiability.
+- **Examples:** Listed-share market valuation; specialist machinery; hypothetical written-down replacement cost; nominal loan balance; bond face value versus market value.
+- **Key lesson:** Balance-sheet values are current values at the reporting date; the method depends on asset/instrument characteristics and evidence. Counterpart financial assets and liabilities must be consistent.
+- **Limitations:** Introductory only. Detailed PIM and instrument-specific rules remain open. Annex §§4A.29–4A.40 remain unstudied; Chapter 4 remains incomplete.
+- **Documentation:** Updated the [2025 SNA Study and Resumption Checkpoint](2025-SNA-STUDY-AND-RESUMPTION-CHECKPOINT.md), [Current State](CURRENT-STATE.md) and this Research Log.
+- **Next action:** Chapter 4, Lesson 16 — indirect valuation and present value of future economic benefits, Annex §§4A.29–4A.40.
