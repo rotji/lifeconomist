@@ -260,6 +260,26 @@ The example illustrates why the same underlying purchase can appear in different
 
 **Study limitations:** This was an introductory lesson, not a complete treatment of the detailed timing rules. Specific timing for goods, services, distributive transactions, taxes, transfers, financial instruments, output, intermediate consumption, inventories, depreciation, depletion and other flows remains to be studied. The example assumes the delivery date is the economic-ownership transfer date; real cases require examining the relevant facts and rules. Chapter 4 is not complete. No Nigeria implementation or Lifeconomist measurement design was undertaken.
 
+
+### Stage 3 — Chapter 4, Lesson 7: Time of recording for goods and services
+
+A focused introductory lesson was completed on 2026-11-21, using the official 2025 SNA White Cover text, §§4.196–4.197.
+
+**What the standard establishes:**
+
+- §4.196: Acquisition of goods is recorded when economic ownership changes. When this is unclear, the transaction partners' accounting entries may indicate the timing; failing that, physical possession and control may be used. For imports and exports, ownership change is the principle. Customs records of physical movement across the frontier may often serve as an approximation when direct ownership-transfer dates are unavailable. Similar rules apply to non-produced non-financial assets.
+- §4.197: Services are recorded when provided. Services supplied continuously, including operating leasing, insurance and housing services (including owner-occupied housing services), are recorded continuously over the period the contract lasts or the dwelling is available.
+
+**Plain-language examples (illustrative):**
+
+1. A buyer orders goods on 1 December, the goods are dispatched on 5 December, economic ownership changes on delivery on 8 December, and payment is made on 15 December. Assuming ownership changes on delivery, the acquisition is recorded on 8 December, not automatically on the order, dispatch or payment date.
+2. For imports and exports, the statistical compiler may use customs records of goods crossing the national/customs frontier as an approximation where the precise ownership-change date is not available. The frontier-crossing date is not the underlying principle.
+3. A service such as insurance is recorded over the period in which coverage is provided, not wholly on the date the premium is paid.
+
+**Key distinction:** Goods are generally recorded when economic ownership changes; services are recorded when provided, continuously where provision is continuous.
+
+**Study limitations:** Introductory lesson only. The detailed treatment of consignment, goods sent for processing, repairs, complex delivery arrangements and other special cases has not been systematically examined. Chapter 4 is not complete. No Nigeria implementation or Lifeconomist measurement design was undertaken.
+
 ## 5. Current stopping point
 
 The introductory framework orientation, initial economic-universe lesson, and Chapter 4 Lessons 1–6 have been completed. Lessons 4–5 introduced revaluations, holding gains and their relationship to economic ownership and timing; Lesson 6 introduced time of recording and accrual accounting. No chapter is complete, and the conceptual foundations remain in progress.
