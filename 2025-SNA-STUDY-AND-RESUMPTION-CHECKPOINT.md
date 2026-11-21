@@ -1,6 +1,6 @@
 # 2025 System of National Accounts (2025 SNA) — Study and Resumption Checkpoint
 
-**Status:** Study initiated; introductory orientation, initial economic-universe orientation, and Chapter 4 Lessons 1–5 completed; systematic chapter study remains in progress  
+**Status:** Study initiated; introductory orientation, initial economic-universe orientation, and Chapter 4 Lessons 1–6 completed; systematic chapter study remains in progress  
 **Checkpoint date:** 2026-11-21  
 **Scope:** Understanding the international national accounts standard itself before attempting country implementation or Lifeconomist application.
 
@@ -231,13 +231,42 @@ A focused introductory lesson was completed on 2026-11-21, using the official 20
 
 **Study limitations:** This was an introductory lesson, not a complete study of economic ownership or all timing rules. The precise economic-ownership criteria, complex contracts, leases, repurchase agreements, transaction timing, accrual accounting and instrument-specific cases remain open. The land example is illustrative arithmetic only. Chapter 4 is not complete; no Nigeria implementation or Lifeconomist measurement design was undertaken.
 
+
+### Stage 3 — Chapter 4, Lesson 6: Time of recording and accrual accounting
+
+A focused introductory lesson was completed on 2026-11-21, using the official 2025 SNA White Cover text, §§4.185–4.193.
+
+**What the standard establishes (initial reading):**
+
+- §§4.185–4.188 explain that activities and transactions can have several economically relevant moments, including contract/signing, delivery or performance, payment becoming due, and actual payment. The timing basis selected affects the period in which flows are recorded.
+- §4.189 notes that recording every successive stage would overburden the integrated framework. The standard therefore distinguishes cash, due-for-payment, commitment and accrual bases, and recognizes other timing bases used in some source data. The integrated framework recommends accrual recording.
+- §4.190 explains that cash accounting records cash payments when they occur, but payment timing may differ significantly from the underlying economic activity and cash accounting cannot capture non-monetary flows generally.
+- §4.191 explains due-for-payment recording: flows are recorded when payment becomes due without additional charges or penalties, alongside actual payments; a receivable/payable bridges the interval between due date and actual payment.
+- §4.192 defines accrual accounting as recording flows when economic value is created, transformed, exchanged, transferred or extinguished. Ownership-changing flows are recorded when ownership changes; services when provided; output when products are created; and intermediate consumption when materials and supplies are used. Later cash settlement is recorded separately, with a financial claim/payable bridging the timing gap.
+- §4.193 makes economic ownership central to the timing of transactions in goods, non-financial assets and financial assets. Economic ownership involves the practical transfer of risks, rewards, rights and responsibilities. Legal ownership generally changes with economic ownership, but not always; financial leases and repurchase agreements illustrate why the distinction matters.
+
+**Plain-language teaching example (illustrative, not SNA data):**
+
+A business orders goods on 15 December, receives them and acquires economic ownership on 20 December, payment becomes due on 10 January, and cash is paid on 15 January.
+
+- Commitment basis: 15 December.
+- Accrual basis: 20 December, assuming that is when economic ownership changes.
+- Due-for-payment basis: 10 January.
+- Cash basis: 15 January.
+
+The example illustrates why the same underlying purchase can appear in different periods under different recording bases. The SNA's accrual approach records the underlying economic event rather than simply following the cash movement.
+
+**Key lesson:** Cash paid/received, payment due, contract commitment and economic event are not necessarily simultaneous. The SNA generally uses accrual accounting so economic activity is recorded in the period in which it occurs.
+
+**Study limitations:** This was an introductory lesson, not a complete treatment of the detailed timing rules. Specific timing for goods, services, distributive transactions, taxes, transfers, financial instruments, output, intermediate consumption, inventories, depreciation, depletion and other flows remains to be studied. The example assumes the delivery date is the economic-ownership transfer date; real cases require examining the relevant facts and rules. Chapter 4 is not complete. No Nigeria implementation or Lifeconomist measurement design was undertaken.
+
 ## 5. Current stopping point
 
-The introductory framework orientation, initial economic-universe lesson, and Chapter 4 Lessons 1–5 have been completed. Lesson 4 introduced revaluations and nominal, neutral and real holding gains/losses; Lesson 5 examined holding gains in relation to economic ownership and timing of acquisition/disposal. No chapter is complete, and the conceptual foundations remain in progress.
+The introductory framework orientation, initial economic-universe lesson, and Chapter 4 Lessons 1–6 have been completed. Lessons 4–5 introduced revaluations, holding gains and their relationship to economic ownership and timing; Lesson 6 introduced time of recording and accrual accounting. No chapter is complete, and the conceptual foundations remain in progress.
 
 ## 6. Exact next action
 
-Continue with **Chapter 4, Lesson 6 — Time of recording and accrual accounting**. Begin with §§4.185–4.193: distinguish stock positions from flows over an accounting period; examine why timing rules matter; compare cash, due-for-payment, commitment and accrual bases; and introduce economic ownership as the basis for recording many transactions. Then study the specific timing rules for goods, services, income, taxes, financial instruments, output, inventories and other flows. Do not claim Chapter 4 is complete after these lessons.
+Continue with **Chapter 4, Lesson 7 — Time of recording for goods and services**. Use §§4.196–4.197 to examine when economic ownership of goods changes, how customs/frontier movement may be used as an approximation for imports and exports, and why services are recorded when provided, including services supplied continuously. Use practical examples such as goods on consignment, repairs, goods sent for processing, and continuous services only where supported by the relevant text. Then proceed to distributive transactions and financial assets/liabilities. Do not claim Chapter 4 is complete.
 
 After the relevant Chapter 4 foundations are understood, continue the conceptual study in the standard's chapter order, including the detailed treatment of institutional units and production. Do not jump ahead to Nigeria's GDP, indicator design, data collection, or Lifeconomist implementation.
 
