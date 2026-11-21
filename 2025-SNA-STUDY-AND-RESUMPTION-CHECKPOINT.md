@@ -1,6 +1,6 @@
 # 2025 System of National Accounts (2025 SNA) — Study and Resumption Checkpoint
 
-**Status:** Study initiated; introductory orientation, initial economic-universe orientation, and Chapter 4 Lessons 1–2 completed; systematic chapter study remains in progress  
+**Status:** Study initiated; introductory orientation, initial economic-universe orientation, and Chapter 4 Lessons 1–4 completed; systematic chapter study remains in progress  
 **Checkpoint date:** 2026-11-18  
 **Scope:** Understanding the international national accounts standard itself before attempting country implementation or Lifeconomist application.
 
@@ -168,13 +168,54 @@ A focused introductory lesson was completed on 2026-11-18, using the official UN
 
 **Study limitations:** This was an introductory survey of the categories and selected cases, not a complete study of all other changes in volume, their valuation, detailed asset-specific treatments, or Chapter 13's dedicated other-changes-in-assets-and-liabilities accounts. Revaluations and holding gains/losses have not yet been studied in detail. Economic ownership, time of recording, valuation and the full accounting sequence remain open. No Nigeria implementation or Lifeconomist measurement design was undertaken.
 
+
+### Stage 3 — Chapter 4, Lesson 4: Revaluations (holding gains and holding losses)
+
+A focused introductory lesson was completed on 2026-11-21, using the official UN *System of National Accounts 2025 — White Cover Version*. The lesson began with Chapter 4, §§4.82–4.83 and used Chapter 3, §§3.117–3.122 to clarify the revaluation account and the distinction between nominal, neutral and real holding gains and losses. It does not complete Chapter 4.
+
+**What the standard establishes (initial reading):**
+
+- §4.82 explains that positive or negative **nominal holding gains** accrue to owners of assets and liabilities as a result of price changes during the accounting period. The standard prefers the term *holding gain* to *capital gain*, because the gain accrues from holding an asset or liability over time without transforming it. The concept applies to fixed assets, land, financial assets and inventories, including work-in-progress. A holding gain can accrue over any part of the accounting period; it is not restricted to assets appearing on both the opening and closing balance sheets.
+- §4.83 explains that nominal holding gains depend on changes in asset and liability prices over time, measured by reference to prices at which assets may be sold in the market. Nominal holding gains can be decomposed into **neutral holding gains** and **real holding gains**.
+- §§3.117–3.119 describe the revaluation account. It records holding gains and losses; the nominal amount captures the full change in value due to price changes since the beginning of the period or since the asset or liability entered or left the stock. For assets, a positive revaluation is a holding gain. For financial liabilities, an increase in the liability's value is a holding loss for the debtor; a decrease is a holding gain. The account's balancing item is changes in net worth due to nominal holding gains and losses.
+- §§3.120–3.122 distinguish the neutral component, which reflects the general price level and preserves purchasing power, from the real component, which is the difference between nominal and neutral holding gains or losses and reflects changes in relative prices.
+
+**Plain-language explanation:**
+
+- A **nominal holding gain** is the total price-related increase in an asset's value while it is held; a nominal holding loss is the corresponding decrease. It is not a purchase, sale, production activity or physical improvement.
+- A **neutral holding gain** is the amount that would simply keep the asset's value in line with the general price level. It does not represent an increase in purchasing power relative to the economy-wide price level.
+- A **real holding gain or loss** is the amount left after removing the neutral component. It shows whether the asset's price moved more or less than the general price level.
+
+**Illustrative arithmetic (not observed data and not a complete compilation method):**
+
+Suppose land is initially valued at ₦10 million. During the period, the general price level rises by 10%, while the land's market price rises by 15%, giving it a closing value of ₦11.5 million.
+
+- Nominal holding gain: ₦11.5m − ₦10m = **₦1.5m**.
+- Neutral holding gain: 10% × ₦10m = **₦1.0m**.
+- Real holding gain: ₦1.5m − ₦1.0m = **₦0.5m**.
+
+If the nominal holding gain were ₦800,000 while the neutral holding gain were ₦1.5 million, the real holding result would be a **₦700,000 real holding loss**. The asset's nominal price would have risen, but by less than the general price level.
+
+**Asset/liability direction clarified:**
+
+- Asset value rises because of a price change → holding gain for the asset owner.
+- Asset value falls because of a price change → holding loss for the asset owner.
+- Liability value rises because of a price change → holding loss for the debtor.
+- Liability value falls because of a price change → holding gain for the debtor.
+
+The cause of the change matters. A debt repayment is a transaction, not a revaluation. The liability direction above concerns a price-related change in its value.
+
+**Key conceptual result:** A nominal price increase does not automatically mean a real gain. If an asset's price and the general price level rise by the same proportion, the real holding gain is zero in the simplified illustration. If the asset price rises by less than the general price level, a nominal gain can coexist with a real holding loss.
+
+**Study limitations:** This was an introductory lesson on revaluations, not a full study of the revaluation account or Chapter 4. The detailed calculation of neutral and real holding gains, price indices, asset-specific valuation, financial-instrument cases, continuous accrual, economic ownership, timing of acquisition and disposal, and the complete accounting entries remain to be studied. The numerical examples are teaching illustrations only. No Nigeria implementation, dataset calculation, or Lifeconomist measurement design was undertaken.
+
 ## 5. Current stopping point
 
-The introductory framework orientation, initial economic-universe lesson, and Chapter 4 Lessons 1–3 have been completed. Lesson 3 introduced the detailed categories of other changes in volume and corrected the verified paragraph references against the official White Cover text. No chapter is complete, and the conceptual foundations remain in progress.
+The introductory framework orientation, initial economic-universe lesson, and Chapter 4 Lessons 1–4 have been completed. Lesson 4 introduced revaluations and the distinction between nominal, neutral and real holding gains and losses, using §§4.82–4.83 and §§3.117–3.122. No chapter is complete, and the conceptual foundations remain in progress.
 
 ## 6. Exact next action
 
-Continue with **Chapter 4, Lesson 4 — Revaluations (holding gains and losses)**. Use the official 2025 SNA, beginning with §§4.82–4.83, to distinguish nominal, neutral and real holding gains and losses, with simple examples. Then proceed gradually to economic ownership, time of recording, valuation and the remaining accounting rules. Do not claim Chapter 4 is complete after these lessons.
+Continue with **Chapter 4, Lesson 5 — Holding gains, economic ownership, and timing of acquisition and disposal**. Examine why holding gains can accrue over only part of an accounting period, including cases where an asset does not appear on either the opening or closing balance sheet. Use the official White Cover text and verify the relevant paragraphs before teaching. Then proceed to the detailed rules for economic ownership, time of recording and valuation. Do not claim Chapter 4 is complete after these lessons.
 
 After the relevant Chapter 4 foundations are understood, continue the conceptual study in the standard's chapter order, including the detailed treatment of institutional units and production. Do not jump ahead to Nigeria's GDP, indicator design, data collection, or Lifeconomist implementation.
 
