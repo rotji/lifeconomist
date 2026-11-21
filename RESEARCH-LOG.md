@@ -753,3 +753,15 @@
 - **Limitations:** Introductory only. Special cases such as consignment, processing, repairs and complex delivery arrangements have not been systematically studied. Chapter 4 remains incomplete; no Nigeria implementation or Lifeconomist measurement design was undertaken.
 - **Documentation:** Updated the [2025 SNA Study and Resumption Checkpoint](2025-SNA-STUDY-AND-RESUMPTION-CHECKPOINT.md) and [Current State](CURRENT-STATE.md).
 - **Next action:** Chapter 4, Lesson 8 — distributive transactions (§§4.198–4.204).
+
+
+## 2026-11-21 — 2025 SNA study: Chapter 4 Lesson 8 — time of recording of distributive transactions
+
+- **Task:** Document the introductory treatment of the time of recording of distributive transactions and proceed to financial assets and liabilities.
+- **Source:** Official UN *System of National Accounts 2025 — White Cover Version*, Chapter 4, §§4.198–4.204: https://unstats.un.org/unsd/nationalaccount/docs/2025_SNA_Pre-edit.pdf
+- **Lesson content:** §4.198 records distributive transactions when related claims arise; remuneration, interest, social contributions and benefits accrue in the period the amounts payable accrue. §4.199 records interest continuously, including counterpart financial asset/liability entries before maturity. §§4.200–4.201 record dividends on the ex-dividend date, show receivables/payables until settlement, and distinguish withdrawals from quasi-corporations and reinvested earnings. §4.202 records taxes and compulsory transfers when the event creates the government's claim, while recognizing practical flexibility for some source-deducted taxes, prepayments and final liabilities. §4.203 records fines and penalties when the issuing unit has an unconditional claim, including resolution of appeals. §4.204 records conditional grants when requirements for a legal claim are satisfied; where no legal claim arises, timing follows settlement, with voluntary transfers generally linked to change in economic ownership of the counterpart resources.
+- **Teaching examples:** Salary earned in November and paid in December is attributed to November; interest accrues throughout a loan even if paid at maturity; dividends are recorded ex-dividend; an appealed fine is not an unconditional claim until appeal resolution; a conditional grant is recorded when eligibility conditions giving rise to a legal claim are met. Examples are illustrative.
+- **Key lesson:** Distributive transactions are generally recorded when the associated entitlement or claim arises, not simply when cash moves. Specific rules vary by transaction type.
+- **Limitations:** Introductory only. Detailed treatments must be studied in the relevant chapters, especially Chapters 8, 9 and 25. Chapter 4 remains incomplete; no Nigeria implementation or Lifeconomist measurement design was undertaken.
+- **Documentation:** Updated the [2025 SNA Study and Resumption Checkpoint](2025-SNA-STUDY-AND-RESUMPTION-CHECKPOINT.md) and [Current State](CURRENT-STATE.md).
+- **Next action:** Chapter 4, Lesson 9 — financial assets and liabilities time of recording (§§4.205–4.210).
