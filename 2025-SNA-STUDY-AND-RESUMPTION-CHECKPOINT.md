@@ -515,11 +515,11 @@ A focused introductory lesson was completed on 2026-11-22, using the official 20
 
 ## 5. Current stopping point
 
-The introductory framework orientation, initial economic-universe lesson, and Chapter 4 Lessons 1–16 have been completed. Lessons 4–5 introduced revaluations, holding gains and their relationship to economic ownership and timing; Lesson 6 introduced time of recording and accrual accounting; Lesson 7 covered timing for goods and services; Lesson 8 covered timing for distributive transactions; Lesson 9 covered timing for financial asset and liability transactions; Lesson 10 covered timing for output, intermediate consumption, inventories, depreciation and depletion; Lesson 11 covered composite transactions, balancing items, other flows, external timing adjustments and balance-sheet dates; Lesson 12 covered the unit of account, currency denomination and settlement, currency conversion, derived measures and multiple exchange rates; Lesson 13 covered aggregation, netting, consolidation and symmetry of reporting; Lesson 14 introduced transaction valuation methods in Annex §§4A.1–4A.14; Lesson 15 covered stock valuation methods through nominal value in §§4A.15–4A.28. Annex §§4A.29–4A.40 remain open; no chapter is complete, and the conceptual foundations remain in progress.
+The introductory framework orientation, initial economic-universe lesson, and Chapter 4 Lessons 1–17 have been completed. Lessons 4–5 introduced revaluations, holding gains and their relationship to economic ownership and timing; Lesson 6 introduced time of recording and accrual accounting; Lesson 7 covered timing for goods and services; Lesson 8 covered timing for distributive transactions; Lesson 9 covered timing for financial asset and liability transactions; Lesson 10 covered timing for output, intermediate consumption, inventories, depreciation and depletion; Lesson 11 covered composite transactions, balancing items, other flows, external timing adjustments and balance-sheet dates; Lesson 12 covered the unit of account, currency denomination and settlement, currency conversion, derived measures and multiple exchange rates; Lesson 13 covered aggregation, netting, consolidation and symmetry of reporting; Lesson 14 introduced transaction valuation methods in Annex §§4A.1–4A.14; Lesson 15 covered stock valuation methods through nominal value in §§4A.15–4A.28. Annex §§4A.29–4A.40 remain open; no chapter is complete, and the conceptual foundations remain in progress.
 
 ## 6. Exact next action
 
-Continue with **Chapter 4, Lesson 17 — Structured chapter review, Part 1**. Reconstruct the chapter's architecture from the official text, connecting (i) stocks and flows, (ii) transactions and other flows, (iii) the other-changes-in-volume and revaluation accounts, (iv) the sequence of accounts and balance sheets, and (v) aggregation, netting and consolidation. Use exact Chapter 4 paragraph references, distinguish the standard's rules from simplified explanations, and record unresolved issues rather than filling gaps from general knowledge. This is a review, not a claim that Chapter 4 is complete.
+Continue with **Chapter 4, Lesson 18 — Transactions: monetary/non-monetary, exchanges/transfers, and statistical rearrangements, Part 1**. Use the official 2025 SNA White Cover §§4.19–4.33 (verify exact paragraph numbering against that version before teaching). Cover monetary versus non-monetary transactions; exchanges versus transfers; current versus capital transfers; contingent benefits and why social contributions, non-life insurance premiums and taxes are not automatically exchanges; then introduce rerouting and the official examples of social security contributions, lottery/gambling transfers and retained earnings of foreign direct investment enterprises. Explain that statistical recording may differ from the parties' ordinary description to represent economic relationships. Do not yet treat partitioning, reassignment or all transaction timing rules as completed; proceed to them in a later lesson. Keep examples clearly illustrative and distinguish SNA rules from practical accounting treatment.
 
 After the relevant Chapter 4 foundations are understood, continue the conceptual study in the standard's chapter order, including the detailed treatment of institutional units and production. Do not jump ahead to Nigeria's GDP, indicator design, data collection, or Lifeconomist implementation.
 
@@ -561,6 +561,26 @@ A focused introductory lesson was completed on 2026-11-22, using the official 20
 **Key lesson:** Present-value valuation converts expected future economic benefits into a current value, but depends heavily on assumptions and requires a defensible direct link between the benefits and the asset. For natural resources, resource rent is central; the split-asset approach aligns recorded asset ownership with the shares of resource rent appropriated by legal owner and extractor.
 
 **Study limitations:** Introductory only. Detailed actuarial methods, unlisted equity valuation, natural-resource resource-rent compilation, discount-rate selection, forecasting, split-asset implementation and the referenced SEEA guidance remain open for later study. The valuation annex has received an introductory first pass, not exhaustive technical treatment. Chapter 4 has not yet passed a structured coverage review; do not mark it complete. No Nigeria implementation or Lifeconomist measurement design was undertaken.
+
+
+### Stage 3 — Chapter 4, Lesson 17: Structured review, Part 1 — how the accounting system fits together
+
+An introductory synthesis lesson was completed on 2026-11-22, based on Chapter 4 and the material already studied.
+
+**Synthesis:**
+
+- Stocks are measured at a point in time; flows are measured over a period (§§4.1–4.4).
+- Changes between opening and closing stocks are explained through transactions, other changes in volume and revaluations (§§4.6–4.7 and related sections).
+- Institutional units and sectors identify the units to which assets, liabilities and flows are attributed (§§4.5, 4.13 and 4.18).
+- Accumulation accounts explain changes in assets and liabilities between balance sheets; the capital account, financial account, other changes in volume account and revaluation account have distinct roles (§4.2 and related sections).
+- Consistency in valuation, timing, classification and counterpart recording is essential. The chapter introduces quadruple-entry recording for transactions between institutional units (§4.18).
+- Aggregation, netting and consolidation are distinct presentation operations and must not be treated as synonyms.
+
+**Illustration:** A simplified machinery reconciliation connected an opening value of ₦20m, acquisition of ₦5m, a simplified −₦2m volume change and +₦1m revaluation to a closing value of ₦24m. This is arithmetic for teaching, not a full SNA compilation example.
+
+**Key lesson:** The chapter is an integrated system. It identifies economic units and their positions, records flows and other changes during the period, and reconciles them to closing balance sheets using consistent accounting rules.
+
+**Limitations:** This was a synthesis, not a paragraph-by-paragraph audit. Timing/accrual, economic ownership, monetary and non-monetary transactions, exchange versus transfer, rerouting, partitioning, reassignment, internal transactions, detailed debit/credit entries, and the exact aggregation/netting/consolidation rules still need systematic examination. Chapter 4 is not complete.
 
 ## 8. What is not yet established
 
