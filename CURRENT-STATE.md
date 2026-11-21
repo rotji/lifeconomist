@@ -248,3 +248,6 @@ Completed the ninth and final bullet-by-bullet audit of the 25 groups currently 
 
 
 - **2025 SNA study update (2026-11-22):** Chapter 4, Lesson 14 completed and documented: transaction valuation methods in the 2025 SNA annex §§4A.1–4A.14 (observed exchange values, market-equivalent prices, indirect valuation and sum-of-costs method). The stock-valuation annex §§4A.15 onward remains open. See [2025 SNA Study and Resumption Checkpoint](2025-SNA-STUDY-AND-RESUMPTION-CHECKPOINT.md). Next: Lesson 15, §§4A.15–4A.28.
+
+
+- **2025 SNA study update (2026-11-22):** Chapter 4, Lesson 14 documented: transaction valuation methods in Annex §§4A.1–4A.14 (observed exchange values, market-equivalent prices, indirect valuation and sum-of-costs method). The stock-valuation portion §§4A.15 onward remains open. See [2025 SNA Study and Resumption Checkpoint](2025-SNA-STUDY-AND-RESUMPTION-CHECKPOINT.md). Next: Lesson 15, §§4A.15–4A.28.
