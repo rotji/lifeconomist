@@ -873,3 +873,15 @@
 - **Limitations:** Introductory only. Detailed PIM and instrument-specific rules remain open. Annex §§4A.29–4A.40 remain unstudied; Chapter 4 remains incomplete.
 - **Documentation:** Updated the [2025 SNA Study and Resumption Checkpoint](2025-SNA-STUDY-AND-RESUMPTION-CHECKPOINT.md), [Current State](CURRENT-STATE.md) and this Research Log.
 - **Next action:** Chapter 4, Lesson 16 — indirect valuation and present value of future economic benefits, Annex §§4A.29–4A.40.
+
+
+## 2026-11-22 — 2025 SNA study: Chapter 4 Lesson 16 — indirect valuation and present value
+
+- **Task:** Document the introductory study of Annex §§4A.29–4A.40 and begin the structured chapter review.
+- **Source:** Official UN *System of National Accounts 2025 — White Cover Version*, Annex §§4A.29–4A.40: https://unstats.un.org/unsd/nationalaccount/docs/2025_SNA_Pre-edit.pdf
+- **Lesson content:** §4A.29 introduces indirect valuation for financial assets/liabilities, particularly unlisted equity. §§4A.30–4A.31 cover present value of future economic benefits for defined-benefit pension entitlements, unlisted equity and natural resources, with further guidance referred elsewhere. §4A.32 gives the residual value method for resource rent. §4A.33 sets the direct-link requirement and highlights forecasting and discount-rate assumptions. §4A.34 recommends split-asset recording when legal owners and extractors appropriate different shares of resource rent. §§4A.35–4A.37 refer to further guidance and discuss other assets and human capital. §§4A.38–4A.40 summarize valuation preferences for financial and non-financial assets.
+- **Examples:** Intrinsic value as a starting point for unlisted equity; hypothetical residual resource rent; discounted future resource rents; hypothetical split-asset illustration. Examples are not empirical data.
+- **Key lesson:** Present value converts expected future benefits into current value but depends on assumptions and a defensible link to the asset. For natural resources, resource rent and the split between legal owner and extractor are central.
+- **Limitations:** Introductory only. Actuarial methods, unlisted equity, detailed resource-rent compilation, discount-rate selection, forecasting, split-asset implementation and SEEA guidance remain open. The annex has received an introductory first pass, not exhaustive technical treatment. Chapter 4 remains under review.
+- **Documentation:** Updated the [2025 SNA Study and Resumption Checkpoint](2025-SNA-STUDY-AND-RESUMPTION-CHECKPOINT.md), [Current State](CURRENT-STATE.md) and this Research Log.
+- **Next action:** Chapter 4, Lesson 17 — structured chapter review, Part 1.
