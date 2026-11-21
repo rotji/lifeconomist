@@ -717,3 +717,15 @@
 - **Limitations:** Introductory lesson only. Detailed neutral/real calculation, price-index selection, asset-specific valuation, financial-instrument cases, continuous accrual, economic ownership and timing of acquisition/disposal remain open. Chapter 4 is not complete; no Nigeria implementation or Lifeconomist measurement design was undertaken.
 - **Documentation:** Updated the [2025 SNA Study and Resumption Checkpoint](2025-SNA-STUDY-AND-RESUMPTION-CHECKPOINT.md) and [Current State](CURRENT-STATE.md).
 - **Next action:** Chapter 4, Lesson 5 — examine holding gains in relation to economic ownership and timing of acquisition and disposal, including assets that do not appear on either the opening or closing balance sheet. Verify the exact official paragraphs before teaching.
+
+
+## 2026-11-21 — 2025 SNA study: Chapter 4 Lesson 5 — holding gains, economic ownership and timing
+
+- **Task:** Document the lesson on the period over which holding gains accrue and the role of economic ownership, then continue to the time-of-recording rules.
+- **Source:** Official UN *System of National Accounts 2025 — White Cover Version*, Chapter 4, §§4.182–4.183 and §§4.218–4.219: https://unstats.un.org/unsd/nationalaccount/docs/2025_SNA_Pre-edit.pdf
+- **Lesson content:** §4.182 states that holding gains and losses accrue continuously and apply to financial and non-financial assets and liabilities. §4.183 explains that they are calculated from the beginning of the accounting period or acquisition/incurrence to the end of the period or sale/extinguishment, and stresses matching gains/losses on counterpart financial assets and liabilities. §§4.218–4.219 describe the relevant start/end points and explain that contractual commitments are contingent until performance; a unit incurs holding gains/losses only on assets or liabilities over which it has economic ownership.
+- **Teaching examples:** A buyer acquires land for ₦10m in March and sells it for ₦12m in October: the illustrative ₦2m price-related gain accrues during the period of ownership even if the land is absent from both opening and closing balance sheets. A signed contract alone does not automatically give the buyer a holding gain before the relevant performance and ownership change. Examples are illustrative, not observed data.
+- **Key lesson:** Holding gains are linked to the period of economic ownership, not merely the opening/closing balance-sheet dates or contract-signing date.
+- **Limitations:** Introductory only. Detailed economic-ownership criteria, complex contracts, leases, repurchase agreements, accrual accounting, transaction timing and instrument-specific cases remain open. Chapter 4 is not complete. No Nigeria implementation or Lifeconomist measurement design was undertaken.
+- **Documentation:** Updated the [2025 SNA Study and Resumption Checkpoint](2025-SNA-STUDY-AND-RESUMPTION-CHECKPOINT.md) and [Current State](CURRENT-STATE.md).
+- **Next action:** Chapter 4, Lesson 6 — time of recording and accrual accounting, beginning with §§4.185–4.193.
