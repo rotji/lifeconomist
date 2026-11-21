@@ -380,9 +380,38 @@ A focused introductory lesson was completed on 2026-11-22, using the official 20
 
 **Study limitations:** Introductory only. Detailed valuation and measurement of work-in-progress, inventories, depreciation and depletion remain open for later study in the relevant chapters. Chapter 4 remains incomplete. No Nigeria implementation or Lifeconomist measurement design was undertaken.
 
+
+### Stage 3 — Chapter 4, Lesson 11: Composite transactions, other flows, external timing adjustments and balance-sheet dates
+
+A focused introductory lesson was completed on 2026-11-22, using the official 2025 SNA White Cover text, §§4.215–4.224.
+
+**What the standard establishes:**
+
+- §4.215: Transactions measured as the balance of two or more other transactions follow the timing of the constituent basic flows. The example given is implicit financial services on loans and deposits, recorded as interest accrues.
+- §4.216: The same general rule applies to balancing items, but interpretation requires attention to the different timing characteristics of the underlying flows. Corporate saving, for example, combines operating surplus and other components such as dividends payable, whose timing may differ.
+- §4.217: Other changes in the volume of assets and liabilities are generally discrete events and are recorded when the events occur.
+- §4.218: Revaluations can occur continuously as prices and exchange rates change. Nominal holding gains/losses are computed over the relevant holding interval: from the start of the accounting period, acquisition from another unit or production of the asset, until the end of the period, relinquishment of ownership or consumption in production.
+- §4.219: Contractual commitments are treated as contingent until a party performs its obligation. A unit incurs holding gains/losses only on assets or liabilities over which it has economic ownership. Merely signing a contract does not, by itself, mean the buyer has acquired the asset or bears its price/exchange-rate risk under the SNA.
+- §§4.220–4.221: Changes in structure and classification are recorded when the unit or asset moves category under SNA rules. All entries for a reclassification are recorded at the same time; reclassifications should not be stockpiled and entered years later. Records should allow historical series to be reconstructed.
+- §§4.222–4.223: Partner economies may record external transactions at different times because of time zones, mail, clearing and settlement delays, or imperfect data sources. Material divergences from the required basis should be adjusted. Sources recording the actual event, such as loan drawings rather than authorizations/program dates, are preferable.
+- §4.224: The closing balance sheet of one accounting period is identical to the opening balance sheet of the next. Price changes, reclassifications and other economic flows must be recognized through the sequence of accounts so no unexplained changes remain.
+
+**Plain-language examples (illustrative):**
+
+1. A bank's implicit service on a loan accrues over time with interest; it is not postponed until the borrower pays the full amount.
+2. A company's saving is a balancing item derived from flows with potentially different timing, such as operating surplus and dividends payable.
+3. A factory destroyed in a discrete event is recorded when the destruction occurs, subject to the detailed classification rules.
+4. A buyer signs a land-purchase contract in January but economic ownership transfers in March. The buyer does not record land holding gains for the pre-ownership period merely because the contract was signed.
+5. A loan facility is authorized in one period but actually drawn in another. The drawing date is the relevant event for recording the funds advanced.
+6. A sector's closing asset/liability positions at year-end must carry forward as the next period's opening positions.
+
+**Key lesson:** The integrated accounts must align the timing of underlying flows, discrete other-flow events, ownership-based revaluations, reclassifications and balance-sheet positions. The closing position of one period must reconcile with the opening position of the next.
+
+**Study limitations:** Introductory only. Detailed treatment of composite transactions, reclassification cases, international asymmetries and balance-sheet compilation remains open. Chapter 4 remains incomplete. No Nigeria implementation or Lifeconomist measurement design was undertaken.
+
 ## 5. Current stopping point
 
-The introductory framework orientation, initial economic-universe lesson, and Chapter 4 Lessons 1–9 have been completed. Lessons 4–5 introduced revaluations, holding gains and their relationship to economic ownership and timing; Lesson 6 introduced time of recording and accrual accounting; Lesson 7 covered timing for goods and services; Lesson 8 covered timing for distributive transactions; Lesson 9 covered timing for financial asset and liability transactions; Lesson 10 covered timing for output, intermediate consumption, inventories, depreciation and depletion. No chapter is complete, and the conceptual foundations remain in progress.
+The introductory framework orientation, initial economic-universe lesson, and Chapter 4 Lessons 1–11 have been completed. Lessons 4–5 introduced revaluations, holding gains and their relationship to economic ownership and timing; Lesson 6 introduced time of recording and accrual accounting; Lesson 7 covered timing for goods and services; Lesson 8 covered timing for distributive transactions; Lesson 9 covered timing for financial asset and liability transactions; Lesson 10 covered timing for output, intermediate consumption, inventories, depreciation and depletion; Lesson 11 covered composite transactions, balancing items, other flows, external timing adjustments and balance-sheet dates. No chapter is complete, and the conceptual foundations remain in progress.
 
 ## 6. Exact next action
 
