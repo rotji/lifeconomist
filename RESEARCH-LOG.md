@@ -741,3 +741,15 @@
 - **Limitations:** Introductory only. Detailed timing rules for goods, services, distributive transactions, taxes, transfers, financial instruments, output, intermediate consumption, inventories, depreciation, depletion and other flows remain open. Chapter 4 is not complete. No Nigeria implementation or Lifeconomist measurement design was undertaken.
 - **Documentation:** Updated the [2025 SNA Study and Resumption Checkpoint](2025-SNA-STUDY-AND-RESUMPTION-CHECKPOINT.md) and [Current State](CURRENT-STATE.md).
 - **Next action:** Chapter 4, Lesson 7 — time of recording for goods and services (§§4.196–4.197).
+
+
+## 2026-11-21 — 2025 SNA study: Chapter 4 Lesson 7 — time of recording for goods and services
+
+- **Task:** Document the introductory treatment of timing for goods and services, then continue to distributive transactions.
+- **Source:** Official UN *System of National Accounts 2025 — White Cover Version*, Chapter 4, §§4.196–4.197: https://datalab.uneca.org/docs-acs/sites/default/files/ref-doc/System-of-National-Accounts-2025.pdf
+- **Lesson content:** §4.196 records acquisition of goods when economic ownership changes. Where this is unclear, accounting entries of the transaction partners may indicate timing, and physical possession/control may be used as a further indicator. Imports and exports are recorded when ownership changes; customs records of physical frontier movement may serve as an approximation when the ownership-transfer date is unavailable. §4.197 records services when provided and continuous services continuously over the period of provision.
+- **Teaching examples:** A purchase is recorded at the assumed economic-ownership transfer on delivery, not automatically at order, dispatch or payment. Insurance coverage is recorded over the coverage period rather than entirely on the premium-payment date. Examples are illustrative.
+- **Key distinction:** Goods: economic ownership change. Services: provision, continuously where the service is continuous.
+- **Limitations:** Introductory only. Special cases such as consignment, processing, repairs and complex delivery arrangements have not been systematically studied. Chapter 4 remains incomplete; no Nigeria implementation or Lifeconomist measurement design was undertaken.
+- **Documentation:** Updated the [2025 SNA Study and Resumption Checkpoint](2025-SNA-STUDY-AND-RESUMPTION-CHECKPOINT.md) and [Current State](CURRENT-STATE.md).
+- **Next action:** Chapter 4, Lesson 8 — distributive transactions (§§4.198–4.204).
