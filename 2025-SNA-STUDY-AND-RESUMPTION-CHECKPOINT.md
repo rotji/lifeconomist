@@ -485,13 +485,41 @@ A focused introductory lesson was completed on 2026-11-22, using the official 20
 
 **Study limitations:** Introductory only. The detailed boundaries, exceptions, capital-service calculations and practical estimation of each component require further study. Stock valuation in §§4A.15 onward has not yet been studied. Chapter 4 remains incomplete; no Nigeria implementation or Lifeconomist measurement design was undertaken.
 
+
+### Stage 3 — Chapter 4, Lesson 15: Valuation of stocks of assets and liabilities, Part 1
+
+A focused introductory lesson was completed on 2026-11-22, using the official 2025 SNA White Cover annex, §§4A.15–4A.28.
+
+**What the standard establishes:**
+
+- §4A.15 distinguishes non-financial from financial assets and stresses consistency between financial assets and corresponding liabilities.
+- §4A.16: Observed current market prices are the most direct method for valuing balance-sheet positions. Markets with considerable trading volumes and regular quotations are preferred; recent transactions may be used when trading is occasional.
+- §§4A.17–4A.22: Market-equivalent prices and expert estimates are considered where direct prices are unavailable. Comparability and the characteristics of the asset matter. Special-purpose assets may have weak or misleading second-hand market prices; written-down replacement cost may better represent their value in continued productive use.
+- §4A.23: If market and market-equivalent prices are unavailable, valuation based on past expenses is considered. The two basic methods are historical acquisition price and written-down replacement cost, depending on whether depreciation applies.
+- §§4A.24–4A.25: Written-down replacement cost starts from the current replacement price and deducts accumulated depreciation, normally using the perpetual inventory method (PIM) for fixed assets. PIM requires information/assumptions about acquisitions, disposals, price changes, service lives, age-price or age-efficiency profiles and discard patterns.
+- §§4A.26–4A.28: Nominal value is used for many non-negotiable financial instruments, such as loans, deposits and other accounts receivable/payable. It represents the amount the debtor owes to extinguish the claim, including accrued interest. The text distinguishes nominal value from market value and discusses supplementary information on non-performing loans and the treatment of loans that become negotiable.
+
+**Teaching examples (illustrative):**
+
+1. Listed shares valued by multiplying units held by the observed balance-sheet-date market price.
+2. A specialised machine valued by reference to comparable equipment, expert evidence or written-down replacement cost when its second-hand market is unsuitable.
+3. A machine with a current equivalent replacement price of ₦30 million and accumulated depreciation of ₦12 million has an illustrative written-down replacement cost of ₦18 million.
+4. A loan with ₦10 million original principal, ₦2 million repaid and ₦500,000 accrued interest has an illustrative nominal outstanding amount of ₦8.5 million.
+5. A bond's face value can remain fixed while its market value changes as market interest rates change.
+
+**Terminology caution:** Nominal value, face value, market/fair value, amortized value, book value and historical cost are distinct concepts. The lesson introduced distinctions; the complete instrument-specific rules are not exhausted here.
+
+**Key lesson:** Balance-sheet values are current values at the reporting date, not automatically the original acquisition prices. The appropriate method depends on the asset or instrument and the availability and suitability of market evidence. Financial asset and liability counterpart values must remain consistent.
+
+**Study limitations:** Introductory only. The detailed PIM, instrument-specific valuation rules and non-performing-loan treatment require further study. Annex §§4A.29–4A.40 remain open. Chapter 4 is not complete; no Nigeria implementation or Lifeconomist measurement design was undertaken.
+
 ## 5. Current stopping point
 
-The introductory framework orientation, initial economic-universe lesson, and Chapter 4 Lessons 1–14 have been completed. Lessons 4–5 introduced revaluations, holding gains and their relationship to economic ownership and timing; Lesson 6 introduced time of recording and accrual accounting; Lesson 7 covered timing for goods and services; Lesson 8 covered timing for distributive transactions; Lesson 9 covered timing for financial asset and liability transactions; Lesson 10 covered timing for output, intermediate consumption, inventories, depreciation and depletion; Lesson 11 covered composite transactions, balancing items, other flows, external timing adjustments and balance-sheet dates; Lesson 12 covered the unit of account, currency denomination and settlement, currency conversion, derived measures and multiple exchange rates; Lesson 13 covered aggregation, netting, consolidation and symmetry of reporting; Lesson 14 introduced transaction valuation methods in Annex §§4A.1–4A.14. The stock-valuation portion of the annex remains to be studied; no chapter is complete, and the conceptual foundations remain in progress.
+The introductory framework orientation, initial economic-universe lesson, and Chapter 4 Lessons 1–15 have been completed. Lessons 4–5 introduced revaluations, holding gains and their relationship to economic ownership and timing; Lesson 6 introduced time of recording and accrual accounting; Lesson 7 covered timing for goods and services; Lesson 8 covered timing for distributive transactions; Lesson 9 covered timing for financial asset and liability transactions; Lesson 10 covered timing for output, intermediate consumption, inventories, depreciation and depletion; Lesson 11 covered composite transactions, balancing items, other flows, external timing adjustments and balance-sheet dates; Lesson 12 covered the unit of account, currency denomination and settlement, currency conversion, derived measures and multiple exchange rates; Lesson 13 covered aggregation, netting, consolidation and symmetry of reporting; Lesson 14 introduced transaction valuation methods in Annex §§4A.1–4A.14; Lesson 15 covered stock valuation methods through nominal value in §§4A.15–4A.28. Annex §§4A.29–4A.40 remain open; no chapter is complete, and the conceptual foundations remain in progress.
 
 ## 6. Exact next action
 
-Continue with **Chapter 4, Lesson 15 — Valuation of stocks of assets and liabilities, Part 1**. Use Annex §§4A.15–4A.28. Study the distinction between initial recognition and subsequent balance-sheet valuation; observed market prices and their limitations; market-equivalent prices and expert estimates; valuation based on past expenses, including historical acquisition price and written-down replacement costs/perpetual inventory method; and nominal value for non-negotiable financial instruments. Distinguish nominal value from fair value, amortized value, face value, book value and historic cost. Then study §§4A.29–4A.40, including indirect valuation and present value of future economic benefits, before reviewing the chapter. Do not claim Chapter 4 is complete.
+Continue with **Chapter 4, Lesson 16 — Indirect valuation and present value of future economic benefits**. Use Annex §§4A.29–4A.40. Study indirect valuation of unlisted equity using intrinsic value; present value methods for defined-benefit pension entitlements, unlisted equity and natural resources; the residual-value method for deriving resource rent; the assumptions and limitations of forecasting future benefits, extraction paths, asset lives, regeneration and discount rates; the split-asset approach for natural resources where legal owners and extractors share resource rents; and the summary recommendations in §§4A.38–4A.40. Then review the whole annex and identify unresolved details before a structured Chapter 4 review. Do not claim Chapter 4 is complete.
 
 After the relevant Chapter 4 foundations are understood, continue the conceptual study in the standard's chapter order, including the detailed treatment of institutional units and production. Do not jump ahead to Nigeria's GDP, indicator design, data collection, or Lifeconomist implementation.
 
