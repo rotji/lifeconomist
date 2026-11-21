@@ -1,6 +1,6 @@
 # 2025 System of National Accounts (2025 SNA) — Study and Resumption Checkpoint
 
-**Status:** Study initiated; introductory orientation, initial economic-universe orientation, and Chapter 4 Lessons 1–10 completed; systematic chapter study remains in progress  
+**Status:** Study initiated; introductory orientation, initial economic-universe orientation, and Chapter 4 Lessons 1–12 completed; systematic chapter study remains in progress  
 **Checkpoint date:** 2026-11-21  
 **Scope:** Understanding the international national accounts standard itself before attempting country implementation or Lifeconomist application.
 
@@ -409,13 +409,39 @@ A focused introductory lesson was completed on 2026-11-22, using the official 20
 
 **Study limitations:** Introductory only. Detailed treatment of composite transactions, reclassification cases, international asymmetries and balance-sheet compilation remains open. Chapter 4 remains incomplete. No Nigeria implementation or Lifeconomist measurement design was undertaken.
 
+
+### Stage 3 — Chapter 4, Lesson 12: Unit of account and currency conversion
+
+A focused introductory lesson was completed on 2026-11-22, using the official 2025 SNA White Cover text, §§4.225–4.241.
+
+**What the standard establishes:**
+
+- §§4.225–4.226: A common unit of account is needed to express heterogeneous transactions and positions consistently. The SNA discusses domestic-currency and other-currency presentations.
+- §§4.227–4.229: Domestic currency is defined by the currency issued by the monetary authority of the economy; other currencies are foreign. SDRs are treated as foreign currency. Currency includes banknotes, coins and other means of payment issued by financial corporations.
+- §§4.230–4.235: Distinguishes currency of denomination (the currency in which the value is fixed) from currency of settlement (the currency actually used for payment). They can differ. The text also covers equity, foreign-currency-indexed debt, multicurrency instruments and currency exposure in financial derivatives.
+- §4.236: Foreign-currency flows are converted at the rate prevailing when the flow occurs; positions are converted at the rate prevailing on the balance-sheet date. The midpoint between buying and selling rates is recommended. Foreign-currency credit transactions and subsequent payments can have different domestic-currency values; the exchange-rate difference is recorded as a holding gain or loss over the relevant period.
+- §4.237: The actual rate for each transaction is preferred. Daily or shortest-period averages may approximate transaction rates where necessary; period averages may be used for continuous flows such as accrued interest.
+- §4.238: Derived measures should not, in principle, be converted directly. Convert the underlying flows first, then calculate the derived measure in the target currency. Different currencies can produce different, potentially opposite-signed derived measures because exchange rates and flow timing vary.
+- §§4.239–4.241: Multiple exchange rates can incorporate implicit tax/subsidy elements. Positions use the applicable rate for the relevant assets/liabilities. Parallel-market transactions cannot simply be ignored and are generally converted at the applicable parallel rate; whether parallel rates are included in a unitary rate depends on the degree of integration and official sanction/intervention. Further detailed guidance is referred to supplementary material and BPM7 compilation guidance.
+
+**Plain-language examples (illustrative):**
+
+1. A contract fixes an equipment price at USD 10,000 but settlement is made in naira: denomination is USD, settlement currency is NGN.
+2. A USD 10,000 payable is recorded at ₦1,500/USD when the equipment is acquired (₦15m). If settled later at ₦1,600/USD (₦16m), the ₦1m difference is not an additional equipment purchase; it is a holding loss on the foreign-currency liability, subject to the applicable recording rules.
+3. A flow and a balance-sheet position require different conversion dates: transaction-date rate for the flow; balance-sheet-date rate for the position.
+4. Revenue and expenditure occurring at different times should be converted separately before deriving a surplus in another currency.
+
+**Key lesson:** Currency values carry a denomination, settlement, timing and valuation basis. Flows, positions and derived measures must be converted consistently; exchange-rate changes can create holding gains/losses and multiple-rate systems require explicit treatment.
+
+**Study limitations:** Introductory only. Detailed multiple-exchange-rate compilation, derivative denomination, multicurrency instruments and practical source selection remain open. Chapter 4 remains incomplete. No Nigeria implementation or Lifeconomist measurement design was undertaken.
+
 ## 5. Current stopping point
 
-The introductory framework orientation, initial economic-universe lesson, and Chapter 4 Lessons 1–11 have been completed. Lessons 4–5 introduced revaluations, holding gains and their relationship to economic ownership and timing; Lesson 6 introduced time of recording and accrual accounting; Lesson 7 covered timing for goods and services; Lesson 8 covered timing for distributive transactions; Lesson 9 covered timing for financial asset and liability transactions; Lesson 10 covered timing for output, intermediate consumption, inventories, depreciation and depletion; Lesson 11 covered composite transactions, balancing items, other flows, external timing adjustments and balance-sheet dates. No chapter is complete, and the conceptual foundations remain in progress.
+The introductory framework orientation, initial economic-universe lesson, and Chapter 4 Lessons 1–12 have been completed. Lessons 4–5 introduced revaluations, holding gains and their relationship to economic ownership and timing; Lesson 6 introduced time of recording and accrual accounting; Lesson 7 covered timing for goods and services; Lesson 8 covered timing for distributive transactions; Lesson 9 covered timing for financial asset and liability transactions; Lesson 10 covered timing for output, intermediate consumption, inventories, depreciation and depletion; Lesson 11 covered composite transactions, balancing items, other flows, external timing adjustments and balance-sheet dates; Lesson 12 covered the unit of account, currency denomination and settlement, currency conversion, derived measures and multiple exchange rates. No chapter is complete, and the conceptual foundations remain in progress.
 
 ## 6. Exact next action
 
-Continue with **Chapter 4, Lesson 10 — Time of recording of output, intermediate consumption, changes in inventories, depreciation and depletion**. Use §§4.211–4.214. Examine output and work-in-progress as production occurs; intermediate consumption when an input enters production rather than when acquired; inventory additions and withdrawals; and depreciation/depletion accruing over the period an asset or resource is used productively. Explain the distinctions with practical examples. Then identify the remaining Chapter 4 sections and plan a structured completion review; do not claim Chapter 4 is complete until all relevant sections have been studied.
+Continue with **Chapter 4, Lesson 13 — Aggregation, netting, consolidation and symmetry of reporting**. Use §§4.242–4.257. Distinguish aggregation from netting and consolidation; explain gross recording and the specific net recording of financial flows; examine non-consolidation as the general rule and its exceptions/analytical uses; and study symmetry of reporting, quadruple-entry logic and discrepancies caused by timing, valuation and classification. Use practical examples, then review Chapter 4's remaining annex on valuation methods and identify what still requires study. Do not claim Chapter 4 is complete.
 
 After the relevant Chapter 4 foundations are understood, continue the conceptual study in the standard's chapter order, including the detailed treatment of institutional units and production. Do not jump ahead to Nigeria's GDP, indicator design, data collection, or Lifeconomist implementation.
 
