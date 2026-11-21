@@ -1,6 +1,6 @@
 # 2025 System of National Accounts (2025 SNA) — Study and Resumption Checkpoint
 
-**Status:** Study initiated; introductory orientation, initial economic-universe orientation, and Chapter 4 Lessons 1–6 completed; systematic chapter study remains in progress  
+**Status:** Study initiated; introductory orientation, initial economic-universe orientation, and Chapter 4 Lessons 1–8 completed; systematic chapter study remains in progress  
 **Checkpoint date:** 2026-11-21  
 **Scope:** Understanding the international national accounts standard itself before attempting country implementation or Lifeconomist application.
 
@@ -280,13 +280,39 @@ A focused introductory lesson was completed on 2026-11-21, using the official 20
 
 **Study limitations:** Introductory lesson only. The detailed treatment of consignment, goods sent for processing, repairs, complex delivery arrangements and other special cases has not been systematically examined. Chapter 4 is not complete. No Nigeria implementation or Lifeconomist measurement design was undertaken.
 
+
+### Stage 3 — Chapter 4, Lesson 8: Time of recording of distributive transactions
+
+A focused introductory lesson was completed on 2026-11-21, using the official 2025 SNA White Cover text, §§4.198–4.204.
+
+**What the standard establishes:**
+
+- §4.198: Distributive transactions are recorded when the related claims arise. Remuneration of employees, interest, social contributions and benefits are recorded in the period in which the amounts payable accrue. For some distributive transactions, accrual timing depends on the unit's decision about when to distribute earned income or make a transfer. Employee-stock-option remuneration has additional guidance in Chapter 25.
+- §4.199: Interest accrues continuously because financial resources are made available continuously. For instruments where the debtor pays only at maturity, the accrued interest before maturity has counterpart financial entries: additional acquisition of a financial asset by the creditor and equal incurrence of a liability by the debtor.
+- §§4.200–4.201: Dividends are recorded when shares go ex-dividend, not merely on declaration or cash settlement. Between ex-dividend and settlement, the amount payable is recorded as other accounts receivable/payable. Withdrawals from quasi-corporations are recorded when they actually occur; reinvested earnings are recorded as retained earnings accrue.
+- §4.202: Taxes and other compulsory transfers are recorded when the activities, transactions or events occur that create the government's claim. Income taxes and social contributions based on income are in principle attributed to the period in which income is earned. Practical flexibility may allow source-deducted taxes and regular prepayments to be recorded when paid, and final liabilities when determined.
+- §4.203: Fines, penalties and property forfeitures are recorded when the issuing unit has an unconditional claim. If an appeal remains possible, the unconditional claim arises only after the appeal is resolved.
+- §4.204: Conditional grants are recorded when all requirements and conditions giving rise to the recipient's legal claim are satisfied. Where no legal claim arises, the transfer is attributed to settlement. More generally, timing of voluntary transfers follows the change in economic ownership of the resources that form their counterpart entries.
+
+**Plain-language examples (illustrative):**
+
+1. Salary earned by an employee in November but paid in December is attributed to November, when the amount payable accrues.
+2. Interest on a loan that accumulates monthly but is paid once at maturity is recorded as accruing over the loan period, with corresponding creditor asset and debtor liability entries.
+3. A declared dividend is recorded on the ex-dividend date; the payable/receivable is then shown until settlement.
+4. An appealed fine is not recorded as an unconditional claim while the appeal remains unresolved; the claim becomes unconditional when the appeal is resolved.
+5. A grant requiring eligible expenditure is recorded when the specified conditions for a legal claim have been met, not automatically when the programme is announced.
+
+**Key lesson:** Distributive transactions are generally recorded when the associated entitlement or claim arises, rather than simply when cash is paid. The precise timing rule depends on the type of transaction and any applicable conditions or practical conventions.
+
+**Study limitations:** Introductory lesson only. Detailed treatment of remuneration, social contributions and benefits, property income, taxes, grants and employee stock options must be studied in the relevant chapters, especially Chapters 8, 9 and 25. Chapter 4 remains incomplete. No Nigeria implementation or Lifeconomist measurement design was undertaken.
+
 ## 5. Current stopping point
 
-The introductory framework orientation, initial economic-universe lesson, and Chapter 4 Lessons 1–6 have been completed. Lessons 4–5 introduced revaluations, holding gains and their relationship to economic ownership and timing; Lesson 6 introduced time of recording and accrual accounting. No chapter is complete, and the conceptual foundations remain in progress.
+The introductory framework orientation, initial economic-universe lesson, and Chapter 4 Lessons 1–8 have been completed. Lessons 4–5 introduced revaluations, holding gains and their relationship to economic ownership and timing; Lesson 6 introduced time of recording and accrual accounting; Lesson 7 covered timing for goods and services; Lesson 8 covered timing for distributive transactions. No chapter is complete, and the conceptual foundations remain in progress.
 
 ## 6. Exact next action
 
-Continue with **Chapter 4, Lesson 7 — Time of recording for goods and services**. Use §§4.196–4.197 to examine when economic ownership of goods changes, how customs/frontier movement may be used as an approximation for imports and exports, and why services are recorded when provided, including services supplied continuously. Use practical examples such as goods on consignment, repairs, goods sent for processing, and continuous services only where supported by the relevant text. Then proceed to distributive transactions and financial assets/liabilities. Do not claim Chapter 4 is complete.
+Continue with **Chapter 4, Lesson 9 — Time of recording of transactions in financial assets and liabilities**. Use §§4.205–4.210 to examine financial transactions and economic ownership; implicit trade credit and advances; timing differences and payment floats; securities transaction versus settlement dates; debt repayments and arrears; activation of one-off guarantees; and employee stock options. Then proceed to timing of output, intermediate consumption, inventories, depreciation and depletion (§§4.211–4.214). Do not claim Chapter 4 is complete.
 
 After the relevant Chapter 4 foundations are understood, continue the conceptual study in the standard's chapter order, including the detailed treatment of institutional units and production. Do not jump ahead to Nigeria's GDP, indicator design, data collection, or Lifeconomist implementation.
 
