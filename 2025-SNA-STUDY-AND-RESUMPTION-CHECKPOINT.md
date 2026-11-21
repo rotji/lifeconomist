@@ -435,13 +435,36 @@ A focused introductory lesson was completed on 2026-11-22, using the official 20
 
 **Study limitations:** Introductory only. Detailed multiple-exchange-rate compilation, derivative denomination, multicurrency instruments and practical source selection remain open. Chapter 4 remains incomplete. No Nigeria implementation or Lifeconomist measurement design was undertaken.
 
+
+### Stage 3 — Chapter 4, Lesson 13: Aggregation, netting, consolidation and symmetry of reporting
+
+A focused introductory lesson was completed on 2026-11-22, using the official 2025 SNA White Cover text, §§4.242–4.257.
+
+**What the standard establishes:**
+
+- §§4.242–4.245: National accounts aggregate flows and stocks of individual units using classifications, especially institutional sectors or industries crossed with transactions, other accumulation entries or assets. Additional breakdowns can be used. Aggregates are conceptually sums of elementary components, although compilation often requires estimates and adjustments because underlying data are incomplete or inconsistent.
+- §§4.246–4.251: Netting offsets entries on opposite sides. Gross recording is generally preferred in the sequence of accounts, while some concepts inherently involve netting. Financial flows are recorded as net changes in assets and net changes in liabilities for each instrument. “Net” also appears in specific SNA measures and should not be treated as a single universal operation.
+- §§4.252–4.253: Consolidation eliminates transactions and positions between units within the relevant group. The sequence of economic accounts is generally not consolidated; consolidation can be useful for particular analyses, including general government and financial corporations. Output and intermediate consumption are recorded at establishment level, and deliveries between establishments of the same institutional unit are not eliminated through consolidation.
+- §§4.254–4.257: Symmetry of reporting is essential for consistency and comparability. Quadruple-entry accounting supports counterpart consistency. Differences in valuation, timing and classification in microdata require adjustment. Individual business accounting standards may not ensure horizontal consistency between counterparties.
+
+**Plain-language examples (illustrative):**
+
+1. A bank reports interest received and interest paid separately (gross) as well as their net difference.
+2. A government institution's payable to another institution within the consolidated government group is eliminated against the counterpart receivable when producing consolidated positions.
+3. A supplier's sale and receivable correspond to a buyer's acquisition and payable; both parties generate two entries, giving four entries across the two units.
+4. Importer and exporter records can differ because of timing, valuation or classification; harmonized rules and reconciliation are needed.
+
+**Key lesson:** Aggregation organizes microdata into useful statistical totals; netting offsets specified entries; consolidation removes internal group relationships for a defined consolidated view; symmetry aligns the records of counterparties. These operations are distinct.
+
+**Study limitations:** Introductory only. Detailed consolidation boundaries and exceptions, full account-by-account netting rules, reconciliation procedures and practical compiler adjustments remain open. Chapter 4 remains incomplete. No Nigeria implementation or Lifeconomist measurement design was undertaken.
+
 ## 5. Current stopping point
 
-The introductory framework orientation, initial economic-universe lesson, and Chapter 4 Lessons 1–12 have been completed. Lessons 4–5 introduced revaluations, holding gains and their relationship to economic ownership and timing; Lesson 6 introduced time of recording and accrual accounting; Lesson 7 covered timing for goods and services; Lesson 8 covered timing for distributive transactions; Lesson 9 covered timing for financial asset and liability transactions; Lesson 10 covered timing for output, intermediate consumption, inventories, depreciation and depletion; Lesson 11 covered composite transactions, balancing items, other flows, external timing adjustments and balance-sheet dates; Lesson 12 covered the unit of account, currency denomination and settlement, currency conversion, derived measures and multiple exchange rates. No chapter is complete, and the conceptual foundations remain in progress.
+The introductory framework orientation, initial economic-universe lesson, and Chapter 4 Lessons 1–13 have been completed. Lessons 4–5 introduced revaluations, holding gains and their relationship to economic ownership and timing; Lesson 6 introduced time of recording and accrual accounting; Lesson 7 covered timing for goods and services; Lesson 8 covered timing for distributive transactions; Lesson 9 covered timing for financial asset and liability transactions; Lesson 10 covered timing for output, intermediate consumption, inventories, depreciation and depletion; Lesson 11 covered composite transactions, balancing items, other flows, external timing adjustments and balance-sheet dates; Lesson 12 covered the unit of account, currency denomination and settlement, currency conversion, derived measures and multiple exchange rates; Lesson 13 covered aggregation, netting, consolidation and symmetry of reporting. The Chapter 4 valuation annex remains to be studied; no chapter is complete, and the conceptual foundations remain in progress.
 
 ## 6. Exact next action
 
-Continue with **Chapter 4, Lesson 13 — Aggregation, netting, consolidation and symmetry of reporting**. Use §§4.242–4.257. Distinguish aggregation from netting and consolidation; explain gross recording and the specific net recording of financial flows; examine non-consolidation as the general rule and its exceptions/analytical uses; and study symmetry of reporting, quadruple-entry logic and discrepancies caused by timing, valuation and classification. Use practical examples, then review Chapter 4's remaining annex on valuation methods and identify what still requires study. Do not claim Chapter 4 is complete.
+Continue with **Chapter 4, Lesson 14 — Valuation methods for transactions, Part 1**. Use Annex §§4A.1–4A.14. Study observed exchange values, market-equivalent prices and the conditions for valid comparators, indirect valuation, and the sum-of-costs method including its components and applications. Explain the distinction between the value being measured (exchange value) and the method used to estimate it. Then continue to Annex §§4A.15 onward for valuation of stocks of assets and liabilities. Do not claim Chapter 4 is complete.
 
 After the relevant Chapter 4 foundations are understood, continue the conceptual study in the standard's chapter order, including the detailed treatment of institutional units and production. Do not jump ahead to Nigeria's GDP, indicator design, data collection, or Lifeconomist implementation.
 
