@@ -813,3 +813,15 @@
 - **Limitations:** Introductory only. Detailed composite transactions, reclassification cases, international asymmetries and balance-sheet compilation remain open. Chapter 4 remains incomplete; no Nigeria implementation or Lifeconomist measurement design was undertaken.
 - **Documentation:** Updated the [2025 SNA Study and Resumption Checkpoint](2025-SNA-STUDY-AND-RESUMPTION-CHECKPOINT.md), [Current State](CURRENT-STATE.md) and this Research Log.
 - **Next action:** Chapter 4, Lesson 12 — unit of account and currency conversion (§§4.225–4.241).
+
+
+## 2026-11-22 — 2025 SNA study: Chapter 4 Lesson 12 — unit of account and currency conversion
+
+- **Task:** Document the introductory study of §§4.225–4.241 and establish the next lesson.
+- **Source:** Official UN *System of National Accounts 2025 — White Cover Version*, Chapter 4, §§4.225–4.241: https://unstats.un.org/unsd/nationalaccount/docs/2025_SNA_Pre-edit.pdf
+- **Lesson content:** §§4.225–4.226 establish the need for a common unit of account. §§4.227–4.229 define domestic and foreign currency and include SDR treatment. §§4.230–4.235 distinguish currency of denomination from currency of settlement and address equity, indexed debt, multicurrency instruments and derivatives. §4.236 converts flows at transaction-time rates and positions at balance-sheet-date rates, recommends midpoint rates, and records exchange-rate differences on foreign-currency credit transactions as holding gains/losses. §4.237 permits suitable average rates where actual transaction rates cannot practically be used. §4.238 says underlying flows should be converted before calculating derived measures in another currency. §§4.239–4.241 address multiple exchange rates, implicit tax/subsidy elements, parallel markets and further compilation guidance.
+- **Teaching examples:** USD-denominated equipment contract settled in naira; foreign-currency payable recorded at one exchange rate and paid at another; distinction between flow and position conversion dates; conversion of revenue and expenditure before deriving a surplus. Examples are illustrative.
+- **Key lesson:** Currency values have denomination, settlement, timing and valuation dimensions; flows, positions and derived measures require consistent conversion treatment.
+- **Limitations:** Introductory only. Detailed multiple-rate compilation, derivatives, multicurrency instruments and practical source selection remain open. Chapter 4 remains incomplete; no Nigeria implementation or Lifeconomist measurement design was undertaken.
+- **Documentation:** Updated the [2025 SNA Study and Resumption Checkpoint](2025-SNA-STUDY-AND-RESUMPTION-CHECKPOINT.md), [Current State](CURRENT-STATE.md) and this Research Log.
+- **Next action:** Chapter 4, Lesson 13 — aggregation, netting, consolidation and symmetry of reporting (§§4.242–4.257), then review the valuation annex and remaining Chapter 4 material.
