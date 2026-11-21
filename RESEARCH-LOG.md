@@ -729,3 +729,15 @@
 - **Limitations:** Introductory only. Detailed economic-ownership criteria, complex contracts, leases, repurchase agreements, accrual accounting, transaction timing and instrument-specific cases remain open. Chapter 4 is not complete. No Nigeria implementation or Lifeconomist measurement design was undertaken.
 - **Documentation:** Updated the [2025 SNA Study and Resumption Checkpoint](2025-SNA-STUDY-AND-RESUMPTION-CHECKPOINT.md) and [Current State](CURRENT-STATE.md).
 - **Next action:** Chapter 4, Lesson 6 — time of recording and accrual accounting, beginning with §§4.185–4.193.
+
+
+## 2026-11-21 — 2025 SNA study: Chapter 4 Lesson 6 — time of recording and accrual accounting
+
+- **Task:** Document the introductory lesson on timing bases and accrual accounting, then move to the specific timing rules.
+- **Source:** Official UN *System of National Accounts 2025 — White Cover Version*, Chapter 4, §§4.185–4.193: https://datalab.uneca.org/docs-acs/sites/default/files/ref-doc/System-of-National-Accounts-2025.pdf
+- **Lesson content:** §§4.185–4.188 introduce the fact that an economic activity can have several relevant moments, including commitment, delivery/performance, payment becoming due and actual payment. §4.189 distinguishes cash, due-for-payment, commitment and accrual bases and notes that the integrated framework recommends accrual recording. §§4.190–4.192 explain the limitations of cash and due-for-payment recording and define accrual accounting as recording flows when economic value is created, transformed, exchanged, transferred or extinguished. §4.193 makes economic ownership central to the timing of transactions in goods, non-financial assets and financial assets.
+- **Teaching example:** Goods ordered on 15 December, economically owned from delivery on 20 December, due for payment on 10 January and paid on 15 January. The example contrasted commitment, accrual, due-for-payment and cash recording. It is illustrative, and assumes economic ownership changes on delivery.
+- **Key lesson:** Cash movement, payment due, contract commitment and the underlying economic event may occur at different times. The SNA generally records the economic event on an accrual basis.
+- **Limitations:** Introductory only. Detailed timing rules for goods, services, distributive transactions, taxes, transfers, financial instruments, output, intermediate consumption, inventories, depreciation, depletion and other flows remain open. Chapter 4 is not complete. No Nigeria implementation or Lifeconomist measurement design was undertaken.
+- **Documentation:** Updated the [2025 SNA Study and Resumption Checkpoint](2025-SNA-STUDY-AND-RESUMPTION-CHECKPOINT.md) and [Current State](CURRENT-STATE.md).
+- **Next action:** Chapter 4, Lesson 7 — time of recording for goods and services (§§4.196–4.197).
