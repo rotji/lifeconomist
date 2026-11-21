@@ -257,3 +257,6 @@ Completed the ninth and final bullet-by-bullet audit of the 25 groups currently 
 
 
 - **2025 SNA study update (2026-11-22):** Chapter 4, Lesson 16 documented: indirect valuation and present value of future economic benefits in Annex §§4A.29–4A.40, including resource-rent derivation and the split-asset approach. The annex has received an introductory first pass; technical details remain open. Next: structured Chapter 4 review, Part 1. See [2025 SNA Study and Resumption Checkpoint](2025-SNA-STUDY-AND-RESUMPTION-CHECKPOINT.md).
+
+
+- **2025 SNA study update (2026-11-22):** Chapter 4, Lesson 17 documented: introductory synthesis of stocks/flows, transactions and other flows, balance-sheet reconciliation, institutional units, counterpart consistency, quadruple-entry, and aggregation/netting/consolidation distinctions. This is not a chapter completion review. Next: Lesson 18, transaction classifications and rearrangements. See [2025 SNA Study and Resumption Checkpoint](2025-SNA-STUDY-AND-RESUMPTION-CHECKPOINT.md).
