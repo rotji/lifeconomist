@@ -1,6 +1,6 @@
 # 2025 System of National Accounts (2025 SNA) — Study and Resumption Checkpoint
 
-**Status:** Study initiated; introductory orientation and initial economic-universe orientation completed; Chapter 4 Lessons 1–30 delivered and recorded; systematic chapter study remains in progress  
+**Status:** Study initiated; introductory orientation and initial economic-universe orientation completed; Chapter 4 Lessons 1–31 delivered and recorded; systematic chapter study remains in progress  
 **Checkpoint date:** 2026-11-22  
 **Scope:** Understanding the international national accounts standard itself before attempting country implementation or Lifeconomist application.
 
@@ -519,7 +519,7 @@ The introductory framework orientation, initial economic-universe lesson, and Ch
 
 ## 6. Exact next action
 
-Continue with **Chapter 4, Lesson 31 — Exclusions from the asset boundary**, using official White Cover §§4.114–4.117. Study the SNA treatment of unowned or uncontrolled natural resources, consumer durables, human capital and environmental resources or ecosystem assets outside the integrated framework's asset boundary. Chapter 4 remains incomplete.
+Continue with **Chapter 4, Lesson 32 — Balancing items**, using official White Cover §§4.118–4.121. Study how balancing items are derived residually, why they are economically important indicators, and how net worth balances the balance sheet. Chapter 4 remains incomplete.
 ## 7. Study and evidence rules
 
 - Use the official 2025 SNA as the primary source and cite chapter/paragraph or page references wherever available.
@@ -862,3 +862,24 @@ An introductory lesson was completed on 2026-11-22 using the official 2025 SNA W
 **Key lesson:** Different asset classes enter and leave the balance sheet through different economic events. The classification and recognition event matter; physical existence or a business's own description of something as valuable is not sufficient on its own.
 
 **Study limitations:** Introductory only; no claim of mastery or exhaustive treatment. Detailed classification and accounting of natural resources, crypto assets, licences, goodwill, and the relevant financial instruments remain for later chapters. No Nigeria implementation or Lifeconomist measurement design was undertaken.
+
+
+### Stage 3 — Chapter 4, Lesson 31: Exclusions from the asset boundary
+
+An introductory lesson was completed on 2026-11-22 using the official 2025 SNA White Cover Version, Chapter 4, §§4.114–4.117.
+
+**Verified paragraph coverage:**
+- §4.114: The integrated framework's asset coverage is limited to assets used in economic activity and subject to individual or collective ownership rights. Natural resources that are neither owned nor controlled are excluded.
+- §4.115: Consumer durables are not treated as assets in the integrated framework because the services they provide are outside its production boundary. Their stock is analytically useful and is recommended as a supplementary balance-sheet item, not integrated into the table totals.
+- §4.116: Human capital is not treated as an asset in the integrated framework. Extended accounts on education and training, including experimental estimates of human-capital value, are encouraged; Chapter 35 discusses this in the context of sustainability of well-being.
+- §4.117: Some environmental resources are excluded because they have no economic value under the framework's asset criteria. Ecosystem assets as defined in SEEA Ecosystem Accounting are also outside the integrated SNA asset boundary.
+
+**Teaching illustrations (not source data):**
+- An unowned and uncontrolled mineral occurrence illustrated why physical existence alone does not create a recognized SNA asset.
+- Household refrigerators and cars illustrated consumer durables: excluded from core asset totals but potentially shown as supplementary information.
+- Education, skills and experience illustrated human capital, which is important but not a core integrated-framework asset.
+- Forest ecosystem services illustrated why SEEA Ecosystem Accounting complements, rather than simply forms part of, the integrated SNA asset boundary.
+
+**Key lesson:** The boundary of the integrated SNA is a defined accounting boundary, not a complete inventory of everything valuable to society or the environment. Supplementary and extended accounts and complementary systems can measure important matters outside that core boundary.
+
+**Study limitations:** Introductory only; no claim of mastery or exhaustive treatment. The distinction between core SNA accounts, supplementary items, extended accounts and SEEA Ecosystem Accounting requires further study in the relevant chapters and manuals. No Nigeria implementation or Lifeconomist measurement design was undertaken.
