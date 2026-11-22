@@ -515,11 +515,11 @@ A focused introductory lesson was completed on 2026-11-22, using the official 20
 
 ## 5. Current stopping point
 
-The introductory framework orientation, initial economic-universe lesson, and Chapter 4 Lessons 1–19 have been completed. Lessons 4–5 introduced revaluations and holding gains; Lessons 6–11 covered time of recording and selected timing cases; Lesson 12 covered currency denomination, settlement and conversion; Lesson 13 covered aggregation, netting, consolidation and symmetry of reporting; Lessons 14–16 provided an introductory first pass through the transaction and stock valuation annex §§4A.1–4A.40; Lesson 17 synthesized the chapter's accounting architecture. The annex requires further technical study, and the chapter has not passed a structured paragraph-by-paragraph coverage review. No chapter is complete; the conceptual foundations remain in progress.
+The introductory framework orientation, initial economic-universe lesson, and Chapter 4 Lessons 1–20 have been completed. Lessons 4–5 introduced revaluations and holding gains; Lessons 6–11 covered time of recording and selected timing cases; Lesson 12 covered currency denomination, settlement and conversion; Lesson 13 covered aggregation, netting, consolidation and symmetry of reporting; Lessons 14–16 provided an introductory first pass through the transaction and stock valuation annex §§4A.1–4A.40; Lesson 17 synthesized the chapter's accounting architecture. The annex requires further technical study, and the chapter has not passed a structured paragraph-by-paragraph coverage review. No chapter is complete; the conceptual foundations remain in progress.
 
 ## 6. Exact next action
 
-Continue with **Chapter 4, Lesson 20 — Non-monetary transactions, Part 1**. Use the official White Cover §§4.49–4.58. Cover the definition and measurement implications of non-monetary transactions (§§4.49–4.52); barter (§4.53); remuneration in kind (§4.54); other payments in kind, including sharecropping and taxes paid with assets (§4.55); transfers in kind (§4.56); and social transfers in kind, including adjusted disposable income and actual final consumption (§§4.57–4.58). Distinguish actual transactions whose values must be estimated from constructed internal transactions such as depreciation. Reserve internal/intra-unit transactions (§§4.59 onward) for a subsequent lesson.
+Continue with **Chapter 4, Lesson 21 — Internal or intra-unit transactions**, using the official White Cover §§4.59–4.64. Study why the SNA constructs transactions within a single institutional unit; own-use household production; owner-occupied housing services; government/NPISH and central-bank non-market services; own-account fixed capital formation; depreciation as a cost of production; and deliveries between establishments of the same enterprise (with §7.114 cross-reference). Then proceed to externalities and illegal actions (§§4.65 onward).
 ## 7. Study and evidence rules
 
 - Use the official 2025 SNA as the primary source and cite chapter/paragraph or page references wherever available.
@@ -624,6 +624,28 @@ An introductory lesson was delivered on 2026-11-22, based on the official 2025 S
 **Key lesson:** Partitioning separates components of one observed transaction that have different economic classifications. Reassignment attributes a transaction to its principal parties rather than the third-party facilitator. These are distinct from rerouting, which changes the statistical channel or records linked transactions to reveal the underlying economic relationship.
 
 **Limitations:** Introductory only. Detailed financial lease rules, implicit financial service calculations, trade margin compilation, package-tour allocation and government tax attribution require further study in their relevant chapters. Non-monetary transactions beginning at §4.49 remain open. Chapter 4 is not complete.
+
+
+### Stage 3 — Chapter 4, Lesson 20: Non-monetary transactions, two-party forms
+
+An introductory lesson was delivered on 2026-11-22 using the official UN 2025 SNA White Cover Version, Chapter 4, §§4.49–4.58.
+
+**Verified paragraph coverage:**
+- §4.49: Non-monetary transactions are not initially stated in currency. Values in the accounts are indirectly measured or estimated. Some are actual transactions requiring valuation (barter); others are constructed transactions requiring valuation (depreciation).
+- §4.50: Monetary entries associated with non-monetary transactions are not freely disposable cash payments; valuation methods are addressed in Chapter 4, Section E.
+- §4.51: Non-monetary transactions can be two-party transactions or actions within an institutional unit. Two-party forms include barter, remuneration in kind, other payments in kind and transfers in kind.
+- §4.52: In-kind transactions are frequently recorded as a monetary transfer with associated expenditure by the recipient, preserving the donor's and recipient's wealth changes appropriately.
+- §4.53: Barter, including international barter and qualifying crypto-assets without a corresponding liability used as payment.
+- §4.54: Remuneration in kind, including meals, accommodation, vehicles for personal use, employer-produced goods/services, and financial or other assets.
+- §4.55: Other payments in kind, including sharecropping and taxes paid with valuables.
+- §4.56: Transfers in kind, including government international cooperation, gifts and charitable contributions.
+- §§4.57–4.58: Social transfers in kind supplied by government and NPISHs to households, and their reflection in adjusted disposable income and actual final consumption.
+
+**Important correction to the live lesson:** The earlier teaching description that remuneration in kind necessarily adds to cash remuneration was too loose. The SNA describes goods/services supplied without charge or at reduced prices as remuneration in kind; precise valuation and recording require the applicable valuation rules. The numerical household example was only illustrative, not a complete compilation rule.
+
+**Key lesson:** The absence of a cash payment does not mean there is no economic transaction. The accounts estimate values for actual in-kind transactions and, in some cases, construct internal accounting transactions. These monetary entries are not equivalent to cash received.
+
+**Limitations:** Introductory only. Internal/intra-unit transactions (§§4.59–4.64), externalities and illegal actions (§§4.65 onward), and valuation methods in Section E remain open. Chapter 4 is not complete.
 
 ## 8. What is not yet established
 
