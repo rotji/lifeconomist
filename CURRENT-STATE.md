@@ -275,3 +275,6 @@ Completed the ninth and final bullet-by-bullet audit of the 25 groups currently 
 
 
 - **2025 SNA study update (2026-11-22):** Chapter 4, Lesson 21 documented: internal/intra-unit transactions (§§4.59–4.64), including own-use household production, owner-occupied housing, government/NPISH non-market services, own-account fixed capital formation, depreciation and same-enterprise establishment deliveries. Next: Lesson 22, externalities and illegal actions (§§4.65–4.72). See [2025 SNA Study and Resumption Checkpoint](2025-SNA-STUDY-AND-RESUMPTION-CHECKPOINT.md).
+
+
+- **2026-11-22 — 2025 SNA study:** Chapter 4, Lesson 22 documented: externalities, pollution, SEEA, illegal market transactions, theft and violence (§§4.65–4.72). Next: Lesson 23, detailed review of other flows and other changes in volume (§§4.73–4.81). See [2025 SNA Study and Resumption Checkpoint](2025-SNA-STUDY-AND-RESUMPTION-CHECKPOINT.md).
