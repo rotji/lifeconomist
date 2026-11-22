@@ -519,7 +519,7 @@ The introductory framework orientation, initial economic-universe lesson, and Ch
 
 ## 6. Exact next action
 
-Continue with **Chapter 4, Lesson 23 — Other flows and other changes in the volume of assets and liabilities**, using official White Cover §§4.73–4.81. Revisit the overview of other flows (§§4.73–4.74), then examine the three categories of other changes in volume (§4.75): appearance/disappearance of assets and liabilities (§§4.76–4.78, including valuables, creditor write-offs, debt forgiveness/cancellation distinctions, guarantees/rescheduling and crypto-assets); effects of externalities, uncompensated seizure and disasters (§4.79); and reclassification of institutional units/assets and changes in residence status (§§4.80–4.81). Explicitly compare these with transactions and revaluations. Note that this is a deeper pass over material introduced in Lesson 3; do not mark the topic fully mastered or Chapter 4 complete.
+Continue with **Chapter 4, Lesson 24 — Stocks, economic benefits and ownership**, using official White Cover §§4.84–4.93. Begin with the definition of stocks/positions (§4.84), economic benefits and moving benefits between accounting periods (§§4.85–4.86), legal ownership and ownerless items (§§4.87–4.88), risks and intertemporal decisions (§§4.89–4.91), and the definition of economic ownership and its relationship to legal ownership (§§4.92–4.93). This is the start of Section C, Stocks. Keep the lesson introductory; detailed asset definitions and classifications follow later in Chapter 4.
 ## 7. Study and evidence rules
 
 - Use the official 2025 SNA as the primary source and cite chapter/paragraph or page references wherever available.
@@ -687,6 +687,24 @@ An introductory lesson was delivered on 2026-11-22 using the official UN 2025 SN
 **Key lesson:** Economic illegality alone does not exclude a market transaction from national accounts. Mutual agreement is a key distinction. Externalities are not automatically transactions, while significant asset effects of theft, violence and war are recorded through other flows.
 
 **Limitations:** Introductory only. Externality valuation and SEEA methods remain outside this lesson. Detailed other-flow classifications follow in §§4.73–4.81. Chapter 4 is not complete.
+
+
+### Stage 3 — Chapter 4, Lesson 23: Review of other flows and other changes in volume
+
+A reinforcement lesson was delivered on 2026-11-22, revisiting the official UN 2025 SNA White Cover Version, Chapter 4, §§4.73–4.81. This material overlaps the earlier Chapter 4, Lesson 3; it is recorded as a review, not as wholly new paragraph coverage.
+
+**Verified White Cover paragraph structure:**
+- §§4.73–4.75 introduce other flows, distinguish the other changes in volume account from the revaluation account, and identify the main categories of other changes in volume.
+- §§4.76–4.78 cover appearance/disappearance of assets and liabilities, including natural resources, valuables, creditor write-offs and debt-related cases, guarantees/rescheduling, and crypto-assets without a corresponding liability.
+- §4.79 covers effects of externalities and disasters, including uncompensated removal of assets and destruction through natural disaster or war; it contrasts exceptional losses with normal losses represented through transactions such as depreciation, depletion or changes in inventories.
+- §4.80 covers reclassification of institutional units/sectors and changes in institutional structure or asset/liability classification, including an unincorporated enterprise becoming a quasi-corporation.
+- §4.81 covers changes in the residence status of individuals that change the classification of existing financial claims and liabilities; these are other changes in volume, not transactions.
+
+**Version/numbering note:** The live Lesson 23 response used paragraph references beginning at §§4.77–4.81 for some concepts, which do not align with the official White Cover numbering above. The official White Cover text was checked again. Use the White Cover paragraph sequence in this checkpoint going forward; do not propagate the inconsistent lesson references. The content overlaps Lesson 3 and should not be counted as new coverage.
+
+**Key lesson:** A change in an asset or liability position may arise from a transaction, another change in volume, or a revaluation. Other changes in volume include events and classification changes that are neither transactions nor price changes.
+
+**Limitations:** Review only; no claim of mastery or exhaustive treatment. Detailed accounting entries and debt-related cases remain open for later practical study. Chapter 4 is not complete.
 
 ## 8. What is not yet established
 
