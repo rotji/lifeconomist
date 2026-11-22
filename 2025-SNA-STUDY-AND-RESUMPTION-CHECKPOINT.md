@@ -1,6 +1,6 @@
 # 2025 System of National Accounts (2025 SNA) — Study and Resumption Checkpoint
 
-**Status:** Study initiated; introductory orientation and initial economic-universe orientation completed; Chapter 4 Lessons 1–29 delivered and recorded; systematic chapter study remains in progress  
+**Status:** Study initiated; introductory orientation and initial economic-universe orientation completed; Chapter 4 Lessons 1–30 delivered and recorded; systematic chapter study remains in progress  
 **Checkpoint date:** 2026-11-22  
 **Scope:** Understanding the international national accounts standard itself before attempting country implementation or Lifeconomist application.
 
@@ -519,7 +519,7 @@ The introductory framework orientation, initial economic-universe lesson, and Ch
 
 ## 6. Exact next action
 
-Continue with **Chapter 4, Lesson 30 — Entry and exit of assets from the balance sheet**, using official White Cover §§4.110–4.113. Study the first-level asset classification and the different ways produced, non-produced and financial assets enter and leave the balance sheet. Chapter 4 remains incomplete.
+Continue with **Chapter 4, Lesson 31 — Exclusions from the asset boundary**, using official White Cover §§4.114–4.117. Study the SNA treatment of unowned or uncontrolled natural resources, consumer durables, human capital and environmental resources or ecosystem assets outside the integrated framework's asset boundary. Chapter 4 remains incomplete.
 ## 7. Study and evidence rules
 
 - Use the official 2025 SNA as the primary source and cite chapter/paragraph or page references wherever available.
@@ -839,3 +839,26 @@ An introductory lesson was completed on 2026-11-22 using the official 2025 SNA W
 **Key lesson:** A possible future payment, a customary expectation and an unconditional contractual obligation are not interchangeable. The SNA distinguishes legal liabilities, constructive liabilities, contingent liabilities, standardized guarantees and provisions, with specific recognition rules.
 
 **Study limitations:** Introductory only; no claim of mastery or exhaustive treatment. Detailed accounting for standardized guarantees, implicit guarantees, equity valuation and provisions remains for the relevant chapters, particularly Chapter 14. No Nigeria implementation or Lifeconomist measurement design was undertaken.
+
+
+### Stage 3 — Chapter 4, Lesson 30: Entry and exit of assets from the balance sheet
+
+An introductory lesson was completed on 2026-11-22 using the official 2025 SNA White Cover Version, Chapter 4, §§4.110–4.113.
+
+**Verified paragraph coverage:**
+- §4.110: Assets owned by resident or notional resident units appear on the domestic economy's balance sheet. The first-level classification distinguishes produced non-financial assets (excluding produced natural resources), non-produced non-financial assets (excluding non-produced natural resources), natural resources, and financial assets and liabilities. Natural resources are grouped separately to support improved accounting for the environment.
+- §4.111: Produced non-financial assets generally enter through production or imports. Produced natural resources, such as cultivated biological resources yielding repeat products, follow the same general principle. Historical monuments and artefacts treated as valuables are special cases that may enter recognition without current-period production. Produced assets leave through exhaustion or sale to resident units that will no longer use them in production as a source of future economic benefits, or through sale to non-residents.
+- §4.112: Non-produced non-financial assets other than natural resources include (i) contracts, leases and licences that restrict general use or supply and thereby provide enhanced economic benefits; (ii) crypto assets without a corresponding liability designed to act as a medium of exchange; and (iii) purchased goodwill and marketing assets. Such contracts, leases and licences enter when the agreement and enhanced benefits arise and leave when restrictions or benefits cease. Miners and validators are treated as producers of validation services, not producers of these crypto assets. Goodwill and marketing assets are recognized in the integrated framework only when evidenced by a sale.
+- §4.113: Financial assets and liabilities arise when one unit commits to make payments to another and cease when that commitment no longer exists, for example when the agreement expires or is otherwise extinguished.
+
+**Teaching illustrations (not source data):**
+- A locally manufactured or imported tractor illustrated the entry of produced assets.
+- A historic monument or newly recognized artefact illustrated exceptional recognition without current production.
+- A restrictive distribution licence illustrated a qualifying contract-based non-produced asset.
+- Bitcoin-like crypto assets without a corresponding liability illustrated the SNA's non-produced asset treatment; validation services are distinct from production of the asset.
+- Purchased goodwill illustrated the sale-evidence condition.
+- A loan illustrated the creation and extinguishment of a financial asset and its counterpart liability.
+
+**Key lesson:** Different asset classes enter and leave the balance sheet through different economic events. The classification and recognition event matter; physical existence or a business's own description of something as valuable is not sufficient on its own.
+
+**Study limitations:** Introductory only; no claim of mastery or exhaustive treatment. Detailed classification and accounting of natural resources, crypto assets, licences, goodwill, and the relevant financial instruments remain for later chapters. No Nigeria implementation or Lifeconomist measurement design was undertaken.
