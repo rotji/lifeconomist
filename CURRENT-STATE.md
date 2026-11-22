@@ -263,3 +263,6 @@ Completed the ninth and final bullet-by-bullet audit of the 25 groups currently 
 
 
 - **2025 SNA study update (2026-11-22):** Chapter 4, Lesson 17 documented: introductory synthesis of stocks/flows, transactions and other flows, balance-sheet reconciliation, institutional units, counterpart consistency, quadruple-entry, and aggregation/netting/consolidation distinctions. This is not a chapter completion review. Next: Lesson 18, transaction classifications and rearrangements. See [2025 SNA Study and Resumption Checkpoint](2025-SNA-STUDY-AND-RESUMPTION-CHECKPOINT.md).
+
+
+- **2025 SNA study update (2026-11-22):** Chapter 4, Lesson 18 documented: monetary transactions, exchanges versus transfers, current versus capital transfers, contingent benefits, and statistical rerouting, using verified White Cover §§4.23–4.36. The lesson's earlier paragraph range was corrected to the White Cover numbering. Next: Lesson 19, partitioning and reassignment (§§4.37–4.48). See [2025 SNA Study and Resumption Checkpoint](2025-SNA-STUDY-AND-RESUMPTION-CHECKPOINT.md).
