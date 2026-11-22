@@ -961,3 +961,12 @@
 - **Limitations:** Introductory only; externality valuation and SEEA methods remain open. Detailed other-flow classifications follow in §§4.73–4.81.
 - **Documentation:** Updated the [2025 SNA Study and Resumption Checkpoint](2025-SNA-STUDY-AND-RESUMPTION-CHECKPOINT.md), [Current State](CURRENT-STATE.md) and this Research Log.
 - **Next action:** Chapter 4, Lesson 23 — other flows and other changes in volume, §§4.73–4.81.
+
+
+## 2026-11-22 — 2025 SNA study: Chapter 4 Lesson 23 — review of other flows
+
+- **Source:** Official UN *System of National Accounts 2025 — White Cover Version*, Chapter 4, §§4.73–4.81: https://unstats.un.org/unsd/nationalaccount/docs/2025_SNA_Pre-edit.pdf
+- **Coverage:** §§4.73–4.75 other flows and account structure; §§4.76–4.78 appearance/disappearance of assets and liabilities; §4.79 externalities, uncompensated removal and disasters; §4.80 reclassification of units/sectors and assets/liabilities; §4.81 residence-status changes affecting existing claims/liabilities.
+- **Correction:** The live lesson's paragraph references did not consistently match the official White Cover. The checkpoint records the verified paragraph sequence. Lesson 23 overlaps Lesson 3 and is a reinforcement review, not new coverage.
+- **Key lesson:** Distinguish transactions, other changes in volume and revaluations as different explanations for changes in asset/liability positions.
+- **Next action:** Chapter 4, Lesson 24 — stocks, economic benefits and ownership, §§4.84–4.93.
