@@ -907,3 +907,14 @@
 - **Limitations:** Synthesis only, not a paragraph-by-paragraph audit. Transaction types, rearrangements, timing/accrual, economic ownership, detailed entries and exact presentation rules remain to be examined. Chapter 4 remains incomplete.
 - **Documentation:** Updated the [2025 SNA Study and Resumption Checkpoint](2025-SNA-STUDY-AND-RESUMPTION-CHECKPOINT.md), [Current State](CURRENT-STATE.md) and this Research Log.
 - **Next action:** Chapter 4, Lesson 18 — monetary/non-monetary transactions, exchanges/transfers and introduction to rerouting, using the White Cover version.
+
+
+## 2026-11-22 — 2025 SNA study: Chapter 4 Lesson 18 — monetary transactions and rerouting
+
+- **Task:** Document the introductory lesson and verify paragraph references against the official White Cover version.
+- **Source:** Official UN *System of National Accounts 2025 — White Cover Version*, Chapter 4, §§4.23–4.36: https://unstats.un.org/unsd/nationalaccount/docs/2025_SNA_Pre-edit.pdf
+- **Verified content:** §4.23 monetary transactions; §4.24 examples; §§4.25–4.26 exchanges and transfers; §4.27 contingent benefits and collective services; §4.28 current and capital transfers; §4.29 statistical rearrangements; §4.30 rerouting; §§4.31–4.36 examples of rerouting.
+- **Source correction:** The live lesson's initial reference range (§§4.26–4.40) was inaccurate. Reopened the official White Cover PDF and verified the correct range and paragraph numbers as §§4.23–4.36. Future lessons follow the White Cover numbering.
+- **Limitations:** Introductory only. Partitioning (§§4.37–4.42), reassignment (§§4.43–4.48), and non-monetary transactions (§4.49 onward) remain open.
+- **Documentation:** Updated the [2025 SNA Study and Resumption Checkpoint](2025-SNA-STUDY-AND-RESUMPTION-CHECKPOINT.md), [Current State](CURRENT-STATE.md) and this Research Log.
+- **Next action:** Chapter 4, Lesson 19 — partitioning and reassignment, §§4.37–4.48.
