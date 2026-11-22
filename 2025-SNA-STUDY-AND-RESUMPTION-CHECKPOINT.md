@@ -1,6 +1,6 @@
 # 2025 System of National Accounts (2025 SNA) — Study and Resumption Checkpoint
 
-**Status:** Study initiated; introductory orientation and initial economic-universe orientation completed; Chapter 4 Lessons 1–24 delivered and recorded; systematic chapter study remains in progress  
+**Status:** Study initiated; introductory orientation and initial economic-universe orientation completed; Chapter 4 Lessons 1–25 delivered and recorded; systematic chapter study remains in progress  
 **Checkpoint date:** 2026-11-22  
 **Scope:** Understanding the international national accounts standard itself before attempting country implementation or Lifeconomist application.
 
@@ -519,7 +519,7 @@ The introductory framework orientation, initial economic-universe lesson, and Ch
 
 ## 6. Exact next action
 
-Continue with **Chapter 4, Lesson 25 — The definition of an asset**, using official White Cover §§4.98–4.99. Before or during that lesson, keep the intervening §§4.94–4.97 visible as an identified coverage gap; do not imply they were covered in Lesson 24. Lesson 25 should connect the asset definition to the concepts of economic benefits, economic ownership and time already introduced. Chapter 4 remains incomplete.
+Continue with **Chapter 4, Lesson 26 — Completing the ownership and financial-asset discussion**, returning to the outstanding official White Cover §§4.94–4.97. These paragraphs precede the asset definition but were not covered in the earlier lesson sequence. Study them explicitly before proceeding to §4.100 and the section on types of assets and liabilities. Chapter 4 remains incomplete.
 ## 7. Study and evidence rules
 
 - Use the official 2025 SNA as the primary source and cite chapter/paragraph or page references wherever available.
@@ -740,3 +740,21 @@ An introductory lesson was delivered on 2026-11-22 using the official 2025 SNA W
 **Key lesson:** The SNA's ownership concept is economic, not merely legal. To understand who owns an asset in the accounts, identify who receives its economic benefits and accepts the associated risks. Stocks remain point-in-time positions; the benefits and risks associated with holding or using items can extend across periods.
 
 **Study limitations and coverage boundary:** Introductory only; no claim of mastery or exhaustive treatment. This lesson covered §§4.84–4.93 only. §§4.94–4.97 were not covered and remain an explicit gap. The asset definition in §§4.98–4.99 is also still to be studied. No Nigeria implementation or Lifeconomist measurement design was undertaken.
+
+
+### Stage 3 — Chapter 4, Lesson 25: The definition of an asset
+
+An introductory lesson was completed on 2026-11-22 using the official 2025 SNA White Cover Version, Chapter 4, §§4.98–4.99.
+
+**Verified paragraph coverage:**
+- §4.98 defines an asset as a store of value representing an economic benefit, or a series of economic benefits, accruing to the economic owner by holding or using the item over time. It carries value from one accounting period to another.
+- §4.99 clarifies that assets in the integrated SNA framework are economic assets. Attributes such as skills, although sometimes called assets in ordinary language, are not recognized as assets in the integrated framework because they do not meet the stated criteria.
+
+**Teaching illustrations (not source data):**
+- A tractor used by its economic owner over several years illustrated an asset that stores value and provides economic benefits through production, cost savings or potential sale.
+- A bank deposit illustrated a financial resource that can provide future economic benefits.
+- A person's skills and education illustrated the distinction between economically valuable human capabilities and assets recognized in the integrated SNA balance-sheet framework. Their exclusion from the asset boundary does not imply that they lack economic or social value.
+
+**Key lesson:** In the SNA, an asset is not simply anything useful, valuable or commonly described as an asset. It is a store of value whose economic benefits accrue to an economic owner through holding or using the item over time.
+
+**Study limitations and coverage boundary:** Introductory only; no claim of mastery or exhaustive treatment. This lesson covered §§4.98–4.99. The preceding §§4.94–4.97 remain an explicit coverage gap and must be studied separately before proceeding further through Chapter 4. No Nigeria implementation or Lifeconomist measurement design was undertaken.
