@@ -515,11 +515,11 @@ A focused introductory lesson was completed on 2026-11-22, using the official 20
 
 ## 5. Current stopping point
 
-The introductory framework orientation, initial economic-universe lesson, and Chapter 4 Lessons 1–18 have been completed. Lessons 4–5 introduced revaluations and holding gains; Lessons 6–11 covered time of recording and selected timing cases; Lesson 12 covered currency denomination, settlement and conversion; Lesson 13 covered aggregation, netting, consolidation and symmetry of reporting; Lessons 14–16 provided an introductory first pass through the transaction and stock valuation annex §§4A.1–4A.40; Lesson 17 synthesized the chapter's accounting architecture. The annex requires further technical study, and the chapter has not passed a structured paragraph-by-paragraph coverage review. No chapter is complete; the conceptual foundations remain in progress.
+The introductory framework orientation, initial economic-universe lesson, and Chapter 4 Lessons 1–19 have been completed. Lessons 4–5 introduced revaluations and holding gains; Lessons 6–11 covered time of recording and selected timing cases; Lesson 12 covered currency denomination, settlement and conversion; Lesson 13 covered aggregation, netting, consolidation and symmetry of reporting; Lessons 14–16 provided an introductory first pass through the transaction and stock valuation annex §§4A.1–4A.40; Lesson 17 synthesized the chapter's accounting architecture. The annex requires further technical study, and the chapter has not passed a structured paragraph-by-paragraph coverage review. No chapter is complete; the conceptual foundations remain in progress.
 
 ## 6. Exact next action
 
-Continue with **Chapter 4, Lesson 19 — Partitioning and reassignment of transactions**. Use the official 2025 SNA White Cover §§4.37–4.48. Study the financial-lease example; assets used for production and personal consumption; implicit financial intermediation services; financial derivatives settled by delivery of underlying assets; wholesale/retail margins; package-tour components; and reassignment through agents and tax-collecting government units. Distinguish the three rearrangements: rerouting changes the channel or constructs linked transactions; partitioning divides one observed transaction into differently classified components; reassignment attributes the transaction to the principal parties rather than the facilitator. Then continue to non-monetary transactions beginning at §4.49. Do not claim Chapter 4 is complete.
+Continue with **Chapter 4, Lesson 20 — Non-monetary transactions, Part 1**. Use the official White Cover §§4.49–4.58. Cover the definition and measurement implications of non-monetary transactions (§§4.49–4.52); barter (§4.53); remuneration in kind (§4.54); other payments in kind, including sharecropping and taxes paid with assets (§4.55); transfers in kind (§4.56); and social transfers in kind, including adjusted disposable income and actual final consumption (§§4.57–4.58). Distinguish actual transactions whose values must be estimated from constructed internal transactions such as depreciation. Reserve internal/intra-unit transactions (§§4.59 onward) for a subsequent lesson.
 ## 7. Study and evidence rules
 
 - Use the official 2025 SNA as the primary source and cite chapter/paragraph or page references wherever available.
@@ -602,6 +602,28 @@ An introductory lesson was delivered on 2026-11-22, based on the official 2025 S
 **Key lesson:** A monetary transaction is defined by the monetary terms of the parties' agreement, not merely by the fact that accounts eventually express values in currency. Exchanges and transfers differ by whether a recompense is received. Statistical rerouting changes the recording path to represent the underlying economic relationship, without claiming that the administrative payment route physically changed.
 
 **Limitations:** Introductory only. Partitioning (§§4.37–4.42), reassignment (§§4.43–4.48), and non-monetary transactions (beginning §4.49) remain to be studied. Detailed treatment of the examples is deferred to the relevant chapters. Chapter 4 is not complete.
+
+
+### Stage 3 — Chapter 4, Lesson 19: Partitioning and reassignment of transactions
+
+An introductory lesson was delivered on 2026-11-22, based on the official 2025 SNA White Cover Version, Chapter 4, §§4.37–4.48.
+
+**Verified paragraph coverage:**
+
+- §4.37: Partitioning records a single transaction from the parties' perspective as two or more differently classified transactions. Financial lease rentals are partitioned into repayment of principal and interest; financial leasing is viewed as financing the purchase of a fixed asset, with a loan from lessor to lessee.
+- §4.38: A household car used partly for production (e.g. taxi services) and partly for personal use is partitioned between gross fixed capital formation and final consumption expenditure.
+- §4.39: Interest payable by financial intermediaries on deposits and payable to intermediaries on loans is partitioned into SNA interest and implicit financial intermediation services. This affects intermediate/final consumption and GDP, but not the saving of the units concerned.
+- §4.40: Settlement of a financial derivative by delivery of the underlying asset is recorded as a derivative transaction and a separate transaction in the underlying asset.
+- §4.41: Wholesalers' and retailers' output is measured by trade margins; their contribution is the service of storing, displaying and making goods conveniently available, rather than the full resale value of goods.
+- §4.42: Package-tour prices are unbundled into the various service components.
+- §4.43: Reassignment records a financial transaction arranged by a third party as taking place directly between the principal parties; the facilitator records its fee/service output, not the principal transaction.
+- §§4.44–4.48: Tax revenue is generally attributed to the government unit with authority to impose the tax and final discretion to set/vary its rate. The paragraphs address tax-sharing, delegated authority, joint arrangements, jurisdiction-specific rates, and analogous treatment of subsidies/social benefits.
+
+**Teaching illustrations:** Financial lease payment split; mixed-use household car; implicit financial service component; trader's margin; commercial agent; tax collection by one government for another. All numerical examples were hypothetical and explanatory, not observed data.
+
+**Key lesson:** Partitioning separates components of one observed transaction that have different economic classifications. Reassignment attributes a transaction to its principal parties rather than the third-party facilitator. These are distinct from rerouting, which changes the statistical channel or records linked transactions to reveal the underlying economic relationship.
+
+**Limitations:** Introductory only. Detailed financial lease rules, implicit financial service calculations, trade margin compilation, package-tour allocation and government tax attribution require further study in their relevant chapters. Non-monetary transactions beginning at §4.49 remain open. Chapter 4 is not complete.
 
 ## 8. What is not yet established
 
