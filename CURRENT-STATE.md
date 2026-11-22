@@ -272,3 +272,6 @@ Completed the ninth and final bullet-by-bullet audit of the 25 groups currently 
 
 
 - **2025 SNA study update (2026-11-22):** Chapter 4, Lesson 20 documented: non-monetary transactions and two-party forms, §§4.49–4.58, including barter, remuneration/payments in kind, transfers in kind and social transfers in kind. Next: Lesson 21, internal/intra-unit transactions (§§4.59–4.64). The 2025 SNA has 39 chapters in six substantive parts, plus five supplementary annexes and references/glossary/index. See [2025 SNA Study and Resumption Checkpoint](2025-SNA-STUDY-AND-RESUMPTION-CHECKPOINT.md).
+
+
+- **2025 SNA study update (2026-11-22):** Chapter 4, Lesson 21 documented: internal/intra-unit transactions (§§4.59–4.64), including own-use household production, owner-occupied housing, government/NPISH non-market services, own-account fixed capital formation, depreciation and same-enterprise establishment deliveries. Next: Lesson 22, externalities and illegal actions (§§4.65–4.72). See [2025 SNA Study and Resumption Checkpoint](2025-SNA-STUDY-AND-RESUMPTION-CHECKPOINT.md).
