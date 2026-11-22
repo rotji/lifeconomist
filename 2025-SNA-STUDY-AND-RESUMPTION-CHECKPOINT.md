@@ -515,11 +515,11 @@ A focused introductory lesson was completed on 2026-11-22, using the official 20
 
 ## 5. Current stopping point
 
-The introductory framework orientation, initial economic-universe lesson, and Chapter 4 Lessons 1–20 have been completed. Lessons 4–5 introduced revaluations and holding gains; Lessons 6–11 covered time of recording and selected timing cases; Lesson 12 covered currency denomination, settlement and conversion; Lesson 13 covered aggregation, netting, consolidation and symmetry of reporting; Lessons 14–16 provided an introductory first pass through the transaction and stock valuation annex §§4A.1–4A.40; Lesson 17 synthesized the chapter's accounting architecture. The annex requires further technical study, and the chapter has not passed a structured paragraph-by-paragraph coverage review. No chapter is complete; the conceptual foundations remain in progress.
+The introductory framework orientation, initial economic-universe lesson, and Chapter 4 Lessons 1–21 have been completed. Lessons 4–5 introduced revaluations and holding gains; Lessons 6–11 covered time of recording and selected timing cases; Lesson 12 covered currency denomination, settlement and conversion; Lesson 13 covered aggregation, netting, consolidation and symmetry of reporting; Lessons 14–16 provided an introductory first pass through the transaction and stock valuation annex §§4A.1–4A.40; Lesson 17 synthesized the chapter's accounting architecture. The annex requires further technical study, and the chapter has not passed a structured paragraph-by-paragraph coverage review. No chapter is complete; the conceptual foundations remain in progress.
 
 ## 6. Exact next action
 
-Continue with **Chapter 4, Lesson 21 — Internal or intra-unit transactions**, using the official White Cover §§4.59–4.64. Study why the SNA constructs transactions within a single institutional unit; own-use household production; owner-occupied housing services; government/NPISH and central-bank non-market services; own-account fixed capital formation; depreciation as a cost of production; and deliveries between establishments of the same enterprise (with §7.114 cross-reference). Then proceed to externalities and illegal actions (§§4.65 onward).
+Continue with **Chapter 4, Lesson 22 — Externalities and illegal actions**, using official White Cover §§4.65–4.72. Cover the definition of positive and negative externalities; why externalities are not transactions; the pollution example and the SNA's rationale for not imputing values in the integrated framework; the complementary role of SEEA; the distinction between illegal market transactions with mutual agreement and crimes such as theft/violence that are not transactions; and why significant theft, violence or war-related asset redistribution/destruction is recorded as other flows. Then study §§4.73–4.81 on other flows and volume changes in a subsequent lesson.
 ## 7. Study and evidence rules
 
 - Use the official 2025 SNA as the primary source and cite chapter/paragraph or page references wherever available.
@@ -646,6 +646,27 @@ An introductory lesson was delivered on 2026-11-22 using the official UN 2025 SN
 **Key lesson:** The absence of a cash payment does not mean there is no economic transaction. The accounts estimate values for actual in-kind transactions and, in some cases, construct internal accounting transactions. These monetary entries are not equivalent to cash received.
 
 **Limitations:** Introductory only. Internal/intra-unit transactions (§§4.59–4.64), externalities and illegal actions (§§4.65 onward), and valuation methods in Section E remain open. Chapter 4 is not complete.
+
+
+### Stage 3 — Chapter 4, Lesson 21: Internal or intra-unit transactions
+
+An introductory lesson was delivered on 2026-11-22 using the official UN 2025 SNA White Cover Version, Chapter 4, §§4.59–4.64.
+
+**Verified paragraph coverage:**
+- §4.59: Internal/intra-unit transactions are actions within a single institutional unit treated as transactions to provide a more analytically useful picture of production and final uses of output.
+- §4.60: Some households, all NPISHs and general government units, and the central bank act as both producers and final consumers. Where the unit consumes its own output, the SNA constructs and values an internal transaction to record both output and consumption.
+- §4.61: Goods produced by persons and used by those persons or members of their households for final consumption are included in output in a manner analogous to market sales; the SNA assumes delivery to self/household. The same principle applies to household services within the production boundary, with owner-occupied housing services as the principal example.
+- §4.62: Government and NPISH establishments' non-market services to households or society are recorded at their costs as internal final expenditure by the owning government/NPISH unit. The central bank is treated similarly. Household acquisition is recorded separately as social transfers in kind.
+- §4.63: Own-account fixed-asset production is recorded as delivery by the enterprise to itself as subsequent user. The decline in value of fixed assets used in production is charged as a cost of production.
+- §4.64: Deliveries between establishments of the same enterprise are cross-referenced to §7.114.
+
+**Teaching illustrations:** Household own-use potato production; owner-occupied housing; government/NPISH services; enterprise construction of a warehouse for own use; fixed-asset depreciation; movements between establishments. Numerical values were hypothetical.
+
+**Clarification:** The household own-use example is subject to the SNA production boundary and relevant exclusions; the lesson did not study those detailed boundaries. Government/NPISH internal final expenditure and household social transfers in kind are separate accounting entries and must not be conflated.
+
+**Key lesson:** An institutional unit can produce and use output itself. The SNA sometimes constructs internal transactions to record production and final use consistently even though no exchange occurs between separate units.
+
+**Limitations:** Introductory only. Detailed production-boundary rules, own-account production valuation, owner-occupied housing valuation, non-market output valuation, depreciation methodology and establishment-level recording remain open. Chapter 4 is not complete.
 
 ## 8. What is not yet established
 
