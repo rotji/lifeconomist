@@ -269,3 +269,6 @@ Completed the ninth and final bullet-by-bullet audit of the 25 groups currently 
 
 
 - **2025 SNA study update (2026-11-22):** Chapter 4, Lesson 19 documented: partitioning (§§4.37–4.42) and reassignment (§§4.43–4.48), including financial leases, mixed-use assets, implicit financial services, trade margins, agents and government tax attribution. Next: Lesson 20, non-monetary transactions (§§4.49–4.58). See [2025 SNA Study and Resumption Checkpoint](2025-SNA-STUDY-AND-RESUMPTION-CHECKPOINT.md).
+
+
+- **2025 SNA study update (2026-11-22):** Chapter 4, Lesson 20 documented: non-monetary transactions and two-party forms, §§4.49–4.58, including barter, remuneration/payments in kind, transfers in kind and social transfers in kind. Next: Lesson 21, internal/intra-unit transactions (§§4.59–4.64). The 2025 SNA has 39 chapters in six substantive parts, plus five supplementary annexes and references/glossary/index. See [2025 SNA Study and Resumption Checkpoint](2025-SNA-STUDY-AND-RESUMPTION-CHECKPOINT.md).
