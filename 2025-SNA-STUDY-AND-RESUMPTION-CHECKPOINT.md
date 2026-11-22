@@ -515,14 +515,11 @@ A focused introductory lesson was completed on 2026-11-22, using the official 20
 
 ## 5. Current stopping point
 
-The introductory framework orientation, initial economic-universe lesson, and Chapter 4 Lessons 1–17 have been completed. Lessons 4–5 introduced revaluations and holding gains; Lessons 6–11 covered time of recording and selected timing cases; Lesson 12 covered currency denomination, settlement and conversion; Lesson 13 covered aggregation, netting, consolidation and symmetry of reporting; Lessons 14–16 provided an introductory first pass through the transaction and stock valuation annex §§4A.1–4A.40; Lesson 17 synthesized the chapter's accounting architecture. The annex requires further technical study, and the chapter has not passed a structured paragraph-by-paragraph coverage review. No chapter is complete; the conceptual foundations remain in progress.
+The introductory framework orientation, initial economic-universe lesson, and Chapter 4 Lessons 1–18 have been completed. Lessons 4–5 introduced revaluations and holding gains; Lessons 6–11 covered time of recording and selected timing cases; Lesson 12 covered currency denomination, settlement and conversion; Lesson 13 covered aggregation, netting, consolidation and symmetry of reporting; Lessons 14–16 provided an introductory first pass through the transaction and stock valuation annex §§4A.1–4A.40; Lesson 17 synthesized the chapter's accounting architecture. The annex requires further technical study, and the chapter has not passed a structured paragraph-by-paragraph coverage review. No chapter is complete; the conceptual foundations remain in progress.
 
 ## 6. Exact next action
 
-Continue with **Chapter 4, Lesson 18 — Transactions: monetary/non-monetary, exchanges/transfers, and statistical rearrangements, Part 1**. Use the official 2025 SNA White Cover §§4.19–4.33 (verify exact paragraph numbering against that version before teaching). Cover monetary versus non-monetary transactions; exchanges versus transfers; current versus capital transfers; contingent benefits and why social contributions, non-life insurance premiums and taxes are not automatically exchanges; then introduce rerouting and the official examples of social security contributions, lottery/gambling transfers and retained earnings of foreign direct investment enterprises. Explain that statistical recording may differ from the parties' ordinary description to represent economic relationships. Do not yet treat partitioning, reassignment or all transaction timing rules as completed; proceed to them in a later lesson. Keep examples clearly illustrative and distinguish SNA rules from practical accounting treatment.
-
-After the relevant Chapter 4 foundations are understood, continue the conceptual study in the standard's chapter order, including the detailed treatment of institutional units and production. Do not jump ahead to Nigeria's GDP, indicator design, data collection, or Lifeconomist implementation.
-
+Continue with **Chapter 4, Lesson 19 — Partitioning and reassignment of transactions**. Use the official 2025 SNA White Cover §§4.37–4.48. Study the financial-lease example; assets used for production and personal consumption; implicit financial intermediation services; financial derivatives settled by delivery of underlying assets; wholesale/retail margins; package-tour components; and reassignment through agents and tax-collecting government units. Distinguish the three rearrangements: rerouting changes the channel or constructs linked transactions; partitioning divides one observed transaction into differently classified components; reassignment attributes the transaction to the principal parties rather than the facilitator. Then continue to non-monetary transactions beginning at §4.49. Do not claim Chapter 4 is complete.
 ## 7. Study and evidence rules
 
 - Use the official 2025 SNA as the primary source and cite chapter/paragraph or page references wherever available.
@@ -581,6 +578,30 @@ An introductory synthesis lesson was completed on 2026-11-22, based on Chapter 4
 **Key lesson:** The chapter is an integrated system. It identifies economic units and their positions, records flows and other changes during the period, and reconciles them to closing balance sheets using consistent accounting rules.
 
 **Limitations:** This was a synthesis, not a paragraph-by-paragraph audit. Timing/accrual, economic ownership, monetary and non-monetary transactions, exchange versus transfer, rerouting, partitioning, reassignment, internal transactions, detailed debit/credit entries, and the exact aggregation/netting/consolidation rules still need systematic examination. Chapter 4 is not complete.
+
+
+### Stage 3 — Chapter 4, Lesson 18: Monetary transactions, exchanges/transfers and rerouting
+
+An introductory lesson was delivered on 2026-11-22, based on the official 2025 SNA White Cover Version, Chapter 4, §§4.23–4.36.
+
+**Verified White Cover paragraph coverage:**
+
+- §4.23 defines monetary transactions: one institutional unit makes/receives a payment or incurs/acquires a liability/financial asset stated in currency; the parties express their agreement in monetary terms. Recording in monetary terms alone does not make a flow a monetary transaction.
+- §4.24 lists common monetary transactions, including purchases, securities acquisitions, wages and salaries, interest, dividends, rent, taxes and cash social assistance benefits.
+- §§4.25–4.26 distinguish exchanges (quid pro quo/recompense of commensurate value) from transfers (no recompense in return).
+- §4.27 explains why contingent benefits and collective services do not constitute the relevant recompense: social insurance contributions, non-life insurance premiums and taxes remain transfers.
+- §4.28 distinguishes current transfers (redistribute income) from capital transfers (redistribute wealth; linked to acquisition/disposal/transfer of non-cash, non-inventory assets, assumed/forgiven liabilities, or addressing accumulated losses over multiple years). Capital transfers leave saving unaffected.
+- §4.29 introduces statistical rearrangements: actual observed transactions may be rearranged in the sequence of accounts to reveal underlying economic relationships. Three types affect channels, number of transactions or units involved.
+- §4.30 defines rerouting and distinguishes recording a direct A-to-C transaction through B from recording a transaction of one kind A-to-B with a matching transaction of a different kind B-to-A.
+- §§4.31–4.36 provide examples: employer social security contributions; lottery/gambling transfer elements; retained earnings of foreign direct investment enterprises; property income on life insurance and annuity entitlements; government fiscal activity through a non-resident unit; implicit taxes/subsidies under multiple exchange-rate regimes.
+
+**Important source-version correction:** The previous live lesson used an incorrect paragraph range (§§4.26–4.40) and several incorrect individual references. The official White Cover PDF was reopened and the actual numbering verified. The correct coverage for this lesson is §§4.23–4.36. Subsequent lesson references below use the White Cover numbering.
+
+**Teaching illustrations:** Credit purchase, exchange-versus-transfer, current-versus-capital transfer, employer social contribution rerouting, and retained earnings of a foreign direct investment enterprise. These were explanatory examples, not measured observations.
+
+**Key lesson:** A monetary transaction is defined by the monetary terms of the parties' agreement, not merely by the fact that accounts eventually express values in currency. Exchanges and transfers differ by whether a recompense is received. Statistical rerouting changes the recording path to represent the underlying economic relationship, without claiming that the administrative payment route physically changed.
+
+**Limitations:** Introductory only. Partitioning (§§4.37–4.42), reassignment (§§4.43–4.48), and non-monetary transactions (beginning §4.49) remain to be studied. Detailed treatment of the examples is deferred to the relevant chapters. Chapter 4 is not complete.
 
 ## 8. What is not yet established
 
