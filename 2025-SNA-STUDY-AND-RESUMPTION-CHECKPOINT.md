@@ -1,7 +1,7 @@
 # 2025 System of National Accounts (2025 SNA) — Study and Resumption Checkpoint
 
-**Status:** Study initiated; introductory orientation, initial economic-universe orientation, and Chapter 4 Lessons 1–14 completed; systematic chapter study remains in progress  
-**Checkpoint date:** 2026-11-21  
+**Status:** Study initiated; introductory orientation and initial economic-universe orientation completed; Chapter 4 Lessons 1–24 delivered and recorded; systematic chapter study remains in progress  
+**Checkpoint date:** 2026-11-22  
 **Scope:** Understanding the international national accounts standard itself before attempting country implementation or Lifeconomist application.
 
 ## 1. Purpose of this study
@@ -519,7 +519,7 @@ The introductory framework orientation, initial economic-universe lesson, and Ch
 
 ## 6. Exact next action
 
-Continue with **Chapter 4, Lesson 24 — Stocks, economic benefits and ownership**, using official White Cover §§4.84–4.93. Begin with the definition of stocks/positions (§4.84), economic benefits and moving benefits between accounting periods (§§4.85–4.86), legal ownership and ownerless items (§§4.87–4.88), risks and intertemporal decisions (§§4.89–4.91), and the definition of economic ownership and its relationship to legal ownership (§§4.92–4.93). This is the start of Section C, Stocks. Keep the lesson introductory; detailed asset definitions and classifications follow later in Chapter 4.
+Continue with **Chapter 4, Lesson 25 — The definition of an asset**, using official White Cover §§4.98–4.99. Before or during that lesson, keep the intervening §§4.94–4.97 visible as an identified coverage gap; do not imply they were covered in Lesson 24. Lesson 25 should connect the asset definition to the concepts of economic benefits, economic ownership and time already introduced. Chapter 4 remains incomplete.
 ## 7. Study and evidence rules
 
 - Use the official 2025 SNA as the primary source and cite chapter/paragraph or page references wherever available.
@@ -719,3 +719,24 @@ A reinforcement lesson was delivered on 2026-11-22, revisiting the official UN 2
 - Any changes to Lifeconomist's existing measurement framework arising from the study.
 
 These remain open; do not infer completion from the introductory lessons.
+
+
+### Stage 3 — Chapter 4, Lesson 24: Stocks, economic benefits and ownership
+
+An introductory lesson was delivered on 2026-11-22 using the official 2025 SNA White Cover text, §§4.84–4.93.
+
+**Verified paragraph coverage:**
+- §4.84: Stocks/positions are measured at a point in time.
+- §§4.85–4.86: Economic benefits include benefits from using or holding items, including goods/services and monetary means to acquire them. Benefits may be enjoyed now or later; assets and liabilities can transfer benefits across accounting periods, and borrowing can bring present benefits in exchange for commitments involving future benefits.
+- §§4.87–4.88: Legal ownership identifies the unit legally entitled to claim benefits associated with an item. Government may hold ownership on behalf of a community; items without an individual or collective owner able to claim the associated benefits are not recognized as assets in the integrated SNA framework.
+- §§4.89–4.91: Production and the transfer of benefits across time involve risks. The standard distinguishes uncertainty associated with production from uncertainty associated with financial developments and explains that economic agents compare present and future benefits alongside the risks involved.
+- §§4.92–4.93: Economic ownership belongs to the institutional unit entitled to the economic benefits of using an item in economic activity and accepting the associated risks. Legal and economic ownership often coincide; where they differ, the SNA generally uses economic ownership when referring to ownership.
+
+**Teaching illustrations (not source data):**
+- A simplified balance sheet illustrated stocks at a date: farmland ₦10m, tractor ₦5m, inventory ₦2m and bank deposits ₦3m, against a bank loan of ₦4m.
+- A financed tractor illustrated how the legal owner and economic owner may differ, depending on who receives the economic benefits and bears the associated risks.
+- A farmer's uncertain future harvest illustrated production risk; a loan illustrated the transfer of benefits and obligations across accounting periods.
+
+**Key lesson:** The SNA's ownership concept is economic, not merely legal. To understand who owns an asset in the accounts, identify who receives its economic benefits and accepts the associated risks. Stocks remain point-in-time positions; the benefits and risks associated with holding or using items can extend across periods.
+
+**Study limitations and coverage boundary:** Introductory only; no claim of mastery or exhaustive treatment. This lesson covered §§4.84–4.93 only. §§4.94–4.97 were not covered and remain an explicit gap. The asset definition in §§4.98–4.99 is also still to be studied. No Nigeria implementation or Lifeconomist measurement design was undertaken.
