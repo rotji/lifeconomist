@@ -951,3 +951,13 @@
 - **Limitations:** Introductory only; detailed production boundary, valuation and depreciation methodology remain open.
 - **Documentation:** Updated the [2025 SNA Study and Resumption Checkpoint](2025-SNA-STUDY-AND-RESUMPTION-CHECKPOINT.md), [Current State](CURRENT-STATE.md) and this Research Log.
 - **Next action:** Chapter 4, Lesson 22 — externalities and illegal actions, §§4.65–4.72.
+
+
+## 2026-11-22 — 2025 SNA study: Chapter 4 Lesson 22 — externalities and illegal actions
+
+- **Source:** Official UN *System of National Accounts 2025 — White Cover Version*, Chapter 4, §§4.65–4.72: https://unstats.un.org/unsd/nationalaccount/docs/2025_SNA_Pre-edit.pdf
+- **Coverage:** §§4.65–4.69 externalities, pollution, private/social costs and SEEA; §§4.70–4.72 illegal market transactions, theft/violence and other-flow treatment of significant asset redistribution/destruction.
+- **Key lesson:** Illegality alone does not exclude a mutually agreed market transaction. Theft and violence lack mutual agreement; significant asset effects are other flows. Externalities are not automatically transactions and are not simply imputed into the central accounts.
+- **Limitations:** Introductory only; externality valuation and SEEA methods remain open. Detailed other-flow classifications follow in §§4.73–4.81.
+- **Documentation:** Updated the [2025 SNA Study and Resumption Checkpoint](2025-SNA-STUDY-AND-RESUMPTION-CHECKPOINT.md), [Current State](CURRENT-STATE.md) and this Research Log.
+- **Next action:** Chapter 4, Lesson 23 — other flows and other changes in volume, §§4.73–4.81.
