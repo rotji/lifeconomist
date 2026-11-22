@@ -1,6 +1,6 @@
 # 2025 System of National Accounts (2025 SNA) — Study and Resumption Checkpoint
 
-**Status:** Study initiated; introductory orientation and initial economic-universe orientation completed; Chapter 4 Lessons 1–31 delivered and recorded; systematic chapter study remains in progress  
+**Status:** Study initiated; introductory orientation and initial economic-universe orientation completed; Chapter 4 Lessons 1–32 delivered and recorded; systematic chapter study remains in progress  
 **Checkpoint date:** 2026-11-22  
 **Scope:** Understanding the international national accounts standard itself before attempting country implementation or Lifeconomist application.
 
@@ -519,7 +519,7 @@ The introductory framework orientation, initial economic-universe lesson, and Ch
 
 ## 6. Exact next action
 
-Continue with **Chapter 4, Lesson 32 — Balancing items**, using official White Cover §§4.118–4.121. Study how balancing items are derived residually, why they are economically important indicators, and how net worth balances the balance sheet. Chapter 4 remains incomplete.
+Continue with **Chapter 4, Lesson 33 — Introduction to accounting rules and quadruple-entry bookkeeping**, using official White Cover §§4.122–4.127. Study vertical double-entry, horizontal double-entry, how these combine into quadruple-entry bookkeeping, and why counterpart entries must be consistent across institutional units. Chapter 4 remains incomplete.
 ## 7. Study and evidence rules
 
 - Use the official 2025 SNA as the primary source and cite chapter/paragraph or page references wherever available.
@@ -883,3 +883,23 @@ An introductory lesson was completed on 2026-11-22 using the official 2025 SNA W
 **Key lesson:** The boundary of the integrated SNA is a defined accounting boundary, not a complete inventory of everything valuable to society or the environment. Supplementary and extended accounts and complementary systems can measure important matters outside that core boundary.
 
 **Study limitations:** Introductory only; no claim of mastery or exhaustive treatment. The distinction between core SNA accounts, supplementary items, extended accounts and SEEA Ecosystem Accounting requires further study in the relevant chapters and manuals. No Nigeria implementation or Lifeconomist measurement design was undertaken.
+
+
+### Stage 3 — Chapter 4, Lesson 32: Balancing items
+
+An introductory lesson was completed on 2026-11-22 using the official 2025 SNA White Cover Version, Chapter 4, §§4.118–4.121.
+
+**Verified paragraph coverage:**
+- §4.118: A balancing item is an accounting construct obtained residually as the difference between the total value of entries on one side of an account and the total value on the other side. It cannot be measured independently, does not relate to a specific set of transactions or assets, and has no independent price or quantity unit.
+- §4.119: Balancing items are not merely devices for making accounts balance; they are key macroeconomic indicators. Examples in the sequence of economic accounts include value added or domestic product, operating surplus, disposable income, saving, and net lending/net borrowing.
+- §4.120: Net worth (B90) is the balance-sheet balancing item. It is the value of an institutional unit's assets less its outstanding liabilities, including shares and other equity. It cannot be measured independently of the other balance-sheet entries.
+- §4.121: Changes in net worth can be derived from the transactions and other flows that change the levels of assets and liabilities during the period. Changes in net worth can therefore be explained by tracing those underlying transactions and other flows.
+
+**Teaching illustrations (not source data):**
+- A simplified business example illustrated a balancing item as the residual between revenue and expenses. This is an analogy, not a substitute for the SNA's full account structure.
+- A hypothetical balance sheet with ₦50 million in assets and ₦20 million in liabilities illustrated net worth of ₦30 million.
+- Changes in income, asset acquisition, borrowing, price revaluation and asset wear illustrated why changes in net worth need to be traced through transactions and other flows.
+
+**Key lesson:** Balancing items are derived from the structure of an account, but many of them are among the most important economic indicators. Net worth connects the balance-sheet stock position to the transactions and other flows that change it over time.
+
+**Study limitations:** Introductory only; no claim of mastery or exhaustive treatment. The detailed derivation of individual balancing items belongs to the relevant account chapters. No Nigeria implementation or Lifeconomist measurement design was undertaken.
