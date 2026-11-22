@@ -1,6 +1,6 @@
 # 2025 System of National Accounts (2025 SNA) — Study and Resumption Checkpoint
 
-**Status:** Study initiated; introductory orientation and initial economic-universe orientation completed; Chapter 4 Lessons 1–25 delivered and recorded; systematic chapter study remains in progress  
+**Status:** Study initiated; introductory orientation and initial economic-universe orientation completed; Chapter 4 Lessons 1–26 delivered and recorded; systematic chapter study remains in progress  
 **Checkpoint date:** 2026-11-22  
 **Scope:** Understanding the international national accounts standard itself before attempting country implementation or Lifeconomist application.
 
@@ -519,7 +519,7 @@ The introductory framework orientation, initial economic-universe lesson, and Ch
 
 ## 6. Exact next action
 
-Continue with **Chapter 4, Lesson 26 — Completing the ownership and financial-asset discussion**, returning to the outstanding official White Cover §§4.94–4.97. These paragraphs precede the asset definition but were not covered in the earlier lesson sequence. Study them explicitly before proceeding to §4.100 and the section on types of assets and liabilities. Chapter 4 remains incomplete.
+Continue with **Chapter 4, Lesson 27 — Types of assets and liabilities**, beginning with official White Cover §§4.100–4.102. Study how financial claims and liabilities arise, the SNA definition of a liability, and the distinction between contractual and constructive liabilities. Chapter 4 remains incomplete.
 ## 7. Study and evidence rules
 
 - Use the official 2025 SNA as the primary source and cite chapter/paragraph or page references wherever available.
@@ -758,3 +758,24 @@ An introductory lesson was completed on 2026-11-22 using the official 2025 SNA W
 **Key lesson:** In the SNA, an asset is not simply anything useful, valuable or commonly described as an asset. It is a store of value whose economic benefits accrue to an economic owner through holding or using the item over time.
 
 **Study limitations and coverage boundary:** Introductory only; no claim of mastery or exhaustive treatment. This lesson covered §§4.98–4.99. The preceding §§4.94–4.97 remain an explicit coverage gap and must be studied separately before proceeding further through Chapter 4. No Nigeria implementation or Lifeconomist measurement design was undertaken.
+
+
+### Stage 3 — Chapter 4, Lesson 26: Further cases of economic ownership
+
+An introductory lesson was completed on 2026-11-22 using the official 2025 SNA White Cover Version, Chapter 4, §§4.94–4.97. This lesson closed the previously identified paragraph coverage gap between §§4.93 and 4.98.
+
+**Verified paragraph coverage:**
+- §4.94: Where government claims legal ownership of an item on behalf of the community, the benefits accrue to government on behalf of the community; government is both legal and economic owner.
+- §4.95: For natural resources, government may grant exploitation rights to another institutional unit. Where future economic benefits are shared, economic ownership of the resource is split between the units in line with the proportion of future benefits each appropriates.
+- §4.96: Economic ownership of intellectual property products within multinational enterprise groups can be difficult to determine, including where special-purpose entities are involved. The SNA recommends a decision tree for appropriate allocation and recording, with further guidance in Chapter 23 on Globalization.
+- §4.97: Financial assets and liabilities are generally transformed through financial intermediation rather than transferred unchanged from legal owner to economic owner. A financial institution assumes some risks and benefits and passes the balance to other units.
+
+**Teaching illustrations (not source data):**
+- Government holding a forest on behalf of the community illustrated government acting as legal and economic owner on behalf of the community.
+- A government granting mineral extraction rights illustrated the split-asset approach where government and extractor appropriate shares of future resource benefits.
+- A multinational group's intellectual property and special-purpose entities illustrated the difficulty of identifying economic ownership across corporate structures.
+- A bank taking deposits and making loans illustrated how financial intermediation transforms financial claims and obligations while assuming some risks and benefits.
+
+**Key lesson:** Economic ownership may be exercised on behalf of a community, split between a resource owner and extractor, complicated by multinational corporate arrangements, or transformed through financial intermediation. Legal title alone is not always sufficient to understand the economic allocation.
+
+**Study limitations:** Introductory only; no claim of mastery or exhaustive treatment. Detailed decision-tree application, resource-rent measurement and split-asset calculations, multinational enterprise allocation, and financial-intermediation accounting remain for later study in the relevant chapters. This lesson closes the identified §§4.94–4.97 coverage gap. No Nigeria implementation or Lifeconomist measurement design was undertaken.
