@@ -278,3 +278,6 @@ Completed the ninth and final bullet-by-bullet audit of the 25 groups currently 
 
 
 - **2026-11-22 — 2025 SNA study:** Chapter 4, Lesson 22 documented: externalities, pollution, SEEA, illegal market transactions, theft and violence (§§4.65–4.72). Next: Lesson 23, detailed review of other flows and other changes in volume (§§4.73–4.81). See [2025 SNA Study and Resumption Checkpoint](2025-SNA-STUDY-AND-RESUMPTION-CHECKPOINT.md).
+
+
+- **2026-11-22 — 2025 SNA study:** Chapter 4, Lesson 23 documented as a reinforcement review of other flows and other changes in volume (§§4.73–4.81). White Cover paragraph numbering was rechecked and corrected in the checkpoint; this review overlaps Lesson 3 and is not counted as new coverage. Next: Lesson 24, stocks, economic benefits and ownership (§§4.84–4.93). See [2025 SNA Study and Resumption Checkpoint](2025-SNA-STUDY-AND-RESUMPTION-CHECKPOINT.md).
