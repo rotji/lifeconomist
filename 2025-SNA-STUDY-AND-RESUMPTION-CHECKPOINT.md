@@ -1,6 +1,6 @@
 # 2025 System of National Accounts (2025 SNA) — Study and Resumption Checkpoint
 
-**Status:** Study initiated; introductory orientation and initial economic-universe orientation completed; Chapter 4 Lessons 1–27 delivered and recorded; systematic chapter study remains in progress  
+**Status:** Study initiated; introductory orientation and initial economic-universe orientation completed; Chapter 4 Lessons 1–28 delivered and recorded; systematic chapter study remains in progress  
 **Checkpoint date:** 2026-11-22  
 **Scope:** Understanding the international national accounts standard itself before attempting country implementation or Lifeconomist application.
 
@@ -519,7 +519,7 @@ The introductory framework orientation, initial economic-universe lesson, and Ch
 
 ## 6. Exact next action
 
-Continue with **Chapter 4, Lesson 28 — Financial claims, financial assets and non-financial assets**, using official White Cover §§4.103–4.105. Study the creditor's corresponding claim, the special treatment of monetary gold held by monetary authorities as a reserve asset, and the distinction between financial and non-financial assets, including produced and non-produced non-financial assets. Chapter 4 remains incomplete.
+Continue with **Chapter 4, Lesson 29 — Contingent liabilities and provisions**, using official White Cover §§4.108–4.109. Study the distinction between unconditional legal liabilities, constructive liabilities, contingent liabilities, standardized guarantees and provisions. Chapter 4 remains incomplete.
 ## 7. Study and evidence rules
 
 - Use the official 2025 SNA as the primary source and cite chapter/paragraph or page references wherever available.
@@ -798,3 +798,25 @@ An introductory lesson was completed on 2026-11-22 using the official 2025 SNA W
 **Key lesson:** Financial claims and liabilities describe corresponding positions between institutional units. The creditor holds a claim; the debtor has the corresponding obligation. Not every economically meaningful expectation is recognized as a liability in the SNA sequence of economic accounts.
 
 **Study limitations:** Introductory only; no claim of mastery or exhaustive treatment. This lesson covered §§4.100–4.102. Detailed treatment of shares and equity, pension entitlements, insurance technical reserves and financial instruments remains for the relevant chapters. No Nigeria implementation or Lifeconomist measurement design was undertaken.
+
+
+### Stage 3 — Chapter 4, Lesson 28: Financial claims and the asset boundary
+
+An introductory lesson was completed on 2026-11-22 using the official 2025 SNA White Cover Version, Chapter 4, §§4.103–4.107.
+
+**Verified paragraph coverage:**
+- §4.103: Whenever a liability exists, the creditor has a corresponding financial claim against the debtor. Financial claims are financial instruments giving rise to an economic asset with a counterpart liability. They include shares and other equity in corporations. A creditor may also have a claim that permits them to demand payment at their discretion; once demanded, the debtor's payment obligation is unconditional.
+- §4.104: Financial assets consist of all financial claims and gold bullion held by monetary authorities as a reserve asset. Such reserve gold is classified as a financial asset even though the holder has no claim over another designated unit.
+- §4.105: All items meeting the SNA asset definition are within the integrated framework's asset boundary. Assets that are not financial assets are non-financial assets; these can be distinguished as produced and non-produced. The balance-sheet classification separately groups natural resources to emphasize their special character.
+- §4.106: All assets can be represented by a monetary value reflecting the market's view of the economic benefits embodied in the asset. Where a direct market view is unavailable, the value must be approximated by other methods, discussed in the chapter annex.
+- §4.107: Non-financial assets enter an economy's asset boundary when their economic owners are resident in that economy. For most natural resources and immobile fixed capital owned by non-residents, a notional resident unit is established. Portable non-financial assets physically in the economy but owned by non-residents are excluded from the domestic balance sheet; portable assets owned by residents remain included even when physically abroad. The paragraph gives aircraft owned by a domestic airline as an example and points to Chapter 23 for difficult MNE intellectual-property ownership cases.
+
+**Teaching illustrations (not source data):**
+- A bank loan illustrated the creditor's financial claim and debtor's corresponding liability.
+- Central-bank reserve gold illustrated the special financial-asset treatment, contrasted with gold held by a jewellery business.
+- A tractor, warehouse and farmland illustrated produced and non-produced non-financial assets.
+- A foreign-owned immovable mine in Nigeria illustrated the notional resident-unit treatment; an aircraft owned by a Nigerian airline illustrated why physical location alone does not determine the domestic asset boundary.
+
+**Key lesson:** The SNA asset boundary is not simply a map of where physical objects happen to be. It depends on the asset definition, economic ownership and residence rules. Financial claims and reserve gold form financial assets; other recognized assets are non-financial assets.
+
+**Study limitations:** Introductory only; no claim of mastery or exhaustive treatment. Detailed valuation methods, natural-resource accounting, notional resident units, MNE intellectual-property allocation and full asset classification remain for later study. No Nigeria implementation or Lifeconomist measurement design was undertaken.
