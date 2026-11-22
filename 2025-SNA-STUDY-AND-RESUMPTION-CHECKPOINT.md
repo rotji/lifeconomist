@@ -1,6 +1,6 @@
 # 2025 System of National Accounts (2025 SNA) — Study and Resumption Checkpoint
 
-**Status:** Study initiated; introductory orientation and initial economic-universe orientation completed; Chapter 4 Lessons 1–26 delivered and recorded; systematic chapter study remains in progress  
+**Status:** Study initiated; introductory orientation and initial economic-universe orientation completed; Chapter 4 Lessons 1–27 delivered and recorded; systematic chapter study remains in progress  
 **Checkpoint date:** 2026-11-22  
 **Scope:** Understanding the international national accounts standard itself before attempting country implementation or Lifeconomist application.
 
@@ -519,7 +519,7 @@ The introductory framework orientation, initial economic-universe lesson, and Ch
 
 ## 6. Exact next action
 
-Continue with **Chapter 4, Lesson 27 — Types of assets and liabilities**, beginning with official White Cover §§4.100–4.102. Study how financial claims and liabilities arise, the SNA definition of a liability, and the distinction between contractual and constructive liabilities. Chapter 4 remains incomplete.
+Continue with **Chapter 4, Lesson 28 — Financial claims, financial assets and non-financial assets**, using official White Cover §§4.103–4.105. Study the creditor's corresponding claim, the special treatment of monetary gold held by monetary authorities as a reserve asset, and the distinction between financial and non-financial assets, including produced and non-produced non-financial assets. Chapter 4 remains incomplete.
 ## 7. Study and evidence rules
 
 - Use the official 2025 SNA as the primary source and cite chapter/paragraph or page references wherever available.
@@ -779,3 +779,22 @@ An introductory lesson was completed on 2026-11-22 using the official 2025 SNA W
 **Key lesson:** Economic ownership may be exercised on behalf of a community, split between a resource owner and extractor, complicated by multinational corporate arrangements, or transformed through financial intermediation. Legal title alone is not always sufficient to understand the economic allocation.
 
 **Study limitations:** Introductory only; no claim of mastery or exhaustive treatment. Detailed decision-tree application, resource-rent measurement and split-asset calculations, multinational enterprise allocation, and financial-intermediation accounting remain for later study in the relevant chapters. This lesson closes the identified §§4.94–4.97 coverage gap. No Nigeria implementation or Lifeconomist measurement design was undertaken.
+
+
+### Stage 3 — Chapter 4, Lesson 27: Types of assets and liabilities — initial definitions
+
+An introductory lesson was completed on 2026-11-22 using the official 2025 SNA White Cover Version, Chapter 4, §§4.100–4.102.
+
+**Verified paragraph coverage:**
+- §4.100: Economic benefits may be exchanged between institutional units by means of payments. This provides the basis for defining financial claims and liabilities. The integrated SNA framework does not recognize non-financial liabilities; the term liability therefore refers to a financial liability.
+- §4.101: A liability is an obligation under which a debtor must provide funds or other economic resources to a creditor under specified circumstances. Liabilities include shares and other equity in corporations. The common case is an unconditional obligation established by a legally binding contract.
+- §4.102: A liability may also arise through long and well-recognized custom that gives a creditor a valid expectation of payment despite the absence of a legally binding contract. These are constructive liabilities. They are generally not recognized in the SNA sequence of economic accounts. The paragraph points to Chapters 12 and 24 for pension entitlements and insurance technical reserves.
+
+**Teaching illustrations (not source data):**
+- A hypothetical ₦500,000 loan illustrated the lender's financial claim and the borrower's corresponding obligation.
+- Corporate shares illustrated why shares and other equity are included among liabilities in the SNA's institutional-sector accounts, although they are not ordinary fixed-repayment loans.
+- A long-standing government social-security pension expectation illustrated a constructive liability and the distinction between a valid expectation and recognition in the sequence of economic accounts.
+
+**Key lesson:** Financial claims and liabilities describe corresponding positions between institutional units. The creditor holds a claim; the debtor has the corresponding obligation. Not every economically meaningful expectation is recognized as a liability in the SNA sequence of economic accounts.
+
+**Study limitations:** Introductory only; no claim of mastery or exhaustive treatment. This lesson covered §§4.100–4.102. Detailed treatment of shares and equity, pension entitlements, insurance technical reserves and financial instruments remains for the relevant chapters. No Nigeria implementation or Lifeconomist measurement design was undertaken.
