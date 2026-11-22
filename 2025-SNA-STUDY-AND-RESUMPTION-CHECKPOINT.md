@@ -515,11 +515,11 @@ A focused introductory lesson was completed on 2026-11-22, using the official 20
 
 ## 5. Current stopping point
 
-The introductory framework orientation, initial economic-universe lesson, and Chapter 4 Lessons 1–21 have been completed. Lessons 4–5 introduced revaluations and holding gains; Lessons 6–11 covered time of recording and selected timing cases; Lesson 12 covered currency denomination, settlement and conversion; Lesson 13 covered aggregation, netting, consolidation and symmetry of reporting; Lessons 14–16 provided an introductory first pass through the transaction and stock valuation annex §§4A.1–4A.40; Lesson 17 synthesized the chapter's accounting architecture. The annex requires further technical study, and the chapter has not passed a structured paragraph-by-paragraph coverage review. No chapter is complete; the conceptual foundations remain in progress.
+The introductory framework orientation, initial economic-universe lesson, and Chapter 4 Lessons 1–22 have been completed. Lessons 4–5 introduced revaluations and holding gains; Lessons 6–11 covered time of recording and selected timing cases; Lesson 12 covered currency denomination, settlement and conversion; Lesson 13 covered aggregation, netting, consolidation and symmetry of reporting; Lessons 14–16 provided an introductory first pass through the transaction and stock valuation annex §§4A.1–4A.40; Lesson 17 synthesized the chapter's accounting architecture. The annex requires further technical study, and the chapter has not passed a structured paragraph-by-paragraph coverage review. No chapter is complete; the conceptual foundations remain in progress.
 
 ## 6. Exact next action
 
-Continue with **Chapter 4, Lesson 22 — Externalities and illegal actions**, using official White Cover §§4.65–4.72. Cover the definition of positive and negative externalities; why externalities are not transactions; the pollution example and the SNA's rationale for not imputing values in the integrated framework; the complementary role of SEEA; the distinction between illegal market transactions with mutual agreement and crimes such as theft/violence that are not transactions; and why significant theft, violence or war-related asset redistribution/destruction is recorded as other flows. Then study §§4.73–4.81 on other flows and volume changes in a subsequent lesson.
+Continue with **Chapter 4, Lesson 23 — Other flows and other changes in the volume of assets and liabilities**, using official White Cover §§4.73–4.81. Revisit the overview of other flows (§§4.73–4.74), then examine the three categories of other changes in volume (§4.75): appearance/disappearance of assets and liabilities (§§4.76–4.78, including valuables, creditor write-offs, debt forgiveness/cancellation distinctions, guarantees/rescheduling and crypto-assets); effects of externalities, uncompensated seizure and disasters (§4.79); and reclassification of institutional units/assets and changes in residence status (§§4.80–4.81). Explicitly compare these with transactions and revaluations. Note that this is a deeper pass over material introduced in Lesson 3; do not mark the topic fully mastered or Chapter 4 complete.
 ## 7. Study and evidence rules
 
 - Use the official 2025 SNA as the primary source and cite chapter/paragraph or page references wherever available.
@@ -667,6 +667,26 @@ An introductory lesson was delivered on 2026-11-22 using the official UN 2025 SN
 **Key lesson:** An institutional unit can produce and use output itself. The SNA sometimes constructs internal transactions to record production and final use consistently even though no exchange occurs between separate units.
 
 **Limitations:** Introductory only. Detailed production-boundary rules, own-account production valuation, owner-occupied housing valuation, non-market output valuation, depreciation methodology and establishment-level recording remain open. Chapter 4 is not complete.
+
+
+### Stage 3 — Chapter 4, Lesson 22: Externalities and illegal actions
+
+An introductory lesson was delivered on 2026-11-22 using the official UN 2025 SNA White Cover Version, Chapter 4, §§4.65–4.72.
+
+**Verified paragraph coverage:**
+- §§4.65–4.66: Introduce externalities and their positive/negative effects on other institutional units without the affected units' agreement.
+- §4.67: Explains why assigning monetary values to externalities in the central integrated accounts is problematic: no mutually agreed market values, inconsistent valuations among parties, and accounting adjustments could imply institutional/economic arrangements that do not exist.
+- §4.68: Pollution example: where a producer pollutes without charge or penalty, private production costs may be below social costs. The SNA does not simply impute externality costs into the producer's accounts. Policy charges/taxes may internalize some externalities and alter behaviour.
+- §4.69: Points to SEEA as a complementary/extended accounting framework for environmental-economic analysis.
+- §4.70: Illegal market transactions meeting the characteristics of transactions, notably mutual agreement, are included in principle, even if the activity is illegal. Excluding them can distort household saving, asset acquisition and external trade balances.
+- §4.71: Theft and violence are not transactions because there is no mutual agreement; they are conceptually extreme externalities.
+- §4.72: Significant redistribution or destruction of assets through theft, violence or war is recorded as other flows, not transactions.
+
+**Teaching illustrations:** Factory pollution; private versus social costs; illegal consensual market exchange; theft and asset loss. Numerical amounts were hypothetical and explanatory only.
+
+**Key lesson:** Economic illegality alone does not exclude a market transaction from national accounts. Mutual agreement is a key distinction. Externalities are not automatically transactions, while significant asset effects of theft, violence and war are recorded through other flows.
+
+**Limitations:** Introductory only. Externality valuation and SEEA methods remain outside this lesson. Detailed other-flow classifications follow in §§4.73–4.81. Chapter 4 is not complete.
 
 ## 8. What is not yet established
 
