@@ -929,3 +929,14 @@
 - **Limitations:** Introductory only; detailed compilation rules deferred to relevant chapters. Non-monetary transactions beginning at §4.49 remain open.
 - **Documentation:** Updated the [2025 SNA Study and Resumption Checkpoint](2025-SNA-STUDY-AND-RESUMPTION-CHECKPOINT.md), [Current State](CURRENT-STATE.md) and this Research Log.
 - **Next action:** Chapter 4, Lesson 20 — non-monetary transactions §§4.49–4.58.
+
+
+## 2026-11-22 — 2025 SNA study: Chapter 4 Lesson 20 — non-monetary transactions
+
+- **Source:** Official UN *System of National Accounts 2025 — White Cover Version*, Chapter 4, §§4.49–4.58: https://unstats.un.org/unsd/nationalaccount/docs/2025_SNA_Pre-edit.pdf
+- **Coverage:** §4.49 definition and valuation of non-monetary transactions; §4.50 distinction from cash payments; §§4.51–4.52 two-party forms and accounting presentation; §4.53 barter; §4.54 remuneration in kind; §4.55 other payments in kind; §4.56 transfers in kind; §§4.57–4.58 social transfers in kind, adjusted disposable income and actual final consumption.
+- **Correction:** A live teaching example implied a cash-plus-in-kind compensation calculation more definitively than the introductory paragraph supports. The checkpoint now flags valuation/recording as requiring the relevant detailed rules.
+- **Key lesson:** Absence of cash does not imply absence of a transaction. Actual in-kind transactions and constructed internal entries may both require estimated values, but those values are not freely disposable cash.
+- **Limitations:** Internal transactions (§§4.59–4.64), externalities and illegal actions (§§4.65 onward), and valuation methods remain open.
+- **Documentation:** Updated the [2025 SNA Study and Resumption Checkpoint](2025-SNA-STUDY-AND-RESUMPTION-CHECKPOINT.md), [Current State](CURRENT-STATE.md) and this Research Log.
+- **Next action:** Chapter 4, Lesson 21 — internal/intra-unit transactions, §§4.59–4.64.
