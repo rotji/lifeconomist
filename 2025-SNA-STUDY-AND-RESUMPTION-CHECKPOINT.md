@@ -1,6 +1,6 @@
 # 2025 System of National Accounts (2025 SNA) — Study and Resumption Checkpoint
 
-**Status:** Study initiated; introductory orientation and initial economic-universe orientation completed; Chapter 4 Lessons 1–28 delivered and recorded; systematic chapter study remains in progress  
+**Status:** Study initiated; introductory orientation and initial economic-universe orientation completed; Chapter 4 Lessons 1–29 delivered and recorded; systematic chapter study remains in progress  
 **Checkpoint date:** 2026-11-22  
 **Scope:** Understanding the international national accounts standard itself before attempting country implementation or Lifeconomist application.
 
@@ -519,7 +519,7 @@ The introductory framework orientation, initial economic-universe lesson, and Ch
 
 ## 6. Exact next action
 
-Continue with **Chapter 4, Lesson 29 — Contingent liabilities and provisions**, using official White Cover §§4.108–4.109. Study the distinction between unconditional legal liabilities, constructive liabilities, contingent liabilities, standardized guarantees and provisions. Chapter 4 remains incomplete.
+Continue with **Chapter 4, Lesson 30 — Entry and exit of assets from the balance sheet**, using official White Cover §§4.110–4.113. Study the first-level asset classification and the different ways produced, non-produced and financial assets enter and leave the balance sheet. Chapter 4 remains incomplete.
 ## 7. Study and evidence rules
 
 - Use the official 2025 SNA as the primary source and cite chapter/paragraph or page references wherever available.
@@ -820,3 +820,22 @@ An introductory lesson was completed on 2026-11-22 using the official 2025 SNA W
 **Key lesson:** The SNA asset boundary is not simply a map of where physical objects happen to be. It depends on the asset definition, economic ownership and residence rules. Financial claims and reserve gold form financial assets; other recognized assets are non-financial assets.
 
 **Study limitations:** Introductory only; no claim of mastery or exhaustive treatment. Detailed valuation methods, natural-resource accounting, notional resident units, MNE intellectual-property allocation and full asset classification remain for later study. No Nigeria implementation or Lifeconomist measurement design was undertaken.
+
+
+### Stage 3 — Chapter 4, Lesson 29: Contingent liabilities and provisions
+
+An introductory lesson was completed on 2026-11-22 using the official 2025 SNA White Cover Version, Chapter 4, §§4.108–4.109.
+
+**Verified paragraph coverage:**
+- §4.108: A liability established by a contract is unconditional once both parties agree to the contract. A liability established by long and well-established custom rather than legal contract is a constructive liability. A contingent liability arises where a legal contract requires payment only if specified conditions prevail. In general, the sequence of economic accounts includes legal liabilities but not constructive or contingent liabilities.
+- §4.108 exception: Standardized guarantees are treated differently. Although each individual guarantee is contingent, a sufficiently large group of similar guarantees establishes an actual liability for the proportion likely to be called. The paragraph also refers to the implicit recognition of obligations as negative asset positions when valuing equity of limited-liability shareholders in the presence of implicit guarantees or significant reputational risk; see Chapter 14, §§14.86–14.89.
+- §4.109: Corporations may set aside funds for unexpected events, customer defaults or terminal costs related to asset disposal. These amounts are called provisions. They are not treated as liabilities in the SNA sequence of economic accounts because they are not the subject of the kind of legal contract associated with a liability. Provisions remain part of the corporation's net worth; they designate the intended purpose of funds rather than constituting financial assets or liabilities in themselves.
+
+**Teaching illustrations (not source data):**
+- A bank guarantee on a business loan illustrated a contingent obligation that becomes payable only if specified conditions occur.
+- A large pool of similar guarantees illustrated why the expected proportion likely to be called is recognized under standardized guarantee arrangements.
+- A bank's provision for possible loan losses illustrated why earmarking funds does not itself create a liability or an asset of the borrowers.
+
+**Key lesson:** A possible future payment, a customary expectation and an unconditional contractual obligation are not interchangeable. The SNA distinguishes legal liabilities, constructive liabilities, contingent liabilities, standardized guarantees and provisions, with specific recognition rules.
+
+**Study limitations:** Introductory only; no claim of mastery or exhaustive treatment. Detailed accounting for standardized guarantees, implicit guarantees, equity valuation and provisions remains for the relevant chapters, particularly Chapter 14. No Nigeria implementation or Lifeconomist measurement design was undertaken.
