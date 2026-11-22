@@ -940,3 +940,14 @@
 - **Limitations:** Internal transactions (§§4.59–4.64), externalities and illegal actions (§§4.65 onward), and valuation methods remain open.
 - **Documentation:** Updated the [2025 SNA Study and Resumption Checkpoint](2025-SNA-STUDY-AND-RESUMPTION-CHECKPOINT.md), [Current State](CURRENT-STATE.md) and this Research Log.
 - **Next action:** Chapter 4, Lesson 21 — internal/intra-unit transactions, §§4.59–4.64.
+
+
+## 2026-11-22 — 2025 SNA study: Chapter 4 Lesson 21 — internal or intra-unit transactions
+
+- **Source:** Official UN *System of National Accounts 2025 — White Cover Version*, Chapter 4, §§4.59–4.64: https://unstats.un.org/unsd/nationalaccount/docs/2025_SNA_Pre-edit.pdf
+- **Coverage:** §4.59 definition; §4.60 units acting as producers and final consumers; §4.61 household own-use goods and services within the production boundary, including owner-occupied housing; §4.62 government/NPISH and central-bank non-market services and separate household social transfers in kind; §4.63 own-account fixed assets and depreciation as production cost; §4.64 establishment deliveries cross-referenced to §7.114.
+- **Clarification:** Household own-use production is subject to the SNA production boundary. Government/NPISH internal final expenditure and household social transfers in kind are separate entries.
+- **Key lesson:** Internal transactions are constructed within a single institutional unit to represent production and final use even without exchange between separate units.
+- **Limitations:** Introductory only; detailed production boundary, valuation and depreciation methodology remain open.
+- **Documentation:** Updated the [2025 SNA Study and Resumption Checkpoint](2025-SNA-STUDY-AND-RESUMPTION-CHECKPOINT.md), [Current State](CURRENT-STATE.md) and this Research Log.
+- **Next action:** Chapter 4, Lesson 22 — externalities and illegal actions, §§4.65–4.72.
