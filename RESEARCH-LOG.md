@@ -918,3 +918,14 @@
 - **Limitations:** Introductory only. Partitioning (§§4.37–4.42), reassignment (§§4.43–4.48), and non-monetary transactions (§4.49 onward) remain open.
 - **Documentation:** Updated the [2025 SNA Study and Resumption Checkpoint](2025-SNA-STUDY-AND-RESUMPTION-CHECKPOINT.md), [Current State](CURRENT-STATE.md) and this Research Log.
 - **Next action:** Chapter 4, Lesson 19 — partitioning and reassignment, §§4.37–4.48.
+
+
+## 2026-11-22 — 2025 SNA study: Chapter 4 Lesson 19 — partitioning and reassignment
+
+- **Source:** Official UN *System of National Accounts 2025 — White Cover Version*, Chapter 4, §§4.37–4.48: https://datalab.uneca.org/docs-acs/sites/default/files/ref-doc/System-of-National-Accounts-2025.pdf
+- **Coverage:** §4.37 financial lease partitioning; §4.38 mixed-use household assets; §4.39 partitioning interest and implicit financial intermediation services; §4.40 derivative settlement with underlying asset; §§4.41–4.42 trade margins and package tours; §4.43 reassignment of transactions arranged by agents; §§4.44–4.48 attribution of taxes, subsidies and social benefits between government units.
+- **Key lesson:** Partitioning separates differently classified components within a single transaction. Reassignment records the transaction between the principal parties rather than the facilitator. Both differ from rerouting.
+- **Examples:** Lease-payment split, mixed-use vehicle, bank interest/service partition, trade margin and agent facilitation. Numerical illustrations were hypothetical.
+- **Limitations:** Introductory only; detailed compilation rules deferred to relevant chapters. Non-monetary transactions beginning at §4.49 remain open.
+- **Documentation:** Updated the [2025 SNA Study and Resumption Checkpoint](2025-SNA-STUDY-AND-RESUMPTION-CHECKPOINT.md), [Current State](CURRENT-STATE.md) and this Research Log.
+- **Next action:** Chapter 4, Lesson 20 — non-monetary transactions §§4.49–4.58.
