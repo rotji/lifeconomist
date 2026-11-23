@@ -1,6 +1,6 @@
 # 2025 System of National Accounts (2025 SNA) — Study and Resumption Checkpoint
 
-**Status:** Study initiated; introductory orientation and initial economic-universe orientation completed; Chapter 4 Lessons 1–32 delivered and recorded; systematic chapter study remains in progress  
+**Status:** Study initiated; introductory orientation and initial economic-universe orientation completed; Chapter 4 Lessons 1–33 delivered and recorded; systematic chapter study remains in progress  
 **Checkpoint date:** 2026-11-22  
 **Scope:** Understanding the international national accounts standard itself before attempting country implementation or Lifeconomist application.
 
@@ -519,7 +519,7 @@ The introductory framework orientation, initial economic-universe lesson, and Ch
 
 ## 6. Exact next action
 
-Continue with **Chapter 4, Lesson 33 — Introduction to accounting rules and quadruple-entry bookkeeping**, using official White Cover §§4.122–4.127. Study vertical double-entry, horizontal double-entry, how these combine into quadruple-entry bookkeeping, and why counterpart entries must be consistent across institutional units. Chapter 4 remains incomplete.
+Continue with **Chapter 4, Lesson 34 — Types of accounting entries**, using official White Cover §§4.128–4.129. Study how the SNA records flows with the rest of the world by treating it as a pseudo-sector, and the terminology used for revenues, expenditures, changes in assets, changes in liabilities and balance sheets. Chapter 4 remains incomplete.
 ## 7. Study and evidence rules
 
 - Use the official 2025 SNA as the primary source and cite chapter/paragraph or page references wherever available.
@@ -903,3 +903,26 @@ An introductory lesson was completed on 2026-11-22 using the official 2025 SNA W
 **Key lesson:** Balancing items are derived from the structure of an account, but many of them are among the most important economic indicators. Net worth connects the balance-sheet stock position to the transactions and other flows that change it over time.
 
 **Study limitations:** Introductory only; no claim of mastery or exhaustive treatment. The detailed derivation of individual balancing items belongs to the relevant account chapters. No Nigeria implementation or Lifeconomist measurement design was undertaken.
+
+
+### Stage 3 — Chapter 4, Lesson 33: Accounting rules and quadruple-entry bookkeeping
+
+An introductory lesson was completed on 2026-11-23 using the official 2025 SNA White Cover Version, Chapter 4, §§4.122–4.127.
+
+**Verified paragraph coverage:**
+- §4.122: The accounting-rules section covers quadruple-entry accounting, valuation, time of recording, classification of accounting entries and grouping of transactions. Detailed application is developed in the chapters dealing with the relevant accounts and flows.
+- §4.123: Three bookkeeping principles are distinguished: vertical double-entry bookkeeping, horizontal double-entry bookkeeping and quadruple-entry bookkeeping.
+- §4.124: Vertical double-entry bookkeeping means each transaction gives rise to at least two entries (traditionally a debit and a credit) in the books of the transactor. Total credits and debits for transactions balance within the unit.
+- §4.125: Other flows have counterpart entries directly in changes in net worth. Vertical double-entry bookkeeping supports the balance-sheet identity: assets equal liabilities plus net worth.
+- §4.126: Horizontal double-entry bookkeeping ensures that counterpart institutional units record the same transaction amount consistently. For example, dividends payable across the economy should equal dividends receivable, taking transactions with the rest of the world into account.
+- §4.127: The simultaneous application of vertical and horizontal double-entry bookkeeping is quadruple-entry bookkeeping. A transaction between two counterparties gives rise to four entries. Counterpart financial assets and liabilities must be identically valued, recorded at consistent times and classified consistently.
+
+**Teaching illustrations (not source data):**
+- A business buying computer equipment for cash illustrated vertical double-entry: an increase in equipment and a decrease in bank deposits.
+- A price change in equipment illustrated an other flow with a counterpart change in net worth, rather than a transaction.
+- A sale between two businesses illustrated horizontal consistency: both counterparties record the same transaction amount.
+- The combined example illustrated why one transaction between two units generates four entries across their books.
+
+**Key lesson:** National accounts require both internal balance within each institutional unit and consistency between counterparties. Quadruple-entry bookkeeping combines these requirements so the accounts of many units can be integrated into coherent sectoral and national totals.
+
+**Study limitations:** Introductory only; no claim of mastery or exhaustive treatment. Detailed application of valuation, timing, classifications, grouping and reconciliation of inconsistent source records remains for subsequent sections and chapters. No Nigeria implementation or Lifeconomist measurement design was undertaken.
