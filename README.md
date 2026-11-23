@@ -75,6 +75,11 @@ The cross-sector [Non-Traditional Business Models and Economic Value Capture fra
 
 The provisional [ECAI foundation and research programme](ECAI-FOUNDATION.md) explores how economic participation produces consequences and how individuals or groups may influence those outcomes. The first [foundational literature synthesis](ECAI-LITERATURE-SYNTHESIS-001.md) records initial evidence, source limitations, and methodological implications. It connects consequence tracing, comparison of alternatives, plausible leverage, and evaluation of results. ECAI is a cross-cutting research application of the existing A–E architecture—not a new workstream, validated discipline, product, or claim that collective action reliably changes institutions. Its integrated model and practical direction remain unvalidated; see the document for scope, safeguards, research stages, and initial source trail.
 
+
+## Historical Events, Structural Change and Long-Term Effects Intelligence
+
+The cross-cutting [Historical Events, Structural Change and Long-Term Effects Intelligence capability](HISTORICAL-EVENTS-STRUCTURAL-CHANGE-INTELLIGENCE.md) investigates how past events and long-running processes shaped present conditions, how their consequences continue to unfold, and what they may mean for the future. It spans all relevant time horizons and domains, including overlooked local and regional developments. It serves Workstreams A–E; it is not a sixth workstream or a chronological history course. The [Historical Event and Process Registry](HISTORICAL-EVENT-AND-PROCESS-REGISTRY.md) is an open-ended discovery and navigation inventory, not a complete or pre-validated event catalogue. Causal claims, structural persistence, distributional effects and future implications require evidence and explicit uncertainty. No event investigations or automated system are implied by establishing this architecture.
+
 ## Experimental tool roles
 - ChatGPT: explore questions, challenge explanations, draft and review research.
 - VS Code: edit Markdown, inspect data, and later develop reproducible analysis.
