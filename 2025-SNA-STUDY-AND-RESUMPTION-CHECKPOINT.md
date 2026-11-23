@@ -1,6 +1,6 @@
 # 2025 System of National Accounts (2025 SNA) — Study and Resumption Checkpoint
 
-**Status:** Study initiated; introductory orientation and initial economic-universe orientation completed; Chapter 4 Lessons 1–33 delivered and recorded; systematic chapter study remains in progress  
+**Status:** Study initiated; introductory orientation and initial economic-universe orientation completed; Chapter 4 Lessons 1–34 delivered and recorded; systematic chapter study remains in progress  
 **Checkpoint date:** 2026-11-22  
 **Scope:** Understanding the international national accounts standard itself before attempting country implementation or Lifeconomist application.
 
@@ -519,7 +519,7 @@ The introductory framework orientation, initial economic-universe lesson, and Ch
 
 ## 6. Exact next action
 
-Continue with **Chapter 4, Lesson 34 — Types of accounting entries**, using official White Cover §§4.128–4.129. Study how the SNA records flows with the rest of the world by treating it as a pseudo-sector, and the terminology used for revenues, expenditures, changes in assets, changes in liabilities and balance sheets. Chapter 4 remains incomplete.
+Continue with **Chapter 4, Lesson 35 — General valuation rules**, using official White Cover §§4.130–4.133. Study why the SNA uses current exchange values rather than measures of utility, what an exchange price means, how arm's-length transactions are valued, and how agreed contractual prices are treated. Chapter 4 remains incomplete.
 ## 7. Study and evidence rules
 
 - Use the official 2025 SNA as the primary source and cite chapter/paragraph or page references wherever available.
@@ -926,3 +926,20 @@ An introductory lesson was completed on 2026-11-23 using the official 2025 SNA W
 **Key lesson:** National accounts require both internal balance within each institutional unit and consistency between counterparties. Quadruple-entry bookkeeping combines these requirements so the accounts of many units can be integrated into coherent sectoral and national totals.
 
 **Study limitations:** Introductory only; no claim of mastery or exhaustive treatment. Detailed application of valuation, timing, classifications, grouping and reconciliation of inconsistent source records remains for subsequent sections and chapters. No Nigeria implementation or Lifeconomist measurement design was undertaken.
+
+
+### Stage 3 — Chapter 4, Lesson 34: Types of accounting entries
+
+An introductory lesson was completed on 2026-11-23 using the official 2025 SNA White Cover Version, Chapter 4, §§4.128–4.129.
+
+**Verified paragraph coverage:**
+- §4.128: The sequence of economic accounts uses conventions for recording flows with the rest of the world. For example, imports are a revenue of the rest of the world used in the domestic economy; payments for imports represent a drawdown of wealth for the domestic economy and revenue for the rest of the world. Treating the rest of the world as a pseudo-sector permits application of quadruple-entry accounting. External accounts show the consolidated accounts of domestic sectors relative to the rest of the world and are an exact mirror image of the corresponding rest-of-world accounts, with equal coverage, measurement and classification despite the reversal of account sides.
+- §4.129: In current transaction accounts, credit entries are termed revenues and debit entries expenditures. For transactions in assets and liabilities, including capital transfers, the terminology is changes in assets, changes in liabilities and changes in net worth. The same terminology applies to other flows affecting asset and liability levels. Balance sheets refer to assets on one side and liabilities and net worth on the other.
+
+**Teaching illustrations (not source data):**
+- A hypothetical Nigerian machinery import from a German supplier illustrated the relationship between domestic imports and the corresponding rest-of-world export/receipt entries.
+- A tractor's import, subsequent use, sale and disposal illustrated how distinct events affect different accounts and positions.
+
+**Key lesson:** The rest of the world is represented as a pseudo-sector so cross-border transactions can be integrated consistently into the accounting system. The SNA's terminology distinguishes current-account revenues and expenditures, changes in assets and liabilities, other flows, and balance-sheet positions.
+
+**Study limitations:** Introductory only; no claim of mastery or exhaustive treatment. Detailed external-account compilation and reconciliation are reserved for the relevant chapters and BPM7. No Nigeria implementation or Lifeconomist measurement design was undertaken.
