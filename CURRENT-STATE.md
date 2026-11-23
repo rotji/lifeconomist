@@ -281,3 +281,13 @@ Completed the ninth and final bullet-by-bullet audit of the 25 groups currently 
 
 
 - **2026-11-22 — 2025 SNA study:** Chapter 4, Lesson 23 documented as a reinforcement review of other flows and other changes in volume (§§4.73–4.81). White Cover paragraph numbering was rechecked and corrected in the checkpoint; this review overlaps Lesson 3 and is not counted as new coverage. Next: Lesson 24, stocks, economic benefits and ownership (§§4.84–4.93). See [2025 SNA Study and Resumption Checkpoint](2025-SNA-STUDY-AND-RESUMPTION-CHECKPOINT.md).
+
+
+## Historical Events, Structural Change and Long-Term Effects Intelligence (2026-11-23)
+
+- **New cross-cutting capability:** [Historical Events, Structural Change and Long-Term Effects Intelligence](HISTORICAL-EVENTS-STRUCTURAL-CHANGE-INTELLIGENCE.md) investigates how historical events and longer-running processes shape present conditions, how immediate, indirect, delayed, cumulative and persistent consequences spread through interconnected systems, and what may emerge in the future.
+- **Registry:** [Historical Event and Process Registry](HISTORICAL-EVENT-AND-PROCESS-REGISTRY.md) provides an open-ended discovery and navigation structure. No events have been entered as verified findings by creating the registry.
+- **Position:** Serves Workstreams A–E; not a sixth workstream or chronological history course. The architecture, README, Research Methodology, Decision Register and Research Log have been updated.
+- **Safeguards:** Causal claims require evidence for mechanisms and links; temporal order and correlation are insufficient. Structural persistence, alternative explanations, distributional effects and uncertainty must be addressed. Future implications remain conditional.
+- **Status:** Documentation architecture established; no historical case study, complete event catalogue, causal finding, software or automated system has been completed or approved.
+- **Next useful action:** Select a present-day question or historical lead with clear explanatory value and apply the method. Do not attempt to catalogue all history first.
