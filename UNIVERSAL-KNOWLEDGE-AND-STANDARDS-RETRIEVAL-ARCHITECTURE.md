@@ -13,22 +13,56 @@ The user should not have to memorize standards, manuals, chapter numbers, classi
 
 The 2025 System of National Accounts (2025 SNA) is the first documented retrieval design example. It is not the only system and does not define the architecture for every domain.
 
-## 2. Governing principle
+## 2. Governing principles
 
 **Discover before inventing; retrieve before repeating; verify before applying.**
+
+### 2.1 Universal Knowledge Openness and Evidence-Based Source Assessment
+
+Lifeconomist shall not restrict its knowledge discovery, research, measurement or intelligence capabilities to a predetermined list of institutions, frameworks, standards, publications, databases or geographic regions. The registry is an open and evolving discovery resource, not a closed canon or an approved-source whitelist.
+
+Lifeconomist may explore relevant knowledge and evidence wherever it is found, including (but not limited to):
+- International, regional, national, state and local public institutions and statistical agencies.
+- Universities, academic departments, research centres and independent research institutions.
+- Scientific journals, scholarly publications, working papers, technical reports and individual researchers.
+- Professional associations, standards bodies, specialist networks and industry organisations.
+- Private-sector research, commercial data providers, laboratories and technical service organisations.
+- Independent organisations, civil-society groups, think tanks and investigative research bodies.
+- Open-source communities, technical projects, software repositories, engineering groups and practitioner documentation.
+- Local, community-based, indigenous and practitioner knowledge, including African and other underrepresented research environments.
+- Field observations, experiments, surveys, administrative records and other primary evidence.
+- Emerging methods, experimental frameworks and new sources not yet represented in the registry.
+
+This openness does not mean that all sources are equally reliable or that every discovered resource should be used. Assess each source and resource in relation to the claim or task for which it is being considered. Relevant assessment dimensions include:
+- Provenance: who produced it, under what institutional or individual responsibility, and how it was obtained.
+- Expertise and competence relevant to the subject.
+- Evidence quality, traceability, sample or coverage, and reproducibility where applicable.
+- Transparency of definitions, methods, assumptions, funding or conflicts of interest where known.
+- Accuracy, consistency, timeliness, completeness and known data-quality limitations.
+- Scope, geographic and jurisdictional relevance, population or subject coverage, and applicability.
+- Independence, corroboration, competing findings and unresolved disagreement.
+- Version, maintenance, update history, access conditions and licensing restrictions.
+
+Authority must be judged in context. An official institution may be authoritative for its own statistics or legal instruments, while a specialist laboratory, independent researcher, local practitioner or commercial provider may hold the most relevant evidence for a different question. Institutional prestige alone is not proof; independence alone is not proof either. Record the basis for relying on a source and the limitations that remain.
+
+Distinguish clearly between primary evidence, official standards or rules, scholarly interpretation, commercial claims, practitioner experience, preliminary signals and unverified reports. Lower-confidence material may be retained as a lead or hypothesis when useful, but must not be presented as verified fact. Seek corroboration proportionate to the importance and risk of the intended use.
+
+### 2.2 Practical retrieval and application rule
 
 For each real-world question:
 1. Understand the question and the reality being investigated.
 2. Identify relevant domains, concepts, measurement objects and decisions.
-3. Search the knowledge and standards registry for established frameworks, classifications, methods, protocols, legal instruments, datasets and authoritative guidance.
-4. Retrieve relevant material from authoritative sources and existing project notes.
-5. Check scope, definitions, version, jurisdiction, applicability and limitations.
-6. Apply the guidance to the task and its evidence.
-7. Identify gaps that existing systems do not resolve.
-8. Develop new methods only where a genuine gap is established and justified.
-9. Preserve meaningful applications and lessons so the work is reusable.
+3. Search the registry and, where necessary, discover additional resources beyond its current contents.
+4. Consider established frameworks, classifications, methods, protocols, legal instruments, datasets, research, tools, field evidence and other potentially useful capabilities.
+5. Retrieve relevant material from the best available sources and existing project notes; use official or primary sources where they are the appropriate authority.
+6. Assess provenance, evidence, methodology, scope, version, jurisdiction, applicability and limitations before relying on a resource.
+7. Cross-check material claims and important findings against independent or complementary evidence where practicable.
+8. Apply suitable guidance and evidence to the task, while preserving uncertainty and disagreements.
+9. Identify gaps that existing knowledge and capabilities do not resolve.
+10. Develop new methods only where a genuine gap is established and justified.
+11. Preserve meaningful discoveries, source assessments, applications and lessons so the work is reusable.
 
-This does not mean every question must use an international standard. A resource may be unavailable, unsuitable, outdated, contested, jurisdiction-specific or too broad. Record that finding rather than forcing a fit.
+This does not mean every question must use an international standard or any formal framework. A resource may be unavailable, unsuitable, outdated, contested, jurisdiction-specific, experimental or too broad. Record that finding rather than forcing a fit. When no suitable established resource exists, Lifeconomist may use a transparent, task-appropriate method and clearly label its assumptions and validation status.
 
 ## 3. Architecture at a glance
 
@@ -149,10 +183,15 @@ A real-world investigation may require several resources at once. Lifeconomist s
 
 For example, a food-system investigation could need agricultural production statistics, environmental accounts, national accounts, health and nutrition classifications, transport evidence and legal requirements. No single one replaces the others.
 
-## 9. Authority, evidence and version governance
+## 9. Source diversity, evidence, authority and version governance
 
-- Prefer the issuing institution's official publication or maintained source.
-- Record secondary explanations as secondary sources, not as the authority itself.
+- Explore relevant sources beyond the resources and institutions already listed in the registry; the current inventory must never limit discovery.
+- Prefer official or primary sources when they are the appropriate authority for the question, such as an issuing body's current standard, a responsible agency's original dataset, legislation, original research or documented field evidence.
+- Do not assume that an official source is automatically sufficient for every question, or that an independent, local, academic or commercial source is automatically inferior. Assess fitness for purpose and document the reasoning.
+- Record secondary explanations as secondary sources, not as the originating authority or primary evidence.
+- Assess provenance, expertise, methods, definitions, evidence quality, transparency, coverage, timeliness, reproducibility where relevant, conflicts of interest where known, corroboration and limitations.
+- Distinguish verified evidence from interpretation, estimates, commercial claims, practitioner reports, preliminary signals and unverified information.
+- Use confidence labels and corroboration proportionate to the significance and risk of a claim; retain useful leads without presenting them as established facts.
 - Confirm whether a resource is adopted, recommended, experimental, superseded, under revision or jurisdiction-specific.
 - Keep publication date, version and effective date distinct.
 - Verify exact technical passages before applying paragraph-level rules.
@@ -240,6 +279,8 @@ The universal retrieval capability is ready for an initial practical test when:
 
 ## 15. Governing safeguards
 
-This architecture is a proposed design, not an implemented software system, complete global standards catalogue or claim that all domains have one universal standard. The registry is deliberately open-ended. Coverage, authority, technical quality, country adoption and operational availability must be assessed resource by resource.
+This architecture is a proposed design, not an implemented software system, complete global standards catalogue or claim that all domains have one universal standard. The registry is deliberately open-ended and is not a closed or exclusive list of approved sources. Discovery may extend to any relevant institution, discipline, geography, research community, practitioner, dataset, technical project or form of evidence.
+
+Openness must be matched by disciplined assessment. Inclusion in the registry or discovery during research does not certify credibility, accuracy, authority or suitability. Coverage, provenance, evidence quality, methodology, scope, technical quality, country adoption and operational availability must be assessed resource by resource and use by use. Preserve uncertainty, competing evidence and unresolved questions. Do not discard potentially useful sources solely because they are unfamiliar or outside established institutions, and do not accept claims solely because a source is prominent.
 
 Follow Lifeconomist's existing principles: Reality First; Evidence and Verification; Reuse Before Repetition; Capability Before Technology; Assemble Before Building; Complexity Only When Justified; and continuity without loss of knowledge.
