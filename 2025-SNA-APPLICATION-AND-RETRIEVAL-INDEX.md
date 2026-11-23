@@ -71,8 +71,8 @@ The descriptions and retrieval cues below are practical navigation summaries bas
 | 34 | Measuring well-being | Frameworks and measures for well-being beyond standard macroeconomic aggregates. | When developing broader social and household outcome indicators alongside national accounts. |
 | 35 | Measuring the sustainability of well-being | Sustainability dimensions and the capacity to sustain well-being over time. | When analysing natural, human, social or economic sustainability and intergenerational concerns. |
 | 36 | Input-output tables | Inter-industry and product relationships, including direct and indirect production linkages. | When tracing supply chains, sector dependencies, production multipliers or input requirements. |
-| 37 | From-whom-to-whom tables and related financial indicators | Counterparty detail showing which sectors provide funds to and receive funds from others. | When mapping credit networks, financial exposures, sector-to-sector funding or capital-flow relationships. |
-| 38 | Thematic and Extended Accounts | Thematic/extended accounts that add detail or broaden analysis while remaining linked to the core framework. | When building focused accounts such as unpaid household work, environment, health, education or other themes. |
+| 37 | From-whom-to-whom tables and related financial analysis | Counterparty detail showing which sectors provide funds to and receive funds from others. | When mapping credit networks, financial exposures, sector-to-sector funding or capital-flow relationships. |
+| 38 | Thematic accounts | Thematic/extended accounts that add detail or broaden analysis while remaining linked to the core framework. | When building focused accounts such as unpaid household work, environment, health, education or other themes. |
 | 39 | Informal economy | Measurement of informal economic activity and its relationship to the broader economy. | When analysing informal enterprises, workers, production, employment or economic activity not fully captured by standard administrative systems. |
 
 ## 4. Where the chapters sit in the wider framework
