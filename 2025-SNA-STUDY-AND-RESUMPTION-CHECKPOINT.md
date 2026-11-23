@@ -1,6 +1,6 @@
 # 2025 System of National Accounts (2025 SNA) — Study and Resumption Checkpoint
 
-**Status:** Study initiated; introductory orientation and initial economic-universe orientation completed; Chapter 4 Lessons 1–40 delivered and recorded; systematic chapter study remains in progress  
+**Status:** Study initiated; introductory orientation and initial economic-universe orientation completed; Chapter 4 Lessons 1–41 delivered and recorded; systematic chapter study remains in progress  
 **Checkpoint date:** 2026-11-22  
 **Scope:** Understanding the international national accounts standard itself before attempting country implementation or Lifeconomist application.
 
@@ -519,7 +519,7 @@ The introductory framework orientation, initial economic-universe lesson, and Ch
 
 ## 6. Exact next action
 
-Continue with **Chapter 4, Lesson 41 — Concessional pricing and non-commercial transactions**, using official White Cover §§4.151–4.152. Study how prices containing a grant or concession differ from market exchange prices, the SNA treatment of concessional lending in the sequence of accounts, and why transactions by government and non-profit institutions may reflect non-commercial considerations. Chapter 4 remains incomplete.
+Continue with **Chapter 4, Lesson 42 — Valuation of assets and liabilities**, using official White Cover §§4.153–4.154. Study the general current-price valuation principle for balance-sheet positions, why historical acquisition prices are not automatically current values, and how market-equivalent or other appropriate valuation methods are used where assets and liabilities are not actively traded. Chapter 4 remains incomplete.
 ## 7. Study and evidence rules
 
 - Use the official 2025 SNA as the primary source and cite chapter/paragraph or page references wherever available.
@@ -1066,3 +1066,21 @@ An introductory lesson was completed on 2026-11-23 using the official 2025 SNA W
 **Key lesson:** Transfer prices can distort the measurement of transactions and income across economies. Market-equivalent adjustments may improve the accounts when distortions are material and reliable evidence exists, but they require judgment and consistent counterpart recording. When evidence or comparability is inadequate, compilers may retain observed enterprise values while recognizing their limitations.
 
 **Study limitations:** Introductory only; no claim of mastery or exhaustive treatment. No specific multinational enterprise, tax arrangement or Nigerian transfer-pricing case was investigated. No Nigeria implementation or Lifeconomist measurement design was undertaken.
+
+
+### Stage 3 — Chapter 4, Lesson 41: Concessional pricing and non-commercial transactions
+
+An introductory lesson was completed on 2026-11-23 using the official 2025 SNA White Cover Version, Chapter 4, §§4.151–4.152.
+
+**Verified paragraph coverage:**
+- §4.151: A concessional loan is one made on terms more favourable than those available in the market. The difference between the actual terms and a market-equivalent loan may be viewed as a grant element. The 2025 SNA treatment in the sequence of economic accounts is specific: adjustments for concessional lending are made for loans provided by employers to employees. For concessional loans provided by governments, central banks and international organizations, adjusted information is encouraged as supplementary data rather than automatically splitting every such loan in the main accounts.
+- §4.152: Government units and non-profit institutions serving households may undertake transactions for non-commercial reasons. Their prices and terms may therefore differ from those prevailing in commercial markets. The paragraph also recognizes that transfers of goods and services can occur in other sectors.
+
+**Teaching illustrations (not source data):**
+- A hypothetical development loan at a rate below the commercial-equivalent rate illustrated the grant element in concessional financing.
+- A hypothetical fertilizer support programme illustrated why a subsidized price should not be confused with an ordinary commercial market quotation.
+- Food assistance and publicly provided services illustrated transactions motivated by public or social objectives rather than commercial return.
+
+**Key lesson:** The observed price or payment alone may not describe the complete economic arrangement. Analysts must identify the concession, transfer or non-commercial purpose and distinguish main-account recording from supplementary adjusted information.
+
+**Study limitations:** Introductory only; no claim of mastery or exhaustive treatment. The detailed accounting of subsidies, social transfers in kind and concessional loans is addressed in the relevant chapters. No Nigerian programme was verified or classified in this lesson; no Nigeria implementation or Lifeconomist measurement design was undertaken.
