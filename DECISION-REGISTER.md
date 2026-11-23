@@ -75,3 +75,18 @@ If a decision is reversed, preserve the original row and record the reversal sep
 **Implementation boundary:** These principles do not require a technology review before routine research or development. Work should continue naturally. A more explicit capability assessment is used only when a capability or technology decision materially affects project direction, resources, dependencies, implementation, risk, or long-term operations. Workstream E's existing End-to-End Opportunity and Capability-Leverage Principle remains the detailed application for opportunity exploration.
 
 **Revisit condition:** Practical use reveals that the principles are unclear, create unnecessary friction, fail to prevent premature building or technology accumulation, or otherwise need adjustment.
+
+
+## D-022 — 2026-11-23 — Establish Historical Events, Structural Change and Long-Term Effects Intelligence
+
+**Decision:** Establish Historical Events, Structural Change and Long-Term Effects Intelligence as a cross-cutting Lifeconomist research capability serving Workstreams A–E, supported by a dedicated architecture document and an open-ended Historical Event and Process Registry.
+
+**Purpose:** Investigate how past events and longer-running processes shaped present conditions, how immediate, indirect, delayed, cumulative and persistent consequences travel through interconnected systems, what structural changes endure, and what unresolved effects may mean for the future.
+
+**Reason:** Present conditions cannot be understood reliably by examining only current observations. Historical events and gradual transitions may shape institutions, markets, technologies, populations, environments and relationships over long periods. Their consequences may be indirect, unevenly distributed, delayed or still emerging. A reusable capability helps investigate those effects without turning Lifeconomist into a chronological history course or duplicating its workstreams.
+
+**Architecture:** The capability includes an event/process registry; consequence and aftermath records; structural change analysis; consequence transmission and interaction mapping; continuing-effects and future-implication analysis; and opportunity, risk and decision intelligence. The investigation workflow and evidence safeguards are documented in `HISTORICAL-EVENTS-STRUCTURAL-CHANGE-INTELLIGENCE.md`; the open-ended discovery inventory and record guidance are in `HISTORICAL-EVENT-AND-PROCESS-REGISTRY.md`.
+
+**Boundaries and safeguards:** This is not a sixth workstream, a closed event list, a ranking of historical importance, a verified historical database, or implemented software. It does not assume one event explains a present condition. Temporal order, correlation and historical analogy do not prove causation. Claims require mechanism-based evidence, consideration of alternative explanations, baseline conditions, distributional effects and explicit uncertainty. Structural persistence must be demonstrated; future implications remain conditional scenarios unless justified otherwise. Findings should be routed to A–E according to their actual relevance.
+
+**Revisit condition:** Practical investigations reveal material gaps, duplication, unworkable record structures, evidence-method limitations or a better way to connect historical consequence analysis with the existing architecture.
