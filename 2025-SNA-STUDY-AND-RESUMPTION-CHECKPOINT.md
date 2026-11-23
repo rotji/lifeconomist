@@ -1,6 +1,6 @@
 # 2025 System of National Accounts (2025 SNA) — Study and Resumption Checkpoint
 
-**Status:** Study initiated; introductory orientation and initial economic-universe orientation completed; Chapter 4 Lessons 1–36 delivered and recorded; systematic chapter study remains in progress  
+**Status:** Study initiated; introductory orientation and initial economic-universe orientation completed; Chapter 4 Lessons 1–37 delivered and recorded; systematic chapter study remains in progress  
 **Checkpoint date:** 2026-11-22  
 **Scope:** Understanding the international national accounts standard itself before attempting country implementation or Lifeconomist application.
 
@@ -519,7 +519,7 @@ The introductory framework orientation, initial economic-universe lesson, and Ch
 
 ## 6. Exact next action
 
-Continue with **Chapter 4, Lesson 37 — Agricultural products sold from the farm and barter transactions**, using official White Cover §§4.139–4.140. Study why farm-gate prices may differ from observed market prices, when adjustments are required, and how barter goods and associated transport costs are valued. Chapter 4 remains incomplete.
+Continue with **Chapter 4, Lesson 38 — Further valuation rules for barter, quotation prices and transfers in kind**, using official White Cover §§4.141–4.145. Study how the value of bartered new and existing goods is determined, how differing valuations by the two parties are reconciled, how non-simultaneous barter is recorded, how quotation-period contracts are valued, and how transfers in kind are valued. Chapter 4 remains incomplete.
 ## 7. Study and evidence rules
 
 - Use the official 2025 SNA as the primary source and cite chapter/paragraph or page references wherever available.
@@ -988,3 +988,21 @@ An introductory lesson was completed on 2026-11-23 using the official 2025 SNA W
 **Key lesson:** Use observed exchange prices where available and appropriate. If not, use carefully selected market equivalents or a justified cost-based method. Financial-instrument values must be separated from related fees and taxes, while non-financial asset ownership-transfer costs are treated differently.
 
 **Study limitations:** Introductory only; no claim of mastery or exhaustive treatment. The detailed valuation annex, special valuation cases and valuation of particular flows and positions remain for subsequent study. No Nigeria implementation or Lifeconomist measurement design was undertaken.
+
+
+### Stage 3 — Chapter 4, Lesson 37: Agricultural products sold from the farm and barter transactions
+
+An introductory lesson was completed on 2026-11-23 using the official 2025 SNA White Cover Version, Chapter 4, §§4.139–4.140.
+
+**Verified paragraph coverage:**
+- §4.139: Market-equivalent prices require care for agricultural products sold directly from farms. A farm-gate price may be substantially below an observable price in the nearest market because the latter includes the costs of bringing produce to market. If only a small fraction of a crop reaches the market, the observed price may also be higher than the price that would prevail if the full available crop were traded. Observed prices are suitable only when similar products are traded in sufficient numbers and under similar circumstances; otherwise adjustments are required.
+- §4.140: Barter products must be valued both when produced and when acquired for consumption or capital formation. Barter does not automatically exempt products from product taxes; subsidies are conceptually possible, although unlikely to be significant. Barter has no wholesale or retail margins. Transport costs may nevertheless matter: if the supplying unit provides transport, the barter package generally includes transport services and the recipient's purchaser price includes that cost. If the receiving unit must arrange transport, this may reduce the valuation of the goods to the recipient.
+
+**Teaching illustrations (not source data):**
+- A farm-gate sale of potatoes was contrasted with a market price that includes transport and other costs of getting produce to market.
+- A small share of a crop reaching the market illustrated why a thin or unrepresentative market price may overstate the price applicable to the full harvest.
+- A hypothetical exchange of agricultural produce for another good illustrated that barter output and acquisition must both be valued, and that transport supplied as part of the exchange package affects the recipient's purchaser price.
+
+**Key lesson:** A market quotation is not automatically an appropriate farm-gate valuation. The observed market must be sufficiently representative and comparable, with adjustments where it is not. Barter is still an economic transaction requiring consistent valuation, including attention to product taxes and transport services.
+
+**Study limitations:** Introductory only; no claim of mastery or exhaustive treatment. The detailed valuation of new versus existing goods in barter, differing party valuations, non-simultaneous barter, quotation-period contracts and transfers in kind is reserved for §§4.141–4.145. No Nigeria implementation or Lifeconomist measurement design was undertaken.
