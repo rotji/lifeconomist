@@ -1,6 +1,6 @@
 # 2025 System of National Accounts (2025 SNA) — Study and Resumption Checkpoint
 
-**Status:** Study initiated; introductory orientation and initial economic-universe orientation completed; Chapter 4 Lessons 1–39 delivered and recorded; systematic chapter study remains in progress  
+**Status:** Study initiated; introductory orientation and initial economic-universe orientation completed; Chapter 4 Lessons 1–40 delivered and recorded; systematic chapter study remains in progress  
 **Checkpoint date:** 2026-11-22  
 **Scope:** Understanding the international national accounts standard itself before attempting country implementation or Lifeconomist application.
 
@@ -519,7 +519,7 @@ The introductory framework orientation, initial economic-universe lesson, and Ch
 
 ## 6. Exact next action
 
-Continue with **Chapter 4, Lesson 40 — Transfer pricing: invoice values, market equivalents and practical limitations**, using official White Cover §§4.148–4.150. Study when invoice values indicate more than the specified transaction, why affiliated-enterprise prices may conceal income payments or capital transfers, when market-equivalent adjustments are desirable and feasible, why specialized intra-group goods and services complicate comparisons, and why compilers may sometimes retain observed exchange values. Chapter 4 remains incomplete.
+Continue with **Chapter 4, Lesson 41 — Concessional pricing and non-commercial transactions**, using official White Cover §§4.151–4.152. Study how prices containing a grant or concession differ from market exchange prices, the SNA treatment of concessional lending in the sequence of accounts, and why transactions by government and non-profit institutions may reflect non-commercial considerations. Chapter 4 remains incomplete.
 ## 7. Study and evidence rules
 
 - Use the official 2025 SNA as the primary source and cite chapter/paragraph or page references wherever available.
@@ -1046,3 +1046,23 @@ An introductory lesson was completed on 2026-11-23 using the official 2025 SNA W
 **Key lesson:** Financially leased goods are recognized and valued at acquisition using exchange prices or appropriate estimates. An observed invoice price is not automatically a market price; any adjustment requires a defensible market equivalent and consistent counterpart adjustments.
 
 **Study limitations:** Introductory only; no claim of mastery or exhaustive treatment. Detailed transfer-pricing complications, valuation of specialized intra-group transactions and practical compilation choices continue in §§4.148–4.150. No Nigeria implementation or Lifeconomist measurement design was undertaken.
+
+
+### Stage 3 — Chapter 4, Lesson 40: Transfer pricing — invoice values, market equivalents and practical limitations
+
+An introductory lesson was completed on 2026-11-23 using the official 2025 SNA White Cover Version, Chapter 4, §§4.148–4.150.
+
+**Verified paragraph coverage:**
+- §4.148: Invoice values may deviate systematically or substantially from prices paid for similar items, indicating that the sums paid cover more than the specified transactions. Transfer pricing between affiliated enterprises may be set artificially high or low to effect an unspecified income payment or capital transfer. Where the value is considerable and would hinder interpretation of the accounts, such transactions should preferably be made explicit. Replacing book values with market-value equivalents is desirable in principle when distortions are large and relevant data (for example customs or tax-authority adjustments or partner-economy information) make it feasible. Choosing suitable equivalents requires cautious, informed judgment.
+- §4.149: Goods exchanged within affiliated enterprises may be specialized and not traded between independent parties; services such as management support and technical know-how may also lack close independent-market equivalents. Comparable market values may therefore be difficult to determine. Compilers may have to accept values based on explicit production costs or other values assigned by the enterprise.
+- §4.150: Because of the complexity of making consistent adjustments and the possible lack of information about distortions, national and external accounts often refrain from approximating true market prices. Observed exchange values, even when motivated by global tax avoidance or other reasons and not based on market prices or commercial considerations, still represent an economic reality of their own.
+
+**Teaching illustrations (not source data):**
+- A hypothetical affiliated-company invoice substantially below the price of comparable independent-market transactions illustrated potential transfer pricing and an unspecified income or capital transfer.
+- A specialized component usable only within a particular production process illustrated why no reliable independent-market comparison may exist.
+- Management services and technical know-how illustrated the difficulty of finding comparable market transactions.
+- The lesson distinguished an adjustment that is desirable in principle from an adjustment that is feasible and defensible in practice.
+
+**Key lesson:** Transfer prices can distort the measurement of transactions and income across economies. Market-equivalent adjustments may improve the accounts when distortions are material and reliable evidence exists, but they require judgment and consistent counterpart recording. When evidence or comparability is inadequate, compilers may retain observed enterprise values while recognizing their limitations.
+
+**Study limitations:** Introductory only; no claim of mastery or exhaustive treatment. No specific multinational enterprise, tax arrangement or Nigerian transfer-pricing case was investigated. No Nigeria implementation or Lifeconomist measurement design was undertaken.
