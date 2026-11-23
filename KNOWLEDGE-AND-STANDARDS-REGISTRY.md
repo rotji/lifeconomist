@@ -10,7 +10,9 @@
 
 This registry is the central navigation point for knowledge resources that Lifeconomist may need during research, measurement, monitoring, footprint investigation and opportunity analysis.
 
-It is a discovery inventory. Inclusion does not mean that a resource has been fully studied, technically audited, adopted by every country, or approved for a particular application. Each candidate must be checked against its authoritative source and its specific use case.
+It is an open-ended discovery inventory, not a closed list, exclusive canon or whitelist of approved sources. Lifeconomist may discover and assess relevant resources from any geography, discipline or source environment, including public institutions, universities, independent research, professional bodies, private-sector organisations, open-source and technical communities, local practitioners, community knowledge, fieldwork and emerging research. The categories and examples in this registry are starting points, not boundaries.
+
+Inclusion does not mean that a resource has been fully studied, technically audited, adopted by every country, or approved for a particular application. Nor does discovery imply endorsement. Each candidate must be assessed for its provenance, expertise, evidence, methodology, transparency, scope, relevance, version, limitations and fitness for the intended use. See the [Universal Knowledge and Standards Retrieval Architecture](UNIVERSAL-KNOWLEDGE-AND-STANDARDS-RETRIEVAL-ARCHITECTURE.md) for the governing principle and assessment approach.
 
 ## 2. Status vocabulary
 
@@ -148,15 +150,20 @@ This list is a navigation aid, not a complete audit of every project file.
 
 ## 5. Registry governance
 
-1. Create or update a resource record only when it adds meaningful information beyond this inventory.
-2. Use the standard record template for resources selected for deeper investigation.
-3. Keep candidate status until the official source, current version, scope and intended use have been checked.
-4. Do not treat an institution's dataset as a standard or an index as a complete measurement system.
-5. Record jurisdiction, implementation and adoption separately from publication or endorsement.
-6. Link cross-domain resources rather than maintaining conflicting duplicate copies.
-7. When a resource is revised, assess which indexes, indicators, analyses and prior applications are affected.
-8. Retain superseded records for historical traceability, clearly marked as such.
-9. Expand the inventory based on real research questions and gaps, not a target number of entries.
+1. **Keep discovery open:** no institution, publication type, discipline, country, region or existing registry entry limits what Lifeconomist may investigate. Search beyond this inventory whenever a practical question or evidence gap warrants it.
+2. **Assess before relying:** evaluate provenance, relevant expertise, evidence quality, methods, transparency, coverage, timeliness, corroboration, conflicts of interest where known, scope and limitations. Record why a source is suitable for the stated use.
+3. **Distinguish source roles:** identify whether material is primary evidence, an official standard or legal instrument, scholarly interpretation, commercial claim, practitioner knowledge, preliminary signal or unverified report. Do not present these categories as interchangeable.
+4. **Use proportionate verification:** corroborate material claims where practicable and increase scrutiny in proportion to the consequences of error. A potentially useful but unverified source may be retained as a lead, clearly labelled.
+5. **Do not use prestige as a shortcut:** official status, institutional reputation, independence, commercial standing or local origin alone does not prove or disprove reliability. Assess fitness for purpose and document the basis for reliance.
+6. Create or update a resource record only when it adds meaningful information beyond this inventory.
+7. Use the standard record template for resources selected for deeper investigation.
+8. Keep candidate status until the relevant source, current version, scope and intended use have been checked. For non-institutional sources, document the appropriate provenance and verification basis rather than requiring an issuing institution that may not exist.
+9. Do not treat an institution's dataset as a standard or an index as a complete measurement system.
+10. Record jurisdiction, implementation and adoption separately from publication or endorsement.
+11. Link cross-domain resources rather than maintaining conflicting duplicate copies.
+12. When a resource is revised, assess which indexes, indicators, analyses and prior applications are affected.
+13. Retain superseded records for historical traceability, clearly marked as such.
+14. Expand the inventory based on real research questions and gaps, not a target number of entries.
 
 ## 6. Initial next actions
 
