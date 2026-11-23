@@ -1,6 +1,6 @@
 # 2025 System of National Accounts (2025 SNA) — Study and Resumption Checkpoint
 
-**Status:** Study initiated; introductory orientation and initial economic-universe orientation completed; Chapter 4 Lessons 1–45 delivered and recorded; systematic chapter study remains in progress  
+**Status:** Foundation study initiated; Chapter 4 Lessons 1–46 delivered and recorded; sequential theoretical teaching is paused by decision; remaining SNA material is to be indexed for future just-in-time retrieval and practical application  
 **Checkpoint date:** 2026-11-22  
 **Scope:** Understanding the international national accounts standard itself before attempting country implementation or Lifeconomist application.
 
@@ -1156,3 +1156,66 @@ An introductory lesson was completed on 2026-11-23 using the official 2025 SNA W
 **Key lesson:** Present-value estimates are theoretically sound but depend on assumptions about future benefits, asset life and discount rates. Compilers should first examine other available valuation evidence and, when present value is used, test how reasonable changes in assumptions affect the result.
 
 **Study limitations:** Introductory only; no claim of mastery or exhaustive treatment. No actual natural-resource valuation, discount-rate selection or Nigerian project estimate was performed. No Nigeria implementation or Lifeconomist measurement design was undertaken.
+
+
+### Stage 3 — Chapter 4, Lesson 46: Market valuation of financial assets
+
+An introductory lesson was delivered on 2026-11-23 using the official 2025 SNA White Cover Version, Chapter 4, §4.159.
+
+**Verified paragraph coverage:**
+- §4.159: Financial assets regularly traded in markets can be valued using market price quotations. If markets are closed on the balance-sheet date, use the price from the closest preceding date on which the market was open. Debt securities have both a current market value and a nominal value; the SNA recommends compiling supplementary data on nominal positions as well.
+
+**Teaching illustrations (not source data):**
+- A security purchased for ₦10 million but valued at ₦9.5 million on the balance-sheet date illustrated the distinction between historical purchase price and current market value.
+- A bond with a nominal value of ₦100,000 but a market value of ₦92,000 illustrated why nominal debt and current market value are different measures.
+
+**Key lesson:** For traded financial assets, market quotations provide the current balance-sheet value. For debt securities, nominal value remains useful supplementary information and should not be confused with current market value.
+
+**Study limitations:** Introductory only; no claim of mastery or exhaustive treatment. No Nigerian securities portfolio or financial-institution balance sheet was analysed. No Nigeria implementation or Lifeconomist measurement design was undertaken.
+
+## 5. Strategic study-mode decision — 2026-11-23
+
+The user has decided that the remaining SNA material should **not be taught sequentially in full right now**. The foundation work is valuable and must be preserved, but the user does not want to memorize or force immediate mastery of every theoretical concept before beginning practical Lifeconomist work.
+
+The study therefore changes from **sequential lesson delivery** to **foundation preservation plus just-in-time retrieval**.
+
+### What this decision means
+
+1. **Preserve, do not discard:** Lessons already delivered, paragraph references, source notes, examples, limitations and corrections remain part of the project's knowledge base.
+2. **Do not pretend future lessons are completed:** Remaining chapters and paragraphs must be indexed from the official 2025 SNA, but detailed lesson summaries should only be written after the relevant source material has actually been examined. An index is not a substitute for study.
+3. **Pause the sequential lecture at the current frontier:** Lesson 47 (§4.160) is the next uncompleted point in the Chapter 4 sequence, subject to verification against the official White Cover PDF when resumed. It is not an obligation to continue now.
+4. **Move to practical Lifeconomist work when appropriate:** When a real task raises an SNA question, retrieve the relevant chapter, paragraph, previously documented lesson and official source. Explain only the concepts needed for that task, in plain language, and deepen the explanation as required.
+5. **Return to foundations without repeating:** If a concept is needed later, use its existing lesson record and paragraph references. Revisit or deepen it rather than restarting the entire theoretical sequence.
+6. **Keep uncertainty visible:** Distinguish what the SNA explicitly says, what has been paraphrased for learning, what is an illustrative example, and what remains unverified or unresolved.
+7. **No memorization requirement:** The purpose of the record is reliable future retrieval and application, not requiring the user to memorize the standard now.
+
+### Future SNA retrieval system — agreed direction
+
+Create and maintain a dedicated **2025 SNA Application and Retrieval Index** as the navigation layer for future work. It should eventually map:
+
+- SNA chapter and paragraph reference;
+- concept, definition, account, classification or measurement issue;
+- practical situation or question that should trigger retrieval;
+- relevance to Lifeconomist workstreams and real-world use cases;
+- existing lesson/checkpoint reference, where already studied;
+- official source location and verification status;
+- whether the topic is introductory, examined in depth, unresolved or not yet studied.
+
+The index should be built from the official 2025 SNA table of contents and paragraph structure, not from guessed lesson titles. It should cover all 39 chapters progressively and be expanded as practical work reveals which provisions matter. It must not duplicate the full lesson explanations already held in this checkpoint.
+
+### How to call a lesson or SNA concept in future
+
+The user can ask in ordinary language, for example:
+
+- **"Retrieve the SNA rule for [topic]."**
+- **"Which 2025 SNA paragraphs apply to [practical problem]?"**
+- **"Use our SNA foundation to analyse [Lifeconomist task]."**
+- **"Reopen Chapter [number], paragraph [number]."**
+- **"Explain only the SNA concepts needed for this task."**
+- **"Deepen the earlier lesson on [concept] and verify it against the official source."**
+
+The assistant should search the retrieval index and existing lesson records first, then consult the exact official SNA paragraphs before applying them. It should teach only what is necessary for the task, identify any gaps, and update the index or lesson record after meaningful new learning. It must not make the user repeat material already documented.
+
+### Immediate next action
+
+Do not proceed automatically to Lesson 47. First build the SNA Application and Retrieval Index from the official 2025 SNA structure, beginning with the table of contents and chapter/paragraph navigation. Then resume practical Lifeconomist work, retrieving SNA material when a concrete question or design decision requires it.
