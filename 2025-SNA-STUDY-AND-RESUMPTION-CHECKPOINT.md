@@ -1,6 +1,6 @@
 # 2025 System of National Accounts (2025 SNA) — Study and Resumption Checkpoint
 
-**Status:** Study initiated; introductory orientation and initial economic-universe orientation completed; Chapter 4 Lessons 1–42 delivered and recorded; systematic chapter study remains in progress  
+**Status:** Study initiated; introductory orientation and initial economic-universe orientation completed; Chapter 4 Lessons 1–43 delivered and recorded; systematic chapter study remains in progress  
 **Checkpoint date:** 2026-11-22  
 **Scope:** Understanding the international national accounts standard itself before attempting country implementation or Lifeconomist application.
 
@@ -519,7 +519,7 @@ The introductory framework orientation, initial economic-universe lesson, and Ch
 
 ## 6. Exact next action
 
-Continue with **Chapter 4, Lesson 43 — Valuation of produced non-financial assets**, using official White Cover §§4.155–4.156. Study the valuation of existing produced assets at current prices, the use and limitations of second-hand market prices, and written-down replacement cost or perpetual-inventory approaches when direct market prices are unavailable. Chapter 4 remains incomplete.
+Continue with **Chapter 4, Lesson 44 — Valuation of non-produced natural resources**, using official White Cover §4.157. Study why occasional market transactions may not provide representative prices for heterogeneous natural resources, how the residual value method estimates the present value of future resource rents, and why the value of a resource may be split between the legal owner and the unit holding exploitation rights. Chapter 4 remains incomplete.
 ## 7. Study and evidence rules
 
 - Use the official 2025 SNA as the primary source and cite chapter/paragraph or page references wherever available.
@@ -1101,3 +1101,21 @@ An introductory lesson was completed on 2026-11-23 using the official 2025 SNA W
 **Key lesson:** Transaction valuation and balance-sheet valuation answer different questions. Initial recognition records an asset or liability under the applicable transaction rules; subsequent balance sheets require a value current at each reporting date.
 
 **Study limitations:** Introductory only; no claim of mastery or exhaustive treatment. Detailed methods for valuing produced assets, non-produced assets and financial assets and liabilities follow in the remaining Chapter 4 paragraphs and annex. No Nigeria implementation or Lifeconomist measurement design was undertaken.
+
+
+### Stage 3 — Chapter 4, Lesson 43: Valuation of produced non-financial assets
+
+An introductory lesson was completed on 2026-11-23 using the official 2025 SNA White Cover Version, Chapter 4, §§4.155–4.156.
+
+**Verified paragraph coverage:**
+- §4.155: Two basic approaches are distinguished for valuing produced non-financial assets: exchange prices for similar second-hand assets, and the contribution of capital services (including depreciation) to production over the asset's remaining service life. The latter is usually approximated through written-down replacement cost, adjusted for price changes. The perpetual inventory method (PIM), when properly applied, replicates the present value of future capital services derived from the asset.
+- §4.156: For assets with active second-hand markets, such as generic transport equipment and dwellings, second-hand prices may closely follow values derived from capital services because economic agents can choose between new and used assets. Many production assets, however, are specialized and traded in very thin second-hand markets. Dismantling, transport and reinstallation costs may be substantial; observed prices may therefore be close to scrap value and fail to represent the remaining capital services or value of the asset in a going concern. The traded second-hand item may not be comparable to the asset as used in production.
+
+**Teaching illustrations (not source data):**
+- A hypothetical processing machine with a current replacement cost of ₦30 million and an illustrative written-down value of ₦18 million demonstrated the replacement-cost concept; this simplified arithmetic is not an official SNA depreciation calculation.
+- A generic used truck illustrated an asset for which second-hand market prices may be informative.
+- A specialized factory machine with a low scrap price illustrated why disposal value may fail to represent its productive value in continued use.
+
+**Key lesson:** Current value of a produced asset is not necessarily its original cost or scrap price. Valuation should reflect comparable second-hand exchange prices where appropriate, or the value of remaining capital services, with PIM and written-down replacement cost providing a way to estimate the latter.
+
+**Study limitations:** Introductory only; no claim of mastery or exhaustive treatment. Detailed PIM, depreciation and capital-services methods are reserved for later chapters, particularly Chapter 17. No Nigeria implementation or Lifeconomist asset valuation model was undertaken.
