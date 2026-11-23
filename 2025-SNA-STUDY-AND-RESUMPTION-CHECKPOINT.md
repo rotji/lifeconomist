@@ -1,6 +1,6 @@
 # 2025 System of National Accounts (2025 SNA) — Study and Resumption Checkpoint
 
-**Status:** Study initiated; introductory orientation and initial economic-universe orientation completed; Chapter 4 Lessons 1–34 delivered and recorded; systematic chapter study remains in progress  
+**Status:** Study initiated; introductory orientation and initial economic-universe orientation completed; Chapter 4 Lessons 1–35 delivered and recorded; systematic chapter study remains in progress  
 **Checkpoint date:** 2026-11-22  
 **Scope:** Understanding the international national accounts standard itself before attempting country implementation or Lifeconomist application.
 
@@ -519,7 +519,7 @@ The introductory framework orientation, initial economic-universe lesson, and Ch
 
 ## 6. Exact next action
 
-Continue with **Chapter 4, Lesson 35 — General valuation rules**, using official White Cover §§4.130–4.133. Study why the SNA uses current exchange values rather than measures of utility, what an exchange price means, how arm's-length transactions are valued, and how agreed contractual prices are treated. Chapter 4 remains incomplete.
+Continue with **Chapter 4, Lesson 36 — Valuation of transactions**, using official White Cover §§4.134–4.138. Study observed market transactions, discounts and rebates, the separate valuation of financial-asset transactions and related fees, market-price equivalents when exchange prices are unobservable, and valuation by current production costs when no suitable market comparison exists. Chapter 4 remains incomplete.
 ## 7. Study and evidence rules
 
 - Use the official 2025 SNA as the primary source and cite chapter/paragraph or page references wherever available.
@@ -943,3 +943,24 @@ An introductory lesson was completed on 2026-11-23 using the official 2025 SNA W
 **Key lesson:** The rest of the world is represented as a pseudo-sector so cross-border transactions can be integrated consistently into the accounting system. The SNA's terminology distinguishes current-account revenues and expenditures, changes in assets and liabilities, other flows, and balance-sheet positions.
 
 **Study limitations:** Introductory only; no claim of mastery or exhaustive treatment. Detailed external-account compilation and reconciliation are reserved for the relevant chapters and BPM7. No Nigeria implementation or Lifeconomist measurement design was undertaken.
+
+
+### Stage 3 — Chapter 4, Lesson 35: General rules of valuation
+
+An introductory lesson was completed on 2026-11-23 using the official 2025 SNA White Cover Version, Chapter 4, §§4.130–4.133.
+
+**Verified paragraph coverage:**
+- §4.130: The integrated SNA expresses varied economic phenomena in a common accounting unit. It measures the current exchange value of flows and stocks in monetary terms; it does not attempt to measure their utility.
+- §4.131: Current exchange value, often labelled market price, is the value at which goods, services, labour or assets are exchanged, or could be exchanged, for cash (currency or transferable deposits). Exchange prices form the basis for valuation of transactions in the integrated SNA.
+- §4.132: An exchange price for a specific transaction is the amount paid by a willing buyer to a willing seller, between independent parties and on commercial considerations (at arm's length). It is specific to that exchange and should not be confused with a quoted, world-market, going or fair-market price intended to represent a general price for a class of exchanges. An exchange transaction need not occur in a perfectly competitive market; it can occur in monopolistic, monopsonistic or other market structures.
+- §4.133: Where parties agree a price in advance, that contractual price is the exchange price for the transaction, regardless of prices prevailing when the transaction takes place.
+
+**Teaching illustrations (not source data):**
+- The comparison between a highly useful household food item and a high-priced luxury item illustrated the difference between utility and exchange value.
+- A hypothetical sale of 100 bags of potatoes for ₦2 million illustrated the exchange price of a specific transaction.
+- The distinction between an actual transaction price and a general market quotation illustrated why the SNA does not treat all price observations as equivalent.
+- A forward-agreed potato supply price illustrated why the contractual price remains the exchange price even if the market price changes before delivery.
+
+**Key lesson:** The SNA's valuation objective is current exchange value, not subjective utility. Actual exchange prices are specific to transactions between independent parties on commercial terms; contractual prices agreed in advance remain the exchange prices for those transactions.
+
+**Study limitations:** Introductory only; no claim of mastery or exhaustive treatment. The distinction between observed transaction prices, market quotations, market-equivalent prices and valuation of transactions without observable prices is continued in §§4.134 onward. No Nigeria implementation or Lifeconomist measurement design was undertaken.
