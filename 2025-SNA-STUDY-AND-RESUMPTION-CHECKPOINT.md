@@ -1,6 +1,6 @@
 # 2025 System of National Accounts (2025 SNA) — Study and Resumption Checkpoint
 
-**Status:** Study initiated; introductory orientation and initial economic-universe orientation completed; Chapter 4 Lessons 1–37 delivered and recorded; systematic chapter study remains in progress  
+**Status:** Study initiated; introductory orientation and initial economic-universe orientation completed; Chapter 4 Lessons 1–38 delivered and recorded; systematic chapter study remains in progress  
 **Checkpoint date:** 2026-11-22  
 **Scope:** Understanding the international national accounts standard itself before attempting country implementation or Lifeconomist application.
 
@@ -519,7 +519,7 @@ The introductory framework orientation, initial economic-universe lesson, and Ch
 
 ## 6. Exact next action
 
-Continue with **Chapter 4, Lesson 38 — Further valuation rules for barter, quotation prices and transfers in kind**, using official White Cover §§4.141–4.145. Study how the value of bartered new and existing goods is determined, how differing valuations by the two parties are reconciled, how non-simultaneous barter is recorded, how quotation-period contracts are valued, and how transfers in kind are valued. Chapter 4 remains incomplete.
+Continue with **Chapter 4, Lesson 39 — Acquisition of goods under financial lease and transfer pricing**, using official White Cover §§4.146–4.147. Study how goods acquired under financial lease are valued at acquisition, and why observed exchange values between affiliated enterprises or in non-commercial arrangements may require market-equivalent adjustments and corresponding entries in both parties' accounts. Chapter 4 remains incomplete.
 ## 7. Study and evidence rules
 
 - Use the official 2025 SNA as the primary source and cite chapter/paragraph or page references wherever available.
@@ -1006,3 +1006,26 @@ An introductory lesson was completed on 2026-11-23 using the official 2025 SNA W
 **Key lesson:** A market quotation is not automatically an appropriate farm-gate valuation. The observed market must be sufficiently representative and comparable, with adjustments where it is not. Barter is still an economic transaction requiring consistent valuation, including attention to product taxes and transport services.
 
 **Study limitations:** Introductory only; no claim of mastery or exhaustive treatment. The detailed valuation of new versus existing goods in barter, differing party valuations, non-simultaneous barter, quotation-period contracts and transfers in kind is reserved for §§4.141–4.145. No Nigeria implementation or Lifeconomist measurement design was undertaken.
+
+
+### Stage 3 — Chapter 4, Lesson 38: Further valuation rules for barter, quotation prices and transfers in kind
+
+An introductory lesson was completed on 2026-11-23 using the official 2025 SNA White Cover Version, Chapter 4, §§4.141–4.145.
+
+**Verified paragraph coverage:**
+- §4.141: Barter may involve new or existing goods acquired by one party. The value to that acquiring party is the cost of acquisition for new goods, or the realizable value for existing goods.
+- §4.142: Barter involves at least two units and two products, and the parties may assign different values to the items exchanged. Since the integrated SNA requires one value to be recorded by both parties, a pragmatic simple average of the parties' valuations may be used after allowing for taxes and transportation costs.
+- §4.143: Barter need not be simultaneous. If one side of the exchange occurs before the other, an account receivable/payable is recorded even though neither part is settled in money.
+- §4.144: For goods contracts with a quotation period established after the goods have changed hands, estimate the exchange value at the time ownership changes. Revise the estimate when the observed exchange value becomes known. The contract price determines the exchange value even if it is not known at the time of change of ownership.
+- §4.145: Non-financial resources transferred without a quid pro quo are valued at the prices that would have been received if sold in the market. If no observable market price exists, donor and recipient valuations may differ; the suggested rule of thumb is to use the donor's assigned value as the basis for recording.
+
+**Teaching illustrations (not source data):**
+- A party acquiring a new item through barter uses its acquisition cost; an existing item is valued at its realizable value to the acquiring party.
+- If two barter parties assign different values, a single common value is needed for the integrated accounts; the paragraph gives a simple average as a pragmatic approach after relevant tax and transport adjustments.
+- If a farmer delivers produce now but receives the counter-good later, a receivable/payable is recorded in the intervening period.
+- A commodity delivered before the contract's quotation period is finalized is initially valued using an estimate at the change-of-ownership date and revised when the observed exchange value becomes known, while the contract price governs.
+- A donated non-financial resource is valued at the market price it could have fetched; where no market price is observable, the donor's valuation is the suggested basis.
+
+**Key lesson:** Barter, delayed exchanges, commodity contracts and transfers in kind are all recorded within the same exchange-value framework. Non-monetary settlement does not remove the need for consistent valuation, timing and counterpart entries.
+
+**Study limitations:** Introductory only; no claim of mastery or exhaustive treatment. The next paragraphs address acquisition of goods under financial lease and transfer pricing. No Nigeria implementation or Lifeconomist measurement design was undertaken.
