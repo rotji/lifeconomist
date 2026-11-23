@@ -1,6 +1,6 @@
 # 2025 System of National Accounts (2025 SNA) — Study and Resumption Checkpoint
 
-**Status:** Study initiated; introductory orientation and initial economic-universe orientation completed; Chapter 4 Lessons 1–38 delivered and recorded; systematic chapter study remains in progress  
+**Status:** Study initiated; introductory orientation and initial economic-universe orientation completed; Chapter 4 Lessons 1–39 delivered and recorded; systematic chapter study remains in progress  
 **Checkpoint date:** 2026-11-22  
 **Scope:** Understanding the international national accounts standard itself before attempting country implementation or Lifeconomist application.
 
@@ -519,7 +519,7 @@ The introductory framework orientation, initial economic-universe lesson, and Ch
 
 ## 6. Exact next action
 
-Continue with **Chapter 4, Lesson 39 — Acquisition of goods under financial lease and transfer pricing**, using official White Cover §§4.146–4.147. Study how goods acquired under financial lease are valued at acquisition, and why observed exchange values between affiliated enterprises or in non-commercial arrangements may require market-equivalent adjustments and corresponding entries in both parties' accounts. Chapter 4 remains incomplete.
+Continue with **Chapter 4, Lesson 40 — Transfer pricing: invoice values, market equivalents and practical limitations**, using official White Cover §§4.148–4.150. Study when invoice values indicate more than the specified transaction, why affiliated-enterprise prices may conceal income payments or capital transfers, when market-equivalent adjustments are desirable and feasible, why specialized intra-group goods and services complicate comparisons, and why compilers may sometimes retain observed exchange values. Chapter 4 remains incomplete.
 ## 7. Study and evidence rules
 
 - Use the official 2025 SNA as the primary source and cite chapter/paragraph or page references wherever available.
@@ -1029,3 +1029,20 @@ An introductory lesson was completed on 2026-11-23 using the official 2025 SNA W
 **Key lesson:** Barter, delayed exchanges, commodity contracts and transfers in kind are all recorded within the same exchange-value framework. Non-monetary settlement does not remove the need for consistent valuation, timing and counterpart entries.
 
 **Study limitations:** Introductory only; no claim of mastery or exhaustive treatment. The next paragraphs address acquisition of goods under financial lease and transfer pricing. No Nigeria implementation or Lifeconomist measurement design was undertaken.
+
+
+### Stage 3 — Chapter 4, Lesson 39: Financial leases and transfer pricing
+
+An introductory lesson was completed on 2026-11-23 using the official 2025 SNA White Cover Version, Chapter 4, §§4.146–4.147.
+
+**Verified paragraph coverage:**
+- §4.146: Goods acquired under financial lease are valued at exchange prices at the time of acquisition when available. If no price is determined, estimated written-down current acquisition values of fixed assets or the present value of expected future economic benefits may be needed.
+- §4.147: Observed exchange values may not represent market prices in cases such as transfer prices between affiliated enterprises, manipulative agreements with third parties and certain non-commercial transactions, including policy-driven concessional interest. Under- or over-invoiced prices may require assessment of a market-equivalent price. Such adjustments may not be practical in many cases. If made, corresponding adjustments in other accounts and in both parties' records are required; cross-border coordination can make this difficult.
+
+**Teaching illustrations (not source data):**
+- A hypothetical Nigerian business acquiring machinery under a financial lease illustrated why the asset is valued at acquisition rather than treating each instalment as a separate purchase of the machine.
+- A hypothetical transaction between affiliated companies, with an invoiced value below a comparable independent-market price, illustrated possible transfer-pricing distortion and the need for evidence before adjustment.
+
+**Key lesson:** Financially leased goods are recognized and valued at acquisition using exchange prices or appropriate estimates. An observed invoice price is not automatically a market price; any adjustment requires a defensible market equivalent and consistent counterpart adjustments.
+
+**Study limitations:** Introductory only; no claim of mastery or exhaustive treatment. Detailed transfer-pricing complications, valuation of specialized intra-group transactions and practical compilation choices continue in §§4.148–4.150. No Nigeria implementation or Lifeconomist measurement design was undertaken.
