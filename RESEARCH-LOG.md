@@ -970,3 +970,14 @@
 - **Correction:** The live lesson's paragraph references did not consistently match the official White Cover. The checkpoint records the verified paragraph sequence. Lesson 23 overlaps Lesson 3 and is a reinforcement review, not new coverage.
 - **Key lesson:** Distinguish transactions, other changes in volume and revaluations as different explanations for changes in asset/liability positions.
 - **Next action:** Chapter 4, Lesson 24 — stocks, economic benefits and ownership, §§4.84–4.93.
+
+
+## 2026-11-23 — Establish Historical Events, Structural Change and Long-Term Effects Intelligence
+
+- **Purpose:** Preserve a cross-cutting capability for investigating how past events and long-running processes shape present conditions, how their consequences continue to unfold, and what they may mean for the future.
+- **Architecture:** Created [Historical Events, Structural Change and Long-Term Effects Intelligence](HISTORICAL-EVENTS-STRUCTURAL-CHANGE-INTELLIGENCE.md), covering event and process scope, consequence/aftermath records, structural change, transmission and interaction mapping, emerging effects, future scenarios, opportunity/risk implications, investigation workflow, source discovery and causal safeguards.
+- **Registry:** Created [Historical Event and Process Registry](HISTORICAL-EVENT-AND-PROCESS-REGISTRY.md) as an open-ended discovery inventory with suggested record fields, evidence statuses and detailed investigation outline. No event was pre-populated as a verified finding.
+- **Position:** Cross-cutting capability serving Workstreams A–E; not a sixth workstream or chronological history course. Linked it from the project README and Research Methodology.
+- **Evidence safeguards:** Temporal order and correlation do not establish causation; distinguish direct observations, inferences, hypotheses and scenarios; investigate baseline conditions, alternative explanations, distributional effects and evidence of persistence before claiming structural change.
+- **Status:** Architecture and governance documentation established. No historical case study, event catalogue, causal finding, automated system or software implementation was completed or approved by this change.
+- **Next useful action:** When resuming, select a present-day question or historical lead with clear explanatory value and investigate it using the documented method. Do not start by trying to catalogue all history or create an obligatory chronological sequence.
