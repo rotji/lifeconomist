@@ -1,6 +1,6 @@
 # 2025 System of National Accounts (2025 SNA) — Study and Resumption Checkpoint
 
-**Status:** Study initiated; introductory orientation and initial economic-universe orientation completed; Chapter 4 Lessons 1–41 delivered and recorded; systematic chapter study remains in progress  
+**Status:** Study initiated; introductory orientation and initial economic-universe orientation completed; Chapter 4 Lessons 1–42 delivered and recorded; systematic chapter study remains in progress  
 **Checkpoint date:** 2026-11-22  
 **Scope:** Understanding the international national accounts standard itself before attempting country implementation or Lifeconomist application.
 
@@ -519,7 +519,7 @@ The introductory framework orientation, initial economic-universe lesson, and Ch
 
 ## 6. Exact next action
 
-Continue with **Chapter 4, Lesson 42 — Valuation of assets and liabilities**, using official White Cover §§4.153–4.154. Study the general current-price valuation principle for balance-sheet positions, why historical acquisition prices are not automatically current values, and how market-equivalent or other appropriate valuation methods are used where assets and liabilities are not actively traded. Chapter 4 remains incomplete.
+Continue with **Chapter 4, Lesson 43 — Valuation of produced non-financial assets**, using official White Cover §§4.155–4.156. Study the valuation of existing produced assets at current prices, the use and limitations of second-hand market prices, and written-down replacement cost or perpetual-inventory approaches when direct market prices are unavailable. Chapter 4 remains incomplete.
 ## 7. Study and evidence rules
 
 - Use the official 2025 SNA as the primary source and cite chapter/paragraph or page references wherever available.
@@ -1084,3 +1084,20 @@ An introductory lesson was completed on 2026-11-23 using the official 2025 SNA W
 **Key lesson:** The observed price or payment alone may not describe the complete economic arrangement. Analysts must identify the concession, transfer or non-commercial purpose and distinguish main-account recording from supplementary adjusted information.
 
 **Study limitations:** Introductory only; no claim of mastery or exhaustive treatment. The detailed accounting of subsidies, social transfers in kind and concessional loans is addressed in the relevant chapters. No Nigerian programme was verified or classified in this lesson; no Nigeria implementation or Lifeconomist measurement design was undertaken.
+
+
+### Stage 3 — Chapter 4, Lesson 42: Valuation of assets and liabilities
+
+An introductory lesson was completed on 2026-11-23 using the official 2025 SNA White Cover Version, Chapter 4, §§4.153–4.154.
+
+**Verified paragraph coverage:**
+- §4.153: Assets and liabilities on a balance sheet are valued at the prices current on the date to which the balance sheet relates. For assets and liabilities traded in markets, current prices for the specific items are the preferred basis. Historical transaction prices are not automatically appropriate for a later balance-sheet date.
+- §4.154: The valuation of an asset or liability at initial recognition follows the relevant transaction valuation rules. At subsequent balance-sheet dates, it is revalued using prices current at that date. Current prices may not be directly observable for every asset or liability, so alternative valuation methods are required and are developed in the following paragraphs.
+
+**Teaching illustrations (not source data):**
+- A delivery truck purchased for ₦15 million several years earlier but estimated to be worth ₦9 million at the current balance-sheet date illustrated the difference between historical acquisition cost and current value.
+- A business holding land, buildings, vehicles, machinery and deposits illustrated why a current balance sheet cannot simply add historical purchase prices.
+
+**Key lesson:** Transaction valuation and balance-sheet valuation answer different questions. Initial recognition records an asset or liability under the applicable transaction rules; subsequent balance sheets require a value current at each reporting date.
+
+**Study limitations:** Introductory only; no claim of mastery or exhaustive treatment. Detailed methods for valuing produced assets, non-produced assets and financial assets and liabilities follow in the remaining Chapter 4 paragraphs and annex. No Nigeria implementation or Lifeconomist measurement design was undertaken.
