@@ -98,6 +98,17 @@ E is an application and decision-support workstream, not a promise that research
 
 **Evidence discipline:** An economic trend is not automatically a profitable trade or business. A price movement does not itself prove mispricing; an announcement or footprint does not establish commercial success; and customer interest does not prove willingness to pay. Consider legal, ethical, privacy, regulatory, and operational constraints. Evaluate downside alongside potential benefit, never imply guaranteed returns, and record failures as well as successes. No specific trade, investment, business, or product is approved merely by establishing E.
 
+
+### Historical Events, Structural Change and Long-Term Effects Intelligence
+
+Lifeconomist maintains a cross-cutting capability to investigate how historical events and longer-running processes shape present conditions and future possibilities. It examines immediate, indirect, delayed, cumulative and persistent consequences; structural changes; transmission across connected systems; distributional effects; unresolved aftermath; and conditional future implications. It serves Workstreams A–E and is not a sixth workstream, a chronological history course, or a claim that all history has been catalogued. Its architecture and open-ended registry are documented in `HISTORICAL-EVENTS-STRUCTURAL-CHANGE-INTELLIGENCE.md` and `HISTORICAL-EVENT-AND-PROCESS-REGISTRY.md`.
+
+Investigations may concern discrete events or gradual structural processes across any relevant time horizon, geography or domain. They may begin with a current question or historical lead and move iteratively among conceptual explanation (A), measurement (B), monitoring (C), footprint investigation (D) and opportunity assessment (E). Reuse existing records and retrieve relevant knowledge through the universal retrieval architecture; do not duplicate research or force every finding into economic or commercial interpretation.
+
+Temporal sequence, correlation, plausible pathways or historical analogy do not establish causation. For material consequence claims, describe mechanisms, test links against evidence, consider baseline conditions and alternative explanations, distinguish observed effects from inference and scenarios, and preserve disagreement, uncertainty and counterfactual limits. Assess whether a change persisted before describing it as structural. Treat future implications as conditional scenarios unless stronger predictive evidence exists.
+
+This capability is a research method and documentation architecture. It does not by itself approve a historical ranking, event catalogue, new indicator, software system, dashboard or automated scoring method.
+
 ## The Reality-First Principle
 
 Every economic, financial, or system concept must remain connected to observable reality and ordinary human life. Technical terminology, formulas, theories, statistics, financial models, and abstract frameworks describe real-world activities and relationships; they must not replace them. The aim is to understand what a concept represents, why it exists, how it works, what mechanisms drive it, how it connects to a wider system, how it can be measured, and what conclusions the evidence justifies—not merely to memorize definitions or vocabulary.
