@@ -1219,3 +1219,17 @@ The assistant should search the retrieval index and existing lesson records firs
 ### Immediate next action
 
 Do not proceed automatically to Lesson 47. First build the SNA Application and Retrieval Index from the official 2025 SNA structure, beginning with the table of contents and chapter/paragraph navigation. Then resume practical Lifeconomist work, retrieving SNA material when a concrete question or design decision requires it.
+
+
+## 6. SNA retrieval index and future contextual assistant
+
+On 2026-11-23, an initial 39-chapter navigation index and a separate feature specification were created:
+
+- [2025 SNA Application and Retrieval Index](./2025-SNA-APPLICATION-AND-RETRIEVAL-INDEX.md) — chapter-level map, practical retrieval cues, status vocabulary and maintenance rules.
+- [Lifeconomist Contextual SNA Retrieval Assistant specification](./SNA-CONTEXTUAL-RETRIEVAL-SYSTEM.md) — proposed interface and behaviour for making relevant SNA knowledge appear when needed.
+
+The chapter titles were aligned with the official UNSD 2025 SNA summary table of contents and chapter listing. The short chapter descriptions and practical retrieval cues are navigation summaries, not official SNA definitions. Exact paragraph mappings must be verified against the White Cover source before technical application.
+
+The feature specification is a design, not an implemented application. The user should not need to memorize any commands, chapter numbers or retrieval methodology. The intended experience is a persistent natural-language **SNA Help / Find SNA guidance** control plus small, non-blocking contextual suggestions when a task appears to involve relevant SNA concepts. The system should explain why it suggests a reference, retrieve the existing lesson and official source, and allow the user to dismiss it and continue working.
+
+**Governance:** Preserve the existing foundation. Do not require completion of all 39 chapters before practical work. Retrieve and explain only the material needed for a real task; update the index and lesson archive without duplication.
