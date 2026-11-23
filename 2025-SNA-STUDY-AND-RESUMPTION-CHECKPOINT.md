@@ -1,6 +1,6 @@
 # 2025 System of National Accounts (2025 SNA) — Study and Resumption Checkpoint
 
-**Status:** Study initiated; introductory orientation and initial economic-universe orientation completed; Chapter 4 Lessons 1–35 delivered and recorded; systematic chapter study remains in progress  
+**Status:** Study initiated; introductory orientation and initial economic-universe orientation completed; Chapter 4 Lessons 1–36 delivered and recorded; systematic chapter study remains in progress  
 **Checkpoint date:** 2026-11-22  
 **Scope:** Understanding the international national accounts standard itself before attempting country implementation or Lifeconomist application.
 
@@ -519,7 +519,7 @@ The introductory framework orientation, initial economic-universe lesson, and Ch
 
 ## 6. Exact next action
 
-Continue with **Chapter 4, Lesson 36 — Valuation of transactions**, using official White Cover §§4.134–4.138. Study observed market transactions, discounts and rebates, the separate valuation of financial-asset transactions and related fees, market-price equivalents when exchange prices are unobservable, and valuation by current production costs when no suitable market comparison exists. Chapter 4 remains incomplete.
+Continue with **Chapter 4, Lesson 37 — Agricultural products sold from the farm and barter transactions**, using official White Cover §§4.139–4.140. Study why farm-gate prices may differ from observed market prices, when adjustments are required, and how barter goods and associated transport costs are valued. Chapter 4 remains incomplete.
 ## 7. Study and evidence rules
 
 - Use the official 2025 SNA as the primary source and cite chapter/paragraph or page references wherever available.
@@ -964,3 +964,27 @@ An introductory lesson was completed on 2026-11-23 using the official 2025 SNA W
 **Key lesson:** The SNA's valuation objective is current exchange value, not subjective utility. Actual exchange prices are specific to transactions between independent parties on commercial terms; contractual prices agreed in advance remain the exchange prices for those transactions.
 
 **Study limitations:** Introductory only; no claim of mastery or exhaustive treatment. The distinction between observed transaction prices, market quotations, market-equivalent prices and valuation of transactions without observable prices is continued in §§4.134 onward. No Nigeria implementation or Lifeconomist measurement design was undertaken.
+
+
+### Stage 3 — Chapter 4, Lesson 36: Valuation of transactions
+
+An introductory lesson was completed on 2026-11-23 using the official 2025 SNA White Cover Version, Chapter 4, §§4.134–4.138. The lesson was initially presented at a high level; this checkpoint entry records the fuller paragraph-level rules from the official text to avoid losing important qualifications.
+
+**Verified paragraph coverage:**
+- §4.134: Observed market transactions usually represent exchange values. Dumping and discounting transactions still represent exchange prices. Prices of goods and services include appropriate taxes and subsidies. The exchange price is the amount payable by the buyer after rebates, refunds and other adjustments from the seller.
+- §4.135: Financial asset and liability transactions are recorded at acquisition or disposal prices excluding commissions, fees and taxes, whether explicit, included in the purchaser's price or deducted from the seller's proceeds. These charges are recorded separately in appropriate categories so counterparties record the same financial-instrument amount. This differs from non-financial assets, for which costs of ownership transfer are included in valuation.
+- §4.136: When exchange prices are not observable, market-price equivalents can approximate them. Prefer prices for the same or similar items traded currently in sufficient numbers and under similar circumstances. Where necessary, adjust prices of similar goods or services for quality and other differences.
+- §4.137: If no appropriate market exists for a close analogy, prices from less closely related markets may be considered. Ultimately, some goods and services can only be valued by current production cost; output valued this way should include a mark-up reflecting the net return to capital used in production.
+- §4.138: Further transaction-valuation methods are explained in the Chapter 4 annex; valuation of particular flow types is elaborated in the relevant chapters.
+
+**Teaching illustrations (not source data):**
+- A seller's rebate or refund reduces the amount payable by the buyer and therefore affects the exchange price.
+- A financial instrument purchase with a broker commission illustrates why the instrument value and the service fee are recorded separately.
+- Similar goods traded in a sufficiently active and comparable market can provide a market-price equivalent, subject to quality adjustments.
+- Non-market output may require a sum-of-costs valuation including a net return to capital.
+
+**Important clarification to the lesson delivery:** The initial explanation covered the broad market-equivalent and production-cost methods but did not adequately explain all details in §§4.134–4.135, including the treatment of taxes, subsidies, rebates, financial commissions and transfer costs. Those rules are now captured here and should be treated as part of the lesson's documented coverage.
+
+**Key lesson:** Use observed exchange prices where available and appropriate. If not, use carefully selected market equivalents or a justified cost-based method. Financial-instrument values must be separated from related fees and taxes, while non-financial asset ownership-transfer costs are treated differently.
+
+**Study limitations:** Introductory only; no claim of mastery or exhaustive treatment. The detailed valuation annex, special valuation cases and valuation of particular flows and positions remain for subsequent study. No Nigeria implementation or Lifeconomist measurement design was undertaken.
